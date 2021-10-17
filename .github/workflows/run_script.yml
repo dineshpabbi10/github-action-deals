@@ -3,7 +3,7 @@ name: Generate templates
 on:
   push:
     branches:
-      - main
+      - master
   schedule:
   - cron: "* * * * *"
 
