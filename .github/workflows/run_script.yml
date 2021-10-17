@@ -3,9 +3,6 @@ name: Get Deals for electronics
 on:
   repository_dispatch:
     types: fetch-deals
-  push:
-    branches:
-      - master
 
 jobs:
   build:
