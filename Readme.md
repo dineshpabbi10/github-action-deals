@@ -1,5 +1,10 @@
 ## Use Github actions to store new tech deals every 48 hours
 
+## GIST of what is happening
+- Fetch latest tech deals every 48 hours and store it in tabular form in deals.md file : https://github.com/dineshpabbi10/github-action-deals/blob/master/deals.md
+
+## Details of how and what is happening :
+
 #### The repository does following to automate
 - Makes use of Flask server to create an endpoint to trigger deployment using repository_dispatch event.
 - Flask  server uses POST request to trigger repository_dispatch event. LINK_REPO : https://github.com/dineshpabbi10/send_github_action
