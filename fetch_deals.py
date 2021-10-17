@@ -7,6 +7,7 @@ urls = [
     "https://forums.redflagdeals.com/hot-deals-f9/?c=9"
 ]
 
+# comment
 driver = webdriver.PhantomJS(executable_path=r'./phantomjs.exe', service_args=['--ignore-ssl-errors=true', '--ssl-protocol=tslv1.0'])
 driver.set_window_size(1920, 1080)
 
