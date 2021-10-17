@@ -1,4 +1,4 @@
-## Use Github actions to store new tech deals every 24 hours
+## Use Github actions to store new tech deals every 48 hours
 
 #### The repository does following to automate
 - Makes use of Flask server to create an endpoint to trigger deployment using repository_dispatch event.
