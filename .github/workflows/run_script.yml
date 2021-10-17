@@ -2,12 +2,10 @@ name: Get Deals for electronics
 
 on:
   repository_dispatch:
-    types: do-something
+    types: fetch-deals
   push:
     branches:
       - master
-  schedule:
-  - cron: "0 0 * * *"
 
 jobs:
   build:
