@@ -3,9 +3,9 @@
 |  0 | [Sponsored] Win Tech Packages Worth over $1000 + Instant Savings on Products!                                     |
 |  1 | [Sponsored] Shorten Your To-Do List with HP Instant Ink! Plans Starting From $1.25 a Month!                       |
 |  2 | [Sponsored] Dell Fall Sale Event: Save up to 30%, Plus Enjoy Free Shipping on Everything!                         |
-|  3 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                      |
-|  4 | Synology 4 cam license pack $243.99 (13% off)                                                                     |
-|  5 | WD_Black SN750se 1TB SSD $56.99 + SHIPPING $21.45                                                                 |
+|  3 | WD_Black SN750se 1TB SSD $56.99 + SHIPPING $21.45                                                                 |
+|  4 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                      |
+|  5 | Synology 4 cam license pack $243.99 (13% off)                                                                     |
 |  6 | Sonos Beam Gen 2 ($449)                                                                                           |
 |  7 | JBL Link Bar Voice-Activated Smart Soundbar with Android TV & Google Assistant (99,96$ or 92,96$)                 |
 |  8 | TP-Link WiFi 6 Tri-Band AX6600 Router (Archer AX90) - $258.98                                                     |
@@ -33,9 +33,9 @@
 | 30 | [Sponsored] Win Tech Packages Worth over $1000 + Instant Savings on Products!                                     |
 | 31 | [Sponsored] Shorten Your To-Do List with HP Instant Ink! Plans Starting From $1.25 a Month!                       |
 | 32 | [Sponsored] Dell Fall Sale Event: Save up to 30%, Plus Enjoy Free Shipping on Everything!                         |
-| 33 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                      |
-| 34 | Synology 4 cam license pack $243.99 (13% off)                                                                     |
-| 35 | WD_Black SN750se 1TB SSD $56.99 + SHIPPING $21.45                                                                 |
+| 33 | WD_Black SN750se 1TB SSD $56.99 + SHIPPING $21.45                                                                 |
+| 34 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                      |
+| 35 | Synology 4 cam license pack $243.99 (13% off)                                                                     |
 | 36 | Sonos Beam Gen 2 ($449)                                                                                           |
 | 37 | JBL Link Bar Voice-Activated Smart Soundbar with Android TV & Google Assistant (99,96$ or 92,96$)                 |
 | 38 | TP-Link WiFi 6 Tri-Band AX6600 Router (Archer AX90) - $258.98                                                     |
