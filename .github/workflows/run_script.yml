@@ -28,14 +28,12 @@ jobs:
         python fetch_deals.py
 
     - name: setup git config
-        run: |
-          # setup the username and email. I tend to use 'GitHub Actions Bot' with no email by default
-          git config user.name "GitHub Commit Bot"
-          git config user.email "bot@doAction.com"
+      run: |
+        git config user.name "GitHub Commit Bot"
+        git config user.email "bot@doAction.com"
 
     - name: commit
-        run: |
-          # Stage the file, commit and push
-          git add Readme.md
-          git commit -m "Updated Readme using Bot"
-          git push origin master
+      run: |
+        git add Readme.md
+        git commit -m "Updated Readme using Bot"
+        git push origin master
