@@ -6,6 +6,6 @@
 - Send GET request to FLASK server's /sendAction endpoint to trigger deployment . NOTE: Needs GITHUB TOKEN and PASSWORD in OS env (for request auth) for server to trigger action
 - Github action on triggering uses selenium to fetch tech deals in Canada and commits the deals table in deals.md file 
 
-### Running every 24 hours
-- Used Cronhub to send request to deployed flask server every 24 hours , triggering workflow.
+### Running every 48 hours
+- Used Cronhub to send request to deployed flask server every 48 hours , triggering workflow.
 - Sends request to <domain>/sendAction?password=<password set in deployment os env>
