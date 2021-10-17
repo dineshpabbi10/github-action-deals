@@ -23,7 +23,7 @@ for i in urls:
 
 deals_df = pd.DataFrame({'deals':deals})
 
-readme = open("Readme.md","w")
+readme = open("deals.md","w")
 deals_df.to_markdown(readme)
 readme.close()
 
