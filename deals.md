@@ -4,19 +4,19 @@
 |  1 | [Sponsored] Shorten Your To-Do List with HP Instant Ink! Plans Starting From $1.25 a Month!                       |
 |  2 | [Sponsored] Dell Fall Sale Event: Save up to 30%, Plus Enjoy Free Shipping on Everything!                         |
 |  3 | WD_Black SN750se 1TB SSD $56.99 + SHIPPING $21.45                                                                 |
-|  4 | TP-Link WiFi 6 Tri-Band AX6600 Router (Archer AX90) - $258.98                                                     |
-|  5 | LG SPK8-S Wireless Rear Speaker Accessory Kit for Select Soundbars $135 USD with free shipping                    |
-|  6 | JBL Link Bar Voice-Activated Smart Soundbar with Android TV & Google Assistant (99,96$ or 92,96$)                 |
-|  7 | USB C hub with HDMI, 60W PD, USB 3, USB 2, SD and MicroSD reader $24.99                                           |
-|  8 | HP Pavilion 15.6" Gaming Laptop - Shadow Black (AMD Ryzen 5 5600H/512GB SSD/8GB RAM/GTX 1650) [800$] 678$ /w Perk |
-|  9 | AmazonBasics AAA High-Capacity Rechargeable Batteries, Pre-charged, 8-Pack $9.24                                  |
-| 10 | Synology 4 cam license pack $243.99 (13% off)                                                                     |
-| 11 | HP Stream 14" Pentium Gold 7505, 4/128 GB, IPS FHD - $306 (Now $368)                                              |
-| 12 | Logitech C920S HD Pro Webcam $79.99 - $10 coupon                                                                  |
-| 13 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                      |
-| 14 | Sonos Beam Gen 2 ($449)                                                                                           |
-| 15 | Monster Boomerang Neckband Bluetooth Speaker                                                                      |
-| 16 | Lexar 633x 256GB microSDXC UHS-I Card - $24 (before tax) with PM and coupon                                       |
+|  4 | Lexar 633x 256GB microSDXC UHS-I Card - $24 (before tax) with PM and coupon                                       |
+|  5 | TP-Link WiFi 6 Tri-Band AX6600 Router (Archer AX90) - $258.98                                                     |
+|  6 | LG SPK8-S Wireless Rear Speaker Accessory Kit for Select Soundbars $135 USD with free shipping                    |
+|  7 | JBL Link Bar Voice-Activated Smart Soundbar with Android TV & Google Assistant (99,96$ or 92,96$)                 |
+|  8 | USB C hub with HDMI, 60W PD, USB 3, USB 2, SD and MicroSD reader $24.99                                           |
+|  9 | HP Pavilion 15.6" Gaming Laptop - Shadow Black (AMD Ryzen 5 5600H/512GB SSD/8GB RAM/GTX 1650) [800$] 678$ /w Perk |
+| 10 | AmazonBasics AAA High-Capacity Rechargeable Batteries, Pre-charged, 8-Pack $9.24                                  |
+| 11 | Synology 4 cam license pack $243.99 (13% off)                                                                     |
+| 12 | HP Stream 14" Pentium Gold 7505, 4/128 GB, IPS FHD - $306 (Now $368)                                              |
+| 13 | Logitech C920S HD Pro Webcam $79.99 - $10 coupon                                                                  |
+| 14 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                      |
+| 15 | Sonos Beam Gen 2 ($449)                                                                                           |
+| 16 | Monster Boomerang Neckband Bluetooth Speaker                                                                      |
 | 17 | [3 HK] Mobile Data 10GB (CA/US/AUS/NZ/UK) eSIM - $138 HKD/$22 CAD                                                 |
 | 18 | Back 4 Blood on Xbox Game Pass Ultimate (Xbox, PC, Cloud) + 2 Free DLC's                                          |
 | 19 | Voltax 200 Pocket Flashlight -- 200 Lumens - IP4 Rated - 40 meter range beam ($4)                                 |
@@ -34,19 +34,19 @@
 | 31 | [Sponsored] Shorten Your To-Do List with HP Instant Ink! Plans Starting From $1.25 a Month!                       |
 | 32 | [Sponsored] Dell Fall Sale Event: Save up to 30%, Plus Enjoy Free Shipping on Everything!                         |
 | 33 | WD_Black SN750se 1TB SSD $56.99 + SHIPPING $21.45                                                                 |
-| 34 | TP-Link WiFi 6 Tri-Band AX6600 Router (Archer AX90) - $258.98                                                     |
-| 35 | LG SPK8-S Wireless Rear Speaker Accessory Kit for Select Soundbars $135 USD with free shipping                    |
-| 36 | JBL Link Bar Voice-Activated Smart Soundbar with Android TV & Google Assistant (99,96$ or 92,96$)                 |
-| 37 | USB C hub with HDMI, 60W PD, USB 3, USB 2, SD and MicroSD reader $24.99                                           |
-| 38 | HP Pavilion 15.6" Gaming Laptop - Shadow Black (AMD Ryzen 5 5600H/512GB SSD/8GB RAM/GTX 1650) [800$] 678$ /w Perk |
-| 39 | AmazonBasics AAA High-Capacity Rechargeable Batteries, Pre-charged, 8-Pack $9.24                                  |
-| 40 | Synology 4 cam license pack $243.99 (13% off)                                                                     |
-| 41 | HP Stream 14" Pentium Gold 7505, 4/128 GB, IPS FHD - $306 (Now $368)                                              |
-| 42 | Logitech C920S HD Pro Webcam $79.99 - $10 coupon                                                                  |
-| 43 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                      |
-| 44 | Sonos Beam Gen 2 ($449)                                                                                           |
-| 45 | Monster Boomerang Neckband Bluetooth Speaker                                                                      |
-| 46 | Lexar 633x 256GB microSDXC UHS-I Card - $24 (before tax) with PM and coupon                                       |
+| 34 | Lexar 633x 256GB microSDXC UHS-I Card - $24 (before tax) with PM and coupon                                       |
+| 35 | TP-Link WiFi 6 Tri-Band AX6600 Router (Archer AX90) - $258.98                                                     |
+| 36 | LG SPK8-S Wireless Rear Speaker Accessory Kit for Select Soundbars $135 USD with free shipping                    |
+| 37 | JBL Link Bar Voice-Activated Smart Soundbar with Android TV & Google Assistant (99,96$ or 92,96$)                 |
+| 38 | USB C hub with HDMI, 60W PD, USB 3, USB 2, SD and MicroSD reader $24.99                                           |
+| 39 | HP Pavilion 15.6" Gaming Laptop - Shadow Black (AMD Ryzen 5 5600H/512GB SSD/8GB RAM/GTX 1650) [800$] 678$ /w Perk |
+| 40 | AmazonBasics AAA High-Capacity Rechargeable Batteries, Pre-charged, 8-Pack $9.24                                  |
+| 41 | Synology 4 cam license pack $243.99 (13% off)                                                                     |
+| 42 | HP Stream 14" Pentium Gold 7505, 4/128 GB, IPS FHD - $306 (Now $368)                                              |
+| 43 | Logitech C920S HD Pro Webcam $79.99 - $10 coupon                                                                  |
+| 44 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                      |
+| 45 | Sonos Beam Gen 2 ($449)                                                                                           |
+| 46 | Monster Boomerang Neckband Bluetooth Speaker                                                                      |
 | 47 | [3 HK] Mobile Data 10GB (CA/US/AUS/NZ/UK) eSIM - $138 HKD/$22 CAD                                                 |
 | 48 | Back 4 Blood on Xbox Game Pass Ultimate (Xbox, PC, Cloud) + 2 Free DLC's                                          |
 | 49 | Voltax 200 Pocket Flashlight -- 200 Lumens - IP4 Rated - 40 meter range beam ($4)                                 |
