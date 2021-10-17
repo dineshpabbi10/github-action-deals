@@ -34,6 +34,6 @@ jobs:
 
     - name: commit
       run: |
-        git add Readme.md
+        git add deals.md
         git commit -m "Updated Readme using Bot"
         git push origin master
