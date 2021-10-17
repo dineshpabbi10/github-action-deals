@@ -1,5 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
+import pandas as pd
 
 deals = []
 urls = [
@@ -20,8 +21,12 @@ def get_deals(url):
 for i in urls:
     get_deals(i)
 
-for i in deals:
-    print(i)
+deals_df = pd.DataFrame({'deals':deals})
+
+readme = open("Readme.md","w")
+deals_df.to_markdown(readme)
+readme.close()
+
 driver.quit()
 
 
