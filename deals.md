@@ -3,13 +3,13 @@
 |  0 | [Sponsored] Win Tech Packages Worth over $1000 + Instant Savings on Products!                                      |
 |  1 | [Sponsored] Shorten Your To-Do List with HP Instant Ink! Plans Starting From $1.25 a Month!                        |
 |  2 | [Sponsored] Dell Fall Sale Event: Save up to 30%, Plus Enjoy Free Shipping on Everything!                          |
-|  3 | Motorola G Play 32 GB Unlocked Smartphone, Misty Blue - unlocked                                                   |
-|  4 | 6.5” Ring Light with Tripod, Adjustable brightness & color temp $4                                                 |
-|  5 | Apple Watch Nike Series 7, 45mm, GPS, Starlight Aluminum Pure Platinum Black Gemini Sport Band $530.74             |
-|  6 | WD SN550 500GB NVMe SSD - $49.99 (PM + Coupon) + FS                                                                |
-|  7 | Free Pixel Buds A with Pixel 6/Pro purchase + up to $500 trade-in                                                  |
-|  8 | Nintendo Switch Ring Fit Adventure ($59) (YMMV)                                                                    |
-|  9 | Bitdefender Total Security Anti-virus $9.99 (1 year, 5 devices)                                                    |
+|  3 | Free Pixel Buds A with Pixel 6/Pro purchase + up to $500 trade-in                                                  |
+|  4 | Bitdefender Total Security Anti-virus $9.99 (1 year, 5 devices)                                                    |
+|  5 | Motorola G Play 32 GB Unlocked Smartphone, Misty Blue - unlocked                                                   |
+|  6 | 6.5” Ring Light with Tripod, Adjustable brightness & color temp $4                                                 |
+|  7 | Apple Watch Nike Series 7, 45mm, GPS, Starlight Aluminum Pure Platinum Black Gemini Sport Band $530.74             |
+|  8 | WD SN550 500GB NVMe SSD - $49.99 (PM + Coupon) + FS                                                                |
+|  9 | Nintendo Switch Ring Fit Adventure ($59) (YMMV)                                                                    |
 | 10 | Free Microsoft certification exam voucher (upon completion of MS Ingite 2021 Cloud Skills challenge)               |
 | 11 | 20% off desktops - All-In-One 23.8" i5-7500, 16/512 GB - $551 / Optiplex 3060 i7-8700, 32/512 GB - $633 + shipping |
 | 12 | $14 Off Coupon For Updating Communications Preference                                                              |
@@ -33,13 +33,13 @@
 | 30 | [Sponsored] Win Tech Packages Worth over $1000 + Instant Savings on Products!                                      |
 | 31 | [Sponsored] Shorten Your To-Do List with HP Instant Ink! Plans Starting From $1.25 a Month!                        |
 | 32 | [Sponsored] Dell Fall Sale Event: Save up to 30%, Plus Enjoy Free Shipping on Everything!                          |
-| 33 | Motorola G Play 32 GB Unlocked Smartphone, Misty Blue - unlocked                                                   |
-| 34 | 6.5” Ring Light with Tripod, Adjustable brightness & color temp $4                                                 |
-| 35 | Apple Watch Nike Series 7, 45mm, GPS, Starlight Aluminum Pure Platinum Black Gemini Sport Band $530.74             |
-| 36 | WD SN550 500GB NVMe SSD - $49.99 (PM + Coupon) + FS                                                                |
-| 37 | Free Pixel Buds A with Pixel 6/Pro purchase + up to $500 trade-in                                                  |
-| 38 | Nintendo Switch Ring Fit Adventure ($59) (YMMV)                                                                    |
-| 39 | Bitdefender Total Security Anti-virus $9.99 (1 year, 5 devices)                                                    |
+| 33 | Free Pixel Buds A with Pixel 6/Pro purchase + up to $500 trade-in                                                  |
+| 34 | Bitdefender Total Security Anti-virus $9.99 (1 year, 5 devices)                                                    |
+| 35 | Motorola G Play 32 GB Unlocked Smartphone, Misty Blue - unlocked                                                   |
+| 36 | 6.5” Ring Light with Tripod, Adjustable brightness & color temp $4                                                 |
+| 37 | Apple Watch Nike Series 7, 45mm, GPS, Starlight Aluminum Pure Platinum Black Gemini Sport Band $530.74             |
+| 38 | WD SN550 500GB NVMe SSD - $49.99 (PM + Coupon) + FS                                                                |
+| 39 | Nintendo Switch Ring Fit Adventure ($59) (YMMV)                                                                    |
 | 40 | Free Microsoft certification exam voucher (upon completion of MS Ingite 2021 Cloud Skills challenge)               |
 | 41 | 20% off desktops - All-In-One 23.8" i5-7500, 16/512 GB - $551 / Optiplex 3060 i7-8700, 32/512 GB - $633 + shipping |
 | 42 | $14 Off Coupon For Updating Communications Preference                                                              |
