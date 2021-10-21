@@ -5,7 +5,8 @@ import pandas as pd
 deals = []
 urls = [
     "https://forums.redflagdeals.com/hot-deals-f9/2/?c=9",
-    "https://forums.redflagdeals.com/hot-deals-f9/?c=9"
+    "https://forums.redflagdeals.com/hot-deals-f9/?c=9",
+    "https://forums.redflagdeals.com/hot-deals-f9/2/?c=9"
 ]
 
 # comment
