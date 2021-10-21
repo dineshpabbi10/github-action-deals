@@ -3,20 +3,20 @@
 |  0 | [Sponsored] Win Tech Packages Worth over $1000 + Instant Savings on Products!                                       |
 |  1 | [Sponsored] Shorten Your To-Do List with HP Instant Ink! Plans Starting From $1.25 a Month!                         |
 |  2 | [Sponsored] Dell Fall Sale Event: Save up to 30%, Plus Enjoy Free Shipping on Everything!                           |
-|  3 | Garmin Instinct Solar-Powered Rugged Outdoor Smartwatch - Graphite Black (Renewed) $350 from $550 new.              |
-|  4 | Free Pixel Buds A with Pixel 6/Pro purchase + up to $500 trade-in                                                   |
-|  5 | [3 HK] Mobile Data 10GB (CA/US/AUS/NZ/UK) eSIM - $138 HKD/$22 CAD                                                   |
-|  6 | Apple HomePod Space Grey - $350                                                                                     |
-|  7 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                        |
-|  8 | Bell Mobility 20GB $50 BYOD Plan (EPP via Perkopolis)                                                               |
-|  9 | winback promo $35/month for 6GB + unlimited talk and text with $300 device credit for new phone                     |
-| 10 | WD SN550 500GB NVMe SSD - $49.99 (PM + Coupon) + FS                                                                 |
-| 11 | $45 25gb + $300 bill credit per line [win back]                                                                     |
-| 12 | DJI Osmo Mobile 3 Handheld Smartphone Gimbal Stabilizer $54.93 (YMMV) Clearance                                     |
-| 13 | SoundPEATS Air3 Wireless Earbuds BT 5.2 $41.99                                                                      |
-| 14 | USB-C to USB 3.1A Charging/Sync Cable with Aluminum Alloy Connector 3 Feet - White - PrimeCables® - 2/Pack $9.09 FS |
-| 15 | 20% Off + €20 Off Playtronica Playtron & Touchme - Very cool devices/synthesizer to make music, interactive art...  |
-| 16 | Sonos Beam Gen 2 ($449)                                                                                             |
+|  3 | Free Pixel Buds A with Pixel 6/Pro purchase + up to $500 trade-in                                                   |
+|  4 | Sonos Beam Gen 2 ($449)                                                                                             |
+|  5 | Garmin Instinct Solar-Powered Rugged Outdoor Smartwatch - Graphite Black (Renewed) $350 from $550 new.              |
+|  6 | [3 HK] Mobile Data 10GB (CA/US/AUS/NZ/UK) eSIM - $138 HKD/$22 CAD                                                   |
+|  7 | Apple HomePod Space Grey - $350                                                                                     |
+|  8 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                        |
+|  9 | Bell Mobility 20GB $50 BYOD Plan (EPP via Perkopolis)                                                               |
+| 10 | winback promo $35/month for 6GB + unlimited talk and text with $300 device credit for new phone                     |
+| 11 | WD SN550 500GB NVMe SSD - $49.99 (PM + Coupon) + FS                                                                 |
+| 12 | $45 25gb + $300 bill credit per line [win back]                                                                     |
+| 13 | DJI Osmo Mobile 3 Handheld Smartphone Gimbal Stabilizer $54.93 (YMMV) Clearance                                     |
+| 14 | SoundPEATS Air3 Wireless Earbuds BT 5.2 $41.99                                                                      |
+| 15 | USB-C to USB 3.1A Charging/Sync Cable with Aluminum Alloy Connector 3 Feet - White - PrimeCables® - 2/Pack $9.09 FS |
+| 16 | 20% Off + €20 Off Playtronica Playtron & Touchme - Very cool devices/synthesizer to make music, interactive art...  |
 | 17 | Bitdefender Total Security Anti-virus $9.99 (1 year, 5 devices)                                                     |
 | 18 | Dragon Ball Fighter Z comes to Xbox Game Pass Ultimate (Xbox, Cloud)                                                |
 | 19 | Sony A80J 65" OLED TV for $2600 (also at Costco, Best Buy + other retailers)                                        |
@@ -33,20 +33,20 @@
 | 30 | [Sponsored] Win Tech Packages Worth over $1000 + Instant Savings on Products!                                       |
 | 31 | [Sponsored] Shorten Your To-Do List with HP Instant Ink! Plans Starting From $1.25 a Month!                         |
 | 32 | [Sponsored] Dell Fall Sale Event: Save up to 30%, Plus Enjoy Free Shipping on Everything!                           |
-| 33 | Garmin Instinct Solar-Powered Rugged Outdoor Smartwatch - Graphite Black (Renewed) $350 from $550 new.              |
-| 34 | Free Pixel Buds A with Pixel 6/Pro purchase + up to $500 trade-in                                                   |
-| 35 | [3 HK] Mobile Data 10GB (CA/US/AUS/NZ/UK) eSIM - $138 HKD/$22 CAD                                                   |
-| 36 | Apple HomePod Space Grey - $350                                                                                     |
-| 37 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                        |
-| 38 | Bell Mobility 20GB $50 BYOD Plan (EPP via Perkopolis)                                                               |
-| 39 | winback promo $35/month for 6GB + unlimited talk and text with $300 device credit for new phone                     |
-| 40 | WD SN550 500GB NVMe SSD - $49.99 (PM + Coupon) + FS                                                                 |
-| 41 | $45 25gb + $300 bill credit per line [win back]                                                                     |
-| 42 | DJI Osmo Mobile 3 Handheld Smartphone Gimbal Stabilizer $54.93 (YMMV) Clearance                                     |
-| 43 | SoundPEATS Air3 Wireless Earbuds BT 5.2 $41.99                                                                      |
-| 44 | USB-C to USB 3.1A Charging/Sync Cable with Aluminum Alloy Connector 3 Feet - White - PrimeCables® - 2/Pack $9.09 FS |
-| 45 | 20% Off + €20 Off Playtronica Playtron & Touchme - Very cool devices/synthesizer to make music, interactive art...  |
-| 46 | Sonos Beam Gen 2 ($449)                                                                                             |
+| 33 | Free Pixel Buds A with Pixel 6/Pro purchase + up to $500 trade-in                                                   |
+| 34 | Sonos Beam Gen 2 ($449)                                                                                             |
+| 35 | Garmin Instinct Solar-Powered Rugged Outdoor Smartwatch - Graphite Black (Renewed) $350 from $550 new.              |
+| 36 | [3 HK] Mobile Data 10GB (CA/US/AUS/NZ/UK) eSIM - $138 HKD/$22 CAD                                                   |
+| 37 | Apple HomePod Space Grey - $350                                                                                     |
+| 38 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                        |
+| 39 | Bell Mobility 20GB $50 BYOD Plan (EPP via Perkopolis)                                                               |
+| 40 | winback promo $35/month for 6GB + unlimited talk and text with $300 device credit for new phone                     |
+| 41 | WD SN550 500GB NVMe SSD - $49.99 (PM + Coupon) + FS                                                                 |
+| 42 | $45 25gb + $300 bill credit per line [win back]                                                                     |
+| 43 | DJI Osmo Mobile 3 Handheld Smartphone Gimbal Stabilizer $54.93 (YMMV) Clearance                                     |
+| 44 | SoundPEATS Air3 Wireless Earbuds BT 5.2 $41.99                                                                      |
+| 45 | USB-C to USB 3.1A Charging/Sync Cable with Aluminum Alloy Connector 3 Feet - White - PrimeCables® - 2/Pack $9.09 FS |
+| 46 | 20% Off + €20 Off Playtronica Playtron & Touchme - Very cool devices/synthesizer to make music, interactive art...  |
 | 47 | Bitdefender Total Security Anti-virus $9.99 (1 year, 5 devices)                                                     |
 | 48 | Dragon Ball Fighter Z comes to Xbox Game Pass Ultimate (Xbox, Cloud)                                                |
 | 49 | Sony A80J 65" OLED TV for $2600 (also at Costco, Best Buy + other retailers)                                        |
