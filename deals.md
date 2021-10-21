@@ -60,3 +60,33 @@
 | 57 | LABISTS Raspberry Pi 4 4GB Complete Starter Kit with 32GB Micro SD Card - $81 USD                                   |
 | 58 | Get 5,000 PC Optimum points WUS $50 on Apple gift cards (Oct 23-29)                                                 |
 | 59 | Acer Aspire 3/5 Laptops $265/$250, in-store YMMV                                                                    |
+| 60 | [Sponsored] Win Tech Packages Worth over $1000 + Instant Savings on Products!                                       |
+| 61 | [Sponsored] Shorten Your To-Do List with HP Instant Ink! Plans Starting From $1.25 a Month!                         |
+| 62 | [Sponsored] Dell Fall Sale Event: Save up to 30%, Plus Enjoy Free Shipping on Everything!                           |
+| 63 | SoundPEATS Air3 Wireless Earbuds BT 5.2 $41.99                                                                      |
+| 64 | Free Pixel Buds A with Pixel 6/Pro purchase + up to $500 trade-in                                                   |
+| 65 | Sonos Beam Gen 2 ($449)                                                                                             |
+| 66 | Garmin Instinct Solar-Powered Rugged Outdoor Smartwatch - Graphite Black (Renewed) $350 from $550 new.              |
+| 67 | [3 HK] Mobile Data 10GB (CA/US/AUS/NZ/UK) eSIM - $138 HKD/$22 CAD                                                   |
+| 68 | Apple HomePod Space Grey - $350                                                                                     |
+| 69 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                        |
+| 70 | Bell Mobility 20GB $50 BYOD Plan (EPP via Perkopolis)                                                               |
+| 71 | winback promo $35/month for 6GB + unlimited talk and text with $300 device credit for new phone                     |
+| 72 | WD SN550 500GB NVMe SSD - $49.99 (PM + Coupon) + FS                                                                 |
+| 73 | $45 25gb + $300 bill credit per line [win back]                                                                     |
+| 74 | DJI Osmo Mobile 3 Handheld Smartphone Gimbal Stabilizer $54.93 (YMMV) Clearance                                     |
+| 75 | USB-C to USB 3.1A Charging/Sync Cable with Aluminum Alloy Connector 3 Feet - White - PrimeCables® - 2/Pack $9.09 FS |
+| 76 | 20% Off + €20 Off Playtronica Playtron & Touchme - Very cool devices/synthesizer to make music, interactive art...  |
+| 77 | Bitdefender Total Security Anti-virus $9.99 (1 year, 5 devices)                                                     |
+| 78 | Dragon Ball Fighter Z comes to Xbox Game Pass Ultimate (Xbox, Cloud)                                                |
+| 79 | Sony A80J 65" OLED TV for $2600 (also at Costco, Best Buy + other retailers)                                        |
+| 80 | Dead - Wyze cam v3 $40.25.                                                                                          |
+| 81 | 15 Amp White Tamper Resistant GFI Receptacle with Plate $10.97                                                      |
+| 82 | Resident Evil Village $53.99 PS5/Series X                                                                           |
+| 83 | ThinkPad P14s Gen 2 AMD Ryzen 7 5850U/16GB/256GB $1,036                                                             |
+| 84 | Logitech C920S HD Pro Webcam $79.99 - $10 coupon                                                                    |
+| 85 | Samsung black or white bezel for 2020 The Frame TVs 32”-75”, $95-145                                                |
+| 86 | Voxelab Aquila 3D Printer (Ender 3 v2 "Clone") - ~$224CAD no tax                                                    |
+| 87 | LABISTS Raspberry Pi 4 4GB Complete Starter Kit with 32GB Micro SD Card - $81 USD                                   |
+| 88 | Get 5,000 PC Optimum points WUS $50 on Apple gift cards (Oct 23-29)                                                 |
+| 89 | Acer Aspire 3/5 Laptops $265/$250, in-store YMMV                                                                    |
