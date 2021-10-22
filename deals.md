@@ -3,10 +3,10 @@
 |  0 | [Sponsored] Exclusive Sale at Tbooth Wireless -- 5 Days Only!                                                           |
 |  1 | [Sponsored] Win Tech Packages Worth over $1000 + Instant Savings on Products!                                           |
 |  2 | [Sponsored] Shorten Your To-Do List with HP Instant Ink! Plans Starting From $1.25 a Month!                             |
-|  3 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)                   |
-|  4 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
-|  5 | [3 HK] Mobile Data 10GB (CA/US/AUS/NZ/UK) eSIM - $138 HKD/$22 CAD                                                       |
-|  6 | Primus Home Internet Deals - Gigabit, 500MBPS, 75MBPS and 25MBPS (6 Month Promo, 1 year Contract) Activation Fee waived |
+|  3 | Primus Home Internet Deals - Gigabit, 500MBPS, 75MBPS and 25MBPS (6 Month Promo, 1 year Contract) Activation Fee waived |
+|  4 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)                   |
+|  5 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
+|  6 | [3 HK] Mobile Data 10GB (CA/US/AUS/NZ/UK) eSIM - $138 HKD/$22 CAD                                                       |
 |  7 | 65" LG OLED CX TV clearance                                                                                             |
 |  8 | NBA 2K22 $49 (PS4, XBOX, SWITCH) $59 (PS5, Series X) Last day for the sale.                                             |
 |  9 | Acer Aspire 3/5 Laptops $265/$250, in-store YMMV                                                                        |
