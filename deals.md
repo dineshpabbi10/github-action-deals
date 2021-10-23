@@ -1,92 +1,92 @@
-|    | deals                                                                                                                   |
-|---:|:------------------------------------------------------------------------------------------------------------------------|
-|  0 | [Sponsored] Exclusive Sale at Tbooth Wireless -- 5 Days Only!                                                           |
-|  1 | [Sponsored] Win Tech Packages Worth over $1000 + Instant Savings on Products!                                           |
-|  2 | [Sponsored] Shorten Your To-Do List with HP Instant Ink! Plans Starting From $1.25 a Month!                             |
-|  3 | Primus Home Internet Deals - Gigabit, 500MBPS, 75MBPS and 25MBPS (6 Month Promo, 1 year Contract) Activation Fee waived |
-|  4 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)                   |
-|  5 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
-|  6 | [3 HK] Mobile Data 10GB (CA/US/AUS/NZ/UK) eSIM - $138 HKD/$22 CAD                                                       |
-|  7 | 65" LG OLED CX TV clearance                                                                                             |
-|  8 | NBA 2K22 $49 (PS4, XBOX, SWITCH) $59 (PS5, Series X) Last day for the sale.                                             |
-|  9 | Acer Aspire 3/5 Laptops $265/$250, in-store YMMV                                                                        |
-| 10 | LG 77” OLED C1 $3,743 YMMV                                                                                              |
-| 11 | Xbox Wireless Controller - $59.99                                                                                       |
-| 12 | NETGEAR Powerline Adapter 2000 Mbps $80 (38% off)                                                                       |
-| 13 | Free Pixel Buds A with Pixel 6/Pro purchase + up to $500 trade-in +10% Store Credit with Google One Sub                 |
-| 14 | Etymotic ER2XR In-Ear Monitors/ear buds - $93.66 (Lowest price ever) - price dropped again to $91.30!                   |
-| 15 | Bell Mobility 20GB $50 BYOD Plan (EPP via Perkopolis)                                                                   |
-| 16 | Get 5,000 PC Optimum points WUS $50 on Apple gift cards (Oct 23-29)                                                     |
-| 17 | Samsung Galaxy Tab S7 FE 64GB - 479.99                                                                                  |
-| 18 | eshop: Capcom Arcade Stadium Packs 1, 2, and 3 for $41.24 (Switch, digital)                                             |
-| 19 | Microsoft Ergonomic Desktop $66.99 and other accessories on sale                                                        |
-| 20 | ThinkBook "14p" Gen 2 - $1095 - $1499                                                                                   |
-| 21 | Dell XPS 8940 Desktop - i7-11700K/RTX 3070/32GB/1TB - $2099.99 (after coupon code)                                      |
-| 22 | Sony Bravia Core - 5/10 lifetime movies + 12/24 mths of unlimited Imax Experience (for Sony Bravia XR TV owners only)   |
-| 23 | WD Blue 1TB m.2 SATA SSD $114.99 - $5 code                                                                              |
-| 24 | Apple HomePod Space Grey - $350                                                                                         |
-| 25 | Bitdefender Total Security Anti-virus $9.99 (1 year, 5 devices)                                                         |
-| 26 | [WARM] XBOX Controller $59.99, 5 colors available                                                                       |
-| 27 | TP-Link AX5400 WiFi 6 Router (Archer AX73) - $179.97 down from $229.99 ($279 at Staples)                                |
-| 28 | Console Trade Event (Oct 4-31) + Trade in Switch/Switch Lite for Switch OLED (Oct 8-17 [Ended])                         |
-| 29 | Among the Sleep - Enhanced Edition - FREE                                                                               |
-| 30 | [Sponsored] Exclusive Sale at Tbooth Wireless -- 5 Days Only!                                                           |
-| 31 | [Sponsored] Win Tech Packages Worth over $1000 + Instant Savings on Products!                                           |
-| 32 | [Sponsored] Shorten Your To-Do List with HP Instant Ink! Plans Starting From $1.25 a Month!                             |
-| 33 | Primus Home Internet Deals - Gigabit, 500MBPS, 75MBPS and 25MBPS (6 Month Promo, 1 year Contract) Activation Fee waived |
-| 34 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)                   |
-| 35 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
-| 36 | [3 HK] Mobile Data 10GB (CA/US/AUS/NZ/UK) eSIM - $138 HKD/$22 CAD                                                       |
-| 37 | 65" LG OLED CX TV clearance                                                                                             |
-| 38 | NBA 2K22 $49 (PS4, XBOX, SWITCH) $59 (PS5, Series X) Last day for the sale.                                             |
-| 39 | Acer Aspire 3/5 Laptops $265/$250, in-store YMMV                                                                        |
-| 40 | LG 77” OLED C1 $3,743 YMMV                                                                                              |
-| 41 | Xbox Wireless Controller - $59.99                                                                                       |
-| 42 | NETGEAR Powerline Adapter 2000 Mbps $80 (38% off)                                                                       |
-| 43 | Free Pixel Buds A with Pixel 6/Pro purchase + up to $500 trade-in +10% Store Credit with Google One Sub                 |
-| 44 | Etymotic ER2XR In-Ear Monitors/ear buds - $93.66 (Lowest price ever) - price dropped again to $91.30!                   |
-| 45 | Bell Mobility 20GB $50 BYOD Plan (EPP via Perkopolis)                                                                   |
-| 46 | Get 5,000 PC Optimum points WUS $50 on Apple gift cards (Oct 23-29)                                                     |
-| 47 | Samsung Galaxy Tab S7 FE 64GB - 479.99                                                                                  |
-| 48 | eshop: Capcom Arcade Stadium Packs 1, 2, and 3 for $41.24 (Switch, digital)                                             |
-| 49 | Microsoft Ergonomic Desktop $66.99 and other accessories on sale                                                        |
-| 50 | ThinkBook "14p" Gen 2 - $1095 - $1499                                                                                   |
-| 51 | Dell XPS 8940 Desktop - i7-11700K/RTX 3070/32GB/1TB - $2099.99 (after coupon code)                                      |
-| 52 | Sony Bravia Core - 5/10 lifetime movies + 12/24 mths of unlimited Imax Experience (for Sony Bravia XR TV owners only)   |
-| 53 | WD Blue 1TB m.2 SATA SSD $114.99 - $5 code                                                                              |
-| 54 | Apple HomePod Space Grey - $350                                                                                         |
-| 55 | Bitdefender Total Security Anti-virus $9.99 (1 year, 5 devices)                                                         |
-| 56 | [WARM] XBOX Controller $59.99, 5 colors available                                                                       |
-| 57 | TP-Link AX5400 WiFi 6 Router (Archer AX73) - $179.97 down from $229.99 ($279 at Staples)                                |
-| 58 | Console Trade Event (Oct 4-31) + Trade in Switch/Switch Lite for Switch OLED (Oct 8-17 [Ended])                         |
-| 59 | Among the Sleep - Enhanced Edition - FREE                                                                               |
-| 60 | [Sponsored] Exclusive Sale at Tbooth Wireless -- 5 Days Only!                                                           |
-| 61 | [Sponsored] Win Tech Packages Worth over $1000 + Instant Savings on Products!                                           |
-| 62 | [Sponsored] Shorten Your To-Do List with HP Instant Ink! Plans Starting From $1.25 a Month!                             |
-| 63 | Primus Home Internet Deals - Gigabit, 500MBPS, 75MBPS and 25MBPS (6 Month Promo, 1 year Contract) Activation Fee waived |
-| 64 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)                   |
-| 65 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
-| 66 | [3 HK] Mobile Data 10GB (CA/US/AUS/NZ/UK) eSIM - $138 HKD/$22 CAD                                                       |
-| 67 | 65" LG OLED CX TV clearance                                                                                             |
-| 68 | NBA 2K22 $49 (PS4, XBOX, SWITCH) $59 (PS5, Series X) Last day for the sale.                                             |
-| 69 | Acer Aspire 3/5 Laptops $265/$250, in-store YMMV                                                                        |
-| 70 | LG 77” OLED C1 $3,743 YMMV                                                                                              |
-| 71 | Xbox Wireless Controller - $59.99                                                                                       |
-| 72 | NETGEAR Powerline Adapter 2000 Mbps $80 (38% off)                                                                       |
-| 73 | Free Pixel Buds A with Pixel 6/Pro purchase + up to $500 trade-in +10% Store Credit with Google One Sub                 |
-| 74 | Etymotic ER2XR In-Ear Monitors/ear buds - $93.66 (Lowest price ever) - price dropped again to $91.30!                   |
-| 75 | Bell Mobility 20GB $50 BYOD Plan (EPP via Perkopolis)                                                                   |
-| 76 | Get 5,000 PC Optimum points WUS $50 on Apple gift cards (Oct 23-29)                                                     |
-| 77 | Samsung Galaxy Tab S7 FE 64GB - 479.99                                                                                  |
-| 78 | eshop: Capcom Arcade Stadium Packs 1, 2, and 3 for $41.24 (Switch, digital)                                             |
-| 79 | Microsoft Ergonomic Desktop $66.99 and other accessories on sale                                                        |
-| 80 | ThinkBook "14p" Gen 2 - $1095 - $1499                                                                                   |
-| 81 | Dell XPS 8940 Desktop - i7-11700K/RTX 3070/32GB/1TB - $2099.99 (after coupon code)                                      |
-| 82 | Sony Bravia Core - 5/10 lifetime movies + 12/24 mths of unlimited Imax Experience (for Sony Bravia XR TV owners only)   |
-| 83 | WD Blue 1TB m.2 SATA SSD $114.99 - $5 code                                                                              |
-| 84 | Apple HomePod Space Grey - $350                                                                                         |
-| 85 | Bitdefender Total Security Anti-virus $9.99 (1 year, 5 devices)                                                         |
-| 86 | [WARM] XBOX Controller $59.99, 5 colors available                                                                       |
-| 87 | TP-Link AX5400 WiFi 6 Router (Archer AX73) - $179.97 down from $229.99 ($279 at Staples)                                |
-| 88 | Console Trade Event (Oct 4-31) + Trade in Switch/Switch Lite for Switch OLED (Oct 8-17 [Ended])                         |
-| 89 | Among the Sleep - Enhanced Edition - FREE                                                                               |
+|    | deals                                                                                                         |
+|---:|:--------------------------------------------------------------------------------------------------------------|
+|  0 | [Sponsored] Dell Top Sellers: Save up to $400 on Top Tech that Everyone Wants!                                |
+|  1 | [Sponsored] Exclusive Sale at Tbooth Wireless -- 5 Days Only!                                                 |
+|  2 | YMMV - Sonos One Gen 2 $115 ($219 Original)                                                                   |
+|  3 | WD Blue 1TB m.2 SATA SSD $114.99 - $5 code + $5 shipping                                                      |
+|  4 | Virgin Mobile: $40, 10GB, Unlimited Talk+Text, 1000 international minutes, BYOP                               |
+|  5 | Switch eShop Sale (Updated: 10/22 1:00PM)                                                                     |
+|  6 | Free Pixel Buds A with Pixel 6/Pro purchase + up to $500 trade-in +10% Store Credit with Google One Sub       |
+|  7 | PLA PLA+ 3D Printer Filament ~ $14.23 per roll, minimum 5 rolls                                               |
+|  8 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                  |
+|  9 | Various Logitech USB headsets on sale - H390 at $28.98-29.99 (also @ Best Buy)                                |
+| 10 | 6.5” Ring Light with Tripod, Adjustable brightness & color temp $4                                            |
+| 11 | New bluetooth /wifi Speaker 50$ off with code EARLYBIRD 129.99 (from 179.99)                                  |
+| 12 | Eryone ER-20 3D PRINTER $197                                                                                  |
+| 13 | Get 5,000 PC Optimum points WUS $50 on Apple gift cards (Oct 23-29)                                           |
+| 14 | Macbook Air i5 10th gen. 8GB/256GB + 3 yr applecare + $999                                                    |
+| 15 | Zhiyun Smooth X - Smartphone Gimbal - $29.99                                                                  |
+| 16 | Terrifying Toonie Titles (October 26th-31st)                                                                  |
+| 17 | 65" LG OLED CX TV clearance $1999.97                                                                          |
+| 18 | LG SPK8-S Wireless Rear Speaker Accessory Kit for Select Soundbars $135 USD with free shipping                |
+| 19 | ThinkPad X1 Carbon Gen 9 Intel (14") $1,811.60                                                                |
+| 20 | Samsung Galaxy Tab S7 FE 64GB - 479.99                                                                        |
+| 21 | SoundPEATS Air3 Wireless Earbuds BT 5.2 $41.99                                                                |
+| 22 | Diablo Prime Evil collection (Diablo 2 resurrected + Diablo 3) - $55.99 (ps4/ps5)                             |
+| 23 | $45 25gb + $300 bill credit per line [win back]                                                               |
+| 24 | DJI Mavic Mini 2 Bundle $570                                                                                  |
+| 25 | TCL 65" and 75” Class 5-Series 4K UHD QLED Dolby Vision HDR Smart Google TV $916.55 and $1298.59 respectively |
+| 26 | Dell 27 inch monitors - QHD for $243, 4K UHD for $315, QHD Gaming for $450                                    |
+| 27 | (living.ca/primecables.ca/123ink.ca) One Day free shipping 10/22 starts @ 10AM EST - Only For App Customers   |
+| 28 | New Inspiron 15 AMD, 5700U/16GB/1TB, $900 after code                                                          |
+| 29 | Logitech Performance MK825 Keyboard and Mouse $59.99                                                          |
+| 30 | [Sponsored] Dell Top Sellers: Save up to $400 on Top Tech that Everyone Wants!                                |
+| 31 | [Sponsored] Exclusive Sale at Tbooth Wireless -- 5 Days Only!                                                 |
+| 32 | YMMV - Sonos One Gen 2 $115 ($219 Original)                                                                   |
+| 33 | WD Blue 1TB m.2 SATA SSD $114.99 - $5 code + $5 shipping                                                      |
+| 34 | Virgin Mobile: $40, 10GB, Unlimited Talk+Text, 1000 international minutes, BYOP                               |
+| 35 | Switch eShop Sale (Updated: 10/22 1:00PM)                                                                     |
+| 36 | Free Pixel Buds A with Pixel 6/Pro purchase + up to $500 trade-in +10% Store Credit with Google One Sub       |
+| 37 | PLA PLA+ 3D Printer Filament ~ $14.23 per roll, minimum 5 rolls                                               |
+| 38 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                  |
+| 39 | Various Logitech USB headsets on sale - H390 at $28.98-29.99 (also @ Best Buy)                                |
+| 40 | 6.5” Ring Light with Tripod, Adjustable brightness & color temp $4                                            |
+| 41 | New bluetooth /wifi Speaker 50$ off with code EARLYBIRD 129.99 (from 179.99)                                  |
+| 42 | Eryone ER-20 3D PRINTER $197                                                                                  |
+| 43 | Get 5,000 PC Optimum points WUS $50 on Apple gift cards (Oct 23-29)                                           |
+| 44 | Macbook Air i5 10th gen. 8GB/256GB + 3 yr applecare + $999                                                    |
+| 45 | Zhiyun Smooth X - Smartphone Gimbal - $29.99                                                                  |
+| 46 | Terrifying Toonie Titles (October 26th-31st)                                                                  |
+| 47 | 65" LG OLED CX TV clearance $1999.97                                                                          |
+| 48 | LG SPK8-S Wireless Rear Speaker Accessory Kit for Select Soundbars $135 USD with free shipping                |
+| 49 | ThinkPad X1 Carbon Gen 9 Intel (14") $1,811.60                                                                |
+| 50 | Samsung Galaxy Tab S7 FE 64GB - 479.99                                                                        |
+| 51 | SoundPEATS Air3 Wireless Earbuds BT 5.2 $41.99                                                                |
+| 52 | Diablo Prime Evil collection (Diablo 2 resurrected + Diablo 3) - $55.99 (ps4/ps5)                             |
+| 53 | $45 25gb + $300 bill credit per line [win back]                                                               |
+| 54 | DJI Mavic Mini 2 Bundle $570                                                                                  |
+| 55 | TCL 65" and 75” Class 5-Series 4K UHD QLED Dolby Vision HDR Smart Google TV $916.55 and $1298.59 respectively |
+| 56 | Dell 27 inch monitors - QHD for $243, 4K UHD for $315, QHD Gaming for $450                                    |
+| 57 | (living.ca/primecables.ca/123ink.ca) One Day free shipping 10/22 starts @ 10AM EST - Only For App Customers   |
+| 58 | New Inspiron 15 AMD, 5700U/16GB/1TB, $900 after code                                                          |
+| 59 | Logitech Performance MK825 Keyboard and Mouse $59.99                                                          |
+| 60 | [Sponsored] Dell Top Sellers: Save up to $400 on Top Tech that Everyone Wants!                                |
+| 61 | [Sponsored] Exclusive Sale at Tbooth Wireless -- 5 Days Only!                                                 |
+| 62 | YMMV - Sonos One Gen 2 $115 ($219 Original)                                                                   |
+| 63 | WD Blue 1TB m.2 SATA SSD $114.99 - $5 code + $5 shipping                                                      |
+| 64 | Virgin Mobile: $40, 10GB, Unlimited Talk+Text, 1000 international minutes, BYOP                               |
+| 65 | Switch eShop Sale (Updated: 10/22 1:00PM)                                                                     |
+| 66 | Free Pixel Buds A with Pixel 6/Pro purchase + up to $500 trade-in +10% Store Credit with Google One Sub       |
+| 67 | PLA PLA+ 3D Printer Filament ~ $14.23 per roll, minimum 5 rolls                                               |
+| 68 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                  |
+| 69 | Various Logitech USB headsets on sale - H390 at $28.98-29.99 (also @ Best Buy)                                |
+| 70 | 6.5” Ring Light with Tripod, Adjustable brightness & color temp $4                                            |
+| 71 | New bluetooth /wifi Speaker 50$ off with code EARLYBIRD 129.99 (from 179.99)                                  |
+| 72 | Eryone ER-20 3D PRINTER $197                                                                                  |
+| 73 | Get 5,000 PC Optimum points WUS $50 on Apple gift cards (Oct 23-29)                                           |
+| 74 | Macbook Air i5 10th gen. 8GB/256GB + 3 yr applecare + $999                                                    |
+| 75 | Zhiyun Smooth X - Smartphone Gimbal - $29.99                                                                  |
+| 76 | Terrifying Toonie Titles (October 26th-31st)                                                                  |
+| 77 | 65" LG OLED CX TV clearance $1999.97                                                                          |
+| 78 | LG SPK8-S Wireless Rear Speaker Accessory Kit for Select Soundbars $135 USD with free shipping                |
+| 79 | ThinkPad X1 Carbon Gen 9 Intel (14") $1,811.60                                                                |
+| 80 | Samsung Galaxy Tab S7 FE 64GB - 479.99                                                                        |
+| 81 | SoundPEATS Air3 Wireless Earbuds BT 5.2 $41.99                                                                |
+| 82 | Diablo Prime Evil collection (Diablo 2 resurrected + Diablo 3) - $55.99 (ps4/ps5)                             |
+| 83 | $45 25gb + $300 bill credit per line [win back]                                                               |
+| 84 | DJI Mavic Mini 2 Bundle $570                                                                                  |
+| 85 | TCL 65" and 75” Class 5-Series 4K UHD QLED Dolby Vision HDR Smart Google TV $916.55 and $1298.59 respectively |
+| 86 | Dell 27 inch monitors - QHD for $243, 4K UHD for $315, QHD Gaming for $450                                    |
+| 87 | (living.ca/primecables.ca/123ink.ca) One Day free shipping 10/22 starts @ 10AM EST - Only For App Customers   |
+| 88 | New Inspiron 15 AMD, 5700U/16GB/1TB, $900 after code                                                          |
+| 89 | Logitech Performance MK825 Keyboard and Mouse $59.99                                                          |
