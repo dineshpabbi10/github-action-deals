@@ -1,18 +1,18 @@
 |    | deals                                                                                                   |
 |---:|:--------------------------------------------------------------------------------------------------------|
 |  0 | [Sponsored] Dell Top Sellers: Save up to $400 on Top Tech that Everyone Wants!                          |
-|  1 | Rogers WinBack - 6 gigs $35 + lease iPhone 12 mini for $12.08 / mth                                     |
-|  2 | Free Pixel Buds A with Pixel 6/Pro purchase + up to $500 trade-in +10% Store Credit with Google One Sub |
-|  3 | CDKeys.com Ghostrunner DRM-free for $1.19 (96% off)                                                     |
-|  4 | [3 HK] Mobile Data 10GB (CA/US/AUS/NZ/UK) eSIM - $138 HKD/$22 CAD                                       |
-|  5 | ASUS C204EE 11.6" Chromebook N4020, 4/32 GB, USB-C display/power delivery - $170                        |
-|  6 | 65" LG OLED CX TV clearance $1999.97                                                                    |
-|  7 | Samsung 43 In. QLED 4K TV The Frame ($898.00)                                                           |
-|  8 | WD Black 4TB 7200 RPM 256MB Cache - WD4005FZBX - $148.99                                                |
-|  9 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                            |
-| 10 | JBL Professional 305P MkII $209 (pair)                                                                  |
-| 11 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)   |
-| 12 | Refurbished M1 MacBook Airs back in stock at $1099                                                      |
+|  1 | Refurbished M1 MacBook Airs back in stock at $1099                                                      |
+|  2 | Rogers WinBack - 6 gigs $35 + lease iPhone 12 mini for $12.08 / mth                                     |
+|  3 | Free Pixel Buds A with Pixel 6/Pro purchase + up to $500 trade-in +10% Store Credit with Google One Sub |
+|  4 | CDKeys.com Ghostrunner DRM-free for $1.19 (96% off)                                                     |
+|  5 | [3 HK] Mobile Data 10GB (CA/US/AUS/NZ/UK) eSIM - $138 HKD/$22 CAD                                       |
+|  6 | ASUS C204EE 11.6" Chromebook N4020, 4/32 GB, USB-C display/power delivery - $170                        |
+|  7 | 65" LG OLED CX TV clearance $1999.97                                                                    |
+|  8 | Samsung 43 In. QLED 4K TV The Frame ($898.00)                                                           |
+|  9 | WD Black 4TB 7200 RPM 256MB Cache - WD4005FZBX - $148.99                                                |
+| 10 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                            |
+| 11 | JBL Professional 305P MkII $209 (pair)                                                                  |
+| 12 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)   |
 | 13 | WD SN550 500GB NVMe SSD - $48 (after BB price match + coupon) + FS                                      |
 | 14 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $225 B4 coupons, $3 S&H)                                |
 | 15 | Sony A80J 77 inch for 3760                                                                              |
@@ -31,18 +31,18 @@
 | 28 | Hisense 65" 4K ULED Android Smart Television 65U68G ($898)                                              |
 | 29 | $45/20gb for 2 years YMMV                                                                               |
 | 30 | [Sponsored] Dell Top Sellers: Save up to $400 on Top Tech that Everyone Wants!                          |
-| 31 | Rogers WinBack - 6 gigs $35 + lease iPhone 12 mini for $12.08 / mth                                     |
-| 32 | Free Pixel Buds A with Pixel 6/Pro purchase + up to $500 trade-in +10% Store Credit with Google One Sub |
-| 33 | CDKeys.com Ghostrunner DRM-free for $1.19 (96% off)                                                     |
-| 34 | [3 HK] Mobile Data 10GB (CA/US/AUS/NZ/UK) eSIM - $138 HKD/$22 CAD                                       |
-| 35 | ASUS C204EE 11.6" Chromebook N4020, 4/32 GB, USB-C display/power delivery - $170                        |
-| 36 | 65" LG OLED CX TV clearance $1999.97                                                                    |
-| 37 | Samsung 43 In. QLED 4K TV The Frame ($898.00)                                                           |
-| 38 | WD Black 4TB 7200 RPM 256MB Cache - WD4005FZBX - $148.99                                                |
-| 39 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                            |
-| 40 | JBL Professional 305P MkII $209 (pair)                                                                  |
-| 41 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)   |
-| 42 | Refurbished M1 MacBook Airs back in stock at $1099                                                      |
+| 31 | Refurbished M1 MacBook Airs back in stock at $1099                                                      |
+| 32 | Rogers WinBack - 6 gigs $35 + lease iPhone 12 mini for $12.08 / mth                                     |
+| 33 | Free Pixel Buds A with Pixel 6/Pro purchase + up to $500 trade-in +10% Store Credit with Google One Sub |
+| 34 | CDKeys.com Ghostrunner DRM-free for $1.19 (96% off)                                                     |
+| 35 | [3 HK] Mobile Data 10GB (CA/US/AUS/NZ/UK) eSIM - $138 HKD/$22 CAD                                       |
+| 36 | ASUS C204EE 11.6" Chromebook N4020, 4/32 GB, USB-C display/power delivery - $170                        |
+| 37 | 65" LG OLED CX TV clearance $1999.97                                                                    |
+| 38 | Samsung 43 In. QLED 4K TV The Frame ($898.00)                                                           |
+| 39 | WD Black 4TB 7200 RPM 256MB Cache - WD4005FZBX - $148.99                                                |
+| 40 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                            |
+| 41 | JBL Professional 305P MkII $209 (pair)                                                                  |
+| 42 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)   |
 | 43 | WD SN550 500GB NVMe SSD - $48 (after BB price match + coupon) + FS                                      |
 | 44 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $225 B4 coupons, $3 S&H)                                |
 | 45 | Sony A80J 77 inch for 3760                                                                              |
@@ -61,18 +61,18 @@
 | 58 | Hisense 65" 4K ULED Android Smart Television 65U68G ($898)                                              |
 | 59 | $45/20gb for 2 years YMMV                                                                               |
 | 60 | [Sponsored] Dell Top Sellers: Save up to $400 on Top Tech that Everyone Wants!                          |
-| 61 | Rogers WinBack - 6 gigs $35 + lease iPhone 12 mini for $12.08 / mth                                     |
-| 62 | Free Pixel Buds A with Pixel 6/Pro purchase + up to $500 trade-in +10% Store Credit with Google One Sub |
-| 63 | CDKeys.com Ghostrunner DRM-free for $1.19 (96% off)                                                     |
-| 64 | [3 HK] Mobile Data 10GB (CA/US/AUS/NZ/UK) eSIM - $138 HKD/$22 CAD                                       |
-| 65 | ASUS C204EE 11.6" Chromebook N4020, 4/32 GB, USB-C display/power delivery - $170                        |
-| 66 | 65" LG OLED CX TV clearance $1999.97                                                                    |
-| 67 | Samsung 43 In. QLED 4K TV The Frame ($898.00)                                                           |
-| 68 | WD Black 4TB 7200 RPM 256MB Cache - WD4005FZBX - $148.99                                                |
-| 69 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                            |
-| 70 | JBL Professional 305P MkII $209 (pair)                                                                  |
-| 71 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)   |
-| 72 | Refurbished M1 MacBook Airs back in stock at $1099                                                      |
+| 61 | Refurbished M1 MacBook Airs back in stock at $1099                                                      |
+| 62 | Rogers WinBack - 6 gigs $35 + lease iPhone 12 mini for $12.08 / mth                                     |
+| 63 | Free Pixel Buds A with Pixel 6/Pro purchase + up to $500 trade-in +10% Store Credit with Google One Sub |
+| 64 | CDKeys.com Ghostrunner DRM-free for $1.19 (96% off)                                                     |
+| 65 | [3 HK] Mobile Data 10GB (CA/US/AUS/NZ/UK) eSIM - $138 HKD/$22 CAD                                       |
+| 66 | ASUS C204EE 11.6" Chromebook N4020, 4/32 GB, USB-C display/power delivery - $170                        |
+| 67 | 65" LG OLED CX TV clearance $1999.97                                                                    |
+| 68 | Samsung 43 In. QLED 4K TV The Frame ($898.00)                                                           |
+| 69 | WD Black 4TB 7200 RPM 256MB Cache - WD4005FZBX - $148.99                                                |
+| 70 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                            |
+| 71 | JBL Professional 305P MkII $209 (pair)                                                                  |
+| 72 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)   |
 | 73 | WD SN550 500GB NVMe SSD - $48 (after BB price match + coupon) + FS                                      |
 | 74 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $225 B4 coupons, $3 S&H)                                |
 | 75 | Sony A80J 77 inch for 3760                                                                              |
