@@ -1,92 +1,92 @@
-|    | deals                                                                                                   |
-|---:|:--------------------------------------------------------------------------------------------------------|
-|  0 | [Sponsored] Dell Top Sellers: Save up to $400 on Top Tech that Everyone Wants!                          |
-|  1 | Refurbished M1 MacBook Airs back in stock at $1099                                                      |
-|  2 | Rogers WinBack - 6 gigs $35 + lease iPhone 12 mini for $12.08 / mth                                     |
-|  3 | Free Pixel Buds A with Pixel 6/Pro purchase + up to $500 trade-in +10% Store Credit with Google One Sub |
-|  4 | CDKeys.com Ghostrunner DRM-free for $1.19 (96% off)                                                     |
-|  5 | [3 HK] Mobile Data 10GB (CA/US/AUS/NZ/UK) eSIM - $138 HKD/$22 CAD                                       |
-|  6 | ASUS C204EE 11.6" Chromebook N4020, 4/32 GB, USB-C display/power delivery - $170                        |
-|  7 | 65" LG OLED CX TV clearance $1999.97                                                                    |
-|  8 | Samsung 43 In. QLED 4K TV The Frame ($898.00)                                                           |
-|  9 | WD Black 4TB 7200 RPM 256MB Cache - WD4005FZBX - $148.99                                                |
-| 10 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                            |
-| 11 | JBL Professional 305P MkII $209 (pair)                                                                  |
-| 12 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)   |
-| 13 | WD SN550 500GB NVMe SSD - $48 (after BB price match + coupon) + FS                                      |
-| 14 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $225 B4 coupons, $3 S&H)                                |
-| 15 | Sony A80J 77 inch for 3760                                                                              |
-| 16 | Free Wireless charger duo and Smart Tag (2) with purchase of Galaxy Watch 4                             |
-| 17 | Terrifying Toonie Titles (October 26th-31st)                                                            |
-| 18 | Cooler Master NR200 Small Form Factor Mini-ITX Computer Case - $76.00                                   |
-| 19 | Sony 65" X950H CLEAROUT - XBR65X950H $1799.99                                                           |
-| 20 | Nest Hub (Gen 1) $49.99                                                                                 |
-| 21 | $45 25gb + $300 bill credit per line [win back]                                                         |
-| 22 | Apple magsafe Duo Charger $154.99                                                                       |
-| 23 | [Various retailers] TP-Link EAP 225 v3 Wireless Access Point - $59.99                                   |
-| 24 | 6-Outlet Surge Bar, 2.5 ft cord, 735 Joules, $4.99 w free shipping                                      |
-| 25 | Apple AirPods Pro $249.98 ($79 off)                                                                     |
-| 26 | OnePlus Black Friday Sale Calendar                                                                      |
-| 27 | [YMMV] Virgin Mobile Winback $45/25GB + $400 devie credit (Ontario)                                     |
-| 28 | Hisense 65" 4K ULED Android Smart Television 65U68G ($898)                                              |
-| 29 | $45/20gb for 2 years YMMV                                                                               |
-| 30 | [Sponsored] Dell Top Sellers: Save up to $400 on Top Tech that Everyone Wants!                          |
-| 31 | Refurbished M1 MacBook Airs back in stock at $1099                                                      |
-| 32 | Rogers WinBack - 6 gigs $35 + lease iPhone 12 mini for $12.08 / mth                                     |
-| 33 | Free Pixel Buds A with Pixel 6/Pro purchase + up to $500 trade-in +10% Store Credit with Google One Sub |
-| 34 | CDKeys.com Ghostrunner DRM-free for $1.19 (96% off)                                                     |
-| 35 | [3 HK] Mobile Data 10GB (CA/US/AUS/NZ/UK) eSIM - $138 HKD/$22 CAD                                       |
-| 36 | ASUS C204EE 11.6" Chromebook N4020, 4/32 GB, USB-C display/power delivery - $170                        |
-| 37 | 65" LG OLED CX TV clearance $1999.97                                                                    |
-| 38 | Samsung 43 In. QLED 4K TV The Frame ($898.00)                                                           |
-| 39 | WD Black 4TB 7200 RPM 256MB Cache - WD4005FZBX - $148.99                                                |
-| 40 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                            |
-| 41 | JBL Professional 305P MkII $209 (pair)                                                                  |
-| 42 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)   |
-| 43 | WD SN550 500GB NVMe SSD - $48 (after BB price match + coupon) + FS                                      |
-| 44 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $225 B4 coupons, $3 S&H)                                |
-| 45 | Sony A80J 77 inch for 3760                                                                              |
-| 46 | Free Wireless charger duo and Smart Tag (2) with purchase of Galaxy Watch 4                             |
-| 47 | Terrifying Toonie Titles (October 26th-31st)                                                            |
-| 48 | Cooler Master NR200 Small Form Factor Mini-ITX Computer Case - $76.00                                   |
-| 49 | Sony 65" X950H CLEAROUT - XBR65X950H $1799.99                                                           |
-| 50 | Nest Hub (Gen 1) $49.99                                                                                 |
-| 51 | $45 25gb + $300 bill credit per line [win back]                                                         |
-| 52 | Apple magsafe Duo Charger $154.99                                                                       |
-| 53 | [Various retailers] TP-Link EAP 225 v3 Wireless Access Point - $59.99                                   |
-| 54 | 6-Outlet Surge Bar, 2.5 ft cord, 735 Joules, $4.99 w free shipping                                      |
-| 55 | Apple AirPods Pro $249.98 ($79 off)                                                                     |
-| 56 | OnePlus Black Friday Sale Calendar                                                                      |
-| 57 | [YMMV] Virgin Mobile Winback $45/25GB + $400 devie credit (Ontario)                                     |
-| 58 | Hisense 65" 4K ULED Android Smart Television 65U68G ($898)                                              |
-| 59 | $45/20gb for 2 years YMMV                                                                               |
-| 60 | [Sponsored] Dell Top Sellers: Save up to $400 on Top Tech that Everyone Wants!                          |
-| 61 | Refurbished M1 MacBook Airs back in stock at $1099                                                      |
-| 62 | Rogers WinBack - 6 gigs $35 + lease iPhone 12 mini for $12.08 / mth                                     |
-| 63 | Free Pixel Buds A with Pixel 6/Pro purchase + up to $500 trade-in +10% Store Credit with Google One Sub |
-| 64 | CDKeys.com Ghostrunner DRM-free for $1.19 (96% off)                                                     |
-| 65 | [3 HK] Mobile Data 10GB (CA/US/AUS/NZ/UK) eSIM - $138 HKD/$22 CAD                                       |
-| 66 | ASUS C204EE 11.6" Chromebook N4020, 4/32 GB, USB-C display/power delivery - $170                        |
-| 67 | 65" LG OLED CX TV clearance $1999.97                                                                    |
-| 68 | Samsung 43 In. QLED 4K TV The Frame ($898.00)                                                           |
-| 69 | WD Black 4TB 7200 RPM 256MB Cache - WD4005FZBX - $148.99                                                |
-| 70 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                            |
-| 71 | JBL Professional 305P MkII $209 (pair)                                                                  |
-| 72 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)   |
-| 73 | WD SN550 500GB NVMe SSD - $48 (after BB price match + coupon) + FS                                      |
-| 74 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $225 B4 coupons, $3 S&H)                                |
-| 75 | Sony A80J 77 inch for 3760                                                                              |
-| 76 | Free Wireless charger duo and Smart Tag (2) with purchase of Galaxy Watch 4                             |
-| 77 | Terrifying Toonie Titles (October 26th-31st)                                                            |
-| 78 | Cooler Master NR200 Small Form Factor Mini-ITX Computer Case - $76.00                                   |
-| 79 | Sony 65" X950H CLEAROUT - XBR65X950H $1799.99                                                           |
-| 80 | Nest Hub (Gen 1) $49.99                                                                                 |
-| 81 | $45 25gb + $300 bill credit per line [win back]                                                         |
-| 82 | Apple magsafe Duo Charger $154.99                                                                       |
-| 83 | [Various retailers] TP-Link EAP 225 v3 Wireless Access Point - $59.99                                   |
-| 84 | 6-Outlet Surge Bar, 2.5 ft cord, 735 Joules, $4.99 w free shipping                                      |
-| 85 | Apple AirPods Pro $249.98 ($79 off)                                                                     |
-| 86 | OnePlus Black Friday Sale Calendar                                                                      |
-| 87 | [YMMV] Virgin Mobile Winback $45/25GB + $400 devie credit (Ontario)                                     |
-| 88 | Hisense 65" 4K ULED Android Smart Television 65U68G ($898)                                              |
-| 89 | $45/20gb for 2 years YMMV                                                                               |
+|    | deals                                                                                                                    |
+|---:|:-------------------------------------------------------------------------------------------------------------------------|
+|  0 | [Sponsored] Dell Top Sellers: Save up to $400 on Top Tech that Everyone Wants!                                           |
+|  1 | ASUS C204EE 11.6" Chromebook N4020, 4/32 GB, USB-C display/power delivery - $170                                         |
+|  2 | $14 Off Coupon For Updating Communications Preference                                                                    |
+|  3 | Playseat Challenge Racing Chair - $279.99                                                                                |
+|  4 | Get $30 off . Min purchase $80 when Redeem only 3 TD points                                                              |
+|  5 | Free Pixel Buds A with Pixel 6/Pro purchase + up to $500 trade-in +10% Store Credit with Google One Sub                  |
+|  6 | $300 Corsair MP600 CORE 2TB NVME Gen 4 SSD, compatible with PS5                                                          |
+|  7 | All-new Kindle Paperwhite – 6.8" display and adjustable warm light (Pre-order Now) ($149.99 for 8GB or $209.99 for 32GB) |
+|  8 | Console Trade Event (Oct 4-31) + Trade in Switch/Switch Lite for Switch OLED (Oct 8-17 [Ended])                          |
+|  9 | New Apple AirPods Pro with MagSafe Charging Case - $286.99                                                               |
+| 10 | Western Digital -Green WDS100T2G0A 1 TB SSD - $99                                                                        |
+| 11 | Free Wireless charger duo and Smart Tag (2) with purchase of Galaxy Watch 4                                              |
+| 12 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                             |
+| 13 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $225 B4 coupons, $3 S&H)                                                 |
+| 14 | Playstation Plus November 2021 - (PS5, PS4, PSVR)                                                                        |
+| 15 | WD SN550 500GB NVMe SSD - $48 (after BB price match + coupon) + FS                                                       |
+| 16 | Lenovo IdeaPad Slim 9i 82D2000BUS Laptop - $1,424.99                                                                     |
+| 17 | Intel Core i5-11400 - $249.99                                                                                            |
+| 18 | Cybersale, 28+10% off, $1979 pretax, XPS Desktop, RTX 3070, i7-11700k, 32GB DDR4 2933, 1TB M.2 NVMe, black chasis, 500W  |
+| 19 | Apple AirPods Pro $249.98 ($79 off)                                                                                      |
+| 20 | DJI Mavic Mini 2 Bundle $570                                                                                             |
+| 21 | OUTRIDERS for PS5/PS4/XBox - $34.96 (Reg-49.96)                                                                          |
+| 22 | Godfall PS5 $29,99 at amazon                                                                                             |
+| 23 | Lenovo x1 carbon gen 9 - $1562 / i7 /16gb ram / 1tb                                                                      |
+| 24 | PC Digital Sale: Resident Evil Village $28.39, Star Wars: Squadrons $0.49 and more (Updated: 10/27 7:30PM)               |
+| 25 | Deathloop (PS5) $49.99                                                                                                   |
+| 26 | New XPS 13, i7-1195G7, 16GB, 512GB, 13.4" 16:10 3.5K OLED, $1530 after code                                              |
+| 27 | Xbox All Access Now Available at Best Buy/The Source/GameStop $39.99/month Series X with 24 Month Game Pass Ultimate     |
+| 28 | FREE Shiny Zacian code for Pokemon Shield @ Gamestop, Oct 22 - Nov 4 (in-store only)                                     |
+| 29 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)                    |
+| 30 | [Sponsored] Dell Top Sellers: Save up to $400 on Top Tech that Everyone Wants!                                           |
+| 31 | ASUS C204EE 11.6" Chromebook N4020, 4/32 GB, USB-C display/power delivery - $170                                         |
+| 32 | $14 Off Coupon For Updating Communications Preference                                                                    |
+| 33 | Playseat Challenge Racing Chair - $279.99                                                                                |
+| 34 | Get $30 off . Min purchase $80 when Redeem only 3 TD points                                                              |
+| 35 | Free Pixel Buds A with Pixel 6/Pro purchase + up to $500 trade-in +10% Store Credit with Google One Sub                  |
+| 36 | $300 Corsair MP600 CORE 2TB NVME Gen 4 SSD, compatible with PS5                                                          |
+| 37 | All-new Kindle Paperwhite – 6.8" display and adjustable warm light (Pre-order Now) ($149.99 for 8GB or $209.99 for 32GB) |
+| 38 | Console Trade Event (Oct 4-31) + Trade in Switch/Switch Lite for Switch OLED (Oct 8-17 [Ended])                          |
+| 39 | New Apple AirPods Pro with MagSafe Charging Case - $286.99                                                               |
+| 40 | Western Digital -Green WDS100T2G0A 1 TB SSD - $99                                                                        |
+| 41 | Free Wireless charger duo and Smart Tag (2) with purchase of Galaxy Watch 4                                              |
+| 42 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                             |
+| 43 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $225 B4 coupons, $3 S&H)                                                 |
+| 44 | Playstation Plus November 2021 - (PS5, PS4, PSVR)                                                                        |
+| 45 | WD SN550 500GB NVMe SSD - $48 (after BB price match + coupon) + FS                                                       |
+| 46 | Lenovo IdeaPad Slim 9i 82D2000BUS Laptop - $1,424.99                                                                     |
+| 47 | Intel Core i5-11400 - $249.99                                                                                            |
+| 48 | Cybersale, 28+10% off, $1979 pretax, XPS Desktop, RTX 3070, i7-11700k, 32GB DDR4 2933, 1TB M.2 NVMe, black chasis, 500W  |
+| 49 | Apple AirPods Pro $249.98 ($79 off)                                                                                      |
+| 50 | DJI Mavic Mini 2 Bundle $570                                                                                             |
+| 51 | OUTRIDERS for PS5/PS4/XBox - $34.96 (Reg-49.96)                                                                          |
+| 52 | Godfall PS5 $29,99 at amazon                                                                                             |
+| 53 | Lenovo x1 carbon gen 9 - $1562 / i7 /16gb ram / 1tb                                                                      |
+| 54 | PC Digital Sale: Resident Evil Village $28.39, Star Wars: Squadrons $0.49 and more (Updated: 10/27 7:30PM)               |
+| 55 | Deathloop (PS5) $49.99                                                                                                   |
+| 56 | New XPS 13, i7-1195G7, 16GB, 512GB, 13.4" 16:10 3.5K OLED, $1530 after code                                              |
+| 57 | Xbox All Access Now Available at Best Buy/The Source/GameStop $39.99/month Series X with 24 Month Game Pass Ultimate     |
+| 58 | FREE Shiny Zacian code for Pokemon Shield @ Gamestop, Oct 22 - Nov 4 (in-store only)                                     |
+| 59 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)                    |
+| 60 | [Sponsored] Dell Top Sellers: Save up to $400 on Top Tech that Everyone Wants!                                           |
+| 61 | ASUS C204EE 11.6" Chromebook N4020, 4/32 GB, USB-C display/power delivery - $170                                         |
+| 62 | $14 Off Coupon For Updating Communications Preference                                                                    |
+| 63 | Playseat Challenge Racing Chair - $279.99                                                                                |
+| 64 | Get $30 off . Min purchase $80 when Redeem only 3 TD points                                                              |
+| 65 | Free Pixel Buds A with Pixel 6/Pro purchase + up to $500 trade-in +10% Store Credit with Google One Sub                  |
+| 66 | $300 Corsair MP600 CORE 2TB NVME Gen 4 SSD, compatible with PS5                                                          |
+| 67 | All-new Kindle Paperwhite – 6.8" display and adjustable warm light (Pre-order Now) ($149.99 for 8GB or $209.99 for 32GB) |
+| 68 | Console Trade Event (Oct 4-31) + Trade in Switch/Switch Lite for Switch OLED (Oct 8-17 [Ended])                          |
+| 69 | New Apple AirPods Pro with MagSafe Charging Case - $286.99                                                               |
+| 70 | Western Digital -Green WDS100T2G0A 1 TB SSD - $99                                                                        |
+| 71 | Free Wireless charger duo and Smart Tag (2) with purchase of Galaxy Watch 4                                              |
+| 72 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                             |
+| 73 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $225 B4 coupons, $3 S&H)                                                 |
+| 74 | Playstation Plus November 2021 - (PS5, PS4, PSVR)                                                                        |
+| 75 | WD SN550 500GB NVMe SSD - $48 (after BB price match + coupon) + FS                                                       |
+| 76 | Lenovo IdeaPad Slim 9i 82D2000BUS Laptop - $1,424.99                                                                     |
+| 77 | Intel Core i5-11400 - $249.99                                                                                            |
+| 78 | Cybersale, 28+10% off, $1979 pretax, XPS Desktop, RTX 3070, i7-11700k, 32GB DDR4 2933, 1TB M.2 NVMe, black chasis, 500W  |
+| 79 | Apple AirPods Pro $249.98 ($79 off)                                                                                      |
+| 80 | DJI Mavic Mini 2 Bundle $570                                                                                             |
+| 81 | OUTRIDERS for PS5/PS4/XBox - $34.96 (Reg-49.96)                                                                          |
+| 82 | Godfall PS5 $29,99 at amazon                                                                                             |
+| 83 | Lenovo x1 carbon gen 9 - $1562 / i7 /16gb ram / 1tb                                                                      |
+| 84 | PC Digital Sale: Resident Evil Village $28.39, Star Wars: Squadrons $0.49 and more (Updated: 10/27 7:30PM)               |
+| 85 | Deathloop (PS5) $49.99                                                                                                   |
+| 86 | New XPS 13, i7-1195G7, 16GB, 512GB, 13.4" 16:10 3.5K OLED, $1530 after code                                              |
+| 87 | Xbox All Access Now Available at Best Buy/The Source/GameStop $39.99/month Series X with 24 Month Game Pass Ultimate     |
+| 88 | FREE Shiny Zacian code for Pokemon Shield @ Gamestop, Oct 22 - Nov 4 (in-store only)                                     |
+| 89 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)                    |
