@@ -1,16 +1,16 @@
 |    | deals                                                                                                                    |
 |---:|:-------------------------------------------------------------------------------------------------------------------------|
 |  0 | [Sponsored] Dell Top Sellers: Save up to $400 on Top Tech that Everyone Wants!                                           |
-|  1 | ASUS C204EE 11.6" Chromebook N4020, 4/32 GB, USB-C display/power delivery - $170                                         |
-|  2 | $14 Off Coupon For Updating Communications Preference                                                                    |
-|  3 | Playseat Challenge Racing Chair - $279.99                                                                                |
-|  4 | Get $30 off . Min purchase $80 when Redeem only 3 TD points                                                              |
-|  5 | Free Pixel Buds A with Pixel 6/Pro purchase + up to $500 trade-in +10% Store Credit with Google One Sub                  |
-|  6 | $300 Corsair MP600 CORE 2TB NVME Gen 4 SSD, compatible with PS5                                                          |
-|  7 | All-new Kindle Paperwhite – 6.8" display and adjustable warm light (Pre-order Now) ($149.99 for 8GB or $209.99 for 32GB) |
-|  8 | Console Trade Event (Oct 4-31) + Trade in Switch/Switch Lite for Switch OLED (Oct 8-17 [Ended])                          |
-|  9 | New Apple AirPods Pro with MagSafe Charging Case - $286.99                                                               |
-| 10 | Western Digital -Green WDS100T2G0A 1 TB SSD - $99                                                                        |
+|  1 | Western Digital -Green WDS100T2G0A 1 TB SSD - $99                                                                        |
+|  2 | Console Trade Event (Oct 4-31) + Trade in Switch/Switch Lite for Switch OLED (Oct 8-17 [Ended])                          |
+|  3 | Free Pixel Buds A with Pixel 6/Pro purchase + up to $500 trade-in +10% Store Credit with Google One Sub                  |
+|  4 | ASUS C204EE 11.6" Chromebook N4020, 4/32 GB, USB-C display/power delivery - $170                                         |
+|  5 | $14 Off Coupon For Updating Communications Preference                                                                    |
+|  6 | Playseat Challenge Racing Chair - $279.99                                                                                |
+|  7 | Get $30 off . Min purchase $80 when Redeem only 3 TD points                                                              |
+|  8 | $300 Corsair MP600 CORE 2TB NVME Gen 4 SSD, compatible with PS5                                                          |
+|  9 | All-new Kindle Paperwhite – 6.8" display and adjustable warm light (Pre-order Now) ($149.99 for 8GB or $209.99 for 32GB) |
+| 10 | New Apple AirPods Pro with MagSafe Charging Case - $286.99                                                               |
 | 11 | Free Wireless charger duo and Smart Tag (2) with purchase of Galaxy Watch 4                                              |
 | 12 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                             |
 | 13 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $225 B4 coupons, $3 S&H)                                                 |
@@ -31,16 +31,16 @@
 | 28 | FREE Shiny Zacian code for Pokemon Shield @ Gamestop, Oct 22 - Nov 4 (in-store only)                                     |
 | 29 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)                    |
 | 30 | [Sponsored] Dell Top Sellers: Save up to $400 on Top Tech that Everyone Wants!                                           |
-| 31 | ASUS C204EE 11.6" Chromebook N4020, 4/32 GB, USB-C display/power delivery - $170                                         |
-| 32 | $14 Off Coupon For Updating Communications Preference                                                                    |
-| 33 | Playseat Challenge Racing Chair - $279.99                                                                                |
-| 34 | Get $30 off . Min purchase $80 when Redeem only 3 TD points                                                              |
-| 35 | Free Pixel Buds A with Pixel 6/Pro purchase + up to $500 trade-in +10% Store Credit with Google One Sub                  |
-| 36 | $300 Corsair MP600 CORE 2TB NVME Gen 4 SSD, compatible with PS5                                                          |
-| 37 | All-new Kindle Paperwhite – 6.8" display and adjustable warm light (Pre-order Now) ($149.99 for 8GB or $209.99 for 32GB) |
-| 38 | Console Trade Event (Oct 4-31) + Trade in Switch/Switch Lite for Switch OLED (Oct 8-17 [Ended])                          |
-| 39 | New Apple AirPods Pro with MagSafe Charging Case - $286.99                                                               |
-| 40 | Western Digital -Green WDS100T2G0A 1 TB SSD - $99                                                                        |
+| 31 | Western Digital -Green WDS100T2G0A 1 TB SSD - $99                                                                        |
+| 32 | Console Trade Event (Oct 4-31) + Trade in Switch/Switch Lite for Switch OLED (Oct 8-17 [Ended])                          |
+| 33 | Free Pixel Buds A with Pixel 6/Pro purchase + up to $500 trade-in +10% Store Credit with Google One Sub                  |
+| 34 | ASUS C204EE 11.6" Chromebook N4020, 4/32 GB, USB-C display/power delivery - $170                                         |
+| 35 | $14 Off Coupon For Updating Communications Preference                                                                    |
+| 36 | Playseat Challenge Racing Chair - $279.99                                                                                |
+| 37 | Get $30 off . Min purchase $80 when Redeem only 3 TD points                                                              |
+| 38 | $300 Corsair MP600 CORE 2TB NVME Gen 4 SSD, compatible with PS5                                                          |
+| 39 | All-new Kindle Paperwhite – 6.8" display and adjustable warm light (Pre-order Now) ($149.99 for 8GB or $209.99 for 32GB) |
+| 40 | New Apple AirPods Pro with MagSafe Charging Case - $286.99                                                               |
 | 41 | Free Wireless charger duo and Smart Tag (2) with purchase of Galaxy Watch 4                                              |
 | 42 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                             |
 | 43 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $225 B4 coupons, $3 S&H)                                                 |
@@ -61,16 +61,16 @@
 | 58 | FREE Shiny Zacian code for Pokemon Shield @ Gamestop, Oct 22 - Nov 4 (in-store only)                                     |
 | 59 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)                    |
 | 60 | [Sponsored] Dell Top Sellers: Save up to $400 on Top Tech that Everyone Wants!                                           |
-| 61 | ASUS C204EE 11.6" Chromebook N4020, 4/32 GB, USB-C display/power delivery - $170                                         |
-| 62 | $14 Off Coupon For Updating Communications Preference                                                                    |
-| 63 | Playseat Challenge Racing Chair - $279.99                                                                                |
-| 64 | Get $30 off . Min purchase $80 when Redeem only 3 TD points                                                              |
-| 65 | Free Pixel Buds A with Pixel 6/Pro purchase + up to $500 trade-in +10% Store Credit with Google One Sub                  |
-| 66 | $300 Corsair MP600 CORE 2TB NVME Gen 4 SSD, compatible with PS5                                                          |
-| 67 | All-new Kindle Paperwhite – 6.8" display and adjustable warm light (Pre-order Now) ($149.99 for 8GB or $209.99 for 32GB) |
-| 68 | Console Trade Event (Oct 4-31) + Trade in Switch/Switch Lite for Switch OLED (Oct 8-17 [Ended])                          |
-| 69 | New Apple AirPods Pro with MagSafe Charging Case - $286.99                                                               |
-| 70 | Western Digital -Green WDS100T2G0A 1 TB SSD - $99                                                                        |
+| 61 | Western Digital -Green WDS100T2G0A 1 TB SSD - $99                                                                        |
+| 62 | Console Trade Event (Oct 4-31) + Trade in Switch/Switch Lite for Switch OLED (Oct 8-17 [Ended])                          |
+| 63 | Free Pixel Buds A with Pixel 6/Pro purchase + up to $500 trade-in +10% Store Credit with Google One Sub                  |
+| 64 | ASUS C204EE 11.6" Chromebook N4020, 4/32 GB, USB-C display/power delivery - $170                                         |
+| 65 | $14 Off Coupon For Updating Communications Preference                                                                    |
+| 66 | Playseat Challenge Racing Chair - $279.99                                                                                |
+| 67 | Get $30 off . Min purchase $80 when Redeem only 3 TD points                                                              |
+| 68 | $300 Corsair MP600 CORE 2TB NVME Gen 4 SSD, compatible with PS5                                                          |
+| 69 | All-new Kindle Paperwhite – 6.8" display and adjustable warm light (Pre-order Now) ($149.99 for 8GB or $209.99 for 32GB) |
+| 70 | New Apple AirPods Pro with MagSafe Charging Case - $286.99                                                               |
 | 71 | Free Wireless charger duo and Smart Tag (2) with purchase of Galaxy Watch 4                                              |
 | 72 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                             |
 | 73 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $225 B4 coupons, $3 S&H)                                                 |
