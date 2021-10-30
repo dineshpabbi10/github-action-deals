@@ -1,12 +1,12 @@
 |    | deals                                                                                                                  |
 |---:|:-----------------------------------------------------------------------------------------------------------------------|
-|  0 | Employee Pricing for First Responders (Health Service/Fire/Paramedics/Police) - Oct 29-31                              |
-|  1 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
-|  2 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $225 B4 coupons, $3 S&H)                                               |
-|  3 | Evovacs Deebot N8+ $499 at Costco ($250 off again)                                                                     |
-|  4 | Acer Gaming desktop 11th gen i5 16GB DDR4 1TB SSD RTX 3060 Ti 1599.99$ + tax                                           |
-|  5 | DJI Osmo Mobile 3 Combo - $100                                                                                         |
-|  6 | CyberPunk 2077 (Xbox One & Playstation 4) $9.99                                                                        |
+|  0 | CyberPunk 2077 (Xbox One & Playstation 4) $9.99                                                                        |
+|  1 | Employee Pricing for First Responders (Health Service/Fire/Paramedics/Police) - Oct 29-31                              |
+|  2 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
+|  3 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $225 B4 coupons, $3 S&H)                                               |
+|  4 | Evovacs Deebot N8+ $499 at Costco ($250 off again)                                                                     |
+|  5 | Acer Gaming desktop 11th gen i5 16GB DDR4 1TB SSD RTX 3060 Ti 1599.99$ + tax                                           |
+|  6 | DJI Osmo Mobile 3 Combo - $100                                                                                         |
 |  7 | Bose Solo Soundbar Series II Refurbished - $132                                                                        |
 |  8 | ThinkBook 13s Gen 2, i7-1165G7/16GB/512GB, 13.3" 16:10 WQXGA (2560 x 1600), $1127                                      |
 |  9 | eufyCam - 2 Camera Kit plus 1 Entry Sensor $329.99                                                                     |
