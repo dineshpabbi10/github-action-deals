@@ -1,11 +1,11 @@
 |    | deals                                                                                                                    |
 |---:|:-------------------------------------------------------------------------------------------------------------------------|
-|  0 | Panasonic DP-UB420-K 4k bluray player - approx $220 all in                                                               |
-|  1 | $45 25gb + $300 bill credit per line [win back]                                                                          |
-|  2 | Microsoft All in One wireless Media keyboard w/trackpad $40                                                              |
-|  3 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                             |
-|  4 | Early Black Friday sale.                                                                                                 |
-|  5 | Xbox Live Gold 12 Month Membership (Digital) $42.27, Xbox Game Pass Ultimate 1 Month Membership $8.89 | VPN Required     |
+|  0 | Xbox Live Gold 12 Month Membership (Digital) $42.27, Xbox Game Pass Ultimate 1 Month Membership $8.89 | VPN Required     |
+|  1 | Panasonic DP-UB420-K 4k bluray player - approx $220 all in                                                               |
+|  2 | $45 25gb + $300 bill credit per line [win back]                                                                          |
+|  3 | Microsoft All in One wireless Media keyboard w/trackpad $40                                                              |
+|  4 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                             |
+|  5 | Early Black Friday sale.                                                                                                 |
 |  6 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                                      |
 |  7 | Google Pixel 3 XL 64GB Smartphone (T-Mobile Unlocked, Black)- (USD $ 219.99)                                             |
 |  8 | $2500 Samsung 65" 4K UHD HDR QLED QN65QN90AAFXZC 2021                                                                    |
@@ -30,12 +30,12 @@
 | 27 | PC Digital Sale: Resident Evil Village $25.36 and more (Updated: 11/1 1:30PM)                                            |
 | 28 | $184 - Crucial P5 Plus NVME SSD - Gen 4 - 1TB - DRAM                                                                     |
 | 29 | Koodo BYOP Starter Plan - $15/ 250MB 3g data, 100 outgoing mins, unltd Incoming mins, unlimited sms                      |
-| 30 | Panasonic DP-UB420-K 4k bluray player - approx $220 all in                                                               |
-| 31 | $45 25gb + $300 bill credit per line [win back]                                                                          |
-| 32 | Microsoft All in One wireless Media keyboard w/trackpad $40                                                              |
-| 33 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                             |
-| 34 | Early Black Friday sale.                                                                                                 |
-| 35 | Xbox Live Gold 12 Month Membership (Digital) $42.27, Xbox Game Pass Ultimate 1 Month Membership $8.89 | VPN Required     |
+| 30 | Xbox Live Gold 12 Month Membership (Digital) $42.27, Xbox Game Pass Ultimate 1 Month Membership $8.89 | VPN Required     |
+| 31 | Panasonic DP-UB420-K 4k bluray player - approx $220 all in                                                               |
+| 32 | $45 25gb + $300 bill credit per line [win back]                                                                          |
+| 33 | Microsoft All in One wireless Media keyboard w/trackpad $40                                                              |
+| 34 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                             |
+| 35 | Early Black Friday sale.                                                                                                 |
 | 36 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                                      |
 | 37 | Google Pixel 3 XL 64GB Smartphone (T-Mobile Unlocked, Black)- (USD $ 219.99)                                             |
 | 38 | $2500 Samsung 65" 4K UHD HDR QLED QN65QN90AAFXZC 2021                                                                    |
@@ -60,12 +60,12 @@
 | 57 | PC Digital Sale: Resident Evil Village $25.36 and more (Updated: 11/1 1:30PM)                                            |
 | 58 | $184 - Crucial P5 Plus NVME SSD - Gen 4 - 1TB - DRAM                                                                     |
 | 59 | Koodo BYOP Starter Plan - $15/ 250MB 3g data, 100 outgoing mins, unltd Incoming mins, unlimited sms                      |
-| 60 | Panasonic DP-UB420-K 4k bluray player - approx $220 all in                                                               |
-| 61 | $45 25gb + $300 bill credit per line [win back]                                                                          |
-| 62 | Microsoft All in One wireless Media keyboard w/trackpad $40                                                              |
-| 63 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                             |
-| 64 | Early Black Friday sale.                                                                                                 |
-| 65 | Xbox Live Gold 12 Month Membership (Digital) $42.27, Xbox Game Pass Ultimate 1 Month Membership $8.89 | VPN Required     |
+| 60 | Xbox Live Gold 12 Month Membership (Digital) $42.27, Xbox Game Pass Ultimate 1 Month Membership $8.89 | VPN Required     |
+| 61 | Panasonic DP-UB420-K 4k bluray player - approx $220 all in                                                               |
+| 62 | $45 25gb + $300 bill credit per line [win back]                                                                          |
+| 63 | Microsoft All in One wireless Media keyboard w/trackpad $40                                                              |
+| 64 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                             |
+| 65 | Early Black Friday sale.                                                                                                 |
 | 66 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                                      |
 | 67 | Google Pixel 3 XL 64GB Smartphone (T-Mobile Unlocked, Black)- (USD $ 219.99)                                             |
 | 68 | $2500 Samsung 65" 4K UHD HDR QLED QN65QN90AAFXZC 2021                                                                    |
