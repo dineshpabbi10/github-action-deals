@@ -1,92 +1,92 @@
-|    | deals                                                                                                 |
-|---:|:------------------------------------------------------------------------------------------------------|
-|  0 | Telus EPP 20GB/$50 BYOD                                                                               |
-|  1 | Unlimited call & txt and 6GB data for $36.00 [Bring Your Own Phone]                                   |
-|  2 | WD - Various Drives on sale - WD Black SN750 1TB NVMe @ $109.99 - SN850 1TB NVMe @ 189.99             |
-|  3 | Acer Gaming desktop 11th gen i5 16GB DDR4 1TB SSD RTX 3060 Ti 1599.99$ + tax YMMV not in all stores   |
-|  4 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                   |
-|  5 | Audio-Technica ATHSR50BTBW Wireless Headphones 100$ (Grey)                                            |
-|  6 | PC Digital Sale - Bundles, Halloween Sales and more                                                   |
-|  7 | Hisense 55" 4K ULED Android Smart Television 55U88G ($1097.99) - Price-Oopsies?                       |
-|  8 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan) |
-|  9 | [3 HK] Mobile Data 10GB (CA/US/AUS/NZ/UK) eSIM - $138 HKD/$22 CAD                                     |
-| 10 | Lenovo H100 headset $20.99                                                                            |
-| 11 | Sony X90J 75 inch BRAVIA XR Full Array - $1,998 - Lowest yet!                                         |
-| 12 | Rogers EPP BYOD: 25 GB $52.50 | 30 GB $56 YMMV                                                        |
-| 13 | Thinkbook 16P Gen 2 AMD 5600H, 2.5K Res, RTX3060 16GB 512GB $1445.52                                  |
-| 14 | 12 month web hosting, domain registration and ID protection $10.80USD                                 |
-| 15 | Tile Pro half price $18 usd                                                                           |
-| 16 | Voxelab Aquila 3D Printer (Ender 3 v2 "Clone") - ~$224CAD no tax                                      |
-| 17 | ASUS RT-AC86U AC2900 Router for $179.99 ($50 off $229.99 regular price)                               |
-| 18 | iPhone 12 mini ($5.00/mo) YMMV                                                                        |
-| 19 | 1-Year PlayStation Plus Membership (Digital Delivery) $48.73 CAD                                      |
-| 20 | PS4 and Xbox 1 NHL 22 40% off                                                                         |
-| 21 | Refurbished M1 MacBook Airs back in stock at $1099                                                    |
-| 22 | 2x KBEAR Stellar Earbuds for $2.77 TOTAL with Free Shipping                                           |
-| 23 | ThinkPad P14s Gen 2 AMD Ryzen 7 5850U/16GB/256GB $1,036                                               |
-| 24 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                          |
-| 25 | WD Red Plus 4TB NAS Desktop Hard Disk Drive - WD40EFZX (CMR) [$99.99]                                 |
-| 26 | WD Black SN750 NVMe SSD 1TB - $139.99 - all-time low according to CCC                                 |
-| 27 | Official Apple iPhone 12/Pro/Max/Mini MagSafe cases and wallets $48 + FS                              |
-| 28 | Xbox Series S/X Controllers, multiple colors for $59.99                                               |
-| 29 | $184 - Crucial P5 Plus NVME SSD - Gen 4 - 1TB - DRAM                                                  |
-| 30 | Telus EPP 20GB/$50 BYOD                                                                               |
-| 31 | Unlimited call & txt and 6GB data for $36.00 [Bring Your Own Phone]                                   |
-| 32 | WD - Various Drives on sale - WD Black SN750 1TB NVMe @ $109.99 - SN850 1TB NVMe @ 189.99             |
-| 33 | Acer Gaming desktop 11th gen i5 16GB DDR4 1TB SSD RTX 3060 Ti 1599.99$ + tax YMMV not in all stores   |
-| 34 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                   |
-| 35 | Audio-Technica ATHSR50BTBW Wireless Headphones 100$ (Grey)                                            |
-| 36 | PC Digital Sale - Bundles, Halloween Sales and more                                                   |
-| 37 | Hisense 55" 4K ULED Android Smart Television 55U88G ($1097.99) - Price-Oopsies?                       |
-| 38 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan) |
-| 39 | [3 HK] Mobile Data 10GB (CA/US/AUS/NZ/UK) eSIM - $138 HKD/$22 CAD                                     |
-| 40 | Lenovo H100 headset $20.99                                                                            |
-| 41 | Sony X90J 75 inch BRAVIA XR Full Array - $1,998 - Lowest yet!                                         |
-| 42 | Rogers EPP BYOD: 25 GB $52.50 | 30 GB $56 YMMV                                                        |
-| 43 | Thinkbook 16P Gen 2 AMD 5600H, 2.5K Res, RTX3060 16GB 512GB $1445.52                                  |
-| 44 | 12 month web hosting, domain registration and ID protection $10.80USD                                 |
-| 45 | Tile Pro half price $18 usd                                                                           |
-| 46 | Voxelab Aquila 3D Printer (Ender 3 v2 "Clone") - ~$224CAD no tax                                      |
-| 47 | ASUS RT-AC86U AC2900 Router for $179.99 ($50 off $229.99 regular price)                               |
-| 48 | iPhone 12 mini ($5.00/mo) YMMV                                                                        |
-| 49 | 1-Year PlayStation Plus Membership (Digital Delivery) $48.73 CAD                                      |
-| 50 | PS4 and Xbox 1 NHL 22 40% off                                                                         |
-| 51 | Refurbished M1 MacBook Airs back in stock at $1099                                                    |
-| 52 | 2x KBEAR Stellar Earbuds for $2.77 TOTAL with Free Shipping                                           |
-| 53 | ThinkPad P14s Gen 2 AMD Ryzen 7 5850U/16GB/256GB $1,036                                               |
-| 54 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                          |
-| 55 | WD Red Plus 4TB NAS Desktop Hard Disk Drive - WD40EFZX (CMR) [$99.99]                                 |
-| 56 | WD Black SN750 NVMe SSD 1TB - $139.99 - all-time low according to CCC                                 |
-| 57 | Official Apple iPhone 12/Pro/Max/Mini MagSafe cases and wallets $48 + FS                              |
-| 58 | Xbox Series S/X Controllers, multiple colors for $59.99                                               |
-| 59 | $184 - Crucial P5 Plus NVME SSD - Gen 4 - 1TB - DRAM                                                  |
-| 60 | Telus EPP 20GB/$50 BYOD                                                                               |
-| 61 | Unlimited call & txt and 6GB data for $36.00 [Bring Your Own Phone]                                   |
-| 62 | WD - Various Drives on sale - WD Black SN750 1TB NVMe @ $109.99 - SN850 1TB NVMe @ 189.99             |
-| 63 | Acer Gaming desktop 11th gen i5 16GB DDR4 1TB SSD RTX 3060 Ti 1599.99$ + tax YMMV not in all stores   |
-| 64 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                   |
-| 65 | Audio-Technica ATHSR50BTBW Wireless Headphones 100$ (Grey)                                            |
-| 66 | PC Digital Sale - Bundles, Halloween Sales and more                                                   |
-| 67 | Hisense 55" 4K ULED Android Smart Television 55U88G ($1097.99) - Price-Oopsies?                       |
-| 68 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan) |
-| 69 | [3 HK] Mobile Data 10GB (CA/US/AUS/NZ/UK) eSIM - $138 HKD/$22 CAD                                     |
-| 70 | Lenovo H100 headset $20.99                                                                            |
-| 71 | Sony X90J 75 inch BRAVIA XR Full Array - $1,998 - Lowest yet!                                         |
-| 72 | Rogers EPP BYOD: 25 GB $52.50 | 30 GB $56 YMMV                                                        |
-| 73 | Thinkbook 16P Gen 2 AMD 5600H, 2.5K Res, RTX3060 16GB 512GB $1445.52                                  |
-| 74 | 12 month web hosting, domain registration and ID protection $10.80USD                                 |
-| 75 | Tile Pro half price $18 usd                                                                           |
-| 76 | Voxelab Aquila 3D Printer (Ender 3 v2 "Clone") - ~$224CAD no tax                                      |
-| 77 | ASUS RT-AC86U AC2900 Router for $179.99 ($50 off $229.99 regular price)                               |
-| 78 | iPhone 12 mini ($5.00/mo) YMMV                                                                        |
-| 79 | 1-Year PlayStation Plus Membership (Digital Delivery) $48.73 CAD                                      |
-| 80 | PS4 and Xbox 1 NHL 22 40% off                                                                         |
-| 81 | Refurbished M1 MacBook Airs back in stock at $1099                                                    |
-| 82 | 2x KBEAR Stellar Earbuds for $2.77 TOTAL with Free Shipping                                           |
-| 83 | ThinkPad P14s Gen 2 AMD Ryzen 7 5850U/16GB/256GB $1,036                                               |
-| 84 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                          |
-| 85 | WD Red Plus 4TB NAS Desktop Hard Disk Drive - WD40EFZX (CMR) [$99.99]                                 |
-| 86 | WD Black SN750 NVMe SSD 1TB - $139.99 - all-time low according to CCC                                 |
-| 87 | Official Apple iPhone 12/Pro/Max/Mini MagSafe cases and wallets $48 + FS                              |
-| 88 | Xbox Series S/X Controllers, multiple colors for $59.99                                               |
-| 89 | $184 - Crucial P5 Plus NVME SSD - Gen 4 - 1TB - DRAM                                                  |
+|    | deals                                                                                                                    |
+|---:|:-------------------------------------------------------------------------------------------------------------------------|
+|  0 | Panasonic DP-UB420-K 4k bluray player - approx $220 all in                                                               |
+|  1 | $45 25gb + $300 bill credit per line [win back]                                                                          |
+|  2 | Microsoft All in One wireless Media keyboard w/trackpad $40                                                              |
+|  3 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                             |
+|  4 | Early Black Friday sale.                                                                                                 |
+|  5 | Xbox Live Gold 12 Month Membership (Digital) $42.27, Xbox Game Pass Ultimate 1 Month Membership $8.89 | VPN Required     |
+|  6 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                                      |
+|  7 | Google Pixel 3 XL 64GB Smartphone (T-Mobile Unlocked, Black)- (USD $ 219.99)                                             |
+|  8 | $2500 Samsung 65" 4K UHD HDR QLED QN65QN90AAFXZC 2021                                                                    |
+|  9 | Logitech M720 Triathlon Mouse $39.99 ($30 off)                                                                           |
+| 10 | Acer Aspire 3/5 Laptops $265/$250, in-store YMMV                                                                         |
+| 11 | Sony WH-1000XM4 Wireless Noise Canceling Overhead Headphones, $348                                                       |
+| 12 | iPhone 12 Mini Upfront Edge ($2.08 a month) YMMV                                                                         |
+| 13 | New Code: $25 off $100 or more purchase, Amazon Business Accounts only, YMMV                                             |
+| 14 | Fido Internet 50% off and $50 accessory credit                                                                           |
+| 15 | Bonified referal bonus from $25 to $50 Home Internet 60/10 Mbps $45/month or Mobile service Qc province + Ottawa region  |
+| 16 | [WARM] Jabra TWS earbuds - Refurbished, directly from Jabra 85T, 75t, 75t Active, Talk 35                                |
+| 17 | Coming Soon to Xbox Game Pass:Forza Horizon 5, It Takes Two, Grand Theft Auto: San Andreas, Football Manager 22 and More |
+| 18 | Apple Watch Nike Series 7, 45mm, GPS, Starlight Aluminum Pure Platinum Black Gemini Sport Band $530.74                   |
+| 19 | Apple AirPods Pro $249.98 ($79 off)                                                                                      |
+| 20 | Rode PodMic Cardioid Dynamic Podcasting Microphone $119 ($10 off) also at other retailers                                |
+| 21 | Rogers EPP BYOD: 25 GB $52.50 | 30 GB $56 YMMV                                                                           |
+| 22 | Unlimited call & txt and 6GB data for $36.00 [Bring Your Own Phone]                                                      |
+| 23 | (Warm) Shure SM7B Microphone - $469                                                                                      |
+| 24 | Try Crunchyroll Premium and Get 3 Months of Xbox Game Pass for PC FREE                                                   |
+| 25 | XPS with 3060 Ti is back $1440 with 10% coupon                                                                           |
+| 26 | Alienware Low Profile Cherry MX low profile Red switches RGB Mechanical Gaming Keyboard | AW510K | $160                  |
+| 27 | PC Digital Sale: Resident Evil Village $25.36 and more (Updated: 11/1 1:30PM)                                            |
+| 28 | $184 - Crucial P5 Plus NVME SSD - Gen 4 - 1TB - DRAM                                                                     |
+| 29 | Koodo BYOP Starter Plan - $15/ 250MB 3g data, 100 outgoing mins, unltd Incoming mins, unlimited sms                      |
+| 30 | Panasonic DP-UB420-K 4k bluray player - approx $220 all in                                                               |
+| 31 | $45 25gb + $300 bill credit per line [win back]                                                                          |
+| 32 | Microsoft All in One wireless Media keyboard w/trackpad $40                                                              |
+| 33 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                             |
+| 34 | Early Black Friday sale.                                                                                                 |
+| 35 | Xbox Live Gold 12 Month Membership (Digital) $42.27, Xbox Game Pass Ultimate 1 Month Membership $8.89 | VPN Required     |
+| 36 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                                      |
+| 37 | Google Pixel 3 XL 64GB Smartphone (T-Mobile Unlocked, Black)- (USD $ 219.99)                                             |
+| 38 | $2500 Samsung 65" 4K UHD HDR QLED QN65QN90AAFXZC 2021                                                                    |
+| 39 | Logitech M720 Triathlon Mouse $39.99 ($30 off)                                                                           |
+| 40 | Acer Aspire 3/5 Laptops $265/$250, in-store YMMV                                                                         |
+| 41 | Sony WH-1000XM4 Wireless Noise Canceling Overhead Headphones, $348                                                       |
+| 42 | iPhone 12 Mini Upfront Edge ($2.08 a month) YMMV                                                                         |
+| 43 | New Code: $25 off $100 or more purchase, Amazon Business Accounts only, YMMV                                             |
+| 44 | Fido Internet 50% off and $50 accessory credit                                                                           |
+| 45 | Bonified referal bonus from $25 to $50 Home Internet 60/10 Mbps $45/month or Mobile service Qc province + Ottawa region  |
+| 46 | [WARM] Jabra TWS earbuds - Refurbished, directly from Jabra 85T, 75t, 75t Active, Talk 35                                |
+| 47 | Coming Soon to Xbox Game Pass:Forza Horizon 5, It Takes Two, Grand Theft Auto: San Andreas, Football Manager 22 and More |
+| 48 | Apple Watch Nike Series 7, 45mm, GPS, Starlight Aluminum Pure Platinum Black Gemini Sport Band $530.74                   |
+| 49 | Apple AirPods Pro $249.98 ($79 off)                                                                                      |
+| 50 | Rode PodMic Cardioid Dynamic Podcasting Microphone $119 ($10 off) also at other retailers                                |
+| 51 | Rogers EPP BYOD: 25 GB $52.50 | 30 GB $56 YMMV                                                                           |
+| 52 | Unlimited call & txt and 6GB data for $36.00 [Bring Your Own Phone]                                                      |
+| 53 | (Warm) Shure SM7B Microphone - $469                                                                                      |
+| 54 | Try Crunchyroll Premium and Get 3 Months of Xbox Game Pass for PC FREE                                                   |
+| 55 | XPS with 3060 Ti is back $1440 with 10% coupon                                                                           |
+| 56 | Alienware Low Profile Cherry MX low profile Red switches RGB Mechanical Gaming Keyboard | AW510K | $160                  |
+| 57 | PC Digital Sale: Resident Evil Village $25.36 and more (Updated: 11/1 1:30PM)                                            |
+| 58 | $184 - Crucial P5 Plus NVME SSD - Gen 4 - 1TB - DRAM                                                                     |
+| 59 | Koodo BYOP Starter Plan - $15/ 250MB 3g data, 100 outgoing mins, unltd Incoming mins, unlimited sms                      |
+| 60 | Panasonic DP-UB420-K 4k bluray player - approx $220 all in                                                               |
+| 61 | $45 25gb + $300 bill credit per line [win back]                                                                          |
+| 62 | Microsoft All in One wireless Media keyboard w/trackpad $40                                                              |
+| 63 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                             |
+| 64 | Early Black Friday sale.                                                                                                 |
+| 65 | Xbox Live Gold 12 Month Membership (Digital) $42.27, Xbox Game Pass Ultimate 1 Month Membership $8.89 | VPN Required     |
+| 66 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                                      |
+| 67 | Google Pixel 3 XL 64GB Smartphone (T-Mobile Unlocked, Black)- (USD $ 219.99)                                             |
+| 68 | $2500 Samsung 65" 4K UHD HDR QLED QN65QN90AAFXZC 2021                                                                    |
+| 69 | Logitech M720 Triathlon Mouse $39.99 ($30 off)                                                                           |
+| 70 | Acer Aspire 3/5 Laptops $265/$250, in-store YMMV                                                                         |
+| 71 | Sony WH-1000XM4 Wireless Noise Canceling Overhead Headphones, $348                                                       |
+| 72 | iPhone 12 Mini Upfront Edge ($2.08 a month) YMMV                                                                         |
+| 73 | New Code: $25 off $100 or more purchase, Amazon Business Accounts only, YMMV                                             |
+| 74 | Fido Internet 50% off and $50 accessory credit                                                                           |
+| 75 | Bonified referal bonus from $25 to $50 Home Internet 60/10 Mbps $45/month or Mobile service Qc province + Ottawa region  |
+| 76 | [WARM] Jabra TWS earbuds - Refurbished, directly from Jabra 85T, 75t, 75t Active, Talk 35                                |
+| 77 | Coming Soon to Xbox Game Pass:Forza Horizon 5, It Takes Two, Grand Theft Auto: San Andreas, Football Manager 22 and More |
+| 78 | Apple Watch Nike Series 7, 45mm, GPS, Starlight Aluminum Pure Platinum Black Gemini Sport Band $530.74                   |
+| 79 | Apple AirPods Pro $249.98 ($79 off)                                                                                      |
+| 80 | Rode PodMic Cardioid Dynamic Podcasting Microphone $119 ($10 off) also at other retailers                                |
+| 81 | Rogers EPP BYOD: 25 GB $52.50 | 30 GB $56 YMMV                                                                           |
+| 82 | Unlimited call & txt and 6GB data for $36.00 [Bring Your Own Phone]                                                      |
+| 83 | (Warm) Shure SM7B Microphone - $469                                                                                      |
+| 84 | Try Crunchyroll Premium and Get 3 Months of Xbox Game Pass for PC FREE                                                   |
+| 85 | XPS with 3060 Ti is back $1440 with 10% coupon                                                                           |
+| 86 | Alienware Low Profile Cherry MX low profile Red switches RGB Mechanical Gaming Keyboard | AW510K | $160                  |
+| 87 | PC Digital Sale: Resident Evil Village $25.36 and more (Updated: 11/1 1:30PM)                                            |
+| 88 | $184 - Crucial P5 Plus NVME SSD - Gen 4 - 1TB - DRAM                                                                     |
+| 89 | Koodo BYOP Starter Plan - $15/ 250MB 3g data, 100 outgoing mins, unltd Incoming mins, unlimited sms                      |
