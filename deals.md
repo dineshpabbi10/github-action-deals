@@ -1,92 +1,92 @@
-|    | deals                                                                                                                    |
-|---:|:-------------------------------------------------------------------------------------------------------------------------|
-|  0 | Xbox Live Gold 12 Month Membership (Digital) $42.27, Xbox Game Pass Ultimate 1 Month Membership $8.89 | VPN Required     |
-|  1 | Panasonic DP-UB420-K 4k bluray player - approx $220 all in                                                               |
-|  2 | $45 25gb + $300 bill credit per line [win back]                                                                          |
-|  3 | Microsoft All in One wireless Media keyboard w/trackpad $40                                                              |
-|  4 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                             |
-|  5 | Early Black Friday sale.                                                                                                 |
-|  6 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                                      |
-|  7 | Google Pixel 3 XL 64GB Smartphone (T-Mobile Unlocked, Black)- (USD $ 219.99)                                             |
-|  8 | $2500 Samsung 65" 4K UHD HDR QLED QN65QN90AAFXZC 2021                                                                    |
-|  9 | Logitech M720 Triathlon Mouse $39.99 ($30 off)                                                                           |
-| 10 | Acer Aspire 3/5 Laptops $265/$250, in-store YMMV                                                                         |
-| 11 | Sony WH-1000XM4 Wireless Noise Canceling Overhead Headphones, $348                                                       |
-| 12 | iPhone 12 Mini Upfront Edge ($2.08 a month) YMMV                                                                         |
-| 13 | New Code: $25 off $100 or more purchase, Amazon Business Accounts only, YMMV                                             |
-| 14 | Fido Internet 50% off and $50 accessory credit                                                                           |
-| 15 | Bonified referal bonus from $25 to $50 Home Internet 60/10 Mbps $45/month or Mobile service Qc province + Ottawa region  |
-| 16 | [WARM] Jabra TWS earbuds - Refurbished, directly from Jabra 85T, 75t, 75t Active, Talk 35                                |
-| 17 | Coming Soon to Xbox Game Pass:Forza Horizon 5, It Takes Two, Grand Theft Auto: San Andreas, Football Manager 22 and More |
-| 18 | Apple Watch Nike Series 7, 45mm, GPS, Starlight Aluminum Pure Platinum Black Gemini Sport Band $530.74                   |
-| 19 | Apple AirPods Pro $249.98 ($79 off)                                                                                      |
-| 20 | Rode PodMic Cardioid Dynamic Podcasting Microphone $119 ($10 off) also at other retailers                                |
-| 21 | Rogers EPP BYOD: 25 GB $52.50 | 30 GB $56 YMMV                                                                           |
-| 22 | Unlimited call & txt and 6GB data for $36.00 [Bring Your Own Phone]                                                      |
-| 23 | (Warm) Shure SM7B Microphone - $469                                                                                      |
-| 24 | Try Crunchyroll Premium and Get 3 Months of Xbox Game Pass for PC FREE                                                   |
-| 25 | XPS with 3060 Ti is back $1440 with 10% coupon                                                                           |
-| 26 | Alienware Low Profile Cherry MX low profile Red switches RGB Mechanical Gaming Keyboard | AW510K | $160                  |
-| 27 | PC Digital Sale: Resident Evil Village $25.36 and more (Updated: 11/1 1:30PM)                                            |
-| 28 | $184 - Crucial P5 Plus NVME SSD - Gen 4 - 1TB - DRAM                                                                     |
-| 29 | Koodo BYOP Starter Plan - $15/ 250MB 3g data, 100 outgoing mins, unltd Incoming mins, unlimited sms                      |
-| 30 | Xbox Live Gold 12 Month Membership (Digital) $42.27, Xbox Game Pass Ultimate 1 Month Membership $8.89 | VPN Required     |
-| 31 | Panasonic DP-UB420-K 4k bluray player - approx $220 all in                                                               |
-| 32 | $45 25gb + $300 bill credit per line [win back]                                                                          |
-| 33 | Microsoft All in One wireless Media keyboard w/trackpad $40                                                              |
-| 34 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                             |
-| 35 | Early Black Friday sale.                                                                                                 |
-| 36 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                                      |
-| 37 | Google Pixel 3 XL 64GB Smartphone (T-Mobile Unlocked, Black)- (USD $ 219.99)                                             |
-| 38 | $2500 Samsung 65" 4K UHD HDR QLED QN65QN90AAFXZC 2021                                                                    |
-| 39 | Logitech M720 Triathlon Mouse $39.99 ($30 off)                                                                           |
-| 40 | Acer Aspire 3/5 Laptops $265/$250, in-store YMMV                                                                         |
-| 41 | Sony WH-1000XM4 Wireless Noise Canceling Overhead Headphones, $348                                                       |
-| 42 | iPhone 12 Mini Upfront Edge ($2.08 a month) YMMV                                                                         |
-| 43 | New Code: $25 off $100 or more purchase, Amazon Business Accounts only, YMMV                                             |
-| 44 | Fido Internet 50% off and $50 accessory credit                                                                           |
-| 45 | Bonified referal bonus from $25 to $50 Home Internet 60/10 Mbps $45/month or Mobile service Qc province + Ottawa region  |
-| 46 | [WARM] Jabra TWS earbuds - Refurbished, directly from Jabra 85T, 75t, 75t Active, Talk 35                                |
-| 47 | Coming Soon to Xbox Game Pass:Forza Horizon 5, It Takes Two, Grand Theft Auto: San Andreas, Football Manager 22 and More |
-| 48 | Apple Watch Nike Series 7, 45mm, GPS, Starlight Aluminum Pure Platinum Black Gemini Sport Band $530.74                   |
-| 49 | Apple AirPods Pro $249.98 ($79 off)                                                                                      |
-| 50 | Rode PodMic Cardioid Dynamic Podcasting Microphone $119 ($10 off) also at other retailers                                |
-| 51 | Rogers EPP BYOD: 25 GB $52.50 | 30 GB $56 YMMV                                                                           |
-| 52 | Unlimited call & txt and 6GB data for $36.00 [Bring Your Own Phone]                                                      |
-| 53 | (Warm) Shure SM7B Microphone - $469                                                                                      |
-| 54 | Try Crunchyroll Premium and Get 3 Months of Xbox Game Pass for PC FREE                                                   |
-| 55 | XPS with 3060 Ti is back $1440 with 10% coupon                                                                           |
-| 56 | Alienware Low Profile Cherry MX low profile Red switches RGB Mechanical Gaming Keyboard | AW510K | $160                  |
-| 57 | PC Digital Sale: Resident Evil Village $25.36 and more (Updated: 11/1 1:30PM)                                            |
-| 58 | $184 - Crucial P5 Plus NVME SSD - Gen 4 - 1TB - DRAM                                                                     |
-| 59 | Koodo BYOP Starter Plan - $15/ 250MB 3g data, 100 outgoing mins, unltd Incoming mins, unlimited sms                      |
-| 60 | Xbox Live Gold 12 Month Membership (Digital) $42.27, Xbox Game Pass Ultimate 1 Month Membership $8.89 | VPN Required     |
-| 61 | Panasonic DP-UB420-K 4k bluray player - approx $220 all in                                                               |
-| 62 | $45 25gb + $300 bill credit per line [win back]                                                                          |
-| 63 | Microsoft All in One wireless Media keyboard w/trackpad $40                                                              |
-| 64 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                             |
-| 65 | Early Black Friday sale.                                                                                                 |
-| 66 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                                      |
-| 67 | Google Pixel 3 XL 64GB Smartphone (T-Mobile Unlocked, Black)- (USD $ 219.99)                                             |
-| 68 | $2500 Samsung 65" 4K UHD HDR QLED QN65QN90AAFXZC 2021                                                                    |
-| 69 | Logitech M720 Triathlon Mouse $39.99 ($30 off)                                                                           |
-| 70 | Acer Aspire 3/5 Laptops $265/$250, in-store YMMV                                                                         |
-| 71 | Sony WH-1000XM4 Wireless Noise Canceling Overhead Headphones, $348                                                       |
-| 72 | iPhone 12 Mini Upfront Edge ($2.08 a month) YMMV                                                                         |
-| 73 | New Code: $25 off $100 or more purchase, Amazon Business Accounts only, YMMV                                             |
-| 74 | Fido Internet 50% off and $50 accessory credit                                                                           |
-| 75 | Bonified referal bonus from $25 to $50 Home Internet 60/10 Mbps $45/month or Mobile service Qc province + Ottawa region  |
-| 76 | [WARM] Jabra TWS earbuds - Refurbished, directly from Jabra 85T, 75t, 75t Active, Talk 35                                |
-| 77 | Coming Soon to Xbox Game Pass:Forza Horizon 5, It Takes Two, Grand Theft Auto: San Andreas, Football Manager 22 and More |
-| 78 | Apple Watch Nike Series 7, 45mm, GPS, Starlight Aluminum Pure Platinum Black Gemini Sport Band $530.74                   |
-| 79 | Apple AirPods Pro $249.98 ($79 off)                                                                                      |
-| 80 | Rode PodMic Cardioid Dynamic Podcasting Microphone $119 ($10 off) also at other retailers                                |
-| 81 | Rogers EPP BYOD: 25 GB $52.50 | 30 GB $56 YMMV                                                                           |
-| 82 | Unlimited call & txt and 6GB data for $36.00 [Bring Your Own Phone]                                                      |
-| 83 | (Warm) Shure SM7B Microphone - $469                                                                                      |
-| 84 | Try Crunchyroll Premium and Get 3 Months of Xbox Game Pass for PC FREE                                                   |
-| 85 | XPS with 3060 Ti is back $1440 with 10% coupon                                                                           |
-| 86 | Alienware Low Profile Cherry MX low profile Red switches RGB Mechanical Gaming Keyboard | AW510K | $160                  |
-| 87 | PC Digital Sale: Resident Evil Village $25.36 and more (Updated: 11/1 1:30PM)                                            |
-| 88 | $184 - Crucial P5 Plus NVME SSD - Gen 4 - 1TB - DRAM                                                                     |
-| 89 | Koodo BYOP Starter Plan - $15/ 250MB 3g data, 100 outgoing mins, unltd Incoming mins, unlimited sms                      |
+|    | deals                                                                                                                   |
+|---:|:------------------------------------------------------------------------------------------------------------------------|
+|  0 | Sony WH-1000XM4 Wireless Noise Canceling Overhead Headphones, $348                                                      |
+|  1 | Cybersale, 28+10% off, $1979 pretax, XPS Desktop, RTX 3070, i7-11700k, 32GB DDR4 2933, 1TB M.2 NVMe, black chasis, 500W |
+|  2 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                                     |
+|  3 | 11.11 Electronics Sale Items.                                                                                           |
+|  4 | Logitech M720 Triathlon Mouse $39.99 ($30 off)                                                                          |
+|  5 | Telus Purefibre Gigabit (1Gbps) Unlimited Internet (BC,AB) - $70/m, $150credit, 2yr term                                |
+|  6 | Unlimited call & txt and 6GB data for $36.00 [Bring Your Own Phone]                                                     |
+|  7 | Samsung Galaxy Tab S7 FE 64GB - 479.99                                                                                  |
+|  8 | Google One Storage - Free Google Nest Hub 2 when you sign up for 1 year 2 TB for $139.99                                |
+|  9 | Audio-Technica ATHSR50BTBW Wireless Headphones 100$ (Grey)                                                              |
+| 10 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
+| 11 | 3 Months of PC Game Pass for $1                                                                                         |
+| 12 | Basic Ring Doorbell with Amazon Echo Dot 4th gen - $94.99                                                               |
+| 13 | $45 25gb + $300 bill credit per line [win back]                                                                         |
+| 14 | Sony WF-1000XM4 True Wireless Noise-Cancelling Earbuds Black/Silver - $339.99 *PSP required*                            |
+| 15 | PC Digital Sale - Bundles, Crime Pays, NIS America, Tomb Raider Anniversary & more                                      |
+| 16 | Google Pixel 3 XL 64GB Smartphone (T-Mobile Unlocked, Black)- (USD $ 219.99)                                            |
+| 17 | WireLogic Sapphire 3.60 m (12 ft.) High Speed HDMI Cable, 2-pack - $9.97 (YMMV)                                         |
+| 18 | Watch Dogs: Legion (PS5) 69 % OFF $24.99                                                                                |
+| 19 | Redeem Airmiles for PS5 Just Dance 2021 bundle                                                                          |
+| 20 | PC Digital Sale: Resident Evil Village $26.69 and more (Updated: 11/2 8:00PM)                                           |
+| 21 | Acer Gaming desktop 11th gen i5 16GB DDR4 1TB SSD RTX 3060 Ti 1599.99$ + tax YMMV not in all stores                     |
+| 22 | DJI Mavic Mini 2 Bundle $570                                                                                            |
+| 23 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $225 B4 coupons, $3 S&H)                                                |
+| 24 | Rogers EPP BYOD: 25 GB $52.50 | 30 GB $56 YMMV                                                                          |
+| 25 | Amazon Gaming - Nov 2021 Free for Prime Members                                                                         |
+| 26 | Rode PodMic Cardioid Dynamic Podcasting Microphone $119 ($10 off) also at other retailers                               |
+| 27 | XPS with 3060 Ti is back $1440 with 10% coupon                                                                          |
+| 28 | Microsoft Surface Pro 8 Bundle (Includes Signature Keyboard with Slim Pen 2) - $2200 - $190 Off Retail                  |
+| 29 | Panasonic DP-UB420-K 4k bluray player - approx $220 all in                                                              |
+| 30 | Sony WH-1000XM4 Wireless Noise Canceling Overhead Headphones, $348                                                      |
+| 31 | Cybersale, 28+10% off, $1979 pretax, XPS Desktop, RTX 3070, i7-11700k, 32GB DDR4 2933, 1TB M.2 NVMe, black chasis, 500W |
+| 32 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                                     |
+| 33 | 11.11 Electronics Sale Items.                                                                                           |
+| 34 | Logitech M720 Triathlon Mouse $39.99 ($30 off)                                                                          |
+| 35 | Telus Purefibre Gigabit (1Gbps) Unlimited Internet (BC,AB) - $70/m, $150credit, 2yr term                                |
+| 36 | Unlimited call & txt and 6GB data for $36.00 [Bring Your Own Phone]                                                     |
+| 37 | Samsung Galaxy Tab S7 FE 64GB - 479.99                                                                                  |
+| 38 | Google One Storage - Free Google Nest Hub 2 when you sign up for 1 year 2 TB for $139.99                                |
+| 39 | Audio-Technica ATHSR50BTBW Wireless Headphones 100$ (Grey)                                                              |
+| 40 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
+| 41 | 3 Months of PC Game Pass for $1                                                                                         |
+| 42 | Basic Ring Doorbell with Amazon Echo Dot 4th gen - $94.99                                                               |
+| 43 | $45 25gb + $300 bill credit per line [win back]                                                                         |
+| 44 | Sony WF-1000XM4 True Wireless Noise-Cancelling Earbuds Black/Silver - $339.99 *PSP required*                            |
+| 45 | PC Digital Sale - Bundles, Crime Pays, NIS America, Tomb Raider Anniversary & more                                      |
+| 46 | Google Pixel 3 XL 64GB Smartphone (T-Mobile Unlocked, Black)- (USD $ 219.99)                                            |
+| 47 | WireLogic Sapphire 3.60 m (12 ft.) High Speed HDMI Cable, 2-pack - $9.97 (YMMV)                                         |
+| 48 | Watch Dogs: Legion (PS5) 69 % OFF $24.99                                                                                |
+| 49 | Redeem Airmiles for PS5 Just Dance 2021 bundle                                                                          |
+| 50 | PC Digital Sale: Resident Evil Village $26.69 and more (Updated: 11/2 8:00PM)                                           |
+| 51 | Acer Gaming desktop 11th gen i5 16GB DDR4 1TB SSD RTX 3060 Ti 1599.99$ + tax YMMV not in all stores                     |
+| 52 | DJI Mavic Mini 2 Bundle $570                                                                                            |
+| 53 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $225 B4 coupons, $3 S&H)                                                |
+| 54 | Rogers EPP BYOD: 25 GB $52.50 | 30 GB $56 YMMV                                                                          |
+| 55 | Amazon Gaming - Nov 2021 Free for Prime Members                                                                         |
+| 56 | Rode PodMic Cardioid Dynamic Podcasting Microphone $119 ($10 off) also at other retailers                               |
+| 57 | XPS with 3060 Ti is back $1440 with 10% coupon                                                                          |
+| 58 | Microsoft Surface Pro 8 Bundle (Includes Signature Keyboard with Slim Pen 2) - $2200 - $190 Off Retail                  |
+| 59 | Panasonic DP-UB420-K 4k bluray player - approx $220 all in                                                              |
+| 60 | Sony WH-1000XM4 Wireless Noise Canceling Overhead Headphones, $348                                                      |
+| 61 | Cybersale, 28+10% off, $1979 pretax, XPS Desktop, RTX 3070, i7-11700k, 32GB DDR4 2933, 1TB M.2 NVMe, black chasis, 500W |
+| 62 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                                     |
+| 63 | 11.11 Electronics Sale Items.                                                                                           |
+| 64 | Logitech M720 Triathlon Mouse $39.99 ($30 off)                                                                          |
+| 65 | Telus Purefibre Gigabit (1Gbps) Unlimited Internet (BC,AB) - $70/m, $150credit, 2yr term                                |
+| 66 | Unlimited call & txt and 6GB data for $36.00 [Bring Your Own Phone]                                                     |
+| 67 | Samsung Galaxy Tab S7 FE 64GB - 479.99                                                                                  |
+| 68 | Google One Storage - Free Google Nest Hub 2 when you sign up for 1 year 2 TB for $139.99                                |
+| 69 | Audio-Technica ATHSR50BTBW Wireless Headphones 100$ (Grey)                                                              |
+| 70 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
+| 71 | 3 Months of PC Game Pass for $1                                                                                         |
+| 72 | Basic Ring Doorbell with Amazon Echo Dot 4th gen - $94.99                                                               |
+| 73 | $45 25gb + $300 bill credit per line [win back]                                                                         |
+| 74 | Sony WF-1000XM4 True Wireless Noise-Cancelling Earbuds Black/Silver - $339.99 *PSP required*                            |
+| 75 | PC Digital Sale - Bundles, Crime Pays, NIS America, Tomb Raider Anniversary & more                                      |
+| 76 | Google Pixel 3 XL 64GB Smartphone (T-Mobile Unlocked, Black)- (USD $ 219.99)                                            |
+| 77 | WireLogic Sapphire 3.60 m (12 ft.) High Speed HDMI Cable, 2-pack - $9.97 (YMMV)                                         |
+| 78 | Watch Dogs: Legion (PS5) 69 % OFF $24.99                                                                                |
+| 79 | Redeem Airmiles for PS5 Just Dance 2021 bundle                                                                          |
+| 80 | PC Digital Sale: Resident Evil Village $26.69 and more (Updated: 11/2 8:00PM)                                           |
+| 81 | Acer Gaming desktop 11th gen i5 16GB DDR4 1TB SSD RTX 3060 Ti 1599.99$ + tax YMMV not in all stores                     |
+| 82 | DJI Mavic Mini 2 Bundle $570                                                                                            |
+| 83 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $225 B4 coupons, $3 S&H)                                                |
+| 84 | Rogers EPP BYOD: 25 GB $52.50 | 30 GB $56 YMMV                                                                          |
+| 85 | Amazon Gaming - Nov 2021 Free for Prime Members                                                                         |
+| 86 | Rode PodMic Cardioid Dynamic Podcasting Microphone $119 ($10 off) also at other retailers                               |
+| 87 | XPS with 3060 Ti is back $1440 with 10% coupon                                                                          |
+| 88 | Microsoft Surface Pro 8 Bundle (Includes Signature Keyboard with Slim Pen 2) - $2200 - $190 Off Retail                  |
+| 89 | Panasonic DP-UB420-K 4k bluray player - approx $220 all in                                                              |
