@@ -1,11 +1,11 @@
 |    | deals                                                                                                                  |
 |---:|:-----------------------------------------------------------------------------------------------------------------------|
-|  0 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
-|  1 | Rode PodMic Cardioid Dynamic Podcasting Microphone $119 ($10 off) also at other retailers                              |
-|  2 | Google One Storage - Free Google Nest Hub 2 when you sign up for 1 year 2 TB for $139.99                               |
-|  3 | Google Pixel 5 [CPO] $599                                                                                              |
-|  4 | Fire Stick 4K - $34.99 - 50% off                                                                                       |
-|  5 | Google Pixel 2XL 128 GB Just Black New Old Stock $199.99 right now on Amazon.ca.                                       |
+|  0 | Google Pixel 2XL 128 GB Just Black New Old Stock $199.99 right now on Amazon.ca.                                       |
+|  1 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
+|  2 | Rode PodMic Cardioid Dynamic Podcasting Microphone $119 ($10 off) also at other retailers                              |
+|  3 | Google One Storage - Free Google Nest Hub 2 when you sign up for 1 year 2 TB for $139.99                               |
+|  4 | Google Pixel 5 [CPO] $599                                                                                              |
+|  5 | Fire Stick 4K - $34.99 - 50% off                                                                                       |
 |  6 | YMMV PS5 BestBuy in-store stock                                                                                        |
 |  7 | Fido Free Tablet 4GB Plan, 24 Months *YMMV*                                                                            |
 |  8 | Telus EPP 20GB/$50 BYOD                                                                                                |
@@ -30,13 +30,13 @@
 | 27 | Klein Tools VDV226-110 Wire Crimper/Wire Cutter/Wire Stripper Pass-Thru Modular All-in-One Tool [$61.14]               |
 | 28 | XPS with 3060 Ti is back $1440 with 10% coupon                                                                         |
 | 29 | Audio-Technica ATH-ANC900BT Bluetooth Headphones - $150.49 ($379MSRP)                                                  |
-| 30 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
-| 31 | Rode PodMic Cardioid Dynamic Podcasting Microphone $119 ($10 off) also at other retailers                              |
-| 32 | Google One Storage - Free Google Nest Hub 2 when you sign up for 1 year 2 TB for $139.99                               |
-| 33 | Google Pixel 5 [CPO] $599                                                                                              |
-| 34 | Fire Stick 4K - $34.99 - 50% off                                                                                       |
-| 35 | Google Pixel 2XL 128 GB Just Black New Old Stock $199.99 right now on Amazon.ca.                                       |
-| 36 | YMMV PS5 BestBuy in-store stock                                                                                        |
+| 30 | YMMV PS5 BestBuy in-store stock                                                                                        |
+| 31 | Google Pixel 2XL 128 GB Just Black New Old Stock $199.99 right now on Amazon.ca.                                       |
+| 32 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
+| 33 | Rode PodMic Cardioid Dynamic Podcasting Microphone $119 ($10 off) also at other retailers                              |
+| 34 | Google One Storage - Free Google Nest Hub 2 when you sign up for 1 year 2 TB for $139.99                               |
+| 35 | Google Pixel 5 [CPO] $599                                                                                              |
+| 36 | Fire Stick 4K - $34.99 - 50% off                                                                                       |
 | 37 | Fido Free Tablet 4GB Plan, 24 Months *YMMV*                                                                            |
 | 38 | Telus EPP 20GB/$50 BYOD                                                                                                |
 | 39 | Get $30 off . Min purchase $80 when Redeem only 3 TD points                                                            |
@@ -60,13 +60,13 @@
 | 57 | Klein Tools VDV226-110 Wire Crimper/Wire Cutter/Wire Stripper Pass-Thru Modular All-in-One Tool [$61.14]               |
 | 58 | XPS with 3060 Ti is back $1440 with 10% coupon                                                                         |
 | 59 | Audio-Technica ATH-ANC900BT Bluetooth Headphones - $150.49 ($379MSRP)                                                  |
-| 60 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
-| 61 | Rode PodMic Cardioid Dynamic Podcasting Microphone $119 ($10 off) also at other retailers                              |
-| 62 | Google One Storage - Free Google Nest Hub 2 when you sign up for 1 year 2 TB for $139.99                               |
-| 63 | Google Pixel 5 [CPO] $599                                                                                              |
-| 64 | Fire Stick 4K - $34.99 - 50% off                                                                                       |
-| 65 | Google Pixel 2XL 128 GB Just Black New Old Stock $199.99 right now on Amazon.ca.                                       |
-| 66 | YMMV PS5 BestBuy in-store stock                                                                                        |
+| 60 | YMMV PS5 BestBuy in-store stock                                                                                        |
+| 61 | Google Pixel 2XL 128 GB Just Black New Old Stock $199.99 right now on Amazon.ca.                                       |
+| 62 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
+| 63 | Rode PodMic Cardioid Dynamic Podcasting Microphone $119 ($10 off) also at other retailers                              |
+| 64 | Google One Storage - Free Google Nest Hub 2 when you sign up for 1 year 2 TB for $139.99                               |
+| 65 | Google Pixel 5 [CPO] $599                                                                                              |
+| 66 | Fire Stick 4K - $34.99 - 50% off                                                                                       |
 | 67 | Fido Free Tablet 4GB Plan, 24 Months *YMMV*                                                                            |
 | 68 | Telus EPP 20GB/$50 BYOD                                                                                                |
 | 69 | Get $30 off . Min purchase $80 when Redeem only 3 TD points                                                            |
