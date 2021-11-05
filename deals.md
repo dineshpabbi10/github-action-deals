@@ -1,92 +1,92 @@
-|    | deals                                                                                                                   |
-|---:|:------------------------------------------------------------------------------------------------------------------------|
-|  0 | Fire Stick 4K - $34.99 - 50% off                                                                                        |
-|  1 | Iphone 12 mini - $6.75/month x 24 months on Fido Payment Plan (Certified Pre-owned)                                     |
-|  2 | Goodnotes 5 (note taking app) $5.49                                                                                     |
-|  3 | Logitech G600 MMO gaming mouse $39.98 - not ATL, but close                                                              |
-|  4 | 3 Months of PC Game Pass for $1                                                                                         |
-|  5 | Creality Ender 3D V2 with 2KG PLA $331.45                                                                               |
-|  6 | Adidas RPT-01 (workout headphones) 78.29$                                                                               |
-|  7 | PC Digital Sale: Age of Empires IV (Win 10) $55.19, Control Ultimate Edition $1.09 and more (Updated: 11/3 9:10PM)      |
-|  8 | Logitech G502 HERO - $49.99 (ATL)                                                                                       |
-|  9 | iPhone 12 Mini Upfront Edge ($2.08 a month) YMMV                                                                        |
-| 10 | Blink Outdoor – 5 camera kit and Blink Mini - $304.98                                                                   |
-| 11 | $55 for 25GB + Unlimited Canada Minutes & Text                                                                          |
-| 12 | Kingston A2000 1TB M.2 nvme ssd $99.99                                                                                  |
-| 13 | 4 smart plugs for $27, rakuten 10%                                                                                      |
-| 14 | Intel i5-10400F $185.88 + tax and shipping                                                                              |
-| 15 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
-| 16 | Switch eShop Sale (Updated: 11/03 9:00PM)                                                                               |
-| 17 | HyperX Cloud Playstation Blue/XBox Silver $54.99                                                                        |
-| 18 | Telus Purefibre Gigabit (1Gbps) Unlimited Internet (BC,AB) - $70/m, $150credit, 2yr term                                |
-| 19 | Demo A12Z Cellular iPad Pro 128GB $475 - YMMV                                                                           |
-| 20 | Official Launch of Canadian Wyze Store [warm]                                                                           |
-| 21 | Steelseries Arctis 7 - Clearance - $139.97 In-Store [YMMV]                                                              |
-| 22 | Cybersale, 28+10% off, $1979 pretax, XPS Desktop, RTX 3070, i7-11700k, 32GB DDR4 2933, 1TB M.2 NVMe, black chasis, 500W |
-| 23 | TP-Link Kasa Smart Dimmer Switch (HS220) $20                                                                            |
-| 24 | 2x KBEAR Stellar Earbuds for $2.77 TOTAL with Free Shipping                                                             |
-| 25 | Netgear Nighthawk 8-stream Tri-Band WiFi 6 Router (up to 6.6Gbps) $299.99                                               |
-| 26 | Reolink Early Black Friday Sale * 12-36% OFF + COUPON                                                                   |
-| 27 | 11.11 Electronics Sale Items.                                                                                           |
-| 28 | Kanto Speaker Stands Sale                                                                                               |
-| 29 | LG 65 in. Smart 4K OLED TV OLED65C1 For New price $2597.99 online                                                       |
-| 30 | Fire Stick 4K - $34.99 - 50% off                                                                                        |
-| 31 | Iphone 12 mini - $6.75/month x 24 months on Fido Payment Plan (Certified Pre-owned)                                     |
-| 32 | Goodnotes 5 (note taking app) $5.49                                                                                     |
-| 33 | Logitech G600 MMO gaming mouse $39.98 - not ATL, but close                                                              |
-| 34 | 3 Months of PC Game Pass for $1                                                                                         |
-| 35 | Creality Ender 3D V2 with 2KG PLA $331.45                                                                               |
-| 36 | Adidas RPT-01 (workout headphones) 78.29$                                                                               |
-| 37 | PC Digital Sale: Age of Empires IV (Win 10) $55.19, Control Ultimate Edition $1.09 and more (Updated: 11/3 9:10PM)      |
-| 38 | Logitech G502 HERO - $49.99 (ATL)                                                                                       |
-| 39 | iPhone 12 Mini Upfront Edge ($2.08 a month) YMMV                                                                        |
-| 40 | Blink Outdoor – 5 camera kit and Blink Mini - $304.98                                                                   |
-| 41 | $55 for 25GB + Unlimited Canada Minutes & Text                                                                          |
-| 42 | Kingston A2000 1TB M.2 nvme ssd $99.99                                                                                  |
-| 43 | 4 smart plugs for $27, rakuten 10%                                                                                      |
-| 44 | Intel i5-10400F $185.88 + tax and shipping                                                                              |
-| 45 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
-| 46 | Switch eShop Sale (Updated: 11/03 9:00PM)                                                                               |
-| 47 | HyperX Cloud Playstation Blue/XBox Silver $54.99                                                                        |
-| 48 | Telus Purefibre Gigabit (1Gbps) Unlimited Internet (BC,AB) - $70/m, $150credit, 2yr term                                |
-| 49 | Demo A12Z Cellular iPad Pro 128GB $475 - YMMV                                                                           |
-| 50 | Official Launch of Canadian Wyze Store [warm]                                                                           |
-| 51 | Steelseries Arctis 7 - Clearance - $139.97 In-Store [YMMV]                                                              |
-| 52 | Cybersale, 28+10% off, $1979 pretax, XPS Desktop, RTX 3070, i7-11700k, 32GB DDR4 2933, 1TB M.2 NVMe, black chasis, 500W |
-| 53 | TP-Link Kasa Smart Dimmer Switch (HS220) $20                                                                            |
-| 54 | 2x KBEAR Stellar Earbuds for $2.77 TOTAL with Free Shipping                                                             |
-| 55 | Netgear Nighthawk 8-stream Tri-Band WiFi 6 Router (up to 6.6Gbps) $299.99                                               |
-| 56 | Reolink Early Black Friday Sale * 12-36% OFF + COUPON                                                                   |
-| 57 | 11.11 Electronics Sale Items.                                                                                           |
-| 58 | Kanto Speaker Stands Sale                                                                                               |
-| 59 | LG 65 in. Smart 4K OLED TV OLED65C1 For New price $2597.99 online                                                       |
-| 60 | Fire Stick 4K - $34.99 - 50% off                                                                                        |
-| 61 | Iphone 12 mini - $6.75/month x 24 months on Fido Payment Plan (Certified Pre-owned)                                     |
-| 62 | Goodnotes 5 (note taking app) $5.49                                                                                     |
-| 63 | Logitech G600 MMO gaming mouse $39.98 - not ATL, but close                                                              |
-| 64 | 3 Months of PC Game Pass for $1                                                                                         |
-| 65 | Creality Ender 3D V2 with 2KG PLA $331.45                                                                               |
-| 66 | Adidas RPT-01 (workout headphones) 78.29$                                                                               |
-| 67 | PC Digital Sale: Age of Empires IV (Win 10) $55.19, Control Ultimate Edition $1.09 and more (Updated: 11/3 9:10PM)      |
-| 68 | Logitech G502 HERO - $49.99 (ATL)                                                                                       |
-| 69 | iPhone 12 Mini Upfront Edge ($2.08 a month) YMMV                                                                        |
-| 70 | Blink Outdoor – 5 camera kit and Blink Mini - $304.98                                                                   |
-| 71 | $55 for 25GB + Unlimited Canada Minutes & Text                                                                          |
-| 72 | Kingston A2000 1TB M.2 nvme ssd $99.99                                                                                  |
-| 73 | 4 smart plugs for $27, rakuten 10%                                                                                      |
-| 74 | Intel i5-10400F $185.88 + tax and shipping                                                                              |
-| 75 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
-| 76 | Switch eShop Sale (Updated: 11/03 9:00PM)                                                                               |
-| 77 | HyperX Cloud Playstation Blue/XBox Silver $54.99                                                                        |
-| 78 | Telus Purefibre Gigabit (1Gbps) Unlimited Internet (BC,AB) - $70/m, $150credit, 2yr term                                |
-| 79 | Demo A12Z Cellular iPad Pro 128GB $475 - YMMV                                                                           |
-| 80 | Official Launch of Canadian Wyze Store [warm]                                                                           |
-| 81 | Steelseries Arctis 7 - Clearance - $139.97 In-Store [YMMV]                                                              |
-| 82 | Cybersale, 28+10% off, $1979 pretax, XPS Desktop, RTX 3070, i7-11700k, 32GB DDR4 2933, 1TB M.2 NVMe, black chasis, 500W |
-| 83 | TP-Link Kasa Smart Dimmer Switch (HS220) $20                                                                            |
-| 84 | 2x KBEAR Stellar Earbuds for $2.77 TOTAL with Free Shipping                                                             |
-| 85 | Netgear Nighthawk 8-stream Tri-Band WiFi 6 Router (up to 6.6Gbps) $299.99                                               |
-| 86 | Reolink Early Black Friday Sale * 12-36% OFF + COUPON                                                                   |
-| 87 | 11.11 Electronics Sale Items.                                                                                           |
-| 88 | Kanto Speaker Stands Sale                                                                                               |
-| 89 | LG 65 in. Smart 4K OLED TV OLED65C1 For New price $2597.99 online                                                       |
+|    | deals                                                                                                                  |
+|---:|:-----------------------------------------------------------------------------------------------------------------------|
+|  0 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
+|  1 | Rode PodMic Cardioid Dynamic Podcasting Microphone $119 ($10 off) also at other retailers                              |
+|  2 | Google One Storage - Free Google Nest Hub 2 when you sign up for 1 year 2 TB for $139.99                               |
+|  3 | Google Pixel 5 [CPO] $599                                                                                              |
+|  4 | Fire Stick 4K - $34.99 - 50% off                                                                                       |
+|  5 | Google Pixel 2XL 128 GB Just Black New Old Stock $199.99 right now on Amazon.ca.                                       |
+|  6 | YMMV PS5 BestBuy in-store stock                                                                                        |
+|  7 | Fido Free Tablet 4GB Plan, 24 Months *YMMV*                                                                            |
+|  8 | Telus EPP 20GB/$50 BYOD                                                                                                |
+|  9 | Get $30 off . Min purchase $80 when Redeem only 3 TD points                                                            |
+| 10 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)                  |
+| 11 | Intel Core i9-12900K CPU 16 (8P+8E) Cores, 24 Threads up to 5.2 GHz, Unlocked new 12th Gen are here $749.99            |
+| 12 | LG C1 OLED - 65" - $2297.99 - Starts Nov 5.                                                                            |
+| 13 | Aven Colony - free to 11/11, 11am EST                                                                                  |
+| 14 | Fitbit Inspire 2 - $80                                                                                                 |
+| 15 | LG C1 OLED discounts - 48" $1499, 55" $1699, 65" $2299, 77" $3999                                                      |
+| 16 | ELDEN RING PC(Pre-Oder) - $53.39                                                                                       |
+| 17 | Amazon: Casio Men's 10 Year Batt Quartz Watch w/Stainless Steel Strap, Silver, 2 (Model: AE-1200WHD-7AVCF) $29.99 (40% |
+| 18 | Kingston A2000 1TB M.2 nvme ssd $99.99                                                                                 |
+| 19 | Elden Ring Collector's Edition (PS5/PS4/XBOX) - $249.99 (Pre-Order - Feb 25, 2022)                                     |
+| 20 | [Lightning Deal] 3 in 1 Magnetic Wireless Charger (Apple iPhone + Watch + AIrpods)                                     |
+| 21 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                                    |
+| 22 | Panasonic DP-UB420-K 4k bluray player - approx $220 all in                                                             |
+| 23 | Pixel 3 XL 64GB - New stock - $254                                                                                     |
+| 24 | 11.11 Electronics Sale Items.                                                                                          |
+| 25 | NordVPN - Save 72% this BF Get 2 years of the best VPN service (including SmartDNS) for $3.29 per month.               |
+| 26 | [3 HK] Mobile Data 10GB (CA/US/AUS/NZ/UK) eSIM - $138 HKD/$22 CAD                                                      |
+| 27 | Klein Tools VDV226-110 Wire Crimper/Wire Cutter/Wire Stripper Pass-Thru Modular All-in-One Tool [$61.14]               |
+| 28 | XPS with 3060 Ti is back $1440 with 10% coupon                                                                         |
+| 29 | Audio-Technica ATH-ANC900BT Bluetooth Headphones - $150.49 ($379MSRP)                                                  |
+| 30 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
+| 31 | Rode PodMic Cardioid Dynamic Podcasting Microphone $119 ($10 off) also at other retailers                              |
+| 32 | Google One Storage - Free Google Nest Hub 2 when you sign up for 1 year 2 TB for $139.99                               |
+| 33 | Google Pixel 5 [CPO] $599                                                                                              |
+| 34 | Fire Stick 4K - $34.99 - 50% off                                                                                       |
+| 35 | Google Pixel 2XL 128 GB Just Black New Old Stock $199.99 right now on Amazon.ca.                                       |
+| 36 | YMMV PS5 BestBuy in-store stock                                                                                        |
+| 37 | Fido Free Tablet 4GB Plan, 24 Months *YMMV*                                                                            |
+| 38 | Telus EPP 20GB/$50 BYOD                                                                                                |
+| 39 | Get $30 off . Min purchase $80 when Redeem only 3 TD points                                                            |
+| 40 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)                  |
+| 41 | Intel Core i9-12900K CPU 16 (8P+8E) Cores, 24 Threads up to 5.2 GHz, Unlocked new 12th Gen are here $749.99            |
+| 42 | LG C1 OLED - 65" - $2297.99 - Starts Nov 5.                                                                            |
+| 43 | Aven Colony - free to 11/11, 11am EST                                                                                  |
+| 44 | Fitbit Inspire 2 - $80                                                                                                 |
+| 45 | LG C1 OLED discounts - 48" $1499, 55" $1699, 65" $2299, 77" $3999                                                      |
+| 46 | ELDEN RING PC(Pre-Oder) - $53.39                                                                                       |
+| 47 | Amazon: Casio Men's 10 Year Batt Quartz Watch w/Stainless Steel Strap, Silver, 2 (Model: AE-1200WHD-7AVCF) $29.99 (40% |
+| 48 | Kingston A2000 1TB M.2 nvme ssd $99.99                                                                                 |
+| 49 | Elden Ring Collector's Edition (PS5/PS4/XBOX) - $249.99 (Pre-Order - Feb 25, 2022)                                     |
+| 50 | [Lightning Deal] 3 in 1 Magnetic Wireless Charger (Apple iPhone + Watch + AIrpods)                                     |
+| 51 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                                    |
+| 52 | Panasonic DP-UB420-K 4k bluray player - approx $220 all in                                                             |
+| 53 | Pixel 3 XL 64GB - New stock - $254                                                                                     |
+| 54 | 11.11 Electronics Sale Items.                                                                                          |
+| 55 | NordVPN - Save 72% this BF Get 2 years of the best VPN service (including SmartDNS) for $3.29 per month.               |
+| 56 | [3 HK] Mobile Data 10GB (CA/US/AUS/NZ/UK) eSIM - $138 HKD/$22 CAD                                                      |
+| 57 | Klein Tools VDV226-110 Wire Crimper/Wire Cutter/Wire Stripper Pass-Thru Modular All-in-One Tool [$61.14]               |
+| 58 | XPS with 3060 Ti is back $1440 with 10% coupon                                                                         |
+| 59 | Audio-Technica ATH-ANC900BT Bluetooth Headphones - $150.49 ($379MSRP)                                                  |
+| 60 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
+| 61 | Rode PodMic Cardioid Dynamic Podcasting Microphone $119 ($10 off) also at other retailers                              |
+| 62 | Google One Storage - Free Google Nest Hub 2 when you sign up for 1 year 2 TB for $139.99                               |
+| 63 | Google Pixel 5 [CPO] $599                                                                                              |
+| 64 | Fire Stick 4K - $34.99 - 50% off                                                                                       |
+| 65 | Google Pixel 2XL 128 GB Just Black New Old Stock $199.99 right now on Amazon.ca.                                       |
+| 66 | YMMV PS5 BestBuy in-store stock                                                                                        |
+| 67 | Fido Free Tablet 4GB Plan, 24 Months *YMMV*                                                                            |
+| 68 | Telus EPP 20GB/$50 BYOD                                                                                                |
+| 69 | Get $30 off . Min purchase $80 when Redeem only 3 TD points                                                            |
+| 70 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)                  |
+| 71 | Intel Core i9-12900K CPU 16 (8P+8E) Cores, 24 Threads up to 5.2 GHz, Unlocked new 12th Gen are here $749.99            |
+| 72 | LG C1 OLED - 65" - $2297.99 - Starts Nov 5.                                                                            |
+| 73 | Aven Colony - free to 11/11, 11am EST                                                                                  |
+| 74 | Fitbit Inspire 2 - $80                                                                                                 |
+| 75 | LG C1 OLED discounts - 48" $1499, 55" $1699, 65" $2299, 77" $3999                                                      |
+| 76 | ELDEN RING PC(Pre-Oder) - $53.39                                                                                       |
+| 77 | Amazon: Casio Men's 10 Year Batt Quartz Watch w/Stainless Steel Strap, Silver, 2 (Model: AE-1200WHD-7AVCF) $29.99 (40% |
+| 78 | Kingston A2000 1TB M.2 nvme ssd $99.99                                                                                 |
+| 79 | Elden Ring Collector's Edition (PS5/PS4/XBOX) - $249.99 (Pre-Order - Feb 25, 2022)                                     |
+| 80 | [Lightning Deal] 3 in 1 Magnetic Wireless Charger (Apple iPhone + Watch + AIrpods)                                     |
+| 81 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                                    |
+| 82 | Panasonic DP-UB420-K 4k bluray player - approx $220 all in                                                             |
+| 83 | Pixel 3 XL 64GB - New stock - $254                                                                                     |
+| 84 | 11.11 Electronics Sale Items.                                                                                          |
+| 85 | NordVPN - Save 72% this BF Get 2 years of the best VPN service (including SmartDNS) for $3.29 per month.               |
+| 86 | [3 HK] Mobile Data 10GB (CA/US/AUS/NZ/UK) eSIM - $138 HKD/$22 CAD                                                      |
+| 87 | Klein Tools VDV226-110 Wire Crimper/Wire Cutter/Wire Stripper Pass-Thru Modular All-in-One Tool [$61.14]               |
+| 88 | XPS with 3060 Ti is back $1440 with 10% coupon                                                                         |
+| 89 | Audio-Technica ATH-ANC900BT Bluetooth Headphones - $150.49 ($379MSRP)                                                  |
