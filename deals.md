@@ -1,13 +1,13 @@
 |    | deals                                                                                                                  |
 |---:|:-----------------------------------------------------------------------------------------------------------------------|
 |  0 | [Sponsored] Black Friday Savings: HUAWEI Smart Watches, Earbuds, WiFi 6 Routers at Amazon.ca                           |
-|  1 | Samsung the frame tv 55" (2021) $1498                                                                                  |
-|  2 | Elden Ring (PC) - $53.39 (pre-order)                                                                                   |
-|  3 | Legion Anti-Fray Gaming XL Cloth Mouse Pad - $12.98                                                                    |
-|  4 | LG C1 OLED 48" $1499 / 55" $1699 / 65" $2299 / 77" $3999 / 83" $6999 (Costco, BestBuy, Amazon and others)              |
-|  5 | iPhone 12 mini ($5.00/mo) YMMV                                                                                         |
-|  6 | *Red HOT* BC Fortis Instant Rebate on Thermostat                                                                       |
-|  7 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
+|  1 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
+|  2 | Samsung the frame tv 55" (2021) $1498                                                                                  |
+|  3 | Elden Ring (PC) - $53.39 (pre-order)                                                                                   |
+|  4 | Legion Anti-Fray Gaming XL Cloth Mouse Pad - $12.98                                                                    |
+|  5 | LG C1 OLED 48" $1499 / 55" $1699 / 65" $2299 / 77" $3999 / 83" $6999 (Costco, BestBuy, Amazon and others)              |
+|  6 | iPhone 12 mini ($5.00/mo) YMMV                                                                                         |
+|  7 | *Red HOT* BC Fortis Instant Rebate on Thermostat                                                                       |
 |  8 | NEW Jabra Elite 75t - $99                                                                                              |
 |  9 | Free MS certification exam voucher (upon completing MS Ingite 2021 Cloud Skills challenge) ***Registration now open*** |
 | 10 | Fire Stick 4K - $34.99 - 50% off                                                                                       |
@@ -31,13 +31,13 @@
 | 28 | 3 Months of PC Game Pass for $1                                                                                        |
 | 29 | $1250 XPG Xenia 14 w/ Core™ i7-1165G7, 16GB, 512GB NVMe SSD, 14in Full HD, Iris Xe, Wi-Fi 6, BT, Windows 10 Home       |
 | 30 | [Sponsored] Black Friday Savings: HUAWEI Smart Watches, Earbuds, WiFi 6 Routers at Amazon.ca                           |
-| 31 | Samsung the frame tv 55" (2021) $1498                                                                                  |
-| 32 | Elden Ring (PC) - $53.39 (pre-order)                                                                                   |
-| 33 | Legion Anti-Fray Gaming XL Cloth Mouse Pad - $12.98                                                                    |
-| 34 | LG C1 OLED 48" $1499 / 55" $1699 / 65" $2299 / 77" $3999 / 83" $6999 (Costco, BestBuy, Amazon and others)              |
-| 35 | iPhone 12 mini ($5.00/mo) YMMV                                                                                         |
-| 36 | *Red HOT* BC Fortis Instant Rebate on Thermostat                                                                       |
-| 37 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
+| 31 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
+| 32 | Samsung the frame tv 55" (2021) $1498                                                                                  |
+| 33 | Elden Ring (PC) - $53.39 (pre-order)                                                                                   |
+| 34 | Legion Anti-Fray Gaming XL Cloth Mouse Pad - $12.98                                                                    |
+| 35 | LG C1 OLED 48" $1499 / 55" $1699 / 65" $2299 / 77" $3999 / 83" $6999 (Costco, BestBuy, Amazon and others)              |
+| 36 | iPhone 12 mini ($5.00/mo) YMMV                                                                                         |
+| 37 | *Red HOT* BC Fortis Instant Rebate on Thermostat                                                                       |
 | 38 | NEW Jabra Elite 75t - $99                                                                                              |
 | 39 | Free MS certification exam voucher (upon completing MS Ingite 2021 Cloud Skills challenge) ***Registration now open*** |
 | 40 | Fire Stick 4K - $34.99 - 50% off                                                                                       |
@@ -61,13 +61,13 @@
 | 58 | 3 Months of PC Game Pass for $1                                                                                        |
 | 59 | $1250 XPG Xenia 14 w/ Core™ i7-1165G7, 16GB, 512GB NVMe SSD, 14in Full HD, Iris Xe, Wi-Fi 6, BT, Windows 10 Home       |
 | 60 | [Sponsored] Black Friday Savings: HUAWEI Smart Watches, Earbuds, WiFi 6 Routers at Amazon.ca                           |
-| 61 | Samsung the frame tv 55" (2021) $1498                                                                                  |
-| 62 | Elden Ring (PC) - $53.39 (pre-order)                                                                                   |
-| 63 | Legion Anti-Fray Gaming XL Cloth Mouse Pad - $12.98                                                                    |
-| 64 | LG C1 OLED 48" $1499 / 55" $1699 / 65" $2299 / 77" $3999 / 83" $6999 (Costco, BestBuy, Amazon and others)              |
-| 65 | iPhone 12 mini ($5.00/mo) YMMV                                                                                         |
-| 66 | *Red HOT* BC Fortis Instant Rebate on Thermostat                                                                       |
-| 67 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
+| 61 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
+| 62 | Samsung the frame tv 55" (2021) $1498                                                                                  |
+| 63 | Elden Ring (PC) - $53.39 (pre-order)                                                                                   |
+| 64 | Legion Anti-Fray Gaming XL Cloth Mouse Pad - $12.98                                                                    |
+| 65 | LG C1 OLED 48" $1499 / 55" $1699 / 65" $2299 / 77" $3999 / 83" $6999 (Costco, BestBuy, Amazon and others)              |
+| 66 | iPhone 12 mini ($5.00/mo) YMMV                                                                                         |
+| 67 | *Red HOT* BC Fortis Instant Rebate on Thermostat                                                                       |
 | 68 | NEW Jabra Elite 75t - $99                                                                                              |
 | 69 | Free MS certification exam voucher (upon completing MS Ingite 2021 Cloud Skills challenge) ***Registration now open*** |
 | 70 | Fire Stick 4K - $34.99 - 50% off                                                                                       |
