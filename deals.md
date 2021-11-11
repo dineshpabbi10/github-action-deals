@@ -1,92 +1,92 @@
-|    | deals                                                                                                                    |
-|---:|:-------------------------------------------------------------------------------------------------------------------------|
-|  0 | [Sponsored] Black Friday Savings: HUAWEI Smart Watches, Earbuds, WiFi 6 Routers at Amazon.ca                             |
-|  1 | [3 HK] Mobile Data 10GB (CA/US/AUS/NZ/UK) eSIM - $138 HKD/$22 CAD                                                        |
-|  2 | Refurbished M1 MacBook Airs back in stock at $1099                                                                       |
-|  3 | Tile Pro 4 pack, ymmv, $29.99                                                                                            |
-|  4 | Dell Inspiron 3511 - Intel i3-1115G4, 128GB SSD, 8GB DDR4, 15.6" FHD IPS Screen - $410 after 10% discount and 8% rakuten |
-|  5 | Amazon Echo dot 3rd/4th Gen + Sengled Bluetooth Smart Color Bulb $24.99 / $34.99                                         |
-|  6 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                                      |
-|  7 | RAZER KISHI Game Controller for iPhone (iOS) - 74.99$                                                                    |
-|  8 | Fitbit Inspire 2 - $80                                                                                                   |
-|  9 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $225 B4 coupons, $3 S&H)                                                 |
-| 10 | $45 25gb + $300 bill credit per line [win back]                                                                          |
-| 11 | LG C1 OLED 48" $1499 / 55" $1699 / 65" $2299 / 77" $3999 (Costco, BestBuy, Amazon and others) Ends Dec. 2                |
-| 12 | Surfshark vpn 83% off +free 3 months                                                                                     |
-| 13 | Double Edge Discount (10/20/30% off) on PLAYD PS4/Xbox One Games                                                         |
-| 14 | Demo A12Z Cellular iPad Pro 128GB $475 - YMMV                                                                            |
-| 15 | Soundcore Anker Q35. Bluetooth wireless headphones. Decent deal? Warm? Lukewarm? OK OK they're PINK!                     |
-| 16 | 1-Year PlayStation Plus Membership (Digital Delivery) $53.69 CAD                                                         |
-| 17 | Dell XPS 15 w/OLED - 2028.59                                                                                             |
-| 18 | iPhone 11 pro max - open box $899                                                                                        |
-| 19 | Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure (Free / 100% off)                                   |
-| 20 | [YMMV] Free 5GB Data Rogers added to Plan                                                                                |
-| 21 | Beholder / FREE                                                                                                          |
-| 22 | Nintendo's Black Friday Sale: First Party Nintendo Switch Games (various retailers)                                      |
-| 23 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                             |
-| 24 | LG OLED 48" $1497.99 - 55" $1697.99 - 65" $2297.99 Until Nov18                                                           |
-| 25 | World of Warships addon - FREE! Don't need ACTUAL game, but that's FREE too!                                             |
-| 26 | Assassins Creed Chronicles PC - Free                                                                                     |
-| 27 | KEO - FREE                                                                                                               |
-| 28 | ASUS C204EE 11.6" Chromebook N4020, 4/32 GB, USB-C display/power delivery - $170                                         |
-| 29 | Assassin's Creed Chronicles Trilogy - For PC - FREE (NOV 9-12)                                                           |
-| 30 | [Sponsored] Black Friday Savings: HUAWEI Smart Watches, Earbuds, WiFi 6 Routers at Amazon.ca                             |
-| 31 | Fire Stick 4K - $34.99 - 50% off                                                                                         |
-| 32 | [3 HK] Mobile Data 10GB (CA/US/AUS/NZ/UK) eSIM - $138 HKD/$22 CAD                                                        |
-| 33 | Refurbished M1 MacBook Airs back in stock at $1099                                                                       |
-| 34 | Tile Pro 4 pack, ymmv, $29.99                                                                                            |
-| 35 | Dell Inspiron 3511 - Intel i3-1115G4, 128GB SSD, 8GB DDR4, 15.6" FHD IPS Screen - $410 after 10% discount and 8% rakuten |
-| 36 | Amazon Echo dot 3rd/4th Gen + Sengled Bluetooth Smart Color Bulb $24.99 / $34.99                                         |
-| 37 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                                      |
-| 38 | RAZER KISHI Game Controller for iPhone (iOS) - 74.99$                                                                    |
-| 39 | Fitbit Inspire 2 - $80                                                                                                   |
-| 40 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $225 B4 coupons, $3 S&H)                                                 |
-| 41 | $45 25gb + $300 bill credit per line [win back]                                                                          |
-| 42 | LG C1 OLED 48" $1499 / 55" $1699 / 65" $2299 / 77" $3999 (Costco, BestBuy, Amazon and others) Ends Dec. 2                |
-| 43 | Surfshark vpn 83% off +free 3 months                                                                                     |
-| 44 | Double Edge Discount (10/20/30% off) on PLAYD PS4/Xbox One Games                                                         |
-| 45 | Demo A12Z Cellular iPad Pro 128GB $475 - YMMV                                                                            |
-| 46 | Soundcore Anker Q35. Bluetooth wireless headphones. Decent deal? Warm? Lukewarm? OK OK they're PINK!                     |
-| 47 | 1-Year PlayStation Plus Membership (Digital Delivery) $53.69 CAD                                                         |
-| 48 | Dell XPS 15 w/OLED - 2028.59                                                                                             |
-| 49 | iPhone 11 pro max - open box $899                                                                                        |
-| 50 | Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure (Free / 100% off)                                   |
-| 51 | [YMMV] Free 5GB Data Rogers added to Plan                                                                                |
-| 52 | Beholder / FREE                                                                                                          |
-| 53 | Nintendo's Black Friday Sale: First Party Nintendo Switch Games (various retailers)                                      |
-| 54 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                             |
-| 55 | LG OLED 48" $1497.99 - 55" $1697.99 - 65" $2297.99 Until Nov18                                                           |
-| 56 | World of Warships addon - FREE! Don't need ACTUAL game, but that's FREE too!                                             |
-| 57 | Assassins Creed Chronicles PC - Free                                                                                     |
-| 58 | KEO - FREE                                                                                                               |
-| 59 | ASUS C204EE 11.6" Chromebook N4020, 4/32 GB, USB-C display/power delivery - $170                                         |
-| 60 | [Sponsored] Black Friday Savings: HUAWEI Smart Watches, Earbuds, WiFi 6 Routers at Amazon.ca                             |
-| 61 | Fire Stick 4K - $34.99 - 50% off                                                                                         |
-| 62 | [3 HK] Mobile Data 10GB (CA/US/AUS/NZ/UK) eSIM - $138 HKD/$22 CAD                                                        |
-| 63 | Refurbished M1 MacBook Airs back in stock at $1099                                                                       |
-| 64 | Tile Pro 4 pack, ymmv, $29.99                                                                                            |
-| 65 | Dell Inspiron 3511 - Intel i3-1115G4, 128GB SSD, 8GB DDR4, 15.6" FHD IPS Screen - $410 after 10% discount and 8% rakuten |
-| 66 | Amazon Echo dot 3rd/4th Gen + Sengled Bluetooth Smart Color Bulb $24.99 / $34.99                                         |
-| 67 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                                      |
-| 68 | RAZER KISHI Game Controller for iPhone (iOS) - 74.99$                                                                    |
-| 69 | Fitbit Inspire 2 - $80                                                                                                   |
-| 70 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $225 B4 coupons, $3 S&H)                                                 |
-| 71 | $45 25gb + $300 bill credit per line [win back]                                                                          |
-| 72 | LG C1 OLED 48" $1499 / 55" $1699 / 65" $2299 / 77" $3999 (Costco, BestBuy, Amazon and others) Ends Dec. 2                |
-| 73 | Surfshark vpn 83% off +free 3 months                                                                                     |
-| 74 | Double Edge Discount (10/20/30% off) on PLAYD PS4/Xbox One Games                                                         |
-| 75 | Demo A12Z Cellular iPad Pro 128GB $475 - YMMV                                                                            |
-| 76 | Soundcore Anker Q35. Bluetooth wireless headphones. Decent deal? Warm? Lukewarm? OK OK they're PINK!                     |
-| 77 | 1-Year PlayStation Plus Membership (Digital Delivery) $53.69 CAD                                                         |
-| 78 | Dell XPS 15 w/OLED - 2028.59                                                                                             |
-| 79 | iPhone 11 pro max - open box $899                                                                                        |
-| 80 | Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure (Free / 100% off)                                   |
-| 81 | [YMMV] Free 5GB Data Rogers added to Plan                                                                                |
-| 82 | Beholder / FREE                                                                                                          |
-| 83 | Nintendo's Black Friday Sale: First Party Nintendo Switch Games (various retailers)                                      |
-| 84 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                             |
-| 85 | LG OLED 48" $1497.99 - 55" $1697.99 - 65" $2297.99 Until Nov18                                                           |
-| 86 | World of Warships addon - FREE! Don't need ACTUAL game, but that's FREE too!                                             |
-| 87 | Assassins Creed Chronicles PC - Free                                                                                     |
-| 88 | KEO - FREE                                                                                                               |
-| 89 | ASUS C204EE 11.6" Chromebook N4020, 4/32 GB, USB-C display/power delivery - $170                                         |
+|    | deals                                                                                                                  |
+|---:|:-----------------------------------------------------------------------------------------------------------------------|
+|  0 | [Sponsored] Black Friday Savings: HUAWEI Smart Watches, Earbuds, WiFi 6 Routers at Amazon.ca                           |
+|  1 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
+|  2 | Steamworld Dig 2. ON STEAM! ONE DAY ONLY!                                                                              |
+|  3 | Demo A12Z Cellular iPad Pro 128GB $475 - YMMV                                                                          |
+|  4 | $309.99~Toshiba CMR 12TB Enterprise HDD SATA 6.0Gb/s 512e 7200 RPM 256MB Cache 3.5" Internal Hard Drive MG07ACA12TE    |
+|  5 | Google One Storage - Free Google Nest Hub 2 when you sign up for 1 year 2 TB for $139.99                               |
+|  6 | LG OLED 48" $1497.99 - 55" $1697.99 - 65" $2297.99 Until Nov18                                                         |
+|  7 | Dell G15 5511 Gaming Laptop (i5-11400H, RTX 3050 Ti, 512GB M.2, 8GB DDR4, 120Hz) $1050+tax (25% off) + 2% Rakuten      |
+|  8 | Lenovo IdeaPad Duet Chromebook ZA6F0028CA 10.1" Touch Screen 2-in-1,                                                   |
+|  9 | LG C1 OLED 48" $1499 / 55" $1699 / 65" $2299 / 77" $3999 (Costco, BestBuy, Amazon and others) Ends Dec. 2              |
+| 10 | 11.11 Electronics Sale Items.                                                                                          |
+| 11 | Intel Core i9-12900K CPU 16 (8P+8E) Cores, 24 Threads up to 5.2 GHz, Unlocked new 12th Gen are here $749.99            |
+| 12 | Free $25 e-voucher from Samsung when you sign up                                                                       |
+| 13 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                                    |
+| 14 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)                  |
+| 15 | Razer Homerun Bundle $199.99                                                                                           |
+| 16 | Samsung Galaxy Tab S6 Lite (64GB) - $349.99                                                                            |
+| 17 | Early BF deal - Seagate 2tb USB drive 79.99. Warm One day deal                                                         |
+| 18 | Camera bags and accessories, up to 60% off almost all items                                                            |
+| 19 | [3 HK] Mobile Data 10GB (CA/US/AUS/NZ/UK) eSIM - $138 HKD/$22 CAD                                                      |
+| 20 | Fitbit Sense Smartwatch $150 off now @ $249.00                                                                         |
+| 21 | WD SN750 1 TB PCIe 3.0 nVME SSD with DRAM ($129.99)                                                                    |
+| 22 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $225 B4 coupons, $3 S&H)                                               |
+| 23 | Telus EPP 20GB/$50 BYOD                                                                                                |
+| 24 | Sennheiser HD 650 Headphones                                                                                           |
+| 25 | IdeaPad Gaming 3 Laptop - Ryzen 5 5600H, 8GB DDR4, 256GB SSD+1TB HDD, GTX 1650, 15.6" FHD IPS 120Hz - $809.90 after CB |
+| 26 | Animal Crossing amiibo cards 6-pack - Series 5 - $6.99 (Pre-order)                                                     |
+| 27 | Corsair K70 Rapidfire RGB MK.2 Low Profile Cherry MX Speed - $139.99                                                   |
+| 28 | OnePlus Black Friday Sale Calendar                                                                                     |
+| 29 | Leisure Suit Larry Collection Bundle $10                                                                               |
+| 30 | [Sponsored] Black Friday Savings: HUAWEI Smart Watches, Earbuds, WiFi 6 Routers at Amazon.ca                           |
+| 31 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
+| 32 | Steamworld Dig 2. ON STEAM! ONE DAY ONLY!                                                                              |
+| 33 | Demo A12Z Cellular iPad Pro 128GB $475 - YMMV                                                                          |
+| 34 | $309.99~Toshiba CMR 12TB Enterprise HDD SATA 6.0Gb/s 512e 7200 RPM 256MB Cache 3.5" Internal Hard Drive MG07ACA12TE    |
+| 35 | Google One Storage - Free Google Nest Hub 2 when you sign up for 1 year 2 TB for $139.99                               |
+| 36 | LG OLED 48" $1497.99 - 55" $1697.99 - 65" $2297.99 Until Nov18                                                         |
+| 37 | Dell G15 5511 Gaming Laptop (i5-11400H, RTX 3050 Ti, 512GB M.2, 8GB DDR4, 120Hz) $1050+tax (25% off) + 2% Rakuten      |
+| 38 | Lenovo IdeaPad Duet Chromebook ZA6F0028CA 10.1" Touch Screen 2-in-1,                                                   |
+| 39 | LG C1 OLED 48" $1499 / 55" $1699 / 65" $2299 / 77" $3999 (Costco, BestBuy, Amazon and others) Ends Dec. 2              |
+| 40 | 11.11 Electronics Sale Items.                                                                                          |
+| 41 | Intel Core i9-12900K CPU 16 (8P+8E) Cores, 24 Threads up to 5.2 GHz, Unlocked new 12th Gen are here $749.99            |
+| 42 | Free $25 e-voucher from Samsung when you sign up                                                                       |
+| 43 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                                    |
+| 44 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)                  |
+| 45 | Razer Homerun Bundle $199.99                                                                                           |
+| 46 | Samsung Galaxy Tab S6 Lite (64GB) - $349.99                                                                            |
+| 47 | Early BF deal - Seagate 2tb USB drive 79.99. Warm One day deal                                                         |
+| 48 | Camera bags and accessories, up to 60% off almost all items                                                            |
+| 49 | [3 HK] Mobile Data 10GB (CA/US/AUS/NZ/UK) eSIM - $138 HKD/$22 CAD                                                      |
+| 50 | Fitbit Sense Smartwatch $150 off now @ $249.00                                                                         |
+| 51 | WD SN750 1 TB PCIe 3.0 nVME SSD with DRAM ($129.99)                                                                    |
+| 52 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $225 B4 coupons, $3 S&H)                                               |
+| 53 | Telus EPP 20GB/$50 BYOD                                                                                                |
+| 54 | Sennheiser HD 650 Headphones                                                                                           |
+| 55 | IdeaPad Gaming 3 Laptop - Ryzen 5 5600H, 8GB DDR4, 256GB SSD+1TB HDD, GTX 1650, 15.6" FHD IPS 120Hz - $809.90 after CB |
+| 56 | Animal Crossing amiibo cards 6-pack - Series 5 - $6.99 (Pre-order)                                                     |
+| 57 | Corsair K70 Rapidfire RGB MK.2 Low Profile Cherry MX Speed - $139.99                                                   |
+| 58 | OnePlus Black Friday Sale Calendar                                                                                     |
+| 59 | Leisure Suit Larry Collection Bundle $10                                                                               |
+| 60 | [Sponsored] Black Friday Savings: HUAWEI Smart Watches, Earbuds, WiFi 6 Routers at Amazon.ca                           |
+| 61 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
+| 62 | Steamworld Dig 2. ON STEAM! ONE DAY ONLY!                                                                              |
+| 63 | Demo A12Z Cellular iPad Pro 128GB $475 - YMMV                                                                          |
+| 64 | $309.99~Toshiba CMR 12TB Enterprise HDD SATA 6.0Gb/s 512e 7200 RPM 256MB Cache 3.5" Internal Hard Drive MG07ACA12TE    |
+| 65 | Google One Storage - Free Google Nest Hub 2 when you sign up for 1 year 2 TB for $139.99                               |
+| 66 | LG OLED 48" $1497.99 - 55" $1697.99 - 65" $2297.99 Until Nov18                                                         |
+| 67 | Dell G15 5511 Gaming Laptop (i5-11400H, RTX 3050 Ti, 512GB M.2, 8GB DDR4, 120Hz) $1050+tax (25% off) + 2% Rakuten      |
+| 68 | Lenovo IdeaPad Duet Chromebook ZA6F0028CA 10.1" Touch Screen 2-in-1,                                                   |
+| 69 | LG C1 OLED 48" $1499 / 55" $1699 / 65" $2299 / 77" $3999 (Costco, BestBuy, Amazon and others) Ends Dec. 2              |
+| 70 | 11.11 Electronics Sale Items.                                                                                          |
+| 71 | Intel Core i9-12900K CPU 16 (8P+8E) Cores, 24 Threads up to 5.2 GHz, Unlocked new 12th Gen are here $749.99            |
+| 72 | Free $25 e-voucher from Samsung when you sign up                                                                       |
+| 73 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                                    |
+| 74 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)                  |
+| 75 | Razer Homerun Bundle $199.99                                                                                           |
+| 76 | Samsung Galaxy Tab S6 Lite (64GB) - $349.99                                                                            |
+| 77 | Early BF deal - Seagate 2tb USB drive 79.99. Warm One day deal                                                         |
+| 78 | Camera bags and accessories, up to 60% off almost all items                                                            |
+| 79 | [3 HK] Mobile Data 10GB (CA/US/AUS/NZ/UK) eSIM - $138 HKD/$22 CAD                                                      |
+| 80 | Fitbit Sense Smartwatch $150 off now @ $249.00                                                                         |
+| 81 | WD SN750 1 TB PCIe 3.0 nVME SSD with DRAM ($129.99)                                                                    |
+| 82 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $225 B4 coupons, $3 S&H)                                               |
+| 83 | Telus EPP 20GB/$50 BYOD                                                                                                |
+| 84 | Sennheiser HD 650 Headphones                                                                                           |
+| 85 | IdeaPad Gaming 3 Laptop - Ryzen 5 5600H, 8GB DDR4, 256GB SSD+1TB HDD, GTX 1650, 15.6" FHD IPS 120Hz - $809.90 after CB |
+| 86 | Animal Crossing amiibo cards 6-pack - Series 5 - $6.99 (Pre-order)                                                     |
+| 87 | Corsair K70 Rapidfire RGB MK.2 Low Profile Cherry MX Speed - $139.99                                                   |
+| 88 | OnePlus Black Friday Sale Calendar                                                                                     |
+| 89 | Leisure Suit Larry Collection Bundle $10                                                                               |
