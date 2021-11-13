@@ -3,12 +3,12 @@
 |  0 | [Contest] Post your Black Friday shopping list for the chance to win 1 of 5 $50 gift cards!                            |
 |  1 | [Sponsored] Black Friday Prices on Now!                                                                                |
 |  2 | [Sponsored] Fastest VPN: Lifetime Plan w/ 15 Multi-Logins for $18, Get 2TB Cloud Storage + Password Manager FREE       |
-|  3 | Ipad Air (4th Gen) 256 GB for $889 - All Colours                                                                       |
-|  4 | Nintendo's Black Friday Sale: First Party Nintendo Switch Games (various retailers)                                    |
-|  5 | IDrive 5TB cloud storage for US$3.98 first year only - 95% off                                                         |
-|  6 | Hisense 75" U68G - $1298 (w/ $200 coupon)                                                                              |
-|  7 | Kingston USB 3.0 DataTraveler 100 G3 (3 X 64 GB) - $35.53                                                              |
-|  8 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)                  |
+|  3 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)                  |
+|  4 | Ipad Air (4th Gen) 256 GB for $889 - All Colours                                                                       |
+|  5 | Nintendo's Black Friday Sale: First Party Nintendo Switch Games (various retailers)                                    |
+|  6 | IDrive 5TB cloud storage for US$3.98 first year only - 95% off                                                         |
+|  7 | Hisense 75" U68G - $1298 (w/ $200 coupon)                                                                              |
+|  8 | Kingston USB 3.0 DataTraveler 100 G3 (3 X 64 GB) - $35.53                                                              |
 |  9 | Unlimited call & txt and 6GB data for $36.00 [Bring Your Own Phone]                                                    |
 | 10 | BOSE Solo Soundbar II - Certified Refurb - now 124$ ( 15% Less if promo code works for you. ) (94$ if you have ID.me ) |
 | 11 | Samsung T7 1TB Portable SSD $129.99-$139.99                                                                            |
@@ -33,12 +33,12 @@
 | 30 | [Contest] Post your Black Friday shopping list for the chance to win 1 of 5 $50 gift cards!                            |
 | 31 | [Sponsored] Black Friday Prices on Now!                                                                                |
 | 32 | [Sponsored] Fastest VPN: Lifetime Plan w/ 15 Multi-Logins for $18, Get 2TB Cloud Storage + Password Manager FREE       |
-| 33 | Ipad Air (4th Gen) 256 GB for $889 - All Colours                                                                       |
-| 34 | Nintendo's Black Friday Sale: First Party Nintendo Switch Games (various retailers)                                    |
-| 35 | IDrive 5TB cloud storage for US$3.98 first year only - 95% off                                                         |
-| 36 | Hisense 75" U68G - $1298 (w/ $200 coupon)                                                                              |
-| 37 | Kingston USB 3.0 DataTraveler 100 G3 (3 X 64 GB) - $35.53                                                              |
-| 38 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)                  |
+| 33 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)                  |
+| 34 | Ipad Air (4th Gen) 256 GB for $889 - All Colours                                                                       |
+| 35 | Nintendo's Black Friday Sale: First Party Nintendo Switch Games (various retailers)                                    |
+| 36 | IDrive 5TB cloud storage for US$3.98 first year only - 95% off                                                         |
+| 37 | Hisense 75" U68G - $1298 (w/ $200 coupon)                                                                              |
+| 38 | Kingston USB 3.0 DataTraveler 100 G3 (3 X 64 GB) - $35.53                                                              |
 | 39 | Unlimited call & txt and 6GB data for $36.00 [Bring Your Own Phone]                                                    |
 | 40 | BOSE Solo Soundbar II - Certified Refurb - now 124$ ( 15% Less if promo code works for you. ) (94$ if you have ID.me ) |
 | 41 | Samsung T7 1TB Portable SSD $129.99-$139.99                                                                            |
@@ -63,12 +63,12 @@
 | 60 | [Contest] Post your Black Friday shopping list for the chance to win 1 of 5 $50 gift cards!                            |
 | 61 | [Sponsored] Black Friday Prices on Now!                                                                                |
 | 62 | [Sponsored] Fastest VPN: Lifetime Plan w/ 15 Multi-Logins for $18, Get 2TB Cloud Storage + Password Manager FREE       |
-| 63 | Ipad Air (4th Gen) 256 GB for $889 - All Colours                                                                       |
-| 64 | Nintendo's Black Friday Sale: First Party Nintendo Switch Games (various retailers)                                    |
-| 65 | IDrive 5TB cloud storage for US$3.98 first year only - 95% off                                                         |
-| 66 | Hisense 75" U68G - $1298 (w/ $200 coupon)                                                                              |
-| 67 | Kingston USB 3.0 DataTraveler 100 G3 (3 X 64 GB) - $35.53                                                              |
-| 68 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)                  |
+| 63 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)                  |
+| 64 | Ipad Air (4th Gen) 256 GB for $889 - All Colours                                                                       |
+| 65 | Nintendo's Black Friday Sale: First Party Nintendo Switch Games (various retailers)                                    |
+| 66 | IDrive 5TB cloud storage for US$3.98 first year only - 95% off                                                         |
+| 67 | Hisense 75" U68G - $1298 (w/ $200 coupon)                                                                              |
+| 68 | Kingston USB 3.0 DataTraveler 100 G3 (3 X 64 GB) - $35.53                                                              |
 | 69 | Unlimited call & txt and 6GB data for $36.00 [Bring Your Own Phone]                                                    |
 | 70 | BOSE Solo Soundbar II - Certified Refurb - now 124$ ( 15% Less if promo code works for you. ) (94$ if you have ID.me ) |
 | 71 | Samsung T7 1TB Portable SSD $129.99-$139.99                                                                            |
