@@ -1,92 +1,92 @@
-|    | deals                                                                                                                 |
-|---:|:----------------------------------------------------------------------------------------------------------------------|
-|  0 | [Sponsored] Black Friday Savings: HUAWEI Smart Watches, Earbuds, WiFi 6 Routers at Amazon.ca                          |
-|  1 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                                   |
-|  2 | LG C1 OLED 48" $1499 / 55" $1699 / 65" $2299 / 77" $3999 (Costco, BestBuy, Amazon and others) Ends Dec. 2             |
-|  3 | Intel Core i9-12900K CPU 16 (8P+8E) Cores, 24 Threads up to 5.2 GHz, Unlocked new 12th Gen are here $749.99           |
-|  4 | Kirby All Star Allies, Super Mario Bros U Deluxe, Paper Mario (Switch) - $29.96 (In-store, YMMV)                      |
-|  5 | 70% off all Monoprice products - no coupons                                                                           |
-|  6 | Starlink beta is live shipping in CANADA! (rural broadband internet, YMMV)                                            |
-|  7 | Hisense U6GR - 55" - $698 | 4K - Local Dimming - HDR10/Dolby Vision/Dolby Atmos - HDMI 2.1/eARC/VRR - Roku TV         |
-|  8 | Fido XTRA Enjoy your FREE $5 e-promo card (Ultimate DinerCard)                                                        |
-|  9 | Fire Stick 4K - $34.99 - 50% off                                                                                      |
-| 10 | Fido 30gb for $55 (YMMV)                                                                                              |
-| 11 | Chromebook 10e tablet 160$ less rakuten                                                                               |
-| 12 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                          |
-| 13 | Legion 5 Pro with RTX 3070 - $1,922 after ebates                                                                      |
-| 14 | Barotrauma - Steam - Game - Free for 3 days, and 75% off for 4 days only. Fun game!                                   |
-| 15 | iPhone XS Max 256gb certified pre-owned $5.50/month (YMMV)                                                            |
-| 16 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)                 |
-| 17 | Samsung BUDS+ $29+ EXTREME YMMV!!!                                                                                    |
-| 18 | 79.96 Far Cry 6 + Turtle Beach Recon 70 Arctic Camo Gaming Headset Xbox One & Xbox Series X|S | PS4™ Pro, PS4™ & PS5™ |
-| 19 | iPhone 11 pro max - open box $899                                                                                     |
-| 20 | Klipsch RF82 Mark II Reference Tower Speaker ($300 Discount)                                                          |
-| 21 | Samson Q2U Dynamic USB Mic Podcasting Pack ($75)                                                                      |
-| 22 | MIJ 2500mah Duracell Rechargeable Ni-MH AA Batteries - 4-Pack - $7.99                                                 |
-| 23 | $309.99~Toshiba CMR 12TB Enterprise HDD SATA 6.0Gb/s 512e 7200 RPM 256MB Cache 3.5" Internal Hard Drive MG07ACA12TE   |
-| 24 | 11.11 Electronics Sale Items.                                                                                         |
-| 25 | Moto G power on $6 Tab basic YMMV                                                                                     |
-| 26 | LG SL4 300W Sound Bar with Wireless Subwoofer - $100                                                                  |
-| 27 | Sony WH-1000XM4 Wireless Noise Canceling Overhead Headphones Black - $325 + Free Shipping                             |
-| 28 | Leisure Suit Larry Collection Bundle $12.63                                                                           |
-| 29 | NEW Jabra Elite 75t - $99 ( with Amex - $79 YMMV)                                                                     |
-| 30 | [Sponsored] Black Friday Savings: HUAWEI Smart Watches, Earbuds, WiFi 6 Routers at Amazon.ca                          |
-| 31 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                                   |
-| 32 | LG C1 OLED 48" $1499 / 55" $1699 / 65" $2299 / 77" $3999 (Costco, BestBuy, Amazon and others) Ends Dec. 2             |
-| 33 | Intel Core i9-12900K CPU 16 (8P+8E) Cores, 24 Threads up to 5.2 GHz, Unlocked new 12th Gen are here $749.99           |
-| 34 | Kirby All Star Allies, Super Mario Bros U Deluxe, Paper Mario (Switch) - $29.96 (In-store, YMMV)                      |
-| 35 | 70% off all Monoprice products - no coupons                                                                           |
-| 36 | Starlink beta is live shipping in CANADA! (rural broadband internet, YMMV)                                            |
-| 37 | Hisense U6GR - 55" - $698 | 4K - Local Dimming - HDR10/Dolby Vision/Dolby Atmos - HDMI 2.1/eARC/VRR - Roku TV         |
-| 38 | Fido XTRA Enjoy your FREE $5 e-promo card (Ultimate DinerCard)                                                        |
-| 39 | Fire Stick 4K - $34.99 - 50% off                                                                                      |
-| 40 | Fido 30gb for $55 (YMMV)                                                                                              |
-| 41 | Chromebook 10e tablet 160$ less rakuten                                                                               |
-| 42 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                          |
-| 43 | Legion 5 Pro with RTX 3070 - $1,922 after ebates                                                                      |
-| 44 | Barotrauma - Steam - Game - Free for 3 days, and 75% off for 4 days only. Fun game!                                   |
-| 45 | iPhone XS Max 256gb certified pre-owned $5.50/month (YMMV)                                                            |
-| 46 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)                 |
-| 47 | Samsung BUDS+ $29+ EXTREME YMMV!!!                                                                                    |
-| 48 | 79.96 Far Cry 6 + Turtle Beach Recon 70 Arctic Camo Gaming Headset Xbox One & Xbox Series X|S | PS4™ Pro, PS4™ & PS5™ |
-| 49 | iPhone 11 pro max - open box $899                                                                                     |
-| 50 | Klipsch RF82 Mark II Reference Tower Speaker ($300 Discount)                                                          |
-| 51 | Samson Q2U Dynamic USB Mic Podcasting Pack ($75)                                                                      |
-| 52 | MIJ 2500mah Duracell Rechargeable Ni-MH AA Batteries - 4-Pack - $7.99                                                 |
-| 53 | $309.99~Toshiba CMR 12TB Enterprise HDD SATA 6.0Gb/s 512e 7200 RPM 256MB Cache 3.5" Internal Hard Drive MG07ACA12TE   |
-| 54 | 11.11 Electronics Sale Items.                                                                                         |
-| 55 | Moto G power on $6 Tab basic YMMV                                                                                     |
-| 56 | LG SL4 300W Sound Bar with Wireless Subwoofer - $100                                                                  |
-| 57 | Sony WH-1000XM4 Wireless Noise Canceling Overhead Headphones Black - $325 + Free Shipping                             |
-| 58 | Leisure Suit Larry Collection Bundle $12.63                                                                           |
-| 59 | NEW Jabra Elite 75t - $99 ( with Amex - $79 YMMV)                                                                     |
-| 60 | [Sponsored] Black Friday Savings: HUAWEI Smart Watches, Earbuds, WiFi 6 Routers at Amazon.ca                          |
-| 61 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                                   |
-| 62 | LG C1 OLED 48" $1499 / 55" $1699 / 65" $2299 / 77" $3999 (Costco, BestBuy, Amazon and others) Ends Dec. 2             |
-| 63 | Intel Core i9-12900K CPU 16 (8P+8E) Cores, 24 Threads up to 5.2 GHz, Unlocked new 12th Gen are here $749.99           |
-| 64 | Kirby All Star Allies, Super Mario Bros U Deluxe, Paper Mario (Switch) - $29.96 (In-store, YMMV)                      |
-| 65 | 70% off all Monoprice products - no coupons                                                                           |
-| 66 | Starlink beta is live shipping in CANADA! (rural broadband internet, YMMV)                                            |
-| 67 | Hisense U6GR - 55" - $698 | 4K - Local Dimming - HDR10/Dolby Vision/Dolby Atmos - HDMI 2.1/eARC/VRR - Roku TV         |
-| 68 | Fido XTRA Enjoy your FREE $5 e-promo card (Ultimate DinerCard)                                                        |
-| 69 | Fire Stick 4K - $34.99 - 50% off                                                                                      |
-| 70 | Fido 30gb for $55 (YMMV)                                                                                              |
-| 71 | Chromebook 10e tablet 160$ less rakuten                                                                               |
-| 72 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                          |
-| 73 | Legion 5 Pro with RTX 3070 - $1,922 after ebates                                                                      |
-| 74 | Barotrauma - Steam - Game - Free for 3 days, and 75% off for 4 days only. Fun game!                                   |
-| 75 | iPhone XS Max 256gb certified pre-owned $5.50/month (YMMV)                                                            |
-| 76 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)                 |
-| 77 | Samsung BUDS+ $29+ EXTREME YMMV!!!                                                                                    |
-| 78 | 79.96 Far Cry 6 + Turtle Beach Recon 70 Arctic Camo Gaming Headset Xbox One & Xbox Series X|S | PS4™ Pro, PS4™ & PS5™ |
-| 79 | iPhone 11 pro max - open box $899                                                                                     |
-| 80 | Klipsch RF82 Mark II Reference Tower Speaker ($300 Discount)                                                          |
-| 81 | Samson Q2U Dynamic USB Mic Podcasting Pack ($75)                                                                      |
-| 82 | MIJ 2500mah Duracell Rechargeable Ni-MH AA Batteries - 4-Pack - $7.99                                                 |
-| 83 | $309.99~Toshiba CMR 12TB Enterprise HDD SATA 6.0Gb/s 512e 7200 RPM 256MB Cache 3.5" Internal Hard Drive MG07ACA12TE   |
-| 84 | 11.11 Electronics Sale Items.                                                                                         |
-| 85 | Moto G power on $6 Tab basic YMMV                                                                                     |
-| 86 | LG SL4 300W Sound Bar with Wireless Subwoofer - $100                                                                  |
-| 87 | Sony WH-1000XM4 Wireless Noise Canceling Overhead Headphones Black - $325 + Free Shipping                             |
-| 88 | Leisure Suit Larry Collection Bundle $12.63                                                                           |
-| 89 | NEW Jabra Elite 75t - $99 ( with Amex - $79 YMMV)                                                                     |
+|    | deals                                                                                                                  |
+|---:|:-----------------------------------------------------------------------------------------------------------------------|
+|  0 | [Contest] Post your Black Friday shopping list for the chance to win 1 of 5 $50 gift cards!                            |
+|  1 | [Sponsored] Black Friday Prices on Now!                                                                                |
+|  2 | [Sponsored] Fastest VPN: Lifetime Plan w/ 15 Multi-Logins for $18, Get 2TB Cloud Storage + Password Manager FREE       |
+|  3 | Ipad Air (4th Gen) 256 GB for $889 - All Colours                                                                       |
+|  4 | Nintendo's Black Friday Sale: First Party Nintendo Switch Games (various retailers)                                    |
+|  5 | IDrive 5TB cloud storage for US$3.98 first year only - 95% off                                                         |
+|  6 | Hisense 75" U68G - $1298 (w/ $200 coupon)                                                                              |
+|  7 | Kingston USB 3.0 DataTraveler 100 G3 (3 X 64 GB) - $35.53                                                              |
+|  8 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)                  |
+|  9 | Unlimited call & txt and 6GB data for $36.00 [Bring Your Own Phone]                                                    |
+| 10 | BOSE Solo Soundbar II - Certified Refurb - now 124$ ( 15% Less if promo code works for you. ) (94$ if you have ID.me ) |
+| 11 | Samsung T7 1TB Portable SSD $129.99-$139.99                                                                            |
+| 12 | ARMOURY Ryzen 5 5600X, GeForce RTX 3060, WD 1TB SSD M.2 NVMe, 16GB RGB RAM (1599$)                                     |
+| 13 | SteelSeries Prime Wireless gaming mouse $118.99 ($51 off)                                                              |
+| 14 | Black Friday Early Deals Flyer (Nov 17 online and Nov 18 in-store)                                                     |
+| 15 | NordVPN - Save 72% this BF Get 2 years of the best VPN service (including SmartDNS) for $3.29 per month.               |
+| 16 | 11.11 Electronics Sale Items.                                                                                          |
+| 17 | Virgin BYOP $45 for 10GB + 1000 Long distance + $50 The source gift card                                               |
+| 18 | $50 referral bonus (usually $25) Home Internet 60/10 Mbps $45/month or Mobile service Qc province + Ottawa region      |
+| 19 | Samsung Q Series 11.1.4 Channel Soundbar and Wireless Subwoofer and Rear Speakers (HWQ950A) ($1498) (Reg$2198)         |
+| 20 | Free 75 days of Crunchyroll Premium for Xbox Game Pass Ultimate Subscribers - Claim Under Perks!                       |
+| 21 | [3 HK] Mobile Data 10GB (CA/US/AUS/NZ/UK) eSIM - $138 HKD/$22 CAD                                                      |
+| 22 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
+| 23 | Legion 7 Gen 6 Ryzen 7 5800H, RTX 3070, 16GB, 1TB (or Intel build) - $1,952 after coupon & ebate                       |
+| 24 | Amazon.ca Garmin Vivoactive 4 - $279.99 (new ATL)                                                                      |
+| 25 | [Local Guide Reward] Get 15% off the new Pixel Buds A-Series - YMMV - $118.15                                          |
+| 26 | GIGABYTE AERO 15 OLED YD Gaming Notebook - 15.6" $2,599 ($1,800 Off)                                                   |
+| 27 | UMIDIGI A11 Pro Max Global Version Android 11 6.8" FHD+ Display Smartphone 4GB+128GB $154.47                           |
+| 28 | Voxelab Aquila 3D Printer (Ender 3 v2 "Clone") - ~$224CAD no tax                                                       |
+| 29 | Microsoft Wireless Mouse $9.95 / Bluetooth Mouse $17.99                                                                |
+| 30 | [Contest] Post your Black Friday shopping list for the chance to win 1 of 5 $50 gift cards!                            |
+| 31 | [Sponsored] Black Friday Prices on Now!                                                                                |
+| 32 | [Sponsored] Fastest VPN: Lifetime Plan w/ 15 Multi-Logins for $18, Get 2TB Cloud Storage + Password Manager FREE       |
+| 33 | Ipad Air (4th Gen) 256 GB for $889 - All Colours                                                                       |
+| 34 | Nintendo's Black Friday Sale: First Party Nintendo Switch Games (various retailers)                                    |
+| 35 | IDrive 5TB cloud storage for US$3.98 first year only - 95% off                                                         |
+| 36 | Hisense 75" U68G - $1298 (w/ $200 coupon)                                                                              |
+| 37 | Kingston USB 3.0 DataTraveler 100 G3 (3 X 64 GB) - $35.53                                                              |
+| 38 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)                  |
+| 39 | Unlimited call & txt and 6GB data for $36.00 [Bring Your Own Phone]                                                    |
+| 40 | BOSE Solo Soundbar II - Certified Refurb - now 124$ ( 15% Less if promo code works for you. ) (94$ if you have ID.me ) |
+| 41 | Samsung T7 1TB Portable SSD $129.99-$139.99                                                                            |
+| 42 | ARMOURY Ryzen 5 5600X, GeForce RTX 3060, WD 1TB SSD M.2 NVMe, 16GB RGB RAM (1599$)                                     |
+| 43 | SteelSeries Prime Wireless gaming mouse $118.99 ($51 off)                                                              |
+| 44 | Black Friday Early Deals Flyer (Nov 17 online and Nov 18 in-store)                                                     |
+| 45 | NordVPN - Save 72% this BF Get 2 years of the best VPN service (including SmartDNS) for $3.29 per month.               |
+| 46 | 11.11 Electronics Sale Items.                                                                                          |
+| 47 | Virgin BYOP $45 for 10GB + 1000 Long distance + $50 The source gift card                                               |
+| 48 | $50 referral bonus (usually $25) Home Internet 60/10 Mbps $45/month or Mobile service Qc province + Ottawa region      |
+| 49 | Samsung Q Series 11.1.4 Channel Soundbar and Wireless Subwoofer and Rear Speakers (HWQ950A) ($1498) (Reg$2198)         |
+| 50 | Free 75 days of Crunchyroll Premium for Xbox Game Pass Ultimate Subscribers - Claim Under Perks!                       |
+| 51 | [3 HK] Mobile Data 10GB (CA/US/AUS/NZ/UK) eSIM - $138 HKD/$22 CAD                                                      |
+| 52 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
+| 53 | Legion 7 Gen 6 Ryzen 7 5800H, RTX 3070, 16GB, 1TB (or Intel build) - $1,952 after coupon & ebate                       |
+| 54 | Amazon.ca Garmin Vivoactive 4 - $279.99 (new ATL)                                                                      |
+| 55 | [Local Guide Reward] Get 15% off the new Pixel Buds A-Series - YMMV - $118.15                                          |
+| 56 | GIGABYTE AERO 15 OLED YD Gaming Notebook - 15.6" $2,599 ($1,800 Off)                                                   |
+| 57 | UMIDIGI A11 Pro Max Global Version Android 11 6.8" FHD+ Display Smartphone 4GB+128GB $154.47                           |
+| 58 | Voxelab Aquila 3D Printer (Ender 3 v2 "Clone") - ~$224CAD no tax                                                       |
+| 59 | Microsoft Wireless Mouse $9.95 / Bluetooth Mouse $17.99                                                                |
+| 60 | [Contest] Post your Black Friday shopping list for the chance to win 1 of 5 $50 gift cards!                            |
+| 61 | [Sponsored] Black Friday Prices on Now!                                                                                |
+| 62 | [Sponsored] Fastest VPN: Lifetime Plan w/ 15 Multi-Logins for $18, Get 2TB Cloud Storage + Password Manager FREE       |
+| 63 | Ipad Air (4th Gen) 256 GB for $889 - All Colours                                                                       |
+| 64 | Nintendo's Black Friday Sale: First Party Nintendo Switch Games (various retailers)                                    |
+| 65 | IDrive 5TB cloud storage for US$3.98 first year only - 95% off                                                         |
+| 66 | Hisense 75" U68G - $1298 (w/ $200 coupon)                                                                              |
+| 67 | Kingston USB 3.0 DataTraveler 100 G3 (3 X 64 GB) - $35.53                                                              |
+| 68 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)                  |
+| 69 | Unlimited call & txt and 6GB data for $36.00 [Bring Your Own Phone]                                                    |
+| 70 | BOSE Solo Soundbar II - Certified Refurb - now 124$ ( 15% Less if promo code works for you. ) (94$ if you have ID.me ) |
+| 71 | Samsung T7 1TB Portable SSD $129.99-$139.99                                                                            |
+| 72 | ARMOURY Ryzen 5 5600X, GeForce RTX 3060, WD 1TB SSD M.2 NVMe, 16GB RGB RAM (1599$)                                     |
+| 73 | SteelSeries Prime Wireless gaming mouse $118.99 ($51 off)                                                              |
+| 74 | Black Friday Early Deals Flyer (Nov 17 online and Nov 18 in-store)                                                     |
+| 75 | NordVPN - Save 72% this BF Get 2 years of the best VPN service (including SmartDNS) for $3.29 per month.               |
+| 76 | 11.11 Electronics Sale Items.                                                                                          |
+| 77 | Virgin BYOP $45 for 10GB + 1000 Long distance + $50 The source gift card                                               |
+| 78 | $50 referral bonus (usually $25) Home Internet 60/10 Mbps $45/month or Mobile service Qc province + Ottawa region      |
+| 79 | Samsung Q Series 11.1.4 Channel Soundbar and Wireless Subwoofer and Rear Speakers (HWQ950A) ($1498) (Reg$2198)         |
+| 80 | Free 75 days of Crunchyroll Premium for Xbox Game Pass Ultimate Subscribers - Claim Under Perks!                       |
+| 81 | [3 HK] Mobile Data 10GB (CA/US/AUS/NZ/UK) eSIM - $138 HKD/$22 CAD                                                      |
+| 82 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
+| 83 | Legion 7 Gen 6 Ryzen 7 5800H, RTX 3070, 16GB, 1TB (or Intel build) - $1,952 after coupon & ebate                       |
+| 84 | Amazon.ca Garmin Vivoactive 4 - $279.99 (new ATL)                                                                      |
+| 85 | [Local Guide Reward] Get 15% off the new Pixel Buds A-Series - YMMV - $118.15                                          |
+| 86 | GIGABYTE AERO 15 OLED YD Gaming Notebook - 15.6" $2,599 ($1,800 Off)                                                   |
+| 87 | UMIDIGI A11 Pro Max Global Version Android 11 6.8" FHD+ Display Smartphone 4GB+128GB $154.47                           |
+| 88 | Voxelab Aquila 3D Printer (Ender 3 v2 "Clone") - ~$224CAD no tax                                                       |
+| 89 | Microsoft Wireless Mouse $9.95 / Bluetooth Mouse $17.99                                                                |
