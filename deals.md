@@ -1,92 +1,92 @@
-|    | deals                                                                                                                   |
-|---:|:------------------------------------------------------------------------------------------------------------------------|
-|  0 | [Contest] Post your Black Friday shopping list for the chance to win 1 of 5 $50 gift cards!                             |
-|  1 | [Sponsored] Black Friday Prices on Now!                                                                                 |
-|  2 | [Sponsored] Fastest VPN: Lifetime Plan w/ 15 Multi-Logins for $18, Get 2TB Cloud Storage + Password Manager FREE        |
-|  3 | APC UPS 1500/900 Battery Backup $189.99 ( BN1500M2-CA )                                                                 |
-|  4 | Console Trade Event - Get up to $300 for select PS4’s or get up to $200 for select Xbox One Consoles (Nov 15-28)        |
-|  5 | Harman Kardon Citation 100 Smart Speaker - $149.99 (Reg. $399.99)                                                       |
-|  6 | PS PLUS Membership- 1 year $46.99 Starts Nov 19                                                                         |
-|  7 | LG OLED 48" $1497.99 - 55" $1697.99 - 65" $2297.99 Until Nov18                                                          |
-|  8 | Virgin Mobile ($45 17GB,$40 10GB, 1000mins International Calling, $100 The Source Gift Card) YMMV                       |
-|  9 | G15 Ryzen Edition Gaming Laptop, 5600H/8GB/256GB, RTX 3050, 15.6" FHD 120Hz 250nits, $900, 8% cash back                 |
-| 10 | ZTE Axon Ultra 30 - $470 (half off) Flash Sales Nov 22nd - Nov 29, 7am-9am EST                                          |
-| 11 | Razer Core X External Graphics Enclosure - $244.99 (YMMV)                                                               |
-| 12 | Xbox Game Pass for PC 42% off + 3 months for $1                                                                         |
-| 13 | Dell 27” QHD 2560 x 1440 75 Hz Monitor - S2721D ($224.99 with code and extra 8% Rakuten cashback)                       |
-| 14 | Samsung Galaxy Tab S7+ for $790 or S7 for $670.                                                                         |
-| 15 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
-| 16 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                                     |
-| 17 | Kasa Smart WiFi Plug HS103 (12A) 4-pack $29.99                                                                          |
-| 18 | Lenovo IdeaPad Slim 9i -$1359.99                                                                                        |
-| 19 | $35 for 10 GB YMMV?                                                                                                     |
-| 20 | 4-Port USB 3.0 High Speed Portable Hub, Black - PrimeCables® - $6.99 + FS                                               |
-| 21 | FREE Halo Infinte Multi-player available for PC and Xbox!                                                               |
-| 22 | Razer DeathAdder Essential gaming mouse 6400 DPI $24.99 (ATL)                                                           |
-| 23 | Hisense U6GR - 55" - $698 ($648 BF) | 4K - Local Dimming - HDR10/Dolby Vision/Dolby Atmos - HDMI 2.1/eARC/VRR - Roku TV |
-| 24 | $45 25gb + $300 bill credit per line [win back]                                                                         |
-| 25 | $20 Unlimited Canada-wide talk & text                                                                                   |
-| 26 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)                   |
-| 27 | 10GB for $35 first 12 months, then $40 2nd year(BYOD)                                                                   |
-| 28 | Black Friday Early Deals Flyer (Nov 17 online and Nov 18 in-store)                                                      |
-| 29 | Sennheiser AMBEO Soundbar - $2599.95 ($700 off)                                                                         |
-| 30 | [Contest] Post your Black Friday shopping list for the chance to win 1 of 5 $50 gift cards!                             |
-| 31 | [Sponsored] Black Friday Prices on Now!                                                                                 |
-| 32 | [Sponsored] Fastest VPN: Lifetime Plan w/ 15 Multi-Logins for $18, Get 2TB Cloud Storage + Password Manager FREE        |
-| 33 | APC UPS 1500/900 Battery Backup $189.99 ( BN1500M2-CA )                                                                 |
-| 34 | Console Trade Event - Get up to $300 for select PS4’s or get up to $200 for select Xbox One Consoles (Nov 15-28)        |
-| 35 | Harman Kardon Citation 100 Smart Speaker - $149.99 (Reg. $399.99)                                                       |
-| 36 | PS PLUS Membership- 1 year $46.99 Starts Nov 19                                                                         |
-| 37 | LG OLED 48" $1497.99 - 55" $1697.99 - 65" $2297.99 Until Nov18                                                          |
-| 38 | Virgin Mobile ($45 17GB,$40 10GB, 1000mins International Calling, $100 The Source Gift Card) YMMV                       |
-| 39 | G15 Ryzen Edition Gaming Laptop, 5600H/8GB/256GB, RTX 3050, 15.6" FHD 120Hz 250nits, $900, 8% cash back                 |
-| 40 | ZTE Axon Ultra 30 - $470 (half off) Flash Sales Nov 22nd - Nov 29, 7am-9am EST                                          |
-| 41 | Razer Core X External Graphics Enclosure - $244.99 (YMMV)                                                               |
-| 42 | Xbox Game Pass for PC 42% off + 3 months for $1                                                                         |
-| 43 | Dell 27” QHD 2560 x 1440 75 Hz Monitor - S2721D ($224.99 with code and extra 8% Rakuten cashback)                       |
-| 44 | Samsung Galaxy Tab S7+ for $790 or S7 for $670.                                                                         |
-| 45 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
-| 46 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                                     |
-| 47 | Kasa Smart WiFi Plug HS103 (12A) 4-pack $29.99                                                                          |
-| 48 | Lenovo IdeaPad Slim 9i -$1359.99                                                                                        |
-| 49 | $35 for 10 GB YMMV?                                                                                                     |
-| 50 | 4-Port USB 3.0 High Speed Portable Hub, Black - PrimeCables® - $6.99 + FS                                               |
-| 51 | FREE Halo Infinte Multi-player available for PC and Xbox!                                                               |
-| 52 | Razer DeathAdder Essential gaming mouse 6400 DPI $24.99 (ATL)                                                           |
-| 53 | Hisense U6GR - 55" - $698 ($648 BF) | 4K - Local Dimming - HDR10/Dolby Vision/Dolby Atmos - HDMI 2.1/eARC/VRR - Roku TV |
-| 54 | $45 25gb + $300 bill credit per line [win back]                                                                         |
-| 55 | $20 Unlimited Canada-wide talk & text                                                                                   |
-| 56 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)                   |
-| 57 | 10GB for $35 first 12 months, then $40 2nd year(BYOD)                                                                   |
-| 58 | Black Friday Early Deals Flyer (Nov 17 online and Nov 18 in-store)                                                      |
-| 59 | Sennheiser AMBEO Soundbar - $2599.95 ($700 off)                                                                         |
-| 60 | [Contest] Post your Black Friday shopping list for the chance to win 1 of 5 $50 gift cards!                             |
-| 61 | [Sponsored] Black Friday Prices on Now!                                                                                 |
-| 62 | [Sponsored] Fastest VPN: Lifetime Plan w/ 15 Multi-Logins for $18, Get 2TB Cloud Storage + Password Manager FREE        |
-| 63 | APC UPS 1500/900 Battery Backup $189.99 ( BN1500M2-CA )                                                                 |
-| 64 | Console Trade Event - Get up to $300 for select PS4’s or get up to $200 for select Xbox One Consoles (Nov 15-28)        |
-| 65 | Harman Kardon Citation 100 Smart Speaker - $149.99 (Reg. $399.99)                                                       |
-| 66 | PS PLUS Membership- 1 year $46.99 Starts Nov 19                                                                         |
-| 67 | LG OLED 48" $1497.99 - 55" $1697.99 - 65" $2297.99 Until Nov18                                                          |
-| 68 | Virgin Mobile ($45 17GB,$40 10GB, 1000mins International Calling, $100 The Source Gift Card) YMMV                       |
-| 69 | G15 Ryzen Edition Gaming Laptop, 5600H/8GB/256GB, RTX 3050, 15.6" FHD 120Hz 250nits, $900, 8% cash back                 |
-| 70 | ZTE Axon Ultra 30 - $470 (half off) Flash Sales Nov 22nd - Nov 29, 7am-9am EST                                          |
-| 71 | Razer Core X External Graphics Enclosure - $244.99 (YMMV)                                                               |
-| 72 | Xbox Game Pass for PC 42% off + 3 months for $1                                                                         |
-| 73 | Dell 27” QHD 2560 x 1440 75 Hz Monitor - S2721D ($224.99 with code and extra 8% Rakuten cashback)                       |
-| 74 | Samsung Galaxy Tab S7+ for $790 or S7 for $670.                                                                         |
-| 75 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
-| 76 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                                     |
-| 77 | Kasa Smart WiFi Plug HS103 (12A) 4-pack $29.99                                                                          |
-| 78 | Lenovo IdeaPad Slim 9i -$1359.99                                                                                        |
-| 79 | $35 for 10 GB YMMV?                                                                                                     |
-| 80 | 4-Port USB 3.0 High Speed Portable Hub, Black - PrimeCables® - $6.99 + FS                                               |
-| 81 | FREE Halo Infinte Multi-player available for PC and Xbox!                                                               |
-| 82 | Razer DeathAdder Essential gaming mouse 6400 DPI $24.99 (ATL)                                                           |
-| 83 | Hisense U6GR - 55" - $698 ($648 BF) | 4K - Local Dimming - HDR10/Dolby Vision/Dolby Atmos - HDMI 2.1/eARC/VRR - Roku TV |
-| 84 | $45 25gb + $300 bill credit per line [win back]                                                                         |
-| 85 | $20 Unlimited Canada-wide talk & text                                                                                   |
-| 86 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)                   |
-| 87 | 10GB for $35 first 12 months, then $40 2nd year(BYOD)                                                                   |
-| 88 | Black Friday Early Deals Flyer (Nov 17 online and Nov 18 in-store)                                                      |
-| 89 | Sennheiser AMBEO Soundbar - $2599.95 ($700 off)                                                                         |
+|    | deals                                                                                                            |
+|---:|:-----------------------------------------------------------------------------------------------------------------|
+|  0 | [Sponsored] Black Friday Prices on Now!                                                                          |
+|  1 | [Sponsored] Fastest VPN: Lifetime Plan w/ 15 Multi-Logins for $18, Get 2TB Cloud Storage + Password Manager FREE |
+|  2 | Console Trade Event - Get up to $300 for select PS4’s or get up to $200 for select Xbox One Consoles (Nov 15-28) |
+|  3 | APC UPS 1500/900 Battery Backup $189.99 ( BN1500M2-CA )                                                          |
+|  4 | Black Friday Deals (Starts Nov 18th)                                                                             |
+|  5 | 10GB for $35 first 12 months, then $40 2nd year(BYOD)                                                            |
+|  6 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                     |
+|  7 | PlayStation 5 available in stores, YMMV                                                                          |
+|  8 | [Contest] Post your Black Friday shopping list for the chance to win 1 of 5 $50 gift cards!                      |
+|  9 | Rakuten Cashback Currently 8% for Dell Consumer Canada                                                           |
+| 10 | Amazon Fire HD 8" Tablet 32 GB                                                                                   |
+| 11 | eufy Smart Lock Touch & Wi-Fi - Black - $279.99 was $349.99                                                      |
+| 12 | ThinkPad T14 Gen 2 AMD, Starting from $887 via Perkopolis                                                        |
+| 13 | Telus EPP 20GB/$50 BYOD                                                                                          |
+| 14 | Free $25 e-voucher from Samsung when you sign up                                                                 |
+| 15 | Samsung Galaxy A52 5G 128GB $489.99                                                                              |
+| 16 | LG C1 OLED 48" $1499 / 55" $1699 / 65" $2299 / 77" $3999 (Costco, BestBuy, Amazon and others) Ends Dec. 2        |
+| 17 | FIFA 21 Legacy Edition (Nintendo Switch) for $9.96 (YMMV)                                                        |
+| 18 | Legion 7 Gen 6 Ryzen 7 5800H, RTX 3070, 16GB, 1TB (or Intel build) - $1,890 after 24% coupons & 9% ebate         |
+| 19 | ACDSee Pro free for limited time from $9.99                                                                      |
+| 20 | Team T-FORCE VULCAN Z 32GB (2 x 16GB) DDR4 3200 - $119.99                                                        |
+| 21 | QC Only: $39 for 9GB Data + Unlimited Call & Text                                                                |
+| 22 | Xtreme Gaming LED Backlit Mechanical Gaming Keyboard $19.99                                                      |
+| 23 | Thinkbook 16P Gen 2 AMD 5600H, 2.5K Res, RTX3060 16GB 512GB $1445.52                                             |
+| 24 | Horizon Zero Dawn Complete Edition $18.89, Cyberpunk 2077 $27.39, Deathloop $37.59 & more (Update: 11/16 7:30PM) |
+| 25 | Lenovo Legion 5 120Hz Ryzen 5 4600H, 8GB RAM, 256GB SSD, GTX 1660 TI $999.99                                     |
+| 26 | Costco Mobile deals are starting to show up. S20 FE and Pixel 6 had BF deals for Bell                            |
+| 27 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)            |
+| 28 | Dell 27” QHD 2560 x 1440 75 Hz Monitor - S2721D ($224.99 with code and extra 2% Rakuten cashback)                |
+| 29 | Edifier Canada's Black Friday deals are now online                                                               |
+| 30 | [Sponsored] Black Friday Prices on Now!                                                                          |
+| 31 | [Sponsored] Fastest VPN: Lifetime Plan w/ 15 Multi-Logins for $18, Get 2TB Cloud Storage + Password Manager FREE |
+| 32 | Console Trade Event - Get up to $300 for select PS4’s or get up to $200 for select Xbox One Consoles (Nov 15-28) |
+| 33 | APC UPS 1500/900 Battery Backup $189.99 ( BN1500M2-CA )                                                          |
+| 34 | Black Friday Deals (Starts Nov 18th)                                                                             |
+| 35 | 10GB for $35 first 12 months, then $40 2nd year(BYOD)                                                            |
+| 36 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                     |
+| 37 | PlayStation 5 available in stores, YMMV                                                                          |
+| 38 | [Contest] Post your Black Friday shopping list for the chance to win 1 of 5 $50 gift cards!                      |
+| 39 | Rakuten Cashback Currently 8% for Dell Consumer Canada                                                           |
+| 40 | Amazon Fire HD 8" Tablet 32 GB                                                                                   |
+| 41 | eufy Smart Lock Touch & Wi-Fi - Black - $279.99 was $349.99                                                      |
+| 42 | ThinkPad T14 Gen 2 AMD, Starting from $887 via Perkopolis                                                        |
+| 43 | Telus EPP 20GB/$50 BYOD                                                                                          |
+| 44 | Free $25 e-voucher from Samsung when you sign up                                                                 |
+| 45 | Samsung Galaxy A52 5G 128GB $489.99                                                                              |
+| 46 | LG C1 OLED 48" $1499 / 55" $1699 / 65" $2299 / 77" $3999 (Costco, BestBuy, Amazon and others) Ends Dec. 2        |
+| 47 | FIFA 21 Legacy Edition (Nintendo Switch) for $9.96 (YMMV)                                                        |
+| 48 | Legion 7 Gen 6 Ryzen 7 5800H, RTX 3070, 16GB, 1TB (or Intel build) - $1,890 after 24% coupons & 9% ebate         |
+| 49 | ACDSee Pro free for limited time from $9.99                                                                      |
+| 50 | Team T-FORCE VULCAN Z 32GB (2 x 16GB) DDR4 3200 - $119.99                                                        |
+| 51 | QC Only: $39 for 9GB Data + Unlimited Call & Text                                                                |
+| 52 | Xtreme Gaming LED Backlit Mechanical Gaming Keyboard $19.99                                                      |
+| 53 | Thinkbook 16P Gen 2 AMD 5600H, 2.5K Res, RTX3060 16GB 512GB $1445.52                                             |
+| 54 | Horizon Zero Dawn Complete Edition $18.89, Cyberpunk 2077 $27.39, Deathloop $37.59 & more (Update: 11/16 7:30PM) |
+| 55 | Lenovo Legion 5 120Hz Ryzen 5 4600H, 8GB RAM, 256GB SSD, GTX 1660 TI $999.99                                     |
+| 56 | Costco Mobile deals are starting to show up. S20 FE and Pixel 6 had BF deals for Bell                            |
+| 57 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)            |
+| 58 | Dell 27” QHD 2560 x 1440 75 Hz Monitor - S2721D ($224.99 with code and extra 2% Rakuten cashback)                |
+| 59 | Edifier Canada's Black Friday deals are now online                                                               |
+| 60 | [Sponsored] Black Friday Prices on Now!                                                                          |
+| 61 | [Sponsored] Fastest VPN: Lifetime Plan w/ 15 Multi-Logins for $18, Get 2TB Cloud Storage + Password Manager FREE |
+| 62 | Console Trade Event - Get up to $300 for select PS4’s or get up to $200 for select Xbox One Consoles (Nov 15-28) |
+| 63 | APC UPS 1500/900 Battery Backup $189.99 ( BN1500M2-CA )                                                          |
+| 64 | Black Friday Deals (Starts Nov 18th)                                                                             |
+| 65 | 10GB for $35 first 12 months, then $40 2nd year(BYOD)                                                            |
+| 66 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                     |
+| 67 | PlayStation 5 available in stores, YMMV                                                                          |
+| 68 | [Contest] Post your Black Friday shopping list for the chance to win 1 of 5 $50 gift cards!                      |
+| 69 | Rakuten Cashback Currently 8% for Dell Consumer Canada                                                           |
+| 70 | Amazon Fire HD 8" Tablet 32 GB                                                                                   |
+| 71 | eufy Smart Lock Touch & Wi-Fi - Black - $279.99 was $349.99                                                      |
+| 72 | ThinkPad T14 Gen 2 AMD, Starting from $887 via Perkopolis                                                        |
+| 73 | Telus EPP 20GB/$50 BYOD                                                                                          |
+| 74 | Free $25 e-voucher from Samsung when you sign up                                                                 |
+| 75 | Samsung Galaxy A52 5G 128GB $489.99                                                                              |
+| 76 | LG C1 OLED 48" $1499 / 55" $1699 / 65" $2299 / 77" $3999 (Costco, BestBuy, Amazon and others) Ends Dec. 2        |
+| 77 | FIFA 21 Legacy Edition (Nintendo Switch) for $9.96 (YMMV)                                                        |
+| 78 | Legion 7 Gen 6 Ryzen 7 5800H, RTX 3070, 16GB, 1TB (or Intel build) - $1,890 after 24% coupons & 9% ebate         |
+| 79 | ACDSee Pro free for limited time from $9.99                                                                      |
+| 80 | Team T-FORCE VULCAN Z 32GB (2 x 16GB) DDR4 3200 - $119.99                                                        |
+| 81 | QC Only: $39 for 9GB Data + Unlimited Call & Text                                                                |
+| 82 | Xtreme Gaming LED Backlit Mechanical Gaming Keyboard $19.99                                                      |
+| 83 | Thinkbook 16P Gen 2 AMD 5600H, 2.5K Res, RTX3060 16GB 512GB $1445.52                                             |
+| 84 | Horizon Zero Dawn Complete Edition $18.89, Cyberpunk 2077 $27.39, Deathloop $37.59 & more (Update: 11/16 7:30PM) |
+| 85 | Lenovo Legion 5 120Hz Ryzen 5 4600H, 8GB RAM, 256GB SSD, GTX 1660 TI $999.99                                     |
+| 86 | Costco Mobile deals are starting to show up. S20 FE and Pixel 6 had BF deals for Bell                            |
+| 87 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)            |
+| 88 | Dell 27” QHD 2560 x 1440 75 Hz Monitor - S2721D ($224.99 with code and extra 2% Rakuten cashback)                |
+| 89 | Edifier Canada's Black Friday deals are now online                                                               |
