@@ -1,92 +1,92 @@
-|    | deals                                                                                                            |
-|---:|:-----------------------------------------------------------------------------------------------------------------|
-|  0 | [Sponsored] Shop MSI’s Early Black Friday Deals + Redeem up to $100 USD in Steam Codes!                          |
-|  1 | [Sponsored] Black Friday Sales Start NOW!: Big Memory, Big Storage, Big Savings with Newegg.ca                   |
-|  2 | Ryzen 5 5600X $349.99 + tax, FS                                                                                  |
-|  3 | Fire TV Stick 4K Max $50                                                                                         |
-|  4 | ZTE Axon Ultra 30 - $470 (half off) Flash Sales Nov 22nd - Nov 29, 7am-9am EST                                   |
-|  5 | Voxelab Aquila 3D Printer (Ender 3 v2 "Clone") - ~$224CAD no tax                                                 |
-|  6 | Virgin Mobile $40/mo for 24 months, 10GB LTE +$100 GC + $0 Activation + 1000 LD minutes                          |
-|  7 | Asus Chromebook 11.6 in $99                                                                                      |
-|  8 | Get your Google Play credit for eligible device purchases                                                        |
-|  9 | Fiio BTR3K Bluetooth Receiver/Amp/DAC for wired IEM/Headphones $79.99                                            |
-| 10 | Black Friday 2021 Digital Sale | Ends 11/29                                                                      |
-| 11 | Iphone 12 128GB Koodo New or Renewal (200+100GC)                                                                 |
-| 12 | Dual Motor Standing Desk Frame $270 with code EXTRA20 ATL                                                        |
-| 13 | Fitbit Charge 4 Black $99.99 ($70 off)                                                                           |
-| 14 | YMMV $10 off $20 first Amazon.ca app purchase                                                                    |
-| 15 | Galaxy Watch4 for just $125                                                                                      |
-| 16 | Console Trade Event - Get up to $300 for select PS4’s or get up to $200 for select Xbox One Consoles (Nov 15-28) |
-| 17 | Online Only - Logitech Wireless Touchpad Keyboard K400 - $24.98                                                  |
-| 18 | LG OLED 48" $1497.99 - 55" $1697.99 - 65" $2297.99 Until Nov18                                                   |
-| 19 | Nintendo Switch Lite $199 and Reg for $349 (YMMV)                                                                |
-| 20 | Oculus Quest 2 - get $70 Amazon promotional credit (start Nov 25)                                                |
-| 21 | MSI GF65 Thin 15.6" 144Hz Gaming Laptop - Intel i7-10750H, RTX3060, 16GB, 512GB - $1,399                         |
-| 22 | 70% off all Monoprice products - no coupons                                                                      |
-| 23 | Fido/Rogers Iphone 12 Mini 128GB Pay 106.8 Upfront then 2.92 for 24 months                                       |
-| 24 | $150 off Western Digital Easystore 14TB external HDD at Bestbuy in Richmond Hill ON - YMMV                       |
-| 25 | KOODO/FIDO/VIRGIN GOOGLE PIXEL 6 + 250k PC POINTS                                                                |
-| 26 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $225 B4 coupons, $3 S&H)                                         |
-| 27 | Nvidia Shield Android Tv 4K HDR Streaming Media Player (Barrel) $170                                             |
-| 28 | Pre-Black Friday Cellphone Offers                                                                                |
-| 29 | Free 5 GB onto your monthly plan, Black Friday Promo (YMMW)                                                      |
-| 30 | [Sponsored] Shop MSI’s Early Black Friday Deals + Redeem up to $100 USD in Steam Codes!                          |
-| 31 | [Sponsored] Black Friday Sales Start NOW!: Big Memory, Big Storage, Big Savings with Newegg.ca                   |
-| 32 | Ryzen 5 5600X $349.99 + tax, FS                                                                                  |
-| 33 | Fire TV Stick 4K Max $50                                                                                         |
-| 34 | ZTE Axon Ultra 30 - $470 (half off) Flash Sales Nov 22nd - Nov 29, 7am-9am EST                                   |
-| 35 | Voxelab Aquila 3D Printer (Ender 3 v2 "Clone") - ~$224CAD no tax                                                 |
-| 36 | Virgin Mobile $40/mo for 24 months, 10GB LTE +$100 GC + $0 Activation + 1000 LD minutes                          |
-| 37 | Asus Chromebook 11.6 in $99                                                                                      |
-| 38 | Get your Google Play credit for eligible device purchases                                                        |
-| 39 | Fiio BTR3K Bluetooth Receiver/Amp/DAC for wired IEM/Headphones $79.99                                            |
-| 40 | Black Friday 2021 Digital Sale | Ends 11/29                                                                      |
-| 41 | Iphone 12 128GB Koodo New or Renewal (200+100GC)                                                                 |
-| 42 | Dual Motor Standing Desk Frame $270 with code EXTRA20 ATL                                                        |
-| 43 | Fitbit Charge 4 Black $99.99 ($70 off)                                                                           |
-| 44 | YMMV $10 off $20 first Amazon.ca app purchase                                                                    |
-| 45 | Galaxy Watch4 for just $125                                                                                      |
-| 46 | Console Trade Event - Get up to $300 for select PS4’s or get up to $200 for select Xbox One Consoles (Nov 15-28) |
-| 47 | Online Only - Logitech Wireless Touchpad Keyboard K400 - $24.98                                                  |
-| 48 | LG OLED 48" $1497.99 - 55" $1697.99 - 65" $2297.99 Until Nov18                                                   |
-| 49 | Nintendo Switch Lite $199 and Reg for $349 (YMMV)                                                                |
-| 50 | Oculus Quest 2 - get $70 Amazon promotional credit (start Nov 25)                                                |
-| 51 | MSI GF65 Thin 15.6" 144Hz Gaming Laptop - Intel i7-10750H, RTX3060, 16GB, 512GB - $1,399                         |
-| 52 | 70% off all Monoprice products - no coupons                                                                      |
-| 53 | Fido/Rogers Iphone 12 Mini 128GB Pay 106.8 Upfront then 2.92 for 24 months                                       |
-| 54 | $150 off Western Digital Easystore 14TB external HDD at Bestbuy in Richmond Hill ON - YMMV                       |
-| 55 | KOODO/FIDO/VIRGIN GOOGLE PIXEL 6 + 250k PC POINTS                                                                |
-| 56 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $225 B4 coupons, $3 S&H)                                         |
-| 57 | Nvidia Shield Android Tv 4K HDR Streaming Media Player (Barrel) $170                                             |
-| 58 | Pre-Black Friday Cellphone Offers                                                                                |
-| 59 | Free 5 GB onto your monthly plan, Black Friday Promo (YMMW)                                                      |
-| 60 | [Sponsored] Shop MSI’s Early Black Friday Deals + Redeem up to $100 USD in Steam Codes!                          |
-| 61 | [Sponsored] Black Friday Sales Start NOW!: Big Memory, Big Storage, Big Savings with Newegg.ca                   |
-| 62 | Ryzen 5 5600X $349.99 + tax, FS                                                                                  |
-| 63 | Fire TV Stick 4K Max $50                                                                                         |
-| 64 | ZTE Axon Ultra 30 - $470 (half off) Flash Sales Nov 22nd - Nov 29, 7am-9am EST                                   |
-| 65 | Voxelab Aquila 3D Printer (Ender 3 v2 "Clone") - ~$224CAD no tax                                                 |
-| 66 | Virgin Mobile $40/mo for 24 months, 10GB LTE +$100 GC + $0 Activation + 1000 LD minutes                          |
-| 67 | Asus Chromebook 11.6 in $99                                                                                      |
-| 68 | Get your Google Play credit for eligible device purchases                                                        |
-| 69 | Fiio BTR3K Bluetooth Receiver/Amp/DAC for wired IEM/Headphones $79.99                                            |
-| 70 | Black Friday 2021 Digital Sale | Ends 11/29                                                                      |
-| 71 | Iphone 12 128GB Koodo New or Renewal (200+100GC)                                                                 |
-| 72 | Dual Motor Standing Desk Frame $270 with code EXTRA20 ATL                                                        |
-| 73 | Fitbit Charge 4 Black $99.99 ($70 off)                                                                           |
-| 74 | YMMV $10 off $20 first Amazon.ca app purchase                                                                    |
-| 75 | Galaxy Watch4 for just $125                                                                                      |
-| 76 | Console Trade Event - Get up to $300 for select PS4’s or get up to $200 for select Xbox One Consoles (Nov 15-28) |
-| 77 | Online Only - Logitech Wireless Touchpad Keyboard K400 - $24.98                                                  |
-| 78 | LG OLED 48" $1497.99 - 55" $1697.99 - 65" $2297.99 Until Nov18                                                   |
-| 79 | Nintendo Switch Lite $199 and Reg for $349 (YMMV)                                                                |
-| 80 | Oculus Quest 2 - get $70 Amazon promotional credit (start Nov 25)                                                |
-| 81 | MSI GF65 Thin 15.6" 144Hz Gaming Laptop - Intel i7-10750H, RTX3060, 16GB, 512GB - $1,399                         |
-| 82 | 70% off all Monoprice products - no coupons                                                                      |
-| 83 | Fido/Rogers Iphone 12 Mini 128GB Pay 106.8 Upfront then 2.92 for 24 months                                       |
-| 84 | $150 off Western Digital Easystore 14TB external HDD at Bestbuy in Richmond Hill ON - YMMV                       |
-| 85 | KOODO/FIDO/VIRGIN GOOGLE PIXEL 6 + 250k PC POINTS                                                                |
-| 86 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $225 B4 coupons, $3 S&H)                                         |
-| 87 | Nvidia Shield Android Tv 4K HDR Streaming Media Player (Barrel) $170                                             |
-| 88 | Pre-Black Friday Cellphone Offers                                                                                |
-| 89 | Free 5 GB onto your monthly plan, Black Friday Promo (YMMW)                                                      |
+|    | deals                                                                                                                |
+|---:|:---------------------------------------------------------------------------------------------------------------------|
+|  0 | [Sponsored] Shop MSI’s Early Black Friday Deals + Redeem up to $100 USD in Steam Codes!                              |
+|  1 | [Sponsored] Black Friday Sales Start NOW!: Big Memory, Big Storage, Big Savings with Newegg.ca                       |
+|  2 | Dell Inspiron 13 i5310 Laptop for $750                                                                               |
+|  3 | Virgin Mobile $40/mo for 24 months, 12GB LTE + $50 GC + $0 Activation + 1000 LD minutes                              |
+|  4 | BF Switch Games can be purchased digitally from Gamestop US USD$25 - $27 + No tax                                    |
+|  5 | Virgin Mobile Home Internet 100Mbps for $35/m and $50 Visa GC - WITH VIRGIN PHONE PLAN                               |
+|  6 | GOOGLE PIXEL 6                                                                                                       |
+|  7 | Jump force ultimate edition PS4 90%off (12.99$)                                                                      |
+|  8 | Govee Immersion TV LED Backlights with Camera, RGBIC Ambient Wi-Fi TV Backlights for 55-65 inch TVs                  |
+|  9 | Black Friday Deal for New Customer 12GB for $40                                                                      |
+| 10 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                                   |
+| 11 | 14TB External WD Easystore - $270                                                                                    |
+| 12 | Iphone 12 128GB Koodo New or Renewal (200+100GC)                                                                     |
+| 13 | Lenovo IdeaPad 3i - 15.6", Pentium Gold 7505, 4GB/128GB SSD - $339.99                                                |
+| 14 | Pixel 6 Stormy Black 128 GB Price Match with Best Buy $699.99 plus 10% off Google One Drive credits - YMMV           |
+| 15 | Oculus Quest 2 - get $70 Amazon promotional credit                                                                   |
+| 16 | RCA 82” RWOSU8250 $998                                                                                               |
+| 17 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)                |
+| 18 | Apple Gift Card - Get $10 Amazon promotional credit with $100 Apple Gift Card purchase                               |
+| 19 | Warm deals on budget SSDs 1TB to 2TB with prior 25% promo codes, F/S at $300                                         |
+| 20 | [Contest] Post your Black Friday shopping list for the chance to win 1 of 5 $50 gift cards!                          |
+| 21 | Evovacs Deebot N8+ $399 at Costco                                                                                    |
+| 22 | Ring Alarm - 40% off (5 pc: $165, 8 pc: $205, 14 pc: $270)                                                           |
+| 23 | Fire HD 10 tablet, 10.1", 1080p Full HD, 32 GB, latest model (2021 release) - $134.99                                |
+| 24 | Crucial 8GB DDR4 3200 MHz CL22 (or 2933 MHz or 2666 MHz) Laptop Ram~$36.49 ATL for deal of Thinkpad P14s T14 upgrade |
+| 25 | Lenovo Legion 5 120Hz Ryzen 5 4600H, 8GB RAM, 256GB SSD, GTX 1660 TI $999.99                                         |
+| 26 | Samsung laptop for $279 [Hidden Deal]                                                                                |
+| 27 | KOODO/FIDO/VIRGIN GOOGLE PIXEL 6 + 300k PC POINTS                                                                    |
+| 28 | Nintendo Switch OLED in stock (in-store, ymmv)                                                                       |
+| 29 | Galaxy Watch 4 (44mm)- $260-100=$160 (workperks)                                                                     |
+| 30 | [Sponsored] Shop MSI’s Early Black Friday Deals + Redeem up to $100 USD in Steam Codes!                              |
+| 31 | [Sponsored] Black Friday Sales Start NOW!: Big Memory, Big Storage, Big Savings with Newegg.ca                       |
+| 32 | Dell Inspiron 13 i5310 Laptop for $750                                                                               |
+| 33 | Virgin Mobile $40/mo for 24 months, 12GB LTE + $50 GC + $0 Activation + 1000 LD minutes                              |
+| 34 | BF Switch Games can be purchased digitally from Gamestop US USD$25 - $27 + No tax                                    |
+| 35 | Virgin Mobile Home Internet 100Mbps for $35/m and $50 Visa GC - WITH VIRGIN PHONE PLAN                               |
+| 36 | GOOGLE PIXEL 6                                                                                                       |
+| 37 | Jump force ultimate edition PS4 90%off (12.99$)                                                                      |
+| 38 | Govee Immersion TV LED Backlights with Camera, RGBIC Ambient Wi-Fi TV Backlights for 55-65 inch TVs                  |
+| 39 | Black Friday Deal for New Customer 12GB for $40                                                                      |
+| 40 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                                   |
+| 41 | 14TB External WD Easystore - $270                                                                                    |
+| 42 | Iphone 12 128GB Koodo New or Renewal (200+100GC)                                                                     |
+| 43 | Lenovo IdeaPad 3i - 15.6", Pentium Gold 7505, 4GB/128GB SSD - $339.99                                                |
+| 44 | Pixel 6 Stormy Black 128 GB Price Match with Best Buy $699.99 plus 10% off Google One Drive credits - YMMV           |
+| 45 | Oculus Quest 2 - get $70 Amazon promotional credit                                                                   |
+| 46 | RCA 82” RWOSU8250 $998                                                                                               |
+| 47 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)                |
+| 48 | Apple Gift Card - Get $10 Amazon promotional credit with $100 Apple Gift Card purchase                               |
+| 49 | Warm deals on budget SSDs 1TB to 2TB with prior 25% promo codes, F/S at $300                                         |
+| 50 | [Contest] Post your Black Friday shopping list for the chance to win 1 of 5 $50 gift cards!                          |
+| 51 | Evovacs Deebot N8+ $399 at Costco                                                                                    |
+| 52 | Ring Alarm - 40% off (5 pc: $165, 8 pc: $205, 14 pc: $270)                                                           |
+| 53 | Fire HD 10 tablet, 10.1", 1080p Full HD, 32 GB, latest model (2021 release) - $134.99                                |
+| 54 | Crucial 8GB DDR4 3200 MHz CL22 (or 2933 MHz or 2666 MHz) Laptop Ram~$36.49 ATL for deal of Thinkpad P14s T14 upgrade |
+| 55 | Lenovo Legion 5 120Hz Ryzen 5 4600H, 8GB RAM, 256GB SSD, GTX 1660 TI $999.99                                         |
+| 56 | Samsung laptop for $279 [Hidden Deal]                                                                                |
+| 57 | KOODO/FIDO/VIRGIN GOOGLE PIXEL 6 + 300k PC POINTS                                                                    |
+| 58 | Nintendo Switch OLED in stock (in-store, ymmv)                                                                       |
+| 59 | Galaxy Watch 4 (44mm)- $260-100=$160 (workperks)                                                                     |
+| 60 | [Sponsored] Shop MSI’s Early Black Friday Deals + Redeem up to $100 USD in Steam Codes!                              |
+| 61 | [Sponsored] Black Friday Sales Start NOW!: Big Memory, Big Storage, Big Savings with Newegg.ca                       |
+| 62 | Dell Inspiron 13 i5310 Laptop for $750                                                                               |
+| 63 | Virgin Mobile $40/mo for 24 months, 12GB LTE + $50 GC + $0 Activation + 1000 LD minutes                              |
+| 64 | BF Switch Games can be purchased digitally from Gamestop US USD$25 - $27 + No tax                                    |
+| 65 | Virgin Mobile Home Internet 100Mbps for $35/m and $50 Visa GC - WITH VIRGIN PHONE PLAN                               |
+| 66 | GOOGLE PIXEL 6                                                                                                       |
+| 67 | Jump force ultimate edition PS4 90%off (12.99$)                                                                      |
+| 68 | Govee Immersion TV LED Backlights with Camera, RGBIC Ambient Wi-Fi TV Backlights for 55-65 inch TVs                  |
+| 69 | Black Friday Deal for New Customer 12GB for $40                                                                      |
+| 70 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                                   |
+| 71 | 14TB External WD Easystore - $270                                                                                    |
+| 72 | Iphone 12 128GB Koodo New or Renewal (200+100GC)                                                                     |
+| 73 | Lenovo IdeaPad 3i - 15.6", Pentium Gold 7505, 4GB/128GB SSD - $339.99                                                |
+| 74 | Pixel 6 Stormy Black 128 GB Price Match with Best Buy $699.99 plus 10% off Google One Drive credits - YMMV           |
+| 75 | Oculus Quest 2 - get $70 Amazon promotional credit                                                                   |
+| 76 | RCA 82” RWOSU8250 $998                                                                                               |
+| 77 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)                |
+| 78 | Apple Gift Card - Get $10 Amazon promotional credit with $100 Apple Gift Card purchase                               |
+| 79 | Warm deals on budget SSDs 1TB to 2TB with prior 25% promo codes, F/S at $300                                         |
+| 80 | [Contest] Post your Black Friday shopping list for the chance to win 1 of 5 $50 gift cards!                          |
+| 81 | Evovacs Deebot N8+ $399 at Costco                                                                                    |
+| 82 | Ring Alarm - 40% off (5 pc: $165, 8 pc: $205, 14 pc: $270)                                                           |
+| 83 | Fire HD 10 tablet, 10.1", 1080p Full HD, 32 GB, latest model (2021 release) - $134.99                                |
+| 84 | Crucial 8GB DDR4 3200 MHz CL22 (or 2933 MHz or 2666 MHz) Laptop Ram~$36.49 ATL for deal of Thinkpad P14s T14 upgrade |
+| 85 | Lenovo Legion 5 120Hz Ryzen 5 4600H, 8GB RAM, 256GB SSD, GTX 1660 TI $999.99                                         |
+| 86 | Samsung laptop for $279 [Hidden Deal]                                                                                |
+| 87 | KOODO/FIDO/VIRGIN GOOGLE PIXEL 6 + 300k PC POINTS                                                                    |
+| 88 | Nintendo Switch OLED in stock (in-store, ymmv)                                                                       |
+| 89 | Galaxy Watch 4 (44mm)- $260-100=$160 (workperks)                                                                     |
