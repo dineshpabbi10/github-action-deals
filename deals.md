@@ -5,7 +5,7 @@
 |  2 | Dell Inspiron 13 i5310 Laptop for $750                                                                               |
 |  3 | Virgin Mobile $40/mo for 24 months, 12GB LTE + $50 GC + $0 Activation + 1000 LD minutes                              |
 |  4 | BF Switch Games can be purchased digitally from Gamestop US USD$25 - $27 + No tax                                    |
-|  5 | Virgin Mobile Home Internet 100Mbps for $35/m and $50 Visa GC - WITH VIRGIN PHONE PLAN                               |
+|  5 | Virgin Mobile Home Internet 100Mbps for $35/m and $50 Visa GC - WITH VIRGIN PHONE PLAN - YMMV                        |
 |  6 | GOOGLE PIXEL 6                                                                                                       |
 |  7 | Jump force ultimate edition PS4 90%off (12.99$)                                                                      |
 |  8 | Govee Immersion TV LED Backlights with Camera, RGBIC Ambient Wi-Fi TV Backlights for 55-65 inch TVs                  |
@@ -35,7 +35,7 @@
 | 32 | Dell Inspiron 13 i5310 Laptop for $750                                                                               |
 | 33 | Virgin Mobile $40/mo for 24 months, 12GB LTE + $50 GC + $0 Activation + 1000 LD minutes                              |
 | 34 | BF Switch Games can be purchased digitally from Gamestop US USD$25 - $27 + No tax                                    |
-| 35 | Virgin Mobile Home Internet 100Mbps for $35/m and $50 Visa GC - WITH VIRGIN PHONE PLAN                               |
+| 35 | Virgin Mobile Home Internet 100Mbps for $35/m and $50 Visa GC - WITH VIRGIN PHONE PLAN - YMMV                        |
 | 36 | GOOGLE PIXEL 6                                                                                                       |
 | 37 | Jump force ultimate edition PS4 90%off (12.99$)                                                                      |
 | 38 | Govee Immersion TV LED Backlights with Camera, RGBIC Ambient Wi-Fi TV Backlights for 55-65 inch TVs                  |
@@ -65,7 +65,7 @@
 | 62 | Dell Inspiron 13 i5310 Laptop for $750                                                                               |
 | 63 | Virgin Mobile $40/mo for 24 months, 12GB LTE + $50 GC + $0 Activation + 1000 LD minutes                              |
 | 64 | BF Switch Games can be purchased digitally from Gamestop US USD$25 - $27 + No tax                                    |
-| 65 | Virgin Mobile Home Internet 100Mbps for $35/m and $50 Visa GC - WITH VIRGIN PHONE PLAN                               |
+| 65 | Virgin Mobile Home Internet 100Mbps for $35/m and $50 Visa GC - WITH VIRGIN PHONE PLAN - YMMV                        |
 | 66 | GOOGLE PIXEL 6                                                                                                       |
 | 67 | Jump force ultimate edition PS4 90%off (12.99$)                                                                      |
 | 68 | Govee Immersion TV LED Backlights with Camera, RGBIC Ambient Wi-Fi TV Backlights for 55-65 inch TVs                  |
