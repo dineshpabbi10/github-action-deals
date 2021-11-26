@@ -1,92 +1,92 @@
-|    | deals                                                                                                           |
-|---:|:----------------------------------------------------------------------------------------------------------------|
-|  0 | [Sponsored] Shop MSI’s Early Black Friday Deals + Redeem up to $100 USD in Steam Codes!                         |
-|  1 | [Sponsored] Black Friday Sales Start NOW!: Big Memory, Big Storage, Big Savings with Newegg.ca                  |
-|  2 | Starlink beta is live shipping in CANADA! (rural broadband internet, YMMV)                                      |
-|  3 | Eufy wireless doorbell 2k with home base $199, 2K wired Pro $179, BACK IN STOCK!                                |
-|  4 | Plex Lifetime Pass - $73 CAD                                                                                    |
-|  5 | Iphone 11 on Rogers with $525 worth PC points                                                                   |
-|  6 | PlayStation 5 available in stores, YMMV                                                                         |
-|  7 | $1289.99 LG UN90 75'' 4K Smart UHD TV                                                                           |
-|  8 | Legion 7 & 7i: AMD Ryzen 5800H or Intel i7-11800H, RTX 3070, 16GB, 1TB - $1,890 (24% coupon & 9% ebate)         |
-|  9 | KOODO/FIDO/VIRGIN GOOGLE PIXEL 6 + 300k PC POINTS                                                               |
-| 10 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                    |
-| 11 | $150 off all bundles (QC only)                                                                                  |
-| 12 | Fido/Rogers Iphone 12 Mini 128GB Pay 106.8 Upfront then 2.92 for 24 months                                      |
-| 13 | $2300 approx - Newegg Combos with RTX 3080 Graphics Cards (In Stock)                                            |
-| 14 | AMD Ryzen 7 5800X 8-core, 16-thread CPU - $427.99                                                               |
-| 15 | Voxelab Aquila 3D Printer (Ender 3 v2 "Clone") - ~$224CAD no tax                                                |
-| 16 | Fire TV Stick 4K Max $50                                                                                        |
-| 17 | Iphone 12 128GB Koodo New or Renewal (200+100GC)                                                                |
-| 18 | LG OLED 48" $1497.99 - 55" $1697.99 - 65" $2297.99 Until Nov18                                                  |
-| 19 | Black Friday Deal for New Customer 12GB for $40                                                                 |
-| 20 | Home Internet: 50% off on 75mbps and 150mbps                                                                    |
-| 21 | Lumafusion video editing for iPad- 33% off                                                                      |
-| 22 | Public Mobile Prepaid SIM card - $ 6.95                                                                         |
-| 23 | PlayStation Plus 12 Month Membership – Digital Download $46.99                                                  |
-| 24 | ATT Family Plan Prepaid Unlimited Plus 22GB 5G Data Unl Talk/Text/DATA CAN/USA/MEX $38 (w/ autopay and 5 lines) |
-| 25 | SmartDNS Lifetime $200, 3 years $43,plus more offers                                                            |
-| 26 | WD Gold 10TB internal HDD - $319 + free ship                                                                    |
-| 27 | Kindle, with built-in front light, $70 ($50 off)                                                                |
-| 28 | Samsung Wireless Charger Trio - $60 reg $120                                                                    |
-| 29 | [Leetcode] Leetcode Premium Subscription - USD$129                                                              |
-| 30 | [Sponsored] Shop MSI’s Early Black Friday Deals + Redeem up to $100 USD in Steam Codes!                         |
-| 31 | [Sponsored] Black Friday Sales Start NOW!: Big Memory, Big Storage, Big Savings with Newegg.ca                  |
-| 32 | Starlink beta is live shipping in CANADA! (rural broadband internet, YMMV)                                      |
-| 33 | Eufy wireless doorbell 2k with home base $199, 2K wired Pro $179, BACK IN STOCK!                                |
-| 34 | Plex Lifetime Pass - $73 CAD                                                                                    |
-| 35 | Iphone 11 on Rogers with $525 worth PC points                                                                   |
-| 36 | PlayStation 5 available in stores, YMMV                                                                         |
-| 37 | $1289.99 LG UN90 75'' 4K Smart UHD TV                                                                           |
-| 38 | Legion 7 & 7i: AMD Ryzen 5800H or Intel i7-11800H, RTX 3070, 16GB, 1TB - $1,890 (24% coupon & 9% ebate)         |
-| 39 | KOODO/FIDO/VIRGIN GOOGLE PIXEL 6 + 300k PC POINTS                                                               |
-| 40 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                    |
-| 41 | $150 off all bundles (QC only)                                                                                  |
-| 42 | Fido/Rogers Iphone 12 Mini 128GB Pay 106.8 Upfront then 2.92 for 24 months                                      |
-| 43 | $2300 approx - Newegg Combos with RTX 3080 Graphics Cards (In Stock)                                            |
-| 44 | AMD Ryzen 7 5800X 8-core, 16-thread CPU - $427.99                                                               |
-| 45 | Voxelab Aquila 3D Printer (Ender 3 v2 "Clone") - ~$224CAD no tax                                                |
-| 46 | Fire TV Stick 4K Max $50                                                                                        |
-| 47 | Iphone 12 128GB Koodo New or Renewal (200+100GC)                                                                |
-| 48 | LG OLED 48" $1497.99 - 55" $1697.99 - 65" $2297.99 Until Nov18                                                  |
-| 49 | Black Friday Deal for New Customer 12GB for $40                                                                 |
-| 50 | Home Internet: 50% off on 75mbps and 150mbps                                                                    |
-| 51 | Lumafusion video editing for iPad- 33% off                                                                      |
-| 52 | Public Mobile Prepaid SIM card - $ 6.95                                                                         |
-| 53 | PlayStation Plus 12 Month Membership – Digital Download $46.99                                                  |
-| 54 | ATT Family Plan Prepaid Unlimited Plus 22GB 5G Data Unl Talk/Text/DATA CAN/USA/MEX $38 (w/ autopay and 5 lines) |
-| 55 | SmartDNS Lifetime $200, 3 years $43,plus more offers                                                            |
-| 56 | WD Gold 10TB internal HDD - $319 + free ship                                                                    |
-| 57 | Kindle, with built-in front light, $70 ($50 off)                                                                |
-| 58 | Samsung Wireless Charger Trio - $60 reg $120                                                                    |
-| 59 | [Leetcode] Leetcode Premium Subscription - USD$129                                                              |
-| 60 | [Sponsored] Shop MSI’s Early Black Friday Deals + Redeem up to $100 USD in Steam Codes!                         |
-| 61 | [Sponsored] Black Friday Sales Start NOW!: Big Memory, Big Storage, Big Savings with Newegg.ca                  |
-| 62 | Starlink beta is live shipping in CANADA! (rural broadband internet, YMMV)                                      |
-| 63 | Eufy wireless doorbell 2k with home base $199, 2K wired Pro $179, BACK IN STOCK!                                |
-| 64 | Plex Lifetime Pass - $73 CAD                                                                                    |
-| 65 | Iphone 11 on Rogers with $525 worth PC points                                                                   |
-| 66 | PlayStation 5 available in stores, YMMV                                                                         |
-| 67 | $1289.99 LG UN90 75'' 4K Smart UHD TV                                                                           |
-| 68 | Legion 7 & 7i: AMD Ryzen 5800H or Intel i7-11800H, RTX 3070, 16GB, 1TB - $1,890 (24% coupon & 9% ebate)         |
-| 69 | KOODO/FIDO/VIRGIN GOOGLE PIXEL 6 + 300k PC POINTS                                                               |
-| 70 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                    |
-| 71 | $150 off all bundles (QC only)                                                                                  |
-| 72 | Fido/Rogers Iphone 12 Mini 128GB Pay 106.8 Upfront then 2.92 for 24 months                                      |
-| 73 | $2300 approx - Newegg Combos with RTX 3080 Graphics Cards (In Stock)                                            |
-| 74 | AMD Ryzen 7 5800X 8-core, 16-thread CPU - $427.99                                                               |
-| 75 | Voxelab Aquila 3D Printer (Ender 3 v2 "Clone") - ~$224CAD no tax                                                |
-| 76 | Fire TV Stick 4K Max $50                                                                                        |
-| 77 | Iphone 12 128GB Koodo New or Renewal (200+100GC)                                                                |
-| 78 | LG OLED 48" $1497.99 - 55" $1697.99 - 65" $2297.99 Until Nov18                                                  |
-| 79 | Black Friday Deal for New Customer 12GB for $40                                                                 |
-| 80 | Home Internet: 50% off on 75mbps and 150mbps                                                                    |
-| 81 | Lumafusion video editing for iPad- 33% off                                                                      |
-| 82 | Public Mobile Prepaid SIM card - $ 6.95                                                                         |
-| 83 | PlayStation Plus 12 Month Membership – Digital Download $46.99                                                  |
-| 84 | ATT Family Plan Prepaid Unlimited Plus 22GB 5G Data Unl Talk/Text/DATA CAN/USA/MEX $38 (w/ autopay and 5 lines) |
-| 85 | SmartDNS Lifetime $200, 3 years $43,plus more offers                                                            |
-| 86 | WD Gold 10TB internal HDD - $319 + free ship                                                                    |
-| 87 | Kindle, with built-in front light, $70 ($50 off)                                                                |
-| 88 | Samsung Wireless Charger Trio - $60 reg $120                                                                    |
-| 89 | [Leetcode] Leetcode Premium Subscription - USD$129                                                              |
+|    | deals                                                                                                            |
+|---:|:-----------------------------------------------------------------------------------------------------------------|
+|  0 | [Sponsored] Shop MSI’s Early Black Friday Deals + Redeem up to $100 USD in Steam Codes!                          |
+|  1 | Rogers Infinite 56$ 20gb, 300$ Device Credit - EPP + Winback                                                     |
+|  2 | Iphone 12 128GB Koodo New or Renewal (200+100GC)                                                                 |
+|  3 | Virgin Mobile $40/mo for 24 months, 12GB LTE + $50 GC + $0 Activation + 1000 LD minutes                          |
+|  4 | Legion 7 & 7i: AMD Ryzen 5800H or Intel i7-11800H, RTX 3070, 16GB, 1TB - $1,828 (24% coupon & 12% ebate)         |
+|  5 | Seasonic FOCUS 750W 80+ Gold - $79.99 + $7.99 / Super Flower Leadex III 850W 80+ Gold - $119.99                  |
+|  6 | Spend and Get promo, get $350 voucher when spent $3000                                                           |
+|  7 | DrunkenSlug Usenet Indexer is open for registration! + Black Friday sale                                         |
+|  8 | Sandisk 64GB USB Drive 3.0 (Pack of 3) in store $21 ($9 off)                                                     |
+|  9 | Apple Watch 50X CT Money                                                                                         |
+| 10 | Fido/Rogers Iphone 12 Mini 128GB Pay 106.8 Upfront then 2.92 for 24 months                                       |
+| 11 | Lenovo 10e Chromebook Tablet - $129 + 12% Rakuten cashback                                                       |
+| 12 | Black Friday Deal for New Customer 12GB for $40                                                                  |
+| 13 | Logitech G502 SE Hero High Performance RGB Gaming Mouse @Amazon for $39.99                                       |
+| 14 | MX Master 3 $109.99 with free Travel Case ($29 value) MX Keys $114.99                                            |
+| 15 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                              |
+| 16 | [Contest] Post your Black Friday shopping list for the chance to win 1 of 5 $50 gift cards!                      |
+| 17 | Get your Google Play credit for eligible device purchases                                                        |
+| 18 | Family Plan - 4 Lines - $40 or $50 each Line with 30 GB and $300 port-in credit                                  |
+| 19 | Oculus Quest 2 - get $70 Amazon promotional credit                                                               |
+| 20 | Sandisk 256GB Ultra Micro SDXC $31 in store ($15 off)                                                            |
+| 21 | $35 for 12GB (Aberdeen Centre, Richmond BC)                                                                      |
+| 22 | Home Internet: 50% off on 75mbps and 150mbps                                                                     |
+| 23 | Telus EPP (Part 2) 20 GB CAN-US $65/month etc.                                                                   |
+| 24 | Console Trade Event - Get up to $300 for select PS4’s or get up to $200 for select Xbox One Consoles (Nov 15-28) |
+| 25 | LG 60" 4K HDR Smart Trumotion 120 LED TV - 60UP7700PUB - $699 + free delivery                                    |
+| 26 | Black Friday Sale                                                                                                |
+| 27 | Apple Watch Bands (Various Colors in post) - $36.99 (was $59.99) - 37% off                                       |
+| 28 | Logitech MX Vertical Ergonomic Wireless Mouse - $100                                                             |
+| 29 | Pre-Black Friday Cellphone Offers                                                                                |
+| 30 | [Sponsored] Shop MSI’s Early Black Friday Deals + Redeem up to $100 USD in Steam Codes!                          |
+| 31 | Rogers Infinite 56$ 20gb, 300$ Device Credit - EPP + Winback                                                     |
+| 32 | Iphone 12 128GB Koodo New or Renewal (200+100GC)                                                                 |
+| 33 | Virgin Mobile $40/mo for 24 months, 12GB LTE + $50 GC + $0 Activation + 1000 LD minutes                          |
+| 34 | Legion 7 & 7i: AMD Ryzen 5800H or Intel i7-11800H, RTX 3070, 16GB, 1TB - $1,828 (24% coupon & 12% ebate)         |
+| 35 | Seasonic FOCUS 750W 80+ Gold - $79.99 + $7.99 / Super Flower Leadex III 850W 80+ Gold - $119.99                  |
+| 36 | Spend and Get promo, get $350 voucher when spent $3000                                                           |
+| 37 | DrunkenSlug Usenet Indexer is open for registration! + Black Friday sale                                         |
+| 38 | Sandisk 64GB USB Drive 3.0 (Pack of 3) in store $21 ($9 off)                                                     |
+| 39 | Apple Watch 50X CT Money                                                                                         |
+| 40 | Fido/Rogers Iphone 12 Mini 128GB Pay 106.8 Upfront then 2.92 for 24 months                                       |
+| 41 | Lenovo 10e Chromebook Tablet - $129 + 12% Rakuten cashback                                                       |
+| 42 | Black Friday Deal for New Customer 12GB for $40                                                                  |
+| 43 | Logitech G502 SE Hero High Performance RGB Gaming Mouse @Amazon for $39.99                                       |
+| 44 | MX Master 3 $109.99 with free Travel Case ($29 value) MX Keys $114.99                                            |
+| 45 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                              |
+| 46 | [Contest] Post your Black Friday shopping list for the chance to win 1 of 5 $50 gift cards!                      |
+| 47 | Get your Google Play credit for eligible device purchases                                                        |
+| 48 | Family Plan - 4 Lines - $40 or $50 each Line with 30 GB and $300 port-in credit                                  |
+| 49 | Oculus Quest 2 - get $70 Amazon promotional credit                                                               |
+| 50 | Sandisk 256GB Ultra Micro SDXC $31 in store ($15 off)                                                            |
+| 51 | $35 for 12GB (Aberdeen Centre, Richmond BC)                                                                      |
+| 52 | Home Internet: 50% off on 75mbps and 150mbps                                                                     |
+| 53 | Telus EPP (Part 2) 20 GB CAN-US $65/month etc.                                                                   |
+| 54 | Console Trade Event - Get up to $300 for select PS4’s or get up to $200 for select Xbox One Consoles (Nov 15-28) |
+| 55 | LG 60" 4K HDR Smart Trumotion 120 LED TV - 60UP7700PUB - $699 + free delivery                                    |
+| 56 | Black Friday Sale                                                                                                |
+| 57 | Apple Watch Bands (Various Colors in post) - $36.99 (was $59.99) - 37% off                                       |
+| 58 | Logitech MX Vertical Ergonomic Wireless Mouse - $100                                                             |
+| 59 | Pre-Black Friday Cellphone Offers                                                                                |
+| 60 | [Sponsored] Shop MSI’s Early Black Friday Deals + Redeem up to $100 USD in Steam Codes!                          |
+| 61 | Rogers Infinite 56$ 20gb, 300$ Device Credit - EPP + Winback                                                     |
+| 62 | Iphone 12 128GB Koodo New or Renewal (200+100GC)                                                                 |
+| 63 | Virgin Mobile $40/mo for 24 months, 12GB LTE + $50 GC + $0 Activation + 1000 LD minutes                          |
+| 64 | Legion 7 & 7i: AMD Ryzen 5800H or Intel i7-11800H, RTX 3070, 16GB, 1TB - $1,828 (24% coupon & 12% ebate)         |
+| 65 | Seasonic FOCUS 750W 80+ Gold - $79.99 + $7.99 / Super Flower Leadex III 850W 80+ Gold - $119.99                  |
+| 66 | Spend and Get promo, get $350 voucher when spent $3000                                                           |
+| 67 | DrunkenSlug Usenet Indexer is open for registration! + Black Friday sale                                         |
+| 68 | Sandisk 64GB USB Drive 3.0 (Pack of 3) in store $21 ($9 off)                                                     |
+| 69 | Apple Watch 50X CT Money                                                                                         |
+| 70 | Fido/Rogers Iphone 12 Mini 128GB Pay 106.8 Upfront then 2.92 for 24 months                                       |
+| 71 | Lenovo 10e Chromebook Tablet - $129 + 12% Rakuten cashback                                                       |
+| 72 | Black Friday Deal for New Customer 12GB for $40                                                                  |
+| 73 | Logitech G502 SE Hero High Performance RGB Gaming Mouse @Amazon for $39.99                                       |
+| 74 | MX Master 3 $109.99 with free Travel Case ($29 value) MX Keys $114.99                                            |
+| 75 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                              |
+| 76 | [Contest] Post your Black Friday shopping list for the chance to win 1 of 5 $50 gift cards!                      |
+| 77 | Get your Google Play credit for eligible device purchases                                                        |
+| 78 | Family Plan - 4 Lines - $40 or $50 each Line with 30 GB and $300 port-in credit                                  |
+| 79 | Oculus Quest 2 - get $70 Amazon promotional credit                                                               |
+| 80 | Sandisk 256GB Ultra Micro SDXC $31 in store ($15 off)                                                            |
+| 81 | $35 for 12GB (Aberdeen Centre, Richmond BC)                                                                      |
+| 82 | Home Internet: 50% off on 75mbps and 150mbps                                                                     |
+| 83 | Telus EPP (Part 2) 20 GB CAN-US $65/month etc.                                                                   |
+| 84 | Console Trade Event - Get up to $300 for select PS4’s or get up to $200 for select Xbox One Consoles (Nov 15-28) |
+| 85 | LG 60" 4K HDR Smart Trumotion 120 LED TV - 60UP7700PUB - $699 + free delivery                                    |
+| 86 | Black Friday Sale                                                                                                |
+| 87 | Apple Watch Bands (Various Colors in post) - $36.99 (was $59.99) - 37% off                                       |
+| 88 | Logitech MX Vertical Ergonomic Wireless Mouse - $100                                                             |
+| 89 | Pre-Black Friday Cellphone Offers                                                                                |
