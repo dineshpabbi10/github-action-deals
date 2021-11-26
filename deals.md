@@ -1,15 +1,15 @@
 |    | deals                                                                                                            |
 |---:|:-----------------------------------------------------------------------------------------------------------------|
 |  0 | [Sponsored] Shop MSI’s Early Black Friday Deals + Redeem up to $100 USD in Steam Codes!                          |
-|  1 | Rogers Infinite 56$ 20gb, 300$ Device Credit - EPP + Winback                                                     |
-|  2 | Iphone 12 128GB Koodo New or Renewal (200+100GC)                                                                 |
-|  3 | Virgin Mobile $40/mo for 24 months, 12GB LTE + $50 GC + $0 Activation + 1000 LD minutes                          |
-|  4 | Legion 7 & 7i: AMD Ryzen 5800H or Intel i7-11800H, RTX 3070, 16GB, 1TB - $1,828 (24% coupon & 12% ebate)         |
-|  5 | Seasonic FOCUS 750W 80+ Gold - $79.99 + $7.99 / Super Flower Leadex III 850W 80+ Gold - $119.99                  |
-|  6 | Spend and Get promo, get $350 voucher when spent $3000                                                           |
-|  7 | DrunkenSlug Usenet Indexer is open for registration! + Black Friday sale                                         |
-|  8 | Sandisk 64GB USB Drive 3.0 (Pack of 3) in store $21 ($9 off)                                                     |
-|  9 | Apple Watch 50X CT Money                                                                                         |
+|  1 | Apple Watch 50X CT Money                                                                                         |
+|  2 | Rogers Infinite 56$ 20gb, 300$ Device Credit - EPP + Winback                                                     |
+|  3 | Iphone 12 128GB Koodo New or Renewal (200+100GC)                                                                 |
+|  4 | Virgin Mobile $40/mo for 24 months, 12GB LTE + $50 GC + $0 Activation + 1000 LD minutes                          |
+|  5 | Legion 7 & 7i: AMD Ryzen 5800H or Intel i7-11800H, RTX 3070, 16GB, 1TB - $1,828 (24% coupon & 12% ebate)         |
+|  6 | Seasonic FOCUS 750W 80+ Gold - $79.99 + $7.99 / Super Flower Leadex III 850W 80+ Gold - $119.99                  |
+|  7 | Spend and Get promo, get $350 voucher when spent $3000                                                           |
+|  8 | DrunkenSlug Usenet Indexer is open for registration! + Black Friday sale                                         |
+|  9 | Sandisk 64GB USB Drive 3.0 (Pack of 3) in store $21 ($9 off)                                                     |
 | 10 | Fido/Rogers Iphone 12 Mini 128GB Pay 106.8 Upfront then 2.92 for 24 months                                       |
 | 11 | Lenovo 10e Chromebook Tablet - $129 + 12% Rakuten cashback                                                       |
 | 12 | Black Friday Deal for New Customer 12GB for $40                                                                  |
@@ -31,15 +31,15 @@
 | 28 | Logitech MX Vertical Ergonomic Wireless Mouse - $100                                                             |
 | 29 | Pre-Black Friday Cellphone Offers                                                                                |
 | 30 | [Sponsored] Shop MSI’s Early Black Friday Deals + Redeem up to $100 USD in Steam Codes!                          |
-| 31 | Rogers Infinite 56$ 20gb, 300$ Device Credit - EPP + Winback                                                     |
-| 32 | Iphone 12 128GB Koodo New or Renewal (200+100GC)                                                                 |
-| 33 | Virgin Mobile $40/mo for 24 months, 12GB LTE + $50 GC + $0 Activation + 1000 LD minutes                          |
-| 34 | Legion 7 & 7i: AMD Ryzen 5800H or Intel i7-11800H, RTX 3070, 16GB, 1TB - $1,828 (24% coupon & 12% ebate)         |
-| 35 | Seasonic FOCUS 750W 80+ Gold - $79.99 + $7.99 / Super Flower Leadex III 850W 80+ Gold - $119.99                  |
-| 36 | Spend and Get promo, get $350 voucher when spent $3000                                                           |
-| 37 | DrunkenSlug Usenet Indexer is open for registration! + Black Friday sale                                         |
-| 38 | Sandisk 64GB USB Drive 3.0 (Pack of 3) in store $21 ($9 off)                                                     |
-| 39 | Apple Watch 50X CT Money                                                                                         |
+| 31 | Apple Watch 50X CT Money                                                                                         |
+| 32 | Rogers Infinite 56$ 20gb, 300$ Device Credit - EPP + Winback                                                     |
+| 33 | Iphone 12 128GB Koodo New or Renewal (200+100GC)                                                                 |
+| 34 | Virgin Mobile $40/mo for 24 months, 12GB LTE + $50 GC + $0 Activation + 1000 LD minutes                          |
+| 35 | Legion 7 & 7i: AMD Ryzen 5800H or Intel i7-11800H, RTX 3070, 16GB, 1TB - $1,828 (24% coupon & 12% ebate)         |
+| 36 | Seasonic FOCUS 750W 80+ Gold - $79.99 + $7.99 / Super Flower Leadex III 850W 80+ Gold - $119.99                  |
+| 37 | Spend and Get promo, get $350 voucher when spent $3000                                                           |
+| 38 | DrunkenSlug Usenet Indexer is open for registration! + Black Friday sale                                         |
+| 39 | Sandisk 64GB USB Drive 3.0 (Pack of 3) in store $21 ($9 off)                                                     |
 | 40 | Fido/Rogers Iphone 12 Mini 128GB Pay 106.8 Upfront then 2.92 for 24 months                                       |
 | 41 | Lenovo 10e Chromebook Tablet - $129 + 12% Rakuten cashback                                                       |
 | 42 | Black Friday Deal for New Customer 12GB for $40                                                                  |
@@ -61,15 +61,15 @@
 | 58 | Logitech MX Vertical Ergonomic Wireless Mouse - $100                                                             |
 | 59 | Pre-Black Friday Cellphone Offers                                                                                |
 | 60 | [Sponsored] Shop MSI’s Early Black Friday Deals + Redeem up to $100 USD in Steam Codes!                          |
-| 61 | Rogers Infinite 56$ 20gb, 300$ Device Credit - EPP + Winback                                                     |
-| 62 | Iphone 12 128GB Koodo New or Renewal (200+100GC)                                                                 |
-| 63 | Virgin Mobile $40/mo for 24 months, 12GB LTE + $50 GC + $0 Activation + 1000 LD minutes                          |
-| 64 | Legion 7 & 7i: AMD Ryzen 5800H or Intel i7-11800H, RTX 3070, 16GB, 1TB - $1,828 (24% coupon & 12% ebate)         |
-| 65 | Seasonic FOCUS 750W 80+ Gold - $79.99 + $7.99 / Super Flower Leadex III 850W 80+ Gold - $119.99                  |
-| 66 | Spend and Get promo, get $350 voucher when spent $3000                                                           |
-| 67 | DrunkenSlug Usenet Indexer is open for registration! + Black Friday sale                                         |
-| 68 | Sandisk 64GB USB Drive 3.0 (Pack of 3) in store $21 ($9 off)                                                     |
-| 69 | Apple Watch 50X CT Money                                                                                         |
+| 61 | Apple Watch 50X CT Money                                                                                         |
+| 62 | Rogers Infinite 56$ 20gb, 300$ Device Credit - EPP + Winback                                                     |
+| 63 | Iphone 12 128GB Koodo New or Renewal (200+100GC)                                                                 |
+| 64 | Virgin Mobile $40/mo for 24 months, 12GB LTE + $50 GC + $0 Activation + 1000 LD minutes                          |
+| 65 | Legion 7 & 7i: AMD Ryzen 5800H or Intel i7-11800H, RTX 3070, 16GB, 1TB - $1,828 (24% coupon & 12% ebate)         |
+| 66 | Seasonic FOCUS 750W 80+ Gold - $79.99 + $7.99 / Super Flower Leadex III 850W 80+ Gold - $119.99                  |
+| 67 | Spend and Get promo, get $350 voucher when spent $3000                                                           |
+| 68 | DrunkenSlug Usenet Indexer is open for registration! + Black Friday sale                                         |
+| 69 | Sandisk 64GB USB Drive 3.0 (Pack of 3) in store $21 ($9 off)                                                     |
 | 70 | Fido/Rogers Iphone 12 Mini 128GB Pay 106.8 Upfront then 2.92 for 24 months                                       |
 | 71 | Lenovo 10e Chromebook Tablet - $129 + 12% Rakuten cashback                                                       |
 | 72 | Black Friday Deal for New Customer 12GB for $40                                                                  |
