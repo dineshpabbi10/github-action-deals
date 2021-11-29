@@ -1,92 +1,92 @@
-|    | deals                                                                                                                    |
-|---:|:-------------------------------------------------------------------------------------------------------------------------|
-|  0 | [Sponsored] VPN Deal: 91% OFF on PureVPN’s 1-Year Plan, $0.99 per month (Total $11.88)                                   |
-|  1 | BACK IN STOCK TCL 65" 6-Series 4K Mini-LED Google TV - $1,250.20                                                         |
-|  2 | VPN 3 years 3 months for $39.50 with 50% Rakuten                                                                         |
-|  3 | SCORCHING: PSN PlayStation Plus 12 Month (365 Day) Digital Key Code - $38.11 CAD                                         |
-|  4 | Free 5 GB onto your monthly plan, Black Friday Promo (YMMW)                                                              |
-|  5 | Samsung UV Sanitizer with Wireless Charging - White - $9.99                                                              |
-|  6 | Dell 27” QHD 2560 x 1440 75 Hz Monitor - S2721D ($224.99) or S2721DS with adjustable stand ($242.99) + Rakuten cashback  |
-|  7 | [3 HK] Mobile Data 10GB (CA/US/AUS/NZ/UK) eSIM - $138 HKD/$22 CAD                                                        |
-|  8 | Fido/Rogers Iphone 12 Mini 128GB Pay 106.8 Upfront then 2.92 for 24 months                                               |
-|  9 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                             |
-| 10 | APC UPS 1500/900 Battery Backup $149.99 ( BN1500M2-CA )                                                                  |
-| 11 | $50 60GB US-CAN plan (3 lines) with $200 credit                                                                          |
-| 12 | Directory Opus, powerful Windows Explorer replacement - $61 CAD (25% off)                                                |
-| 13 | Telus EPP (Part 2) 20 GB CAN-US $65/month etc.                                                                           |
-| 14 | Legion 7 & 7i: AMD Ryzen 5800H or Intel i7-11800H, RTX 3070, 16GB, 1TB - $1,828 (24% coupon & 12% ebate)                 |
-| 15 | Camera tripod stand $3.99                                                                                                |
-| 16 | Costco Mobile deals are starting to show up. S20 FE and Pixel 6 had BF deals for Bell                                    |
-| 17 | The Source - In Store Only Philips Hue 4 Pack Color starter kit $100, color bulbs $30, 4 pack white bulb $99, dimmer $13 |
-| 18 | HyperX Alloy Origins Core - Tenkeyless Mechanical RGB Gaming Keyboard (Linear HyperX Red Switch) - $80.74 (ATL)          |
-| 19 | Dell 7390 Latitude 13.3" Laptop Intel i7-8650U 1.90GHz 16GB RAM, 256GB SSD, Webcam, Wind 10 pro $569 Refurb              |
-| 20 | HP Chromebook, AMD Athlon Silver 3050C for $299.99 ($519.99 - $220)                                                      |
-| 21 | Hisense 65" ULED Android TV, 65U68G, $897.99                                                                             |
-| 22 | Extra 2 GB for loyal customers                                                                                           |
-| 23 | Windscribe VPN - 1 Year for 29US or 3 years for 69US                                                                     |
-| 24 | IPHONE 12 128G PRICE DROP Pay only $22.83/mo 0 Down                                                                      |
-| 25 | BYOD $35 for 12GB + 1000LD (Pacific Mall, Markham ON)                                                                    |
-| 26 | Eufy Security Cameras ($48) and Door Bells ($159)                                                                        |
-| 27 | APC SurgeArrest PowerBar with 11 outlets and 2 USB Ports $19.99                                                          |
-| 28 | Black Friday Deal for New Customer 12GB for $40                                                                          |
-| 29 | Seasonic FOCUS Plus GX550,$50, GM550 $40.                                                                                |
-| 30 | [Sponsored] VPN Deal: 91% OFF on PureVPN’s 1-Year Plan, $0.99 per month (Total $11.88)                                   |
-| 31 | BACK IN STOCK TCL 65" 6-Series 4K Mini-LED Google TV - $1,250.20                                                         |
-| 32 | VPN 3 years 3 months for $39.50 with 50% Rakuten                                                                         |
-| 33 | SCORCHING: PSN PlayStation Plus 12 Month (365 Day) Digital Key Code - $38.11 CAD                                         |
-| 34 | Free 5 GB onto your monthly plan, Black Friday Promo (YMMW)                                                              |
-| 35 | Samsung UV Sanitizer with Wireless Charging - White - $9.99                                                              |
-| 36 | Dell 27” QHD 2560 x 1440 75 Hz Monitor - S2721D ($224.99) or S2721DS with adjustable stand ($242.99) + Rakuten cashback  |
-| 37 | [3 HK] Mobile Data 10GB (CA/US/AUS/NZ/UK) eSIM - $138 HKD/$22 CAD                                                        |
-| 38 | Fido/Rogers Iphone 12 Mini 128GB Pay 106.8 Upfront then 2.92 for 24 months                                               |
-| 39 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                             |
-| 40 | APC UPS 1500/900 Battery Backup $149.99 ( BN1500M2-CA )                                                                  |
-| 41 | $50 60GB US-CAN plan (3 lines) with $200 credit                                                                          |
-| 42 | Directory Opus, powerful Windows Explorer replacement - $61 CAD (25% off)                                                |
-| 43 | Telus EPP (Part 2) 20 GB CAN-US $65/month etc.                                                                           |
-| 44 | Legion 7 & 7i: AMD Ryzen 5800H or Intel i7-11800H, RTX 3070, 16GB, 1TB - $1,828 (24% coupon & 12% ebate)                 |
-| 45 | Camera tripod stand $3.99                                                                                                |
-| 46 | Costco Mobile deals are starting to show up. S20 FE and Pixel 6 had BF deals for Bell                                    |
-| 47 | The Source - In Store Only Philips Hue 4 Pack Color starter kit $100, color bulbs $30, 4 pack white bulb $99, dimmer $13 |
-| 48 | HyperX Alloy Origins Core - Tenkeyless Mechanical RGB Gaming Keyboard (Linear HyperX Red Switch) - $80.74 (ATL)          |
-| 49 | Dell 7390 Latitude 13.3" Laptop Intel i7-8650U 1.90GHz 16GB RAM, 256GB SSD, Webcam, Wind 10 pro $569 Refurb              |
-| 50 | HP Chromebook, AMD Athlon Silver 3050C for $299.99 ($519.99 - $220)                                                      |
-| 51 | Hisense 65" ULED Android TV, 65U68G, $897.99                                                                             |
-| 52 | Extra 2 GB for loyal customers                                                                                           |
-| 53 | Windscribe VPN - 1 Year for 29US or 3 years for 69US                                                                     |
-| 54 | IPHONE 12 128G PRICE DROP Pay only $22.83/mo 0 Down                                                                      |
-| 55 | BYOD $35 for 12GB + 1000LD (Pacific Mall, Markham ON)                                                                    |
-| 56 | Eufy Security Cameras ($48) and Door Bells ($159)                                                                        |
-| 57 | APC SurgeArrest PowerBar with 11 outlets and 2 USB Ports $19.99                                                          |
-| 58 | Black Friday Deal for New Customer 12GB for $40                                                                          |
-| 59 | Seasonic FOCUS Plus GX550,$50, GM550 $40.                                                                                |
-| 60 | [Sponsored] VPN Deal: 91% OFF on PureVPN’s 1-Year Plan, $0.99 per month (Total $11.88)                                   |
-| 61 | BACK IN STOCK TCL 65" 6-Series 4K Mini-LED Google TV - $1,250.20                                                         |
-| 62 | VPN 3 years 3 months for $39.50 with 50% Rakuten                                                                         |
-| 63 | SCORCHING: PSN PlayStation Plus 12 Month (365 Day) Digital Key Code - $38.11 CAD                                         |
-| 64 | Free 5 GB onto your monthly plan, Black Friday Promo (YMMW)                                                              |
-| 65 | Samsung UV Sanitizer with Wireless Charging - White - $9.99                                                              |
-| 66 | Dell 27” QHD 2560 x 1440 75 Hz Monitor - S2721D ($224.99) or S2721DS with adjustable stand ($242.99) + Rakuten cashback  |
-| 67 | [3 HK] Mobile Data 10GB (CA/US/AUS/NZ/UK) eSIM - $138 HKD/$22 CAD                                                        |
-| 68 | Fido/Rogers Iphone 12 Mini 128GB Pay 106.8 Upfront then 2.92 for 24 months                                               |
-| 69 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                             |
-| 70 | APC UPS 1500/900 Battery Backup $149.99 ( BN1500M2-CA )                                                                  |
-| 71 | $50 60GB US-CAN plan (3 lines) with $200 credit                                                                          |
-| 72 | Directory Opus, powerful Windows Explorer replacement - $61 CAD (25% off)                                                |
-| 73 | Telus EPP (Part 2) 20 GB CAN-US $65/month etc.                                                                           |
-| 74 | Legion 7 & 7i: AMD Ryzen 5800H or Intel i7-11800H, RTX 3070, 16GB, 1TB - $1,828 (24% coupon & 12% ebate)                 |
-| 75 | Camera tripod stand $3.99                                                                                                |
-| 76 | Costco Mobile deals are starting to show up. S20 FE and Pixel 6 had BF deals for Bell                                    |
-| 77 | The Source - In Store Only Philips Hue 4 Pack Color starter kit $100, color bulbs $30, 4 pack white bulb $99, dimmer $13 |
-| 78 | HyperX Alloy Origins Core - Tenkeyless Mechanical RGB Gaming Keyboard (Linear HyperX Red Switch) - $80.74 (ATL)          |
-| 79 | Dell 7390 Latitude 13.3" Laptop Intel i7-8650U 1.90GHz 16GB RAM, 256GB SSD, Webcam, Wind 10 pro $569 Refurb              |
-| 80 | HP Chromebook, AMD Athlon Silver 3050C for $299.99 ($519.99 - $220)                                                      |
-| 81 | Hisense 65" ULED Android TV, 65U68G, $897.99                                                                             |
-| 82 | Extra 2 GB for loyal customers                                                                                           |
-| 83 | Windscribe VPN - 1 Year for 29US or 3 years for 69US                                                                     |
-| 84 | IPHONE 12 128G PRICE DROP Pay only $22.83/mo 0 Down                                                                      |
-| 85 | BYOD $35 for 12GB + 1000LD (Pacific Mall, Markham ON)                                                                    |
-| 86 | Eufy Security Cameras ($48) and Door Bells ($159)                                                                        |
-| 87 | APC SurgeArrest PowerBar with 11 outlets and 2 USB Ports $19.99                                                          |
-| 88 | Black Friday Deal for New Customer 12GB for $40                                                                          |
-| 89 | Seasonic FOCUS Plus GX550,$50, GM550 $40.                                                                                |
+|    | deals                                                                                                                   |
+|---:|:------------------------------------------------------------------------------------------------------------------------|
+|  0 | [Sponsored] VPN Deal: 91% OFF on PureVPN’s 1-Year Plan, $0.99 per month (Total $11.88)                                  |
+|  1 | Xbox Live Gold 12 Month Membership (Digital) $39.49 CAD, Xbox Game Pass Ultimate 3 Month $25.69 | VPN Required          |
+|  2 | Legion 7 & 7i: AMD Ryzen 5800H or Intel i7-11800H, RTX 3070, 16GB, 1TB - $1,828 (24% coupon & 12% ebate)                |
+|  3 | Free 5 GB onto your monthly plan, Black Friday Promo (YMMW)                                                             |
+|  4 | VPN 3 years 3 months for $39.50 with 50% Rakuten                                                                        |
+|  5 | Hisense 65" ULED Android TV, 65U68G, $897.99                                                                            |
+|  6 | EXPIRED Manfrotto Camera Tripods - Black Friday Pricing [see post for all deals]                                        |
+|  7 | PSN free december games                                                                                                 |
+|  8 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                                      |
+|  9 | Synology NAS DS220+ 299.99 and DS920+ 549.99 (One Day Deal)                                                             |
+| 10 | Black Friday Deal for New Customer 12GB for $40                                                                         |
+| 11 | HP Chromebook, AMD Athlon Silver 3050C for $299.99 ($519.99 - $220)                                                     |
+| 12 | iPhone 13 $0 down 24 month 12Gb Promo for $55/month including tab YMMV                                                  |
+| 13 | Lexar 256GB Micro SD - $34.80                                                                                           |
+| 14 | Lenovo Duet Tablet Chromebook 128gb version (Geek Squad Certified OPEN BOX) - $240                                      |
+| 15 | JBL Cinema SB120 sound bar 129.99$                                                                                      |
+| 16 | $45 25gb + $300 bill credit per line [win back]                                                                         |
+| 17 | HDMI 4K/8K Cable 2 Pack $4.97                                                                                           |
+| 18 | D-Link WiFi smart water sensor 2-pack - 59.97                                                                           |
+| 19 | Samsung Q Series 11.1.4 Channel Soundbar and Wireless Subwoofer and Rear Speakers (HWQ950A) ($1498) (Reg$2198)          |
+| 20 | Orico 4-Port USB3.0 Hub (with power input) with FS ($10)                                                                |
+| 21 | Walmart Cyber Week (Sale Starts Sunday at 9 PM ET): PlayStation Store GC $90, Nintendo Switch Pro Controller $69.96     |
+| 22 | Fido Free $120 Accessory Credit - Post Your Finds                                                                       |
+| 23 | Home Internet: 50% off on 75mbps and 150mbps                                                                            |
+| 24 | BYOD $35 for 12GB + 1000LD (Pacific Mall, Markham ON)                                                                   |
+| 25 | ASUS RT-AX58U Ultra-Fast Dual Band Gigabit Wireless Router - Next Gen WiFi 6, Adaptive QoS, AiMesh Compatible - $149.99 |
+| 26 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)                   |
+| 27 | IPHONE 12 128G PRICE DROP Pay only $22.83/mo 0 Down                                                                     |
+| 28 | 1.5GB and unlimited talk/text $19/mo                                                                                    |
+| 29 | $69.99~free shiping~OLOy 16GB (2 x 8GB) 288-Pin DDR4 SDRAM DDR4 3600 (PC4 28800) Desktop Memory Model MD4U0836180BHKDA  |
+| 30 | [Sponsored] VPN Deal: 91% OFF on PureVPN’s 1-Year Plan, $0.99 per month (Total $11.88)                                  |
+| 31 | Xbox Live Gold 12 Month Membership (Digital) $39.49 CAD, Xbox Game Pass Ultimate 3 Month $25.69 | VPN Required          |
+| 32 | Legion 7 & 7i: AMD Ryzen 5800H or Intel i7-11800H, RTX 3070, 16GB, 1TB - $1,828 (24% coupon & 12% ebate)                |
+| 33 | Free 5 GB onto your monthly plan, Black Friday Promo (YMMW)                                                             |
+| 34 | VPN 3 years 3 months for $39.50 with 50% Rakuten                                                                        |
+| 35 | Hisense 65" ULED Android TV, 65U68G, $897.99                                                                            |
+| 36 | EXPIRED Manfrotto Camera Tripods - Black Friday Pricing [see post for all deals]                                        |
+| 37 | PSN free december games                                                                                                 |
+| 38 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                                      |
+| 39 | Synology NAS DS220+ 299.99 and DS920+ 549.99 (One Day Deal)                                                             |
+| 40 | Black Friday Deal for New Customer 12GB for $40                                                                         |
+| 41 | HP Chromebook, AMD Athlon Silver 3050C for $299.99 ($519.99 - $220)                                                     |
+| 42 | iPhone 13 $0 down 24 month 12Gb Promo for $55/month including tab YMMV                                                  |
+| 43 | Lexar 256GB Micro SD - $34.80                                                                                           |
+| 44 | Lenovo Duet Tablet Chromebook 128gb version (Geek Squad Certified OPEN BOX) - $240                                      |
+| 45 | JBL Cinema SB120 sound bar 129.99$                                                                                      |
+| 46 | $45 25gb + $300 bill credit per line [win back]                                                                         |
+| 47 | HDMI 4K/8K Cable 2 Pack $4.97                                                                                           |
+| 48 | D-Link WiFi smart water sensor 2-pack - 59.97                                                                           |
+| 49 | Samsung Q Series 11.1.4 Channel Soundbar and Wireless Subwoofer and Rear Speakers (HWQ950A) ($1498) (Reg$2198)          |
+| 50 | Orico 4-Port USB3.0 Hub (with power input) with FS ($10)                                                                |
+| 51 | Walmart Cyber Week (Sale Starts Sunday at 9 PM ET): PlayStation Store GC $90, Nintendo Switch Pro Controller $69.96     |
+| 52 | Fido Free $120 Accessory Credit - Post Your Finds                                                                       |
+| 53 | Home Internet: 50% off on 75mbps and 150mbps                                                                            |
+| 54 | BYOD $35 for 12GB + 1000LD (Pacific Mall, Markham ON)                                                                   |
+| 55 | ASUS RT-AX58U Ultra-Fast Dual Band Gigabit Wireless Router - Next Gen WiFi 6, Adaptive QoS, AiMesh Compatible - $149.99 |
+| 56 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)                   |
+| 57 | IPHONE 12 128G PRICE DROP Pay only $22.83/mo 0 Down                                                                     |
+| 58 | 1.5GB and unlimited talk/text $19/mo                                                                                    |
+| 59 | $69.99~free shiping~OLOy 16GB (2 x 8GB) 288-Pin DDR4 SDRAM DDR4 3600 (PC4 28800) Desktop Memory Model MD4U0836180BHKDA  |
+| 60 | [Sponsored] VPN Deal: 91% OFF on PureVPN’s 1-Year Plan, $0.99 per month (Total $11.88)                                  |
+| 61 | Xbox Live Gold 12 Month Membership (Digital) $39.49 CAD, Xbox Game Pass Ultimate 3 Month $25.69 | VPN Required          |
+| 62 | Legion 7 & 7i: AMD Ryzen 5800H or Intel i7-11800H, RTX 3070, 16GB, 1TB - $1,828 (24% coupon & 12% ebate)                |
+| 63 | Free 5 GB onto your monthly plan, Black Friday Promo (YMMW)                                                             |
+| 64 | VPN 3 years 3 months for $39.50 with 50% Rakuten                                                                        |
+| 65 | Hisense 65" ULED Android TV, 65U68G, $897.99                                                                            |
+| 66 | EXPIRED Manfrotto Camera Tripods - Black Friday Pricing [see post for all deals]                                        |
+| 67 | PSN free december games                                                                                                 |
+| 68 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                                      |
+| 69 | Synology NAS DS220+ 299.99 and DS920+ 549.99 (One Day Deal)                                                             |
+| 70 | Black Friday Deal for New Customer 12GB for $40                                                                         |
+| 71 | HP Chromebook, AMD Athlon Silver 3050C for $299.99 ($519.99 - $220)                                                     |
+| 72 | iPhone 13 $0 down 24 month 12Gb Promo for $55/month including tab YMMV                                                  |
+| 73 | Lexar 256GB Micro SD - $34.80                                                                                           |
+| 74 | Lenovo Duet Tablet Chromebook 128gb version (Geek Squad Certified OPEN BOX) - $240                                      |
+| 75 | JBL Cinema SB120 sound bar 129.99$                                                                                      |
+| 76 | $45 25gb + $300 bill credit per line [win back]                                                                         |
+| 77 | HDMI 4K/8K Cable 2 Pack $4.97                                                                                           |
+| 78 | D-Link WiFi smart water sensor 2-pack - 59.97                                                                           |
+| 79 | Samsung Q Series 11.1.4 Channel Soundbar and Wireless Subwoofer and Rear Speakers (HWQ950A) ($1498) (Reg$2198)          |
+| 80 | Orico 4-Port USB3.0 Hub (with power input) with FS ($10)                                                                |
+| 81 | Walmart Cyber Week (Sale Starts Sunday at 9 PM ET): PlayStation Store GC $90, Nintendo Switch Pro Controller $69.96     |
+| 82 | Fido Free $120 Accessory Credit - Post Your Finds                                                                       |
+| 83 | Home Internet: 50% off on 75mbps and 150mbps                                                                            |
+| 84 | BYOD $35 for 12GB + 1000LD (Pacific Mall, Markham ON)                                                                   |
+| 85 | ASUS RT-AX58U Ultra-Fast Dual Band Gigabit Wireless Router - Next Gen WiFi 6, Adaptive QoS, AiMesh Compatible - $149.99 |
+| 86 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)                   |
+| 87 | IPHONE 12 128G PRICE DROP Pay only $22.83/mo 0 Down                                                                     |
+| 88 | 1.5GB and unlimited talk/text $19/mo                                                                                    |
+| 89 | $69.99~free shiping~OLOy 16GB (2 x 8GB) 288-Pin DDR4 SDRAM DDR4 3600 (PC4 28800) Desktop Memory Model MD4U0836180BHKDA  |
