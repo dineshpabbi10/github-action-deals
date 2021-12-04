@@ -1,92 +1,92 @@
-|    | deals                                                                                                                   |
-|---:|:------------------------------------------------------------------------------------------------------------------------|
-|  0 | [Sponsored] VPN Deal: 91% OFF on PureVPN’s 1-Year Plan, $0.99 per month (Total $11.88)                                  |
-|  1 | Xiaomi Mi 11 Ultra 12/256gb $1067                                                                                       |
-|  2 | Bell mobility winback 45$ for 25 gb                                                                                     |
-|  3 | YMMV $10 off $20 first Amazon.ca app purchase - UPDATED CODE                                                            |
-|  4 | TCL 65" 6-Series 4K Mini-LED Google TV - New Lower Price $1,214.46                                                      |
-|  5 | FREE 2GB Data & 500 LD Min Add-ons Holiday Reward                                                                       |
-|  6 | Fido offering 100% loyalty discount on Tablet 4GB Plan for 24 Months *YMMV*, existing customers                         |
-|  7 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
-|  8 | APC SurgeArrest PowerBar with 11 outlets and 2 USB Ports $19.99                                                         |
-|  9 | [Dec 3-5] PS4 Console trade-in at retail value when trading towards PS5 or Xbox Series S/X bundles                      |
-| 10 | Luminar AI & Aurora HDR: AI Powered Photo Editor Bundle - $1.26 to $31.61                                               |
-| 11 | Sony A80J 55" $1799 / 65" $2399 / 77" $3999 (Costco, BestBuy, Visions, and others) Ends Dec. 2                          |
-| 12 | Sennheiser HD 6XX $179USD ($41 off)                                                                                     |
-| 13 | $24 AT&T 25GB Plan is BACK [Canada / US / Mexico Usage]                                                                 |
-| 14 | Amazon Prime Gaming December 2021 - Free for Prime members                                                              |
-| 15 | WD My Book 8TB $159.99, 3-year limited warranty, free shipping when buying 2 or more ($300 and over)                    |
-| 16 | BulletVPN: Lifetime Subscription $26.44 USD Taxes In                                                                    |
-| 17 | Razer DeathAdder V2 Gaming Mouse - $42                                                                                  |
-| 18 | Humble Bundle - Batman Bundle - $1.25 to $12.55                                                                         |
-| 19 | Public Mobile offer 2GB Data and 500 minutes talk to all users for free                                                 |
-| 20 | Eufy wireless doorbell 2k with home base $195, 2K wired Pro $179, Wired Pro is back in stock!                           |
-| 21 | Dell 27” QHD 2560 x 1440 75 Hz Monitor - S2721D ($224.99) or S2721DS with adjustable stand ($242.99) + Rakuten cashback |
-| 22 | MSI 17.3" Gaming Laptop i7-11800H / RTX 3050Ti / 16GB / 512GB NVMe / 144Hz $969USD+FS                                   |
-| 23 | Spark Guitar Amp w Case (Black: $224 USD - Pearl Limited Edition: $239 USD) Free Shipping                               |
-| 24 | Evovacs Deebot N8+ $399 at Costco                                                                                       |
-| 25 | Honeycomb Bravo Throttle Quadrant PC All-in-One Cockpit System - $329.99                                                |
-| 26 | TP-Link Omada Cloud Controller $90; Router ER605 $56.45 ATL; EAP245 AP $80                                              |
-| 27 | Audio-Technica ATH-M50xBT2 Headphones $208.28 (30% off, ATL)                                                            |
-| 28 | Dead by Daylight + While True : LEARN () - Free games !!!                                                               |
-| 29 | Costco.ca: Unlocked Moto G Stylus (2020 model): 4GB / 128GB / 1080x2300 screen: $260                                    |
-| 30 | [Sponsored] VPN Deal: 91% OFF on PureVPN’s 1-Year Plan, $0.99 per month (Total $11.88)                                  |
-| 31 | Xiaomi Mi 11 Ultra 12/256gb $1067                                                                                       |
-| 32 | Bell mobility winback 45$ for 25 gb                                                                                     |
-| 33 | YMMV $10 off $20 first Amazon.ca app purchase - UPDATED CODE                                                            |
-| 34 | TCL 65" 6-Series 4K Mini-LED Google TV - New Lower Price $1,214.46                                                      |
-| 35 | FREE 2GB Data & 500 LD Min Add-ons Holiday Reward                                                                       |
-| 36 | Fido offering 100% loyalty discount on Tablet 4GB Plan for 24 Months *YMMV*, existing customers                         |
-| 37 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
-| 38 | APC SurgeArrest PowerBar with 11 outlets and 2 USB Ports $19.99                                                         |
-| 39 | [Dec 3-5] PS4 Console trade-in at retail value when trading towards PS5 or Xbox Series S/X bundles                      |
-| 40 | Luminar AI & Aurora HDR: AI Powered Photo Editor Bundle - $1.26 to $31.61                                               |
-| 41 | Sony A80J 55" $1799 / 65" $2399 / 77" $3999 (Costco, BestBuy, Visions, and others) Ends Dec. 2                          |
-| 42 | Sennheiser HD 6XX $179USD ($41 off)                                                                                     |
-| 43 | $24 AT&T 25GB Plan is BACK [Canada / US / Mexico Usage]                                                                 |
-| 44 | Amazon Prime Gaming December 2021 - Free for Prime members                                                              |
-| 45 | WD My Book 8TB $159.99, 3-year limited warranty, free shipping when buying 2 or more ($300 and over)                    |
-| 46 | BulletVPN: Lifetime Subscription $26.44 USD Taxes In                                                                    |
-| 47 | Razer DeathAdder V2 Gaming Mouse - $42                                                                                  |
-| 48 | Humble Bundle - Batman Bundle - $1.25 to $12.55                                                                         |
-| 49 | Public Mobile offer 2GB Data and 500 minutes talk to all users for free                                                 |
-| 50 | Eufy wireless doorbell 2k with home base $195, 2K wired Pro $179, Wired Pro is back in stock!                           |
-| 51 | Dell 27” QHD 2560 x 1440 75 Hz Monitor - S2721D ($224.99) or S2721DS with adjustable stand ($242.99) + Rakuten cashback |
-| 52 | MSI 17.3" Gaming Laptop i7-11800H / RTX 3050Ti / 16GB / 512GB NVMe / 144Hz $969USD+FS                                   |
-| 53 | Spark Guitar Amp w Case (Black: $224 USD - Pearl Limited Edition: $239 USD) Free Shipping                               |
-| 54 | Evovacs Deebot N8+ $399 at Costco                                                                                       |
-| 55 | Honeycomb Bravo Throttle Quadrant PC All-in-One Cockpit System - $329.99                                                |
-| 56 | TP-Link Omada Cloud Controller $90; Router ER605 $56.45 ATL; EAP245 AP $80                                              |
-| 57 | Audio-Technica ATH-M50xBT2 Headphones $208.28 (30% off, ATL)                                                            |
-| 58 | Dead by Daylight + While True : LEARN () - Free games !!!                                                               |
-| 59 | Costco.ca: Unlocked Moto G Stylus (2020 model): 4GB / 128GB / 1080x2300 screen: $260                                    |
-| 60 | [Sponsored] VPN Deal: 91% OFF on PureVPN’s 1-Year Plan, $0.99 per month (Total $11.88)                                  |
-| 61 | Xiaomi Mi 11 Ultra 12/256gb $1067                                                                                       |
-| 62 | Bell mobility winback 45$ for 25 gb                                                                                     |
-| 63 | YMMV $10 off $20 first Amazon.ca app purchase - UPDATED CODE                                                            |
-| 64 | TCL 65" 6-Series 4K Mini-LED Google TV - New Lower Price $1,214.46                                                      |
-| 65 | FREE 2GB Data & 500 LD Min Add-ons Holiday Reward                                                                       |
-| 66 | Fido offering 100% loyalty discount on Tablet 4GB Plan for 24 Months *YMMV*, existing customers                         |
-| 67 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
-| 68 | APC SurgeArrest PowerBar with 11 outlets and 2 USB Ports $19.99                                                         |
-| 69 | [Dec 3-5] PS4 Console trade-in at retail value when trading towards PS5 or Xbox Series S/X bundles                      |
-| 70 | Luminar AI & Aurora HDR: AI Powered Photo Editor Bundle - $1.26 to $31.61                                               |
-| 71 | Sony A80J 55" $1799 / 65" $2399 / 77" $3999 (Costco, BestBuy, Visions, and others) Ends Dec. 2                          |
-| 72 | Sennheiser HD 6XX $179USD ($41 off)                                                                                     |
-| 73 | $24 AT&T 25GB Plan is BACK [Canada / US / Mexico Usage]                                                                 |
-| 74 | Amazon Prime Gaming December 2021 - Free for Prime members                                                              |
-| 75 | WD My Book 8TB $159.99, 3-year limited warranty, free shipping when buying 2 or more ($300 and over)                    |
-| 76 | BulletVPN: Lifetime Subscription $26.44 USD Taxes In                                                                    |
-| 77 | Razer DeathAdder V2 Gaming Mouse - $42                                                                                  |
-| 78 | Humble Bundle - Batman Bundle - $1.25 to $12.55                                                                         |
-| 79 | Public Mobile offer 2GB Data and 500 minutes talk to all users for free                                                 |
-| 80 | Eufy wireless doorbell 2k with home base $195, 2K wired Pro $179, Wired Pro is back in stock!                           |
-| 81 | Dell 27” QHD 2560 x 1440 75 Hz Monitor - S2721D ($224.99) or S2721DS with adjustable stand ($242.99) + Rakuten cashback |
-| 82 | MSI 17.3" Gaming Laptop i7-11800H / RTX 3050Ti / 16GB / 512GB NVMe / 144Hz $969USD+FS                                   |
-| 83 | Spark Guitar Amp w Case (Black: $224 USD - Pearl Limited Edition: $239 USD) Free Shipping                               |
-| 84 | Evovacs Deebot N8+ $399 at Costco                                                                                       |
-| 85 | Honeycomb Bravo Throttle Quadrant PC All-in-One Cockpit System - $329.99                                                |
-| 86 | TP-Link Omada Cloud Controller $90; Router ER605 $56.45 ATL; EAP245 AP $80                                              |
-| 87 | Audio-Technica ATH-M50xBT2 Headphones $208.28 (30% off, ATL)                                                            |
-| 88 | Dead by Daylight + While True : LEARN () - Free games !!!                                                               |
-| 89 | Costco.ca: Unlocked Moto G Stylus (2020 model): 4GB / 128GB / 1080x2300 screen: $260                                    |
+|    | deals                                                                                                                    |
+|---:|:-------------------------------------------------------------------------------------------------------------------------|
+|  0 | [Sponsored] Wrap Up Your List Event!                                                                                     |
+|  1 | Evovacs Deebot N8+ $399 at Costco                                                                                        |
+|  2 | OtterBox cases up to 60% off!                                                                                            |
+|  3 | Lenovo Yoga 6 Laptop, 13.3" FHD Touch 300 nits, 5500U/8GB/512GB for $704; 5700U/16GB/1TB for $912                        |
+|  4 | - ENDS TONIGHT! - $100 bonus (usually $25) Home Internet 60/10 Mbps $45/month or Mobile service Qc prov. + Ottawa region |
+|  5 | [Dec 3-5] PS4 Console trade-in at retail value when trading towards PS5 or Xbox Series S/X bundles                       |
+|  6 | FREE 2GB Data & 500 LD Min Add-ons Holiday Reward                                                                        |
+|  7 | $24 AT&T 25GB Plan is BACK [Canada / US / Mexico Usage]                                                                  |
+|  8 | Asus VivoBook 14 F415EA-UB34 14 Laptop i3 8 GB 128 SSD $419.99                                                           |
+|  9 | Extra 2 GB for loyal customers                                                                                           |
+| 10 | Lenovo 10e Chromebook Tablet - $129 + 12% Rakuten cashback                                                               |
+| 11 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $225 B4 coupons, $3 S&H)                                                 |
+| 12 | Bonus $5 Amazon gift card for every $100 spent on Amazon gift cards (Max $50 bonus; Nov 26-Dec 12)                       |
+| 13 | Virgin Mobile Home Internet 100Mbps for $35/m with mobile plan, $40 without mobile plan + $50 Visa GC - YMMV             |
+| 14 | ASUS VivoBook, 15.6" FHD OLED, i5-1135G7/16GB/1TB, $870                                                                  |
+| 15 | Home Internet: 50% off on 75mbps and 150mbps                                                                             |
+| 16 | Xbox All Access Now Available at Best Buy/The Source/GameStop $39.99/month Series X with 24 Month Game Pass Ultimate     |
+| 17 | Free tablet and 4gb with existing account                                                                                |
+| 18 | 3Gb - $25 Freedom Mobile at Value mobile Kiosk                                                                           |
+| 19 | *Lightning deal* EPOMAKER SKYLOONG SK61 60% Hot Swappable RGB Mechanical Gaming Keyboard - $66                           |
+| 20 | Sony WF-1000XM3 True wireless earphones/ Bluetooth / NFC $184.99 - %15 Rakuten + tax                                     |
+| 21 | Luminar AI & Aurora HDR: AI Powered Photo Editor Bundle - $1.26 to $31.61                                                |
+| 22 | The Source $10 off $50 email offer ymmv                                                                                  |
+| 23 | Check your account, fido may give away 5GB data for free, hassle free (YMMV)                                             |
+| 24 | Fido Free $120 Accessory Credit - Post Your Finds                                                                        |
+| 25 | ATT Family Plan Prepaid Unlimited Plus 22GB 5G Data Unl Talk/Text/DATA CAN/USA/MEX $38 (w/ autopay and 5 lines)          |
+| 26 | Samsung Evo Plus SSD LOWEST EVER PRICE                                                                                   |
+| 27 | Asus ROG GT-AX11000 Router $469.98 (save $60), PM at CC + trade for additional $23 off (deal ended)                      |
+| 28 | Legion 7 & 7i: AMD Ryzen 5800H or Intel i7-11800H, RTX 3070, 16GB, 1TB - $1,890 (24% coupon & 9% ebate)                  |
+| 29 | Crucial (Adata) 8GB DDR4 3200 MHz CL22 (2666 or 2933 MHz ) Laptop Ram~$36.49 ATL for deal of Thinkpad P14s T14 upgrade   |
+| 30 | [Sponsored] Wrap Up Your List Event!                                                                                     |
+| 31 | Evovacs Deebot N8+ $399 at Costco                                                                                        |
+| 32 | OtterBox cases up to 60% off!                                                                                            |
+| 33 | Lenovo Yoga 6 Laptop, 13.3" FHD Touch 300 nits, 5500U/8GB/512GB for $704; 5700U/16GB/1TB for $912                        |
+| 34 | - ENDS TONIGHT! - $100 bonus (usually $25) Home Internet 60/10 Mbps $45/month or Mobile service Qc prov. + Ottawa region |
+| 35 | [Dec 3-5] PS4 Console trade-in at retail value when trading towards PS5 or Xbox Series S/X bundles                       |
+| 36 | FREE 2GB Data & 500 LD Min Add-ons Holiday Reward                                                                        |
+| 37 | $24 AT&T 25GB Plan is BACK [Canada / US / Mexico Usage]                                                                  |
+| 38 | Asus VivoBook 14 F415EA-UB34 14 Laptop i3 8 GB 128 SSD $419.99                                                           |
+| 39 | Extra 2 GB for loyal customers                                                                                           |
+| 40 | Lenovo 10e Chromebook Tablet - $129 + 12% Rakuten cashback                                                               |
+| 41 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $225 B4 coupons, $3 S&H)                                                 |
+| 42 | Bonus $5 Amazon gift card for every $100 spent on Amazon gift cards (Max $50 bonus; Nov 26-Dec 12)                       |
+| 43 | Virgin Mobile Home Internet 100Mbps for $35/m with mobile plan, $40 without mobile plan + $50 Visa GC - YMMV             |
+| 44 | ASUS VivoBook, 15.6" FHD OLED, i5-1135G7/16GB/1TB, $870                                                                  |
+| 45 | Home Internet: 50% off on 75mbps and 150mbps                                                                             |
+| 46 | Xbox All Access Now Available at Best Buy/The Source/GameStop $39.99/month Series X with 24 Month Game Pass Ultimate     |
+| 47 | Free tablet and 4gb with existing account                                                                                |
+| 48 | 3Gb - $25 Freedom Mobile at Value mobile Kiosk                                                                           |
+| 49 | *Lightning deal* EPOMAKER SKYLOONG SK61 60% Hot Swappable RGB Mechanical Gaming Keyboard - $66                           |
+| 50 | Sony WF-1000XM3 True wireless earphones/ Bluetooth / NFC $184.99 - %15 Rakuten + tax                                     |
+| 51 | Luminar AI & Aurora HDR: AI Powered Photo Editor Bundle - $1.26 to $31.61                                                |
+| 52 | The Source $10 off $50 email offer ymmv                                                                                  |
+| 53 | Check your account, fido may give away 5GB data for free, hassle free (YMMV)                                             |
+| 54 | Fido Free $120 Accessory Credit - Post Your Finds                                                                        |
+| 55 | ATT Family Plan Prepaid Unlimited Plus 22GB 5G Data Unl Talk/Text/DATA CAN/USA/MEX $38 (w/ autopay and 5 lines)          |
+| 56 | Samsung Evo Plus SSD LOWEST EVER PRICE                                                                                   |
+| 57 | Asus ROG GT-AX11000 Router $469.98 (save $60), PM at CC + trade for additional $23 off (deal ended)                      |
+| 58 | Legion 7 & 7i: AMD Ryzen 5800H or Intel i7-11800H, RTX 3070, 16GB, 1TB - $1,890 (24% coupon & 9% ebate)                  |
+| 59 | Crucial (Adata) 8GB DDR4 3200 MHz CL22 (2666 or 2933 MHz ) Laptop Ram~$36.49 ATL for deal of Thinkpad P14s T14 upgrade   |
+| 60 | [Sponsored] Wrap Up Your List Event!                                                                                     |
+| 61 | Evovacs Deebot N8+ $399 at Costco                                                                                        |
+| 62 | OtterBox cases up to 60% off!                                                                                            |
+| 63 | Lenovo Yoga 6 Laptop, 13.3" FHD Touch 300 nits, 5500U/8GB/512GB for $704; 5700U/16GB/1TB for $912                        |
+| 64 | - ENDS TONIGHT! - $100 bonus (usually $25) Home Internet 60/10 Mbps $45/month or Mobile service Qc prov. + Ottawa region |
+| 65 | [Dec 3-5] PS4 Console trade-in at retail value when trading towards PS5 or Xbox Series S/X bundles                       |
+| 66 | FREE 2GB Data & 500 LD Min Add-ons Holiday Reward                                                                        |
+| 67 | $24 AT&T 25GB Plan is BACK [Canada / US / Mexico Usage]                                                                  |
+| 68 | Asus VivoBook 14 F415EA-UB34 14 Laptop i3 8 GB 128 SSD $419.99                                                           |
+| 69 | Extra 2 GB for loyal customers                                                                                           |
+| 70 | Lenovo 10e Chromebook Tablet - $129 + 12% Rakuten cashback                                                               |
+| 71 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $225 B4 coupons, $3 S&H)                                                 |
+| 72 | Bonus $5 Amazon gift card for every $100 spent on Amazon gift cards (Max $50 bonus; Nov 26-Dec 12)                       |
+| 73 | Virgin Mobile Home Internet 100Mbps for $35/m with mobile plan, $40 without mobile plan + $50 Visa GC - YMMV             |
+| 74 | ASUS VivoBook, 15.6" FHD OLED, i5-1135G7/16GB/1TB, $870                                                                  |
+| 75 | Home Internet: 50% off on 75mbps and 150mbps                                                                             |
+| 76 | Xbox All Access Now Available at Best Buy/The Source/GameStop $39.99/month Series X with 24 Month Game Pass Ultimate     |
+| 77 | Free tablet and 4gb with existing account                                                                                |
+| 78 | 3Gb - $25 Freedom Mobile at Value mobile Kiosk                                                                           |
+| 79 | *Lightning deal* EPOMAKER SKYLOONG SK61 60% Hot Swappable RGB Mechanical Gaming Keyboard - $66                           |
+| 80 | Sony WF-1000XM3 True wireless earphones/ Bluetooth / NFC $184.99 - %15 Rakuten + tax                                     |
+| 81 | Luminar AI & Aurora HDR: AI Powered Photo Editor Bundle - $1.26 to $31.61                                                |
+| 82 | The Source $10 off $50 email offer ymmv                                                                                  |
+| 83 | Check your account, fido may give away 5GB data for free, hassle free (YMMV)                                             |
+| 84 | Fido Free $120 Accessory Credit - Post Your Finds                                                                        |
+| 85 | ATT Family Plan Prepaid Unlimited Plus 22GB 5G Data Unl Talk/Text/DATA CAN/USA/MEX $38 (w/ autopay and 5 lines)          |
+| 86 | Samsung Evo Plus SSD LOWEST EVER PRICE                                                                                   |
+| 87 | Asus ROG GT-AX11000 Router $469.98 (save $60), PM at CC + trade for additional $23 off (deal ended)                      |
+| 88 | Legion 7 & 7i: AMD Ryzen 5800H or Intel i7-11800H, RTX 3070, 16GB, 1TB - $1,890 (24% coupon & 9% ebate)                  |
+| 89 | Crucial (Adata) 8GB DDR4 3200 MHz CL22 (2666 or 2933 MHz ) Laptop Ram~$36.49 ATL for deal of Thinkpad P14s T14 upgrade   |
