@@ -1,9 +1,9 @@
 |    | deals                                                                                                           |
 |---:|:----------------------------------------------------------------------------------------------------------------|
 |  0 | [Sponsored] Wrap Up Your List Event!                                                                            |
-|  1 | PS5 Charging Station $12.99                                                                                     |
-|  2 | Extra 2 GB for loyal customers                                                                                  |
-|  3 | Controller Gear Universal Xbox Pro Charging Stand – Robot White (latest model) - $19.99                         |
+|  1 | Controller Gear Universal Xbox Pro Charging Stand – Robot White (latest model) - $19.99                         |
+|  2 | PS5 Charging Station $12.99                                                                                     |
+|  3 | Extra 2 GB for loyal customers                                                                                  |
 |  4 | 3 Months of PC Game Pass for $1                                                                                 |
 |  5 | FREE 2GB Data & 500 LD Min Add-ons Holiday Reward                                                               |
 |  6 | Shaw Internet Offers: 150MB $50/month & Up with a $150 credit back - 2 Year Plan (YMMV)                         |
@@ -31,19 +31,19 @@
 | 28 | FREE Pirates: All Aboard + 18 Additional Games (GAME 4 of 19 AVAILABLE NOW)                                     |
 | 29 | 2 Wyze V3 cameras for $70 taxes in. YMMV                                                                        |
 | 30 | [Sponsored] Wrap Up Your List Event!                                                                            |
-| 31 | PS5 Charging Station $12.99                                                                                     |
-| 32 | Extra 2 GB for loyal customers                                                                                  |
-| 33 | Controller Gear Universal Xbox Pro Charging Stand – Robot White (latest model) - $19.99                         |
-| 34 | 3 Months of PC Game Pass for $1                                                                                 |
-| 35 | FREE 2GB Data & 500 LD Min Add-ons Holiday Reward                                                               |
-| 36 | Shaw Internet Offers: 150MB $50/month & Up with a $150 credit back - 2 Year Plan (YMMV)                         |
-| 37 | ATT Family Plan Prepaid Unlimited Plus 22GB 5G Data Unl Talk/Text/DATA CAN/USA/MEX $38 (w/ autopay and 5 lines) |
-| 38 | Full Motion TV Wall Mount with Height Setting - $32.19                                                          |
-| 39 | Airpods Pro (non-magsafe version) $218.99                                                                       |
-| 40 | Google Nest Temperature Sensor - 3 Pack $59.99 (Reg $125.99) YMMV                                               |
-| 41 | $10 + $5 off Friends & Family promo on any $55 plans and above, $40 for 20GB                                    |
-| 42 | Yoga 7i 14" 2 in 1 laptop - $1239.99 - 5% (EXTRAFIVE) = $1177.99 with addl. 9% cash back from Rakuten           |
-| 43 | Samsung Galaxy Buds Pro $179 in store, $188 online                                                              |
+| 31 | Samsung Galaxy Buds Pro $179 in store, $188 online                                                              |
+| 32 | Controller Gear Universal Xbox Pro Charging Stand – Robot White (latest model) - $19.99                         |
+| 33 | PS5 Charging Station $12.99                                                                                     |
+| 34 | Extra 2 GB for loyal customers                                                                                  |
+| 35 | 3 Months of PC Game Pass for $1                                                                                 |
+| 36 | FREE 2GB Data & 500 LD Min Add-ons Holiday Reward                                                               |
+| 37 | Shaw Internet Offers: 150MB $50/month & Up with a $150 credit back - 2 Year Plan (YMMV)                         |
+| 38 | ATT Family Plan Prepaid Unlimited Plus 22GB 5G Data Unl Talk/Text/DATA CAN/USA/MEX $38 (w/ autopay and 5 lines) |
+| 39 | Full Motion TV Wall Mount with Height Setting - $32.19                                                          |
+| 40 | Airpods Pro (non-magsafe version) $218.99                                                                       |
+| 41 | Google Nest Temperature Sensor - 3 Pack $59.99 (Reg $125.99) YMMV                                               |
+| 42 | $10 + $5 off Friends & Family promo on any $55 plans and above, $40 for 20GB                                    |
+| 43 | Yoga 7i 14" 2 in 1 laptop - $1239.99 - 5% (EXTRAFIVE) = $1177.99 with addl. 9% cash back from Rakuten           |
 | 44 | TP-Link AX1800 Whole Home WiFi 6 Mesh WiFi System (Deco X20) - $223.05 ATL                                      |
 | 45 | Shin Megami Tensei V Steelbook Edition - $49.99 (Best Buy, Gamestop) & $59.96 (Walmart, sold-out online)        |
 | 46 | $51 DEEPCOOL GAMMAXX L120T RED AIO Liquid CPU Cooler                                                            |
@@ -61,19 +61,19 @@
 | 58 | FREE Pirates: All Aboard + 18 Additional Games (GAME 4 of 19 AVAILABLE NOW)                                     |
 | 59 | 2 Wyze V3 cameras for $70 taxes in. YMMV                                                                        |
 | 60 | [Sponsored] Wrap Up Your List Event!                                                                            |
-| 61 | Controller Gear Universal Xbox Pro Charging Stand – Robot White (latest model) - $19.99                         |
-| 62 | PS5 Charging Station $12.99                                                                                     |
-| 63 | Extra 2 GB for loyal customers                                                                                  |
-| 64 | 3 Months of PC Game Pass for $1                                                                                 |
-| 65 | FREE 2GB Data & 500 LD Min Add-ons Holiday Reward                                                               |
-| 66 | Shaw Internet Offers: 150MB $50/month & Up with a $150 credit back - 2 Year Plan (YMMV)                         |
-| 67 | ATT Family Plan Prepaid Unlimited Plus 22GB 5G Data Unl Talk/Text/DATA CAN/USA/MEX $38 (w/ autopay and 5 lines) |
-| 68 | Full Motion TV Wall Mount with Height Setting - $32.19                                                          |
-| 69 | Airpods Pro (non-magsafe version) $218.99                                                                       |
-| 70 | Google Nest Temperature Sensor - 3 Pack $59.99 (Reg $125.99) YMMV                                               |
-| 71 | $10 + $5 off Friends & Family promo on any $55 plans and above, $40 for 20GB                                    |
-| 72 | Yoga 7i 14" 2 in 1 laptop - $1239.99 - 5% (EXTRAFIVE) = $1177.99 with addl. 9% cash back from Rakuten           |
-| 73 | Samsung Galaxy Buds Pro $179 in store, $188 online                                                              |
+| 61 | Samsung Galaxy Buds Pro $179 in store, $188 online                                                              |
+| 62 | Controller Gear Universal Xbox Pro Charging Stand – Robot White (latest model) - $19.99                         |
+| 63 | PS5 Charging Station $12.99                                                                                     |
+| 64 | Extra 2 GB for loyal customers                                                                                  |
+| 65 | 3 Months of PC Game Pass for $1                                                                                 |
+| 66 | FREE 2GB Data & 500 LD Min Add-ons Holiday Reward                                                               |
+| 67 | Shaw Internet Offers: 150MB $50/month & Up with a $150 credit back - 2 Year Plan (YMMV)                         |
+| 68 | ATT Family Plan Prepaid Unlimited Plus 22GB 5G Data Unl Talk/Text/DATA CAN/USA/MEX $38 (w/ autopay and 5 lines) |
+| 69 | Full Motion TV Wall Mount with Height Setting - $32.19                                                          |
+| 70 | Airpods Pro (non-magsafe version) $218.99                                                                       |
+| 71 | Google Nest Temperature Sensor - 3 Pack $59.99 (Reg $125.99) YMMV                                               |
+| 72 | $10 + $5 off Friends & Family promo on any $55 plans and above, $40 for 20GB                                    |
+| 73 | Yoga 7i 14" 2 in 1 laptop - $1239.99 - 5% (EXTRAFIVE) = $1177.99 with addl. 9% cash back from Rakuten           |
 | 74 | TP-Link AX1800 Whole Home WiFi 6 Mesh WiFi System (Deco X20) - $223.05 ATL                                      |
 | 75 | Shin Megami Tensei V Steelbook Edition - $49.99 (Best Buy, Gamestop) & $59.96 (Walmart, sold-out online)        |
 | 76 | $51 DEEPCOOL GAMMAXX L120T RED AIO Liquid CPU Cooler                                                            |
