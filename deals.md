@@ -1,92 +1,92 @@
-|    | deals                                                                                                           |
-|---:|:----------------------------------------------------------------------------------------------------------------|
-|  0 | [Sponsored] Wrap Up Your List Event!                                                                            |
-|  1 | Controller Gear Universal Xbox Pro Charging Stand – Robot White (latest model) - $19.99                         |
-|  2 | PS5 Charging Station $12.99                                                                                     |
-|  3 | Extra 2 GB for loyal customers                                                                                  |
-|  4 | 3 Months of PC Game Pass for $1                                                                                 |
-|  5 | FREE 2GB Data & 500 LD Min Add-ons Holiday Reward                                                               |
-|  6 | Shaw Internet Offers: 150MB $50/month & Up with a $150 credit back - 2 Year Plan (YMMV)                         |
-|  7 | ATT Family Plan Prepaid Unlimited Plus 22GB 5G Data Unl Talk/Text/DATA CAN/USA/MEX $38 (w/ autopay and 5 lines) |
-|  8 | Full Motion TV Wall Mount with Height Setting - $32.19                                                          |
-|  9 | Airpods Pro (non-magsafe version) $218.99                                                                       |
-| 10 | Google Nest Temperature Sensor - 3 Pack $59.99 (Reg $125.99) YMMV                                               |
-| 11 | $10 + $5 off Friends & Family promo on any $55 plans and above, $40 for 20GB                                    |
-| 12 | Yoga 7i 14" 2 in 1 laptop - $1239.99 - 5% (EXTRAFIVE) = $1177.99 with addl. 9% cash back from Rakuten           |
-| 13 | Samsung Galaxy Buds Pro $179 in store, $188 online                                                              |
-| 14 | TP-Link AX1800 Whole Home WiFi 6 Mesh WiFi System (Deco X20) - $223.05 ATL                                      |
-| 15 | Shin Megami Tensei V Steelbook Edition - $49.99 (Best Buy, Gamestop) & $59.96 (Walmart, sold-out online)        |
-| 16 | $51 DEEPCOOL GAMMAXX L120T RED AIO Liquid CPU Cooler                                                            |
-| 17 | Beyerdynamic DT 1990 Pro $499+tax, FS                                                                           |
-| 18 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                    |
-| 19 | Google One Storage - Free Google Nest Hub 2 when you sign up for 1 year 2 TB for $139.99                        |
-| 20 | Freedom Mobile holiday plan 15 GB for $35                                                                       |
-| 21 | Epson Perfection V600 Colour Flatbed Scanner $245.99 [$84 off]                                                  |
-| 22 | 69.99$ Seasonic Power 80PLUS Platinum Supply ATX 12V and EPS12V 550W (SSR-550PX)                                |
-| 23 | Echo dot 4th gen 34.99$ 50% off + Free Sengled bulb or 6 months Amazon Music Unlimited                          |
-| 24 | 6 outlet swiveling wall mount surge protector $9.59                                                             |
-| 25 | Govee Immersion TV LED Backlights with Camera, RGBIC Ambient Wi-Fi TV Backlights for 55-65 inch TVs             |
-| 26 | Fido offering 100% loyalty discount on Tablet 4GB Plan for 24 Months *YMMV*, existing customers                 |
-| 27 | $35 for 12GB (Aberdeen Centre, Richmond BC)                                                                     |
-| 28 | FREE Pirates: All Aboard + 18 Additional Games (GAME 4 of 19 AVAILABLE NOW)                                     |
-| 29 | 2 Wyze V3 cameras for $70 taxes in. YMMV                                                                        |
-| 30 | [Sponsored] Wrap Up Your List Event!                                                                            |
-| 31 | Samsung Galaxy Buds Pro $179 in store, $188 online                                                              |
-| 32 | Controller Gear Universal Xbox Pro Charging Stand – Robot White (latest model) - $19.99                         |
-| 33 | PS5 Charging Station $12.99                                                                                     |
-| 34 | Extra 2 GB for loyal customers                                                                                  |
-| 35 | 3 Months of PC Game Pass for $1                                                                                 |
-| 36 | FREE 2GB Data & 500 LD Min Add-ons Holiday Reward                                                               |
-| 37 | Shaw Internet Offers: 150MB $50/month & Up with a $150 credit back - 2 Year Plan (YMMV)                         |
-| 38 | ATT Family Plan Prepaid Unlimited Plus 22GB 5G Data Unl Talk/Text/DATA CAN/USA/MEX $38 (w/ autopay and 5 lines) |
-| 39 | Full Motion TV Wall Mount with Height Setting - $32.19                                                          |
-| 40 | Airpods Pro (non-magsafe version) $218.99                                                                       |
-| 41 | Google Nest Temperature Sensor - 3 Pack $59.99 (Reg $125.99) YMMV                                               |
-| 42 | $10 + $5 off Friends & Family promo on any $55 plans and above, $40 for 20GB                                    |
-| 43 | Yoga 7i 14" 2 in 1 laptop - $1239.99 - 5% (EXTRAFIVE) = $1177.99 with addl. 9% cash back from Rakuten           |
-| 44 | TP-Link AX1800 Whole Home WiFi 6 Mesh WiFi System (Deco X20) - $223.05 ATL                                      |
-| 45 | Shin Megami Tensei V Steelbook Edition - $49.99 (Best Buy, Gamestop) & $59.96 (Walmart, sold-out online)        |
-| 46 | $51 DEEPCOOL GAMMAXX L120T RED AIO Liquid CPU Cooler                                                            |
-| 47 | Beyerdynamic DT 1990 Pro $499+tax, FS                                                                           |
-| 48 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                    |
-| 49 | Google One Storage - Free Google Nest Hub 2 when you sign up for 1 year 2 TB for $139.99                        |
-| 50 | Freedom Mobile holiday plan 15 GB for $35                                                                       |
-| 51 | Epson Perfection V600 Colour Flatbed Scanner $245.99 [$84 off]                                                  |
-| 52 | 69.99$ Seasonic Power 80PLUS Platinum Supply ATX 12V and EPS12V 550W (SSR-550PX)                                |
-| 53 | Echo dot 4th gen 34.99$ 50% off + Free Sengled bulb or 6 months Amazon Music Unlimited                          |
-| 54 | 6 outlet swiveling wall mount surge protector $9.59                                                             |
-| 55 | Govee Immersion TV LED Backlights with Camera, RGBIC Ambient Wi-Fi TV Backlights for 55-65 inch TVs             |
-| 56 | Fido offering 100% loyalty discount on Tablet 4GB Plan for 24 Months *YMMV*, existing customers                 |
-| 57 | $35 for 12GB (Aberdeen Centre, Richmond BC)                                                                     |
-| 58 | FREE Pirates: All Aboard + 18 Additional Games (GAME 4 of 19 AVAILABLE NOW)                                     |
-| 59 | 2 Wyze V3 cameras for $70 taxes in. YMMV                                                                        |
-| 60 | [Sponsored] Wrap Up Your List Event!                                                                            |
-| 61 | Samsung Galaxy Buds Pro $179 in store, $188 online                                                              |
-| 62 | Controller Gear Universal Xbox Pro Charging Stand – Robot White (latest model) - $19.99                         |
-| 63 | PS5 Charging Station $12.99                                                                                     |
-| 64 | Extra 2 GB for loyal customers                                                                                  |
-| 65 | 3 Months of PC Game Pass for $1                                                                                 |
-| 66 | FREE 2GB Data & 500 LD Min Add-ons Holiday Reward                                                               |
-| 67 | Shaw Internet Offers: 150MB $50/month & Up with a $150 credit back - 2 Year Plan (YMMV)                         |
-| 68 | ATT Family Plan Prepaid Unlimited Plus 22GB 5G Data Unl Talk/Text/DATA CAN/USA/MEX $38 (w/ autopay and 5 lines) |
-| 69 | Full Motion TV Wall Mount with Height Setting - $32.19                                                          |
-| 70 | Airpods Pro (non-magsafe version) $218.99                                                                       |
-| 71 | Google Nest Temperature Sensor - 3 Pack $59.99 (Reg $125.99) YMMV                                               |
-| 72 | $10 + $5 off Friends & Family promo on any $55 plans and above, $40 for 20GB                                    |
-| 73 | Yoga 7i 14" 2 in 1 laptop - $1239.99 - 5% (EXTRAFIVE) = $1177.99 with addl. 9% cash back from Rakuten           |
-| 74 | TP-Link AX1800 Whole Home WiFi 6 Mesh WiFi System (Deco X20) - $223.05 ATL                                      |
-| 75 | Shin Megami Tensei V Steelbook Edition - $49.99 (Best Buy, Gamestop) & $59.96 (Walmart, sold-out online)        |
-| 76 | $51 DEEPCOOL GAMMAXX L120T RED AIO Liquid CPU Cooler                                                            |
-| 77 | Beyerdynamic DT 1990 Pro $499+tax, FS                                                                           |
-| 78 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                    |
-| 79 | Google One Storage - Free Google Nest Hub 2 when you sign up for 1 year 2 TB for $139.99                        |
-| 80 | Freedom Mobile holiday plan 15 GB for $35                                                                       |
-| 81 | Epson Perfection V600 Colour Flatbed Scanner $245.99 [$84 off]                                                  |
-| 82 | 69.99$ Seasonic Power 80PLUS Platinum Supply ATX 12V and EPS12V 550W (SSR-550PX)                                |
-| 83 | Echo dot 4th gen 34.99$ 50% off + Free Sengled bulb or 6 months Amazon Music Unlimited                          |
-| 84 | 6 outlet swiveling wall mount surge protector $9.59                                                             |
-| 85 | Govee Immersion TV LED Backlights with Camera, RGBIC Ambient Wi-Fi TV Backlights for 55-65 inch TVs             |
-| 86 | Fido offering 100% loyalty discount on Tablet 4GB Plan for 24 Months *YMMV*, existing customers                 |
-| 87 | $35 for 12GB (Aberdeen Centre, Richmond BC)                                                                     |
-| 88 | FREE Pirates: All Aboard + 18 Additional Games (GAME 4 of 19 AVAILABLE NOW)                                     |
-| 89 | 2 Wyze V3 cameras for $70 taxes in. YMMV                                                                        |
+|    | deals                                                                                                                    |
+|---:|:-------------------------------------------------------------------------------------------------------------------------|
+|  0 | [Sponsored] Wrap Up Your List Event!                                                                                     |
+|  1 | Anno 1404 HISTORY EDITION - FREE Digital Download (PC)                                                                   |
+|  2 | Rock Band 4 - 6th Anniversary DLC Pack FREE - Playstation & Xbox                                                         |
+|  3 | True Wireless Earbuds, $19.99                                                                                            |
+|  4 | Bonus $5 Amazon gift card for every $100 spent on Amazon gift cards (Max $50 bonus; Nov 26-Dec 12)                       |
+|  5 | Get your Google Play credit for eligible device purchases                                                                |
+|  6 | LG Gram Laptop, 17" 16:10 WQXGA (2560 × 1600), i5/16GB/512GB, $1400 ($400 off)                                           |
+|  7 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                             |
+|  8 | Eufy wireless doorbell 2k with home base $195, 2K wired Pro $179, Wired Pro is back in stock!                            |
+|  9 | New G15 Special Edition Gaming Laptop (i7-11800H, 3050 Ti 4GB, 16GB, 512GB SSD, 165Hz) - $1349.99 + 12% Rakuten          |
+| 10 | Shaw Internet Offers: 150MB $50/month & Up with a $150 credit back - 2 Year Plan (YMMV)                                  |
+| 11 | $24 AT&T 25GB Plan is BACK [Canada / US / Mexico Usage]                                                                  |
+| 12 | Lenovo 14w Gen 2 (14” AMD) Laptop, $190, 6% cashback                                                                     |
+| 13 | Fido offering 100% loyalty discount on Tablet 4GB Plan for 24 Months *YMMV*, existing customers                          |
+| 14 | Anker Soundcore Motion Boom ATL 97.99 HOT!!!                                                                             |
+| 15 | Playstation Plus December 2021 Games                                                                                     |
+| 16 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $225 B4 coupons, $3 S&H)                                                 |
+| 17 | Legion 7 & 7i: AMD Ryzen 5800H or Intel i7-11800H, RTX 3070, 16GB, 1TB - $1,952 (24% coupon & 6% ebate)                  |
+| 18 | Royal Sovereign Multi-function Wireless Charging LED Lamp with USB Charging Port $39.99                                  |
+| 19 | 10W Dimmable Swing Arm LED Desk Lamp with Clamp, Remote Control, 3 Color Modes - $34.99 free ship                        |
+| 20 | Freedom Mobile holiday plan 15 GB for $35                                                                                |
+| 21 | FREE 2GB Data & 500 LD Min Add-ons Holiday Reward                                                                        |
+| 22 | [HOT] Additional 10% - LG OLEDs A1: 48" $1,212 55" $1,399 65" $1,869; C1: 48" $1,399 55" 1,589 65" 2149 77" 3,739 & more |
+| 23 | Google Pixel 6 - $250GC                                                                                                  |
+| 24 | Telus EPP 20GB/$50 BYOD                                                                                                  |
+| 25 | Lenovo Ideapad Slim 7i 82A60015US 14 - i5-1135G7, 8GB 3200MHz 512GB SSD (Was $850 Now $799.99)                           |
+| 26 | VPN 3 years 3 months - $79 USD + earn 50% cash back Rakuten US                                                           |
+| 27 | Beats Solo Pro (YMMV)                                                                                                    |
+| 28 | ATT Family Plan Prepaid Unlimited Plus 22GB 5G Data Unl Talk/Text/DATA CAN/USA/MEX $38 (w/ autopay and 5 lines)          |
+| 29 | Earthquake Sound MQB-1 tactile transducer (home theatre butt shaker) $200                                                |
+| 30 | [Sponsored] Wrap Up Your List Event!                                                                                     |
+| 31 | Anno 1404 HISTORY EDITION - FREE Digital Download (PC)                                                                   |
+| 32 | Rock Band 4 - 6th Anniversary DLC Pack FREE - Playstation & Xbox                                                         |
+| 33 | True Wireless Earbuds, $19.99                                                                                            |
+| 34 | Bonus $5 Amazon gift card for every $100 spent on Amazon gift cards (Max $50 bonus; Nov 26-Dec 12)                       |
+| 35 | Get your Google Play credit for eligible device purchases                                                                |
+| 36 | LG Gram Laptop, 17" 16:10 WQXGA (2560 × 1600), i5/16GB/512GB, $1400 ($400 off)                                           |
+| 37 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                             |
+| 38 | Eufy wireless doorbell 2k with home base $195, 2K wired Pro $179, Wired Pro is back in stock!                            |
+| 39 | New G15 Special Edition Gaming Laptop (i7-11800H, 3050 Ti 4GB, 16GB, 512GB SSD, 165Hz) - $1349.99 + 12% Rakuten          |
+| 40 | Shaw Internet Offers: 150MB $50/month & Up with a $150 credit back - 2 Year Plan (YMMV)                                  |
+| 41 | $24 AT&T 25GB Plan is BACK [Canada / US / Mexico Usage]                                                                  |
+| 42 | Lenovo 14w Gen 2 (14” AMD) Laptop, $190, 6% cashback                                                                     |
+| 43 | Fido offering 100% loyalty discount on Tablet 4GB Plan for 24 Months *YMMV*, existing customers                          |
+| 44 | Anker Soundcore Motion Boom ATL 97.99 HOT!!!                                                                             |
+| 45 | Playstation Plus December 2021 Games                                                                                     |
+| 46 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $225 B4 coupons, $3 S&H)                                                 |
+| 47 | Legion 7 & 7i: AMD Ryzen 5800H or Intel i7-11800H, RTX 3070, 16GB, 1TB - $1,952 (24% coupon & 6% ebate)                  |
+| 48 | Royal Sovereign Multi-function Wireless Charging LED Lamp with USB Charging Port $39.99                                  |
+| 49 | 10W Dimmable Swing Arm LED Desk Lamp with Clamp, Remote Control, 3 Color Modes - $34.99 free ship                        |
+| 50 | Freedom Mobile holiday plan 15 GB for $35                                                                                |
+| 51 | FREE 2GB Data & 500 LD Min Add-ons Holiday Reward                                                                        |
+| 52 | [HOT] Additional 10% - LG OLEDs A1: 48" $1,212 55" $1,399 65" $1,869; C1: 48" $1,399 55" 1,589 65" 2149 77" 3,739 & more |
+| 53 | Google Pixel 6 - $250GC                                                                                                  |
+| 54 | Telus EPP 20GB/$50 BYOD                                                                                                  |
+| 55 | Lenovo Ideapad Slim 7i 82A60015US 14 - i5-1135G7, 8GB 3200MHz 512GB SSD (Was $850 Now $799.99)                           |
+| 56 | VPN 3 years 3 months - $79 USD + earn 50% cash back Rakuten US                                                           |
+| 57 | Beats Solo Pro (YMMV)                                                                                                    |
+| 58 | ATT Family Plan Prepaid Unlimited Plus 22GB 5G Data Unl Talk/Text/DATA CAN/USA/MEX $38 (w/ autopay and 5 lines)          |
+| 59 | Earthquake Sound MQB-1 tactile transducer (home theatre butt shaker) $200                                                |
+| 60 | [Sponsored] Wrap Up Your List Event!                                                                                     |
+| 61 | Anno 1404 HISTORY EDITION - FREE Digital Download (PC)                                                                   |
+| 62 | Rock Band 4 - 6th Anniversary DLC Pack FREE - Playstation & Xbox                                                         |
+| 63 | True Wireless Earbuds, $19.99                                                                                            |
+| 64 | Bonus $5 Amazon gift card for every $100 spent on Amazon gift cards (Max $50 bonus; Nov 26-Dec 12)                       |
+| 65 | Get your Google Play credit for eligible device purchases                                                                |
+| 66 | LG Gram Laptop, 17" 16:10 WQXGA (2560 × 1600), i5/16GB/512GB, $1400 ($400 off)                                           |
+| 67 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                             |
+| 68 | Eufy wireless doorbell 2k with home base $195, 2K wired Pro $179, Wired Pro is back in stock!                            |
+| 69 | New G15 Special Edition Gaming Laptop (i7-11800H, 3050 Ti 4GB, 16GB, 512GB SSD, 165Hz) - $1349.99 + 12% Rakuten          |
+| 70 | Shaw Internet Offers: 150MB $50/month & Up with a $150 credit back - 2 Year Plan (YMMV)                                  |
+| 71 | $24 AT&T 25GB Plan is BACK [Canada / US / Mexico Usage]                                                                  |
+| 72 | Lenovo 14w Gen 2 (14” AMD) Laptop, $190, 6% cashback                                                                     |
+| 73 | Fido offering 100% loyalty discount on Tablet 4GB Plan for 24 Months *YMMV*, existing customers                          |
+| 74 | Anker Soundcore Motion Boom ATL 97.99 HOT!!!                                                                             |
+| 75 | Playstation Plus December 2021 Games                                                                                     |
+| 76 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $225 B4 coupons, $3 S&H)                                                 |
+| 77 | Legion 7 & 7i: AMD Ryzen 5800H or Intel i7-11800H, RTX 3070, 16GB, 1TB - $1,952 (24% coupon & 6% ebate)                  |
+| 78 | Royal Sovereign Multi-function Wireless Charging LED Lamp with USB Charging Port $39.99                                  |
+| 79 | 10W Dimmable Swing Arm LED Desk Lamp with Clamp, Remote Control, 3 Color Modes - $34.99 free ship                        |
+| 80 | Freedom Mobile holiday plan 15 GB for $35                                                                                |
+| 81 | FREE 2GB Data & 500 LD Min Add-ons Holiday Reward                                                                        |
+| 82 | [HOT] Additional 10% - LG OLEDs A1: 48" $1,212 55" $1,399 65" $1,869; C1: 48" $1,399 55" 1,589 65" 2149 77" 3,739 & more |
+| 83 | Google Pixel 6 - $250GC                                                                                                  |
+| 84 | Telus EPP 20GB/$50 BYOD                                                                                                  |
+| 85 | Lenovo Ideapad Slim 7i 82A60015US 14 - i5-1135G7, 8GB 3200MHz 512GB SSD (Was $850 Now $799.99)                           |
+| 86 | VPN 3 years 3 months - $79 USD + earn 50% cash back Rakuten US                                                           |
+| 87 | Beats Solo Pro (YMMV)                                                                                                    |
+| 88 | ATT Family Plan Prepaid Unlimited Plus 22GB 5G Data Unl Talk/Text/DATA CAN/USA/MEX $38 (w/ autopay and 5 lines)          |
+| 89 | Earthquake Sound MQB-1 tactile transducer (home theatre butt shaker) $200                                                |
