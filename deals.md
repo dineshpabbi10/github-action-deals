@@ -1,11 +1,11 @@
 |    | deals                                                                                                                  |
 |---:|:-----------------------------------------------------------------------------------------------------------------------|
 |  0 | [Sponsored] Exclusive Sale at Tbooth wireless. 5 days only!                                                            |
-|  1 | PokemonGO New Code                                                                                                     |
-|  2 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
-|  3 | Battlefield 2042 PC - $52.79 ends December 11th                                                                        |
-|  4 | Creative V2 Monitor Soundbar with Subwoofer                                                                            |
-|  5 | Take Our Third-Party Marketplace Survey and You Could Win One of Two $100 Gift Cards (Random Draw)                     |
+|  1 | Take Our Third-Party Marketplace Survey and You Could Win One of Two $100 Gift Cards (Random Draw)                     |
+|  2 | PokemonGO New Code                                                                                                     |
+|  3 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
+|  4 | Battlefield 2042 PC - $52.79 ends December 11th                                                                        |
+|  5 | Creative V2 Monitor Soundbar with Subwoofer                                                                            |
 |  6 | The Game Awards 2021 Playstation Store sale (up to 60% off)                                                            |
 |  7 | Legion 7: AMD Ryzen 7 5800H, RTX 3070, 16GB, 1TB - $1,711 to $1,759 pre-tax (HOT - best price of the year)             |
 |  8 | Existing Shaw Mobile Customers: $25 a month for 3GB + unlimited talk and text                                          |
@@ -31,11 +31,11 @@
 | 28 | 120'' Hisense TriChroma 4K HDR Smart Android Laser TV 120L9G - 5,498.79$                                               |
 | 29 | Koodo/Fido/Virgin QC Only 45$ for 12GB (no credit) and 35$ 9GB Prepaid (Virgin QC only)                                |
 | 30 | [Sponsored] Exclusive Sale at Tbooth wireless. 5 days only!                                                            |
-| 31 | PokemonGO New Code                                                                                                     |
-| 32 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
-| 33 | Battlefield 2042 PC - $52.79 ends December 11th                                                                        |
-| 34 | Creative V2 Monitor Soundbar with Subwoofer                                                                            |
-| 35 | Take Our Third-Party Marketplace Survey and You Could Win One of Two $100 Gift Cards (Random Draw)                     |
+| 31 | Take Our Third-Party Marketplace Survey and You Could Win One of Two $100 Gift Cards (Random Draw)                     |
+| 32 | PokemonGO New Code                                                                                                     |
+| 33 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
+| 34 | Battlefield 2042 PC - $52.79 ends December 11th                                                                        |
+| 35 | Creative V2 Monitor Soundbar with Subwoofer                                                                            |
 | 36 | The Game Awards 2021 Playstation Store sale (up to 60% off)                                                            |
 | 37 | Legion 7: AMD Ryzen 7 5800H, RTX 3070, 16GB, 1TB - $1,711 to $1,759 pre-tax (HOT - best price of the year)             |
 | 38 | Existing Shaw Mobile Customers: $25 a month for 3GB + unlimited talk and text                                          |
@@ -61,11 +61,11 @@
 | 58 | 120'' Hisense TriChroma 4K HDR Smart Android Laser TV 120L9G - 5,498.79$                                               |
 | 59 | Koodo/Fido/Virgin QC Only 45$ for 12GB (no credit) and 35$ 9GB Prepaid (Virgin QC only)                                |
 | 60 | [Sponsored] Exclusive Sale at Tbooth wireless. 5 days only!                                                            |
-| 61 | PokemonGO New Code                                                                                                     |
-| 62 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
-| 63 | Battlefield 2042 PC - $52.79 ends December 11th                                                                        |
-| 64 | Creative V2 Monitor Soundbar with Subwoofer                                                                            |
-| 65 | Take Our Third-Party Marketplace Survey and You Could Win One of Two $100 Gift Cards (Random Draw)                     |
+| 61 | Take Our Third-Party Marketplace Survey and You Could Win One of Two $100 Gift Cards (Random Draw)                     |
+| 62 | PokemonGO New Code                                                                                                     |
+| 63 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
+| 64 | Battlefield 2042 PC - $52.79 ends December 11th                                                                        |
+| 65 | Creative V2 Monitor Soundbar with Subwoofer                                                                            |
 | 66 | The Game Awards 2021 Playstation Store sale (up to 60% off)                                                            |
 | 67 | Legion 7: AMD Ryzen 7 5800H, RTX 3070, 16GB, 1TB - $1,711 to $1,759 pre-tax (HOT - best price of the year)             |
 | 68 | Existing Shaw Mobile Customers: $25 a month for 3GB + unlimited talk and text                                          |
