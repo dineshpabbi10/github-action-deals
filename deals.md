@@ -1,92 +1,92 @@
-|    | deals                                                                                                                  |
-|---:|:-----------------------------------------------------------------------------------------------------------------------|
-|  0 | [Sponsored] Exclusive Sale at Tbooth wireless. 5 days only!                                                            |
-|  1 | Take Our Third-Party Marketplace Survey and You Could Win One of Two $100 Gift Cards (Random Draw)                     |
-|  2 | PokemonGO New Code                                                                                                     |
-|  3 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
-|  4 | Battlefield 2042 PC - $52.79 ends December 11th                                                                        |
-|  5 | Creative V2 Monitor Soundbar with Subwoofer                                                                            |
-|  6 | The Game Awards 2021 Playstation Store sale (up to 60% off)                                                            |
-|  7 | Legion 7: AMD Ryzen 7 5800H, RTX 3070, 16GB, 1TB - $1,711 to $1,759 pre-tax (HOT - best price of the year)             |
-|  8 | Existing Shaw Mobile Customers: $25 a month for 3GB + unlimited talk and text                                          |
-|  9 | EPOS Sennheiser GSP 500 or 600 or 601 Gaming Headsets - $129.XX                                                        |
-| 10 | [YMMV] Extra 10 GB Loyal Customer Free                                                                                 |
-| 11 | Playstation Plus December 2021 Games                                                                                   |
-| 12 | Assassin's Creed: Valhalla - Stadia Only - $14.39 - 24 Hour Sale - $4.39 for new users                                 |
-| 13 | Geeni Sentry Smart Floodlight & 1080P HD Security Camera $119.99 20% OFF Reg $149.99                                   |
-| 14 | 15GB for $40 YMMV                                                                                                      |
-| 15 | Camera AI 360                                                                                                          |
-| 16 | TCL 6-Series 55" 4K UHD HDR QLED Mini-LED Smart Google TV (55R646-CA)                                                  |
-| 17 | $45 25gb + $300 bill credit per line [win back]                                                                        |
-| 18 | Samsung duo wireless charger - $23.99 save $32                                                                         |
-| 19 | Get your Google Play credit for eligible device purchases                                                              |
-| 20 | Dell S3220DGF: 32" 1440p 165hz VA curved monitor - $299.99 (open box)                                                  |
-| 21 | Powerextra Projector Screen 120 Inch 16:9 HD 4K Portable Projection Screen $29.99 after savings and coupon             |
-| 22 | Internet 50/10 Mbps $35/mo. or 100/10 Mbps $40/mo. (50% off)                                                           |
-| 23 | JBL Tune 225TWS True Wireless Bluetooth Earbuds up to 25 Hours of Combined Music Playtime multiple colors $89.98 (40%) |
-| 24 | FREE Pirates: All Aboard + 18 Additional Games (GAME 9 of 19 AVAILABLE NOW)                                            |
-| 25 | Dell 7390 Latitude 13.3" Laptop Intel i7-8650U 1.90GHz 16GB RAM, 256GB SSD, Webcam, Wind 10 pro $569 Refurb            |
-| 26 | Black Friday Deal for New Customer 12GB for $40/month, Samsung S20 FE for $10/month                                    |
-| 27 | Asus VivoBook 14 F415EA-UB34 14 Laptop i3 8 GB 128 SSD $419.99                                                         |
-| 28 | 120'' Hisense TriChroma 4K HDR Smart Android Laser TV 120L9G - 5,498.79$                                               |
-| 29 | Koodo/Fido/Virgin QC Only 45$ for 12GB (no credit) and 35$ 9GB Prepaid (Virgin QC only)                                |
-| 30 | [Sponsored] Exclusive Sale at Tbooth wireless. 5 days only!                                                            |
-| 31 | Take Our Third-Party Marketplace Survey and You Could Win One of Two $100 Gift Cards (Random Draw)                     |
-| 32 | PokemonGO New Code                                                                                                     |
-| 33 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
-| 34 | Battlefield 2042 PC - $52.79 ends December 11th                                                                        |
-| 35 | Creative V2 Monitor Soundbar with Subwoofer                                                                            |
-| 36 | The Game Awards 2021 Playstation Store sale (up to 60% off)                                                            |
-| 37 | Legion 7: AMD Ryzen 7 5800H, RTX 3070, 16GB, 1TB - $1,711 to $1,759 pre-tax (HOT - best price of the year)             |
-| 38 | Existing Shaw Mobile Customers: $25 a month for 3GB + unlimited talk and text                                          |
-| 39 | EPOS Sennheiser GSP 500 or 600 or 601 Gaming Headsets - $129.XX                                                        |
-| 40 | [YMMV] Extra 10 GB Loyal Customer Free                                                                                 |
-| 41 | Playstation Plus December 2021 Games                                                                                   |
-| 42 | Assassin's Creed: Valhalla - Stadia Only - $14.39 - 24 Hour Sale - $4.39 for new users                                 |
-| 43 | Geeni Sentry Smart Floodlight & 1080P HD Security Camera $119.99 20% OFF Reg $149.99                                   |
-| 44 | 15GB for $40 YMMV                                                                                                      |
-| 45 | Camera AI 360                                                                                                          |
-| 46 | TCL 6-Series 55" 4K UHD HDR QLED Mini-LED Smart Google TV (55R646-CA)                                                  |
-| 47 | $45 25gb + $300 bill credit per line [win back]                                                                        |
-| 48 | Samsung duo wireless charger - $23.99 save $32                                                                         |
-| 49 | Get your Google Play credit for eligible device purchases                                                              |
-| 50 | Dell S3220DGF: 32" 1440p 165hz VA curved monitor - $299.99 (open box)                                                  |
-| 51 | Powerextra Projector Screen 120 Inch 16:9 HD 4K Portable Projection Screen $29.99 after savings and coupon             |
-| 52 | Internet 50/10 Mbps $35/mo. or 100/10 Mbps $40/mo. (50% off)                                                           |
-| 53 | JBL Tune 225TWS True Wireless Bluetooth Earbuds up to 25 Hours of Combined Music Playtime multiple colors $89.98 (40%) |
-| 54 | FREE Pirates: All Aboard + 18 Additional Games (GAME 9 of 19 AVAILABLE NOW)                                            |
-| 55 | Dell 7390 Latitude 13.3" Laptop Intel i7-8650U 1.90GHz 16GB RAM, 256GB SSD, Webcam, Wind 10 pro $569 Refurb            |
-| 56 | Black Friday Deal for New Customer 12GB for $40/month, Samsung S20 FE for $10/month                                    |
-| 57 | Asus VivoBook 14 F415EA-UB34 14 Laptop i3 8 GB 128 SSD $419.99                                                         |
-| 58 | 120'' Hisense TriChroma 4K HDR Smart Android Laser TV 120L9G - 5,498.79$                                               |
-| 59 | Koodo/Fido/Virgin QC Only 45$ for 12GB (no credit) and 35$ 9GB Prepaid (Virgin QC only)                                |
-| 60 | [Sponsored] Exclusive Sale at Tbooth wireless. 5 days only!                                                            |
-| 61 | Take Our Third-Party Marketplace Survey and You Could Win One of Two $100 Gift Cards (Random Draw)                     |
-| 62 | PokemonGO New Code                                                                                                     |
-| 63 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
-| 64 | Battlefield 2042 PC - $52.79 ends December 11th                                                                        |
-| 65 | Creative V2 Monitor Soundbar with Subwoofer                                                                            |
-| 66 | The Game Awards 2021 Playstation Store sale (up to 60% off)                                                            |
-| 67 | Legion 7: AMD Ryzen 7 5800H, RTX 3070, 16GB, 1TB - $1,711 to $1,759 pre-tax (HOT - best price of the year)             |
-| 68 | Existing Shaw Mobile Customers: $25 a month for 3GB + unlimited talk and text                                          |
-| 69 | EPOS Sennheiser GSP 500 or 600 or 601 Gaming Headsets - $129.XX                                                        |
-| 70 | [YMMV] Extra 10 GB Loyal Customer Free                                                                                 |
-| 71 | Playstation Plus December 2021 Games                                                                                   |
-| 72 | Assassin's Creed: Valhalla - Stadia Only - $14.39 - 24 Hour Sale - $4.39 for new users                                 |
-| 73 | Geeni Sentry Smart Floodlight & 1080P HD Security Camera $119.99 20% OFF Reg $149.99                                   |
-| 74 | 15GB for $40 YMMV                                                                                                      |
-| 75 | Camera AI 360                                                                                                          |
-| 76 | TCL 6-Series 55" 4K UHD HDR QLED Mini-LED Smart Google TV (55R646-CA)                                                  |
-| 77 | $45 25gb + $300 bill credit per line [win back]                                                                        |
-| 78 | Samsung duo wireless charger - $23.99 save $32                                                                         |
-| 79 | Get your Google Play credit for eligible device purchases                                                              |
-| 80 | Dell S3220DGF: 32" 1440p 165hz VA curved monitor - $299.99 (open box)                                                  |
-| 81 | Powerextra Projector Screen 120 Inch 16:9 HD 4K Portable Projection Screen $29.99 after savings and coupon             |
-| 82 | Internet 50/10 Mbps $35/mo. or 100/10 Mbps $40/mo. (50% off)                                                           |
-| 83 | JBL Tune 225TWS True Wireless Bluetooth Earbuds up to 25 Hours of Combined Music Playtime multiple colors $89.98 (40%) |
-| 84 | FREE Pirates: All Aboard + 18 Additional Games (GAME 9 of 19 AVAILABLE NOW)                                            |
-| 85 | Dell 7390 Latitude 13.3" Laptop Intel i7-8650U 1.90GHz 16GB RAM, 256GB SSD, Webcam, Wind 10 pro $569 Refurb            |
-| 86 | Black Friday Deal for New Customer 12GB for $40/month, Samsung S20 FE for $10/month                                    |
-| 87 | Asus VivoBook 14 F415EA-UB34 14 Laptop i3 8 GB 128 SSD $419.99                                                         |
-| 88 | 120'' Hisense TriChroma 4K HDR Smart Android Laser TV 120L9G - 5,498.79$                                               |
-| 89 | Koodo/Fido/Virgin QC Only 45$ for 12GB (no credit) and 35$ 9GB Prepaid (Virgin QC only)                                |
+|    | deals                                                                                                        |
+|---:|:-------------------------------------------------------------------------------------------------------------|
+|  0 | Take Our Third-Party Marketplace Survey and You Could Win One of Two $100 Gift Cards (Random Draw)           |
+|  1 | [Sponsored] Exclusive Sale at Tbooth wireless. 5 days only!                                                  |
+|  2 | Free to play with Xbox Game Pass: Halo Infinite & Infinite Campaign                                          |
+|  3 | Galaxy Z Flip3 5G + Galaxy Buds Pro $800 **                                                                  |
+|  4 | Logitech G305 wireless gaming mouse $39.99 (ATL)                                                             |
+|  5 | Walmart Laptops on Clearance for $200! Acer Nitro 5 on clearance for $450!                                   |
+|  6 | Google Chromecast with Google TV - Snow - $59.98 ($10 off)                                                   |
+|  7 | Razer Kraken X for Console Gaming Headset for PC/PS4/PS5/Xbox/Switch - Black - save $30, $39.99 after rebate |
+|  8 | Legion 7 & 7i: AMD Ryzen 5800H or Intel i7-11800H, RTX 3070, 16GB, 1TB - $1,810 (28-30% coupon & 10% ebate)  |
+|  9 | PS4 Marvel's Avengers $9.98 !                                                                                |
+| 10 | 50% off PlayStation Plus, new and expired subscribers only, 12 months $34.99                                 |
+| 11 | Nvidia Shield Android Tv 4K HDR Streaming Media Player (Barrel) $170                                         |
+| 12 | Epic Games Holiday Sale + 15 days of FREE Games - Starts December 16th 2021                                  |
+| 13 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $225 B4 coupons, $3 S&H)                                     |
+| 14 | Get your Google Play credit for eligible device purchases                                                    |
+| 15 | Dell S3220DGF: 32" 1440p 165hz VA curved monitor - $299.99 (open box)                                        |
+| 16 | Playstation Plus 12 Month Card - $46.99                                                                      |
+| 17 | Virgin Mobile Home Internet 100Mbps for $35/m with mobile plan, $40 without mobile plan + $50 Visa GC - YMMV |
+| 18 | Shin Megami Tensei V Steelbook Edition - $49.99 (Best Buy, Gamestop) & $59.96 (Walmart, sold-out online)     |
+| 19 | Buy 1 Sim Get 1 Free - $10                                                                                   |
+| 20 | Samsung Galaxy Tab S7 FE (with S pen and keyboard cover) $560                                                |
+| 21 | DJI Osmo Mobile 3 Smartphone Gimbal Stabilizer and Grip Tripod Combo - Grey - $79.99                         |
+| 22 | Nintendo games $54.96 (Luigi 3, Mario Tennis, Odyssey, U Deluxe)                                             |
+| 23 | Cave Story®'s Secret Santa FREE (Steam, Epic, & GOG)                                                         |
+| 24 | PS4 - Persona 5 Royal - Standard Edition ($34.96) - all time low                                             |
+| 25 | [YMMV] Extra 10 GB Loyal Customer Free                                                                       |
+| 26 | FREE Pirates: All Aboard + 18 Additional Games (GAME 9 of 19 AVAILABLE NOW)                                  |
+| 27 | Samsung Galaxy Watch Active2 LTE and Non-LTE - $126 to $166                                                  |
+| 28 | Nintendo Switch Mario Kart Bundle and OLED in stock online                                                   |
+| 29 | Koodo/Virgin/Fido - $45 15GB / Freedom $40 20GB (for 15 months) NO QC/MB/SK                                  |
+| 30 | Take Our Third-Party Marketplace Survey and You Could Win One of Two $100 Gift Cards (Random Draw)           |
+| 31 | [Sponsored] Exclusive Sale at Tbooth wireless. 5 days only!                                                  |
+| 32 | Free to play with Xbox Game Pass: Halo Infinite & Infinite Campaign                                          |
+| 33 | Galaxy Z Flip3 5G + Galaxy Buds Pro $800 **                                                                  |
+| 34 | Logitech G305 wireless gaming mouse $39.99 (ATL)                                                             |
+| 35 | Walmart Laptops on Clearance for $200! Acer Nitro 5 on clearance for $450!                                   |
+| 36 | Google Chromecast with Google TV - Snow - $59.98 ($10 off)                                                   |
+| 37 | Razer Kraken X for Console Gaming Headset for PC/PS4/PS5/Xbox/Switch - Black - save $30, $39.99 after rebate |
+| 38 | Legion 7 & 7i: AMD Ryzen 5800H or Intel i7-11800H, RTX 3070, 16GB, 1TB - $1,810 (28-30% coupon & 10% ebate)  |
+| 39 | PS4 Marvel's Avengers $9.98 !                                                                                |
+| 40 | 50% off PlayStation Plus, new and expired subscribers only, 12 months $34.99                                 |
+| 41 | Nvidia Shield Android Tv 4K HDR Streaming Media Player (Barrel) $170                                         |
+| 42 | Epic Games Holiday Sale + 15 days of FREE Games - Starts December 16th 2021                                  |
+| 43 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $225 B4 coupons, $3 S&H)                                     |
+| 44 | Get your Google Play credit for eligible device purchases                                                    |
+| 45 | Dell S3220DGF: 32" 1440p 165hz VA curved monitor - $299.99 (open box)                                        |
+| 46 | Playstation Plus 12 Month Card - $46.99                                                                      |
+| 47 | Virgin Mobile Home Internet 100Mbps for $35/m with mobile plan, $40 without mobile plan + $50 Visa GC - YMMV |
+| 48 | Shin Megami Tensei V Steelbook Edition - $49.99 (Best Buy, Gamestop) & $59.96 (Walmart, sold-out online)     |
+| 49 | Buy 1 Sim Get 1 Free - $10                                                                                   |
+| 50 | Samsung Galaxy Tab S7 FE (with S pen and keyboard cover) $560                                                |
+| 51 | DJI Osmo Mobile 3 Smartphone Gimbal Stabilizer and Grip Tripod Combo - Grey - $79.99                         |
+| 52 | Nintendo games $54.96 (Luigi 3, Mario Tennis, Odyssey, U Deluxe)                                             |
+| 53 | Cave Story®'s Secret Santa FREE (Steam, Epic, & GOG)                                                         |
+| 54 | PS4 - Persona 5 Royal - Standard Edition ($34.96) - all time low                                             |
+| 55 | [YMMV] Extra 10 GB Loyal Customer Free                                                                       |
+| 56 | FREE Pirates: All Aboard + 18 Additional Games (GAME 9 of 19 AVAILABLE NOW)                                  |
+| 57 | Samsung Galaxy Watch Active2 LTE and Non-LTE - $126 to $166                                                  |
+| 58 | Nintendo Switch Mario Kart Bundle and OLED in stock online                                                   |
+| 59 | Koodo/Virgin/Fido - $45 15GB / Freedom $40 20GB (for 15 months) NO QC/MB/SK                                  |
+| 60 | Take Our Third-Party Marketplace Survey and You Could Win One of Two $100 Gift Cards (Random Draw)           |
+| 61 | [Sponsored] Exclusive Sale at Tbooth wireless. 5 days only!                                                  |
+| 62 | Free to play with Xbox Game Pass: Halo Infinite & Infinite Campaign                                          |
+| 63 | Galaxy Z Flip3 5G + Galaxy Buds Pro $800 **                                                                  |
+| 64 | Logitech G305 wireless gaming mouse $39.99 (ATL)                                                             |
+| 65 | Walmart Laptops on Clearance for $200! Acer Nitro 5 on clearance for $450!                                   |
+| 66 | Google Chromecast with Google TV - Snow - $59.98 ($10 off)                                                   |
+| 67 | Razer Kraken X for Console Gaming Headset for PC/PS4/PS5/Xbox/Switch - Black - save $30, $39.99 after rebate |
+| 68 | Legion 7 & 7i: AMD Ryzen 5800H or Intel i7-11800H, RTX 3070, 16GB, 1TB - $1,810 (28-30% coupon & 10% ebate)  |
+| 69 | PS4 Marvel's Avengers $9.98 !                                                                                |
+| 70 | 50% off PlayStation Plus, new and expired subscribers only, 12 months $34.99                                 |
+| 71 | Nvidia Shield Android Tv 4K HDR Streaming Media Player (Barrel) $170                                         |
+| 72 | Epic Games Holiday Sale + 15 days of FREE Games - Starts December 16th 2021                                  |
+| 73 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $225 B4 coupons, $3 S&H)                                     |
+| 74 | Get your Google Play credit for eligible device purchases                                                    |
+| 75 | Dell S3220DGF: 32" 1440p 165hz VA curved monitor - $299.99 (open box)                                        |
+| 76 | Playstation Plus 12 Month Card - $46.99                                                                      |
+| 77 | Virgin Mobile Home Internet 100Mbps for $35/m with mobile plan, $40 without mobile plan + $50 Visa GC - YMMV |
+| 78 | Shin Megami Tensei V Steelbook Edition - $49.99 (Best Buy, Gamestop) & $59.96 (Walmart, sold-out online)     |
+| 79 | Buy 1 Sim Get 1 Free - $10                                                                                   |
+| 80 | Samsung Galaxy Tab S7 FE (with S pen and keyboard cover) $560                                                |
+| 81 | DJI Osmo Mobile 3 Smartphone Gimbal Stabilizer and Grip Tripod Combo - Grey - $79.99                         |
+| 82 | Nintendo games $54.96 (Luigi 3, Mario Tennis, Odyssey, U Deluxe)                                             |
+| 83 | Cave Story®'s Secret Santa FREE (Steam, Epic, & GOG)                                                         |
+| 84 | PS4 - Persona 5 Royal - Standard Edition ($34.96) - all time low                                             |
+| 85 | [YMMV] Extra 10 GB Loyal Customer Free                                                                       |
+| 86 | FREE Pirates: All Aboard + 18 Additional Games (GAME 9 of 19 AVAILABLE NOW)                                  |
+| 87 | Samsung Galaxy Watch Active2 LTE and Non-LTE - $126 to $166                                                  |
+| 88 | Nintendo Switch Mario Kart Bundle and OLED in stock online                                                   |
+| 89 | Koodo/Virgin/Fido - $45 15GB / Freedom $40 20GB (for 15 months) NO QC/MB/SK                                  |
