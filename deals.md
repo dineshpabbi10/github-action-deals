@@ -1,12 +1,12 @@
 |    | deals                                                                                                             |
 |---:|:------------------------------------------------------------------------------------------------------------------|
 |  0 | [Sponsored] Exclusive Sale at Tbooth wireless. 5 days only!                                                       |
-|  1 | 120'' Hisense TriChroma 4K HDR Smart Android Laser TV 120L9G - 5,498.79$                                          |
-|  2 | Sony HT-X9000F 2.1 Atmos Soundbar for $199.99                                                                     |
-|  3 | Koodo/Fido/Virgin QC Only 45$ for 12GB (no credit) and 35$ 9GB Prepaid (Virgin QC only)                           |
-|  4 | PS4 Marvel's Avengers $9.98 !                                                                                     |
-|  5 | ThinkPad 11e Yoga Gen 6 (11”) 2-in-1 $446 only reg $1319                                                          |
-|  6 | (Warm) Klipsch R-12SWi subwoofer - $349.99                                                                        |
+|  1 | (Warm) Klipsch R-12SWi subwoofer - $349.99                                                                        |
+|  2 | 120'' Hisense TriChroma 4K HDR Smart Android Laser TV 120L9G - 5,498.79$                                          |
+|  3 | Sony HT-X9000F 2.1 Atmos Soundbar for $199.99                                                                     |
+|  4 | Koodo/Fido/Virgin QC Only 45$ for 12GB (no credit) and 35$ 9GB Prepaid (Virgin QC only)                           |
+|  5 | PS4 Marvel's Avengers $9.98 !                                                                                     |
+|  6 | ThinkPad 11e Yoga Gen 6 (11”) 2-in-1 $446 only reg $1319                                                          |
 |  7 | ONTARIO - Fido now advertising Home Internet 50% off for 12 months (Must have Data, Talk & Text plan)             |
 |  8 | Call of Duty - Vanguard - $51.99                                                                                  |
 |  9 | Take Our Third-Party Marketplace Survey and You Could Win One of Two $100 Gift Cards (Random Draw)                |
@@ -31,8 +31,8 @@
 | 28 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                                |
 | 29 | SENNHEISER HD 6XX - $179 USD                                                                                      |
 | 30 | [Sponsored] Exclusive Sale at Tbooth wireless. 5 days only!                                                       |
-| 31 | (Warm) Klipsch R-12SWi subwoofer - $349.99                                                                        |
-| 32 | 120'' Hisense TriChroma 4K HDR Smart Android Laser TV 120L9G - 5,498.79$                                          |
+| 31 | 120'' Hisense TriChroma 4K HDR Smart Android Laser TV 120L9G - 5,498.79$                                          |
+| 32 | (Warm) Klipsch R-12SWi subwoofer - $349.99                                                                        |
 | 33 | Sony HT-X9000F 2.1 Atmos Soundbar for $199.99                                                                     |
 | 34 | Koodo/Fido/Virgin QC Only 45$ for 12GB (no credit) and 35$ 9GB Prepaid (Virgin QC only)                           |
 | 35 | PS4 Marvel's Avengers $9.98 !                                                                                     |
@@ -61,8 +61,8 @@
 | 58 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                                |
 | 59 | SENNHEISER HD 6XX - $179 USD                                                                                      |
 | 60 | [Sponsored] Exclusive Sale at Tbooth wireless. 5 days only!                                                       |
-| 61 | (Warm) Klipsch R-12SWi subwoofer - $349.99                                                                        |
-| 62 | 120'' Hisense TriChroma 4K HDR Smart Android Laser TV 120L9G - 5,498.79$                                          |
+| 61 | 120'' Hisense TriChroma 4K HDR Smart Android Laser TV 120L9G - 5,498.79$                                          |
+| 62 | (Warm) Klipsch R-12SWi subwoofer - $349.99                                                                        |
 | 63 | Sony HT-X9000F 2.1 Atmos Soundbar for $199.99                                                                     |
 | 64 | Koodo/Fido/Virgin QC Only 45$ for 12GB (no credit) and 35$ 9GB Prepaid (Virgin QC only)                           |
 | 65 | PS4 Marvel's Avengers $9.98 !                                                                                     |
