@@ -1,92 +1,92 @@
-|    | deals                                                                                                                    |
-|---:|:-------------------------------------------------------------------------------------------------------------------------|
-|  0 | Koodo $1/month for CPO Phones                                                                                            |
-|  1 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $240 B4 coupons, $7 S&H)                                                 |
-|  2 | GALAXY Z flip3 bespoke edition $829 with trade in.                                                                       |
-|  3 | Epic Games Holiday Sale - Limitless $14 coupons + Free Fortnite/Rocket League items + 15 days of FREE Games -> Shenmue 3 |
-|  4 | Take Our Third-Party Marketplace Survey and You Could Win One of Two $100 Gift Cards (Random Draw)                       |
-|  5 | eshop: Yooka-Laylee $10.06, Overcooked 2 $6.99, Moving Out $6.99 (Switch, digital)                                       |
-|  6 | Legion 7 & 7i: AMD R7 5800H or Intel i7-11800H, RTX 3070, 16GB, 1TB - 1,891 (28-30% discounts & 6% cashback)             |
-|  7 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                             |
-|  8 | Kobo Libra H2O e-reader $162                                                                                             |
-|  9 | Battlefield 2042 - Play for FREE Weekend! (NOT TO KEEP)                                                                  |
-| 10 | Edifier Holiday flash sale                                                                                               |
-| 11 | Take Our Boxing Day Survey and You Could Win One of Two $100 Gift Cards (Random Draw)                                    |
-| 12 | Intel Core i7 (11th Gen) i7-11700KF Octa-core (8 Core) 3.60 GHz Processor - Retail Pack                                  |
-| 13 | Lexar JumpDrive M45 64GB USB 3.1 Flash Drive $14.99                                                                      |
-| 14 | $10/3GB Tablet Plan for EXISTING customers.                                                                              |
-| 15 | Fire TV stick 4k Max, 4K $54.99 + other versions also on sale                                                            |
-| 16 | Fido Internet 150Mps service for 42.50 (first 12 months)                                                                 |
-| 17 | 3m (10') Braided Lightning to USB Cable - $7.49 ($5.62 with PSP) + FS                                                    |
-| 18 | Assassin's Creed: Odyssey Free Extended Weekend                                                                          |
-| 19 | Koodo/Virgin/Fido - $45 15GB / Freedom $40 20GB (for 15 months) NO QC/MB/SK                                              |
-| 20 | Samsung Galaxy Buds 2 - $89.99, Buds Live $97.49 [With PSP] - YMMV some PSP at $101.99/$110.49                           |
-| 21 | [Workperk] 20gb $50/month BYOB YMMV                                                                                      |
-| 22 | Xbox Elite Wireless Controller Series 2 [$154.99] for Bell Customers                                                     |
-| 23 | Far Cry 6 for PS5 and Xbox ATL $39.99                                                                                    |
-| 24 | Echo Dot (3rd Gen)                                                                                                       |
-| 25 | Get your Google Play credit for eligible device purchases                                                                |
-| 26 | Freedom Prepaid $19/mo and $29/mo plans - Flash Sale: Get 10GB of Extra Data (one time bonus) - expiring Dec 13, 2021    |
-| 27 | Seasonic Power Supply SSR-550FM 550 Watts GOLD $39.99 (66% off)                                                          |
-| 28 | YMMV 5000 points for every $50 spent on Apple/Google/Uber gift cards                                                     |
-| 29 | Edifier R2000DB Powered Bluetooth Bookshelf Speakers $259.99                                                             |
-| 30 | Koodo $1/month for CPO Phones                                                                                            |
-| 31 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $240 B4 coupons, $7 S&H)                                                 |
-| 32 | GALAXY Z flip3 bespoke edition $829 with trade in.                                                                       |
-| 33 | Epic Games Holiday Sale - Limitless $14 coupons + Free Fortnite/Rocket League items + 15 days of FREE Games -> Shenmue 3 |
-| 34 | Take Our Third-Party Marketplace Survey and You Could Win One of Two $100 Gift Cards (Random Draw)                       |
-| 35 | eshop: Yooka-Laylee $10.06, Overcooked 2 $6.99, Moving Out $6.99 (Switch, digital)                                       |
-| 36 | Legion 7 & 7i: AMD R7 5800H or Intel i7-11800H, RTX 3070, 16GB, 1TB - 1,891 (28-30% discounts & 6% cashback)             |
-| 37 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                             |
-| 38 | Kobo Libra H2O e-reader $162                                                                                             |
-| 39 | Battlefield 2042 - Play for FREE Weekend! (NOT TO KEEP)                                                                  |
-| 40 | Edifier Holiday flash sale                                                                                               |
-| 41 | Take Our Boxing Day Survey and You Could Win One of Two $100 Gift Cards (Random Draw)                                    |
-| 42 | Intel Core i7 (11th Gen) i7-11700KF Octa-core (8 Core) 3.60 GHz Processor - Retail Pack                                  |
-| 43 | Lexar JumpDrive M45 64GB USB 3.1 Flash Drive $14.99                                                                      |
-| 44 | $10/3GB Tablet Plan for EXISTING customers.                                                                              |
-| 45 | Fire TV stick 4k Max, 4K $54.99 + other versions also on sale                                                            |
-| 46 | Fido Internet 150Mps service for 42.50 (first 12 months)                                                                 |
-| 47 | 3m (10') Braided Lightning to USB Cable - $7.49 ($5.62 with PSP) + FS                                                    |
-| 48 | Assassin's Creed: Odyssey Free Extended Weekend                                                                          |
-| 49 | Koodo/Virgin/Fido - $45 15GB / Freedom $40 20GB (for 15 months) NO QC/MB/SK                                              |
-| 50 | Samsung Galaxy Buds 2 - $89.99, Buds Live $97.49 [With PSP] - YMMV some PSP at $101.99/$110.49                           |
-| 51 | [Workperk] 20gb $50/month BYOB YMMV                                                                                      |
-| 52 | Xbox Elite Wireless Controller Series 2 [$154.99] for Bell Customers                                                     |
-| 53 | Far Cry 6 for PS5 and Xbox ATL $39.99                                                                                    |
-| 54 | Echo Dot (3rd Gen)                                                                                                       |
-| 55 | Get your Google Play credit for eligible device purchases                                                                |
-| 56 | Freedom Prepaid $19/mo and $29/mo plans - Flash Sale: Get 10GB of Extra Data (one time bonus) - expiring Dec 13, 2021    |
-| 57 | Seasonic Power Supply SSR-550FM 550 Watts GOLD $39.99 (66% off)                                                          |
-| 58 | YMMV 5000 points for every $50 spent on Apple/Google/Uber gift cards                                                     |
-| 59 | Edifier R2000DB Powered Bluetooth Bookshelf Speakers $259.99                                                             |
-| 60 | Koodo $1/month for CPO Phones                                                                                            |
-| 61 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $240 B4 coupons, $7 S&H)                                                 |
-| 62 | GALAXY Z flip3 bespoke edition $829 with trade in.                                                                       |
-| 63 | Epic Games Holiday Sale - Limitless $14 coupons + Free Fortnite/Rocket League items + 15 days of FREE Games -> Shenmue 3 |
-| 64 | Take Our Third-Party Marketplace Survey and You Could Win One of Two $100 Gift Cards (Random Draw)                       |
-| 65 | eshop: Yooka-Laylee $10.06, Overcooked 2 $6.99, Moving Out $6.99 (Switch, digital)                                       |
-| 66 | Legion 7 & 7i: AMD R7 5800H or Intel i7-11800H, RTX 3070, 16GB, 1TB - 1,891 (28-30% discounts & 6% cashback)             |
-| 67 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                             |
-| 68 | Kobo Libra H2O e-reader $162                                                                                             |
-| 69 | Battlefield 2042 - Play for FREE Weekend! (NOT TO KEEP)                                                                  |
-| 70 | Edifier Holiday flash sale                                                                                               |
-| 71 | Take Our Boxing Day Survey and You Could Win One of Two $100 Gift Cards (Random Draw)                                    |
-| 72 | Intel Core i7 (11th Gen) i7-11700KF Octa-core (8 Core) 3.60 GHz Processor - Retail Pack                                  |
-| 73 | Lexar JumpDrive M45 64GB USB 3.1 Flash Drive $14.99                                                                      |
-| 74 | $10/3GB Tablet Plan for EXISTING customers.                                                                              |
-| 75 | Fire TV stick 4k Max, 4K $54.99 + other versions also on sale                                                            |
-| 76 | Fido Internet 150Mps service for 42.50 (first 12 months)                                                                 |
-| 77 | 3m (10') Braided Lightning to USB Cable - $7.49 ($5.62 with PSP) + FS                                                    |
-| 78 | Assassin's Creed: Odyssey Free Extended Weekend                                                                          |
-| 79 | Koodo/Virgin/Fido - $45 15GB / Freedom $40 20GB (for 15 months) NO QC/MB/SK                                              |
-| 80 | Samsung Galaxy Buds 2 - $89.99, Buds Live $97.49 [With PSP] - YMMV some PSP at $101.99/$110.49                           |
-| 81 | [Workperk] 20gb $50/month BYOB YMMV                                                                                      |
-| 82 | Xbox Elite Wireless Controller Series 2 [$154.99] for Bell Customers                                                     |
-| 83 | Far Cry 6 for PS5 and Xbox ATL $39.99                                                                                    |
-| 84 | Echo Dot (3rd Gen)                                                                                                       |
-| 85 | Get your Google Play credit for eligible device purchases                                                                |
-| 86 | Freedom Prepaid $19/mo and $29/mo plans - Flash Sale: Get 10GB of Extra Data (one time bonus) - expiring Dec 13, 2021    |
-| 87 | Seasonic Power Supply SSR-550FM 550 Watts GOLD $39.99 (66% off)                                                          |
-| 88 | YMMV 5000 points for every $50 spent on Apple/Google/Uber gift cards                                                     |
-| 89 | Edifier R2000DB Powered Bluetooth Bookshelf Speakers $259.99                                                             |
+|    | deals                                                                                                              |
+|---:|:-------------------------------------------------------------------------------------------------------------------|
+|  0 | [Sponsored] ] MSI’s Last Minute Shopping Guide is Live Now!                                                        |
+|  1 | [Sponsored] 'Tis the season for Savings & Special Gifts from HUAWEI Canada                                         |
+|  2 | [Sponsored] The Unboxing Week Sale is ON now at Tbooth Wireless!                                                   |
+|  3 | $10 OFF $75 coupon                                                                                                 |
+|  4 | VOIP.MS - add $15 and they will add $15                                                                            |
+|  5 | Nvidia Shield Pro $209.99, Shield regular $154.99 after coupon, free shipped                                       |
+|  6 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                       |
+|  7 | WD Red Pro WD181KFGX 18TB OEM $509 - 40% off, flash sale expires tonight                                           |
+|  8 | Wireless Keyboard - Logitech K360 - $10                                                                            |
+|  9 | Fido Internet 150Mps service for 42.50 (first 12 months)                                                           |
+| 10 | Koodo $1/month for CPO Phones                                                                                      |
+| 11 | Canada Computers: PS5 Bundle (Disc / Spider-Man / Red Controller / Charger / Remote) - 859.99$ (ISPU Only)...      |
+| 12 | Google Nest Audio Smart Speaker ($50) - Sky Blue                                                                   |
+| 13 | Sennheiser HD 350BT Bluetooth 5.0 AptX Low Latency Headphones • $79.99 ATL                                         |
+| 14 | Lenovo Ideapad 5 Pro, 16-inch 2.5K QHD IPS display, 5600H/8GB/512GB, $760                                          |
+| 15 | Judgment - PlayStation 5 $29.99                                                                                    |
+| 16 | (hot?) Lenovo IdeaPad Duet Chromebook 10.1 ($349.99 - $150 - $10 = $189.99 - 46% OFF) keyboard & trackpad included |
+| 17 | Seagate Backup Plus Hub 10TB External Hard Drive Desktop HDD $279.99                                               |
+| 18 | BYOD 40$ for 12 GB in Ontario plus 250$ to spend at the source (maybe)                                             |
+| 19 | Fido Free $120 Accessory Credit - Post Your Finds                                                                  |
+| 20 | Apple TV 4K - 32GB $150@Walmart in-store, 64GB $179.97@Staples ($80 OFF, Pick-up in store only)                    |
+| 21 | nVidia Shield TV Pro $229                                                                                          |
+| 22 | HP Pavilion Aero 13 - Ryzen 5600U / 2560x1600 / 512GB SSD / 8GB / Ceramic White - $699                             |
+| 23 | 17gb for $55 - Online Deal Only - Boxing Week Deal                                                                 |
+| 24 | $40 off + stacked offers. Google Nest Max; Staub Cookware; Braun; Bose; ATL or lower than regular site             |
+| 25 | AmazonBasics AAA 1.5 Volt Performance Alkaline Batteries - Pack of 36 - $8.86                                      |
+| 26 | Virgin Mobile Home Internet 100Mbps for $35/m with mobile plan, $40 without mobile plan + $50 Visa GC - YMMV       |
+| 27 | Get your Google Play credit for eligible device purchases                                                          |
+| 28 | AmazonBasics AAA batteries 36 pack $8.86 - S&S for ATL                                                             |
+| 29 | Shaw Internet Offers: 150MB $50/month & Up with a $150 credit back - 2 Year Plan (YMMV)                            |
+| 30 | [Sponsored] ] MSI’s Last Minute Shopping Guide is Live Now!                                                        |
+| 31 | [Sponsored] 'Tis the season for Savings & Special Gifts from HUAWEI Canada                                         |
+| 32 | [Sponsored] The Unboxing Week Sale is ON now at Tbooth Wireless!                                                   |
+| 33 | $10 OFF $75 coupon                                                                                                 |
+| 34 | VOIP.MS - add $15 and they will add $15                                                                            |
+| 35 | Nvidia Shield Pro $209.99, Shield regular $154.99 after coupon, free shipped                                       |
+| 36 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                       |
+| 37 | WD Red Pro WD181KFGX 18TB OEM $509 - 40% off, flash sale expires tonight                                           |
+| 38 | Wireless Keyboard - Logitech K360 - $10                                                                            |
+| 39 | Fido Internet 150Mps service for 42.50 (first 12 months)                                                           |
+| 40 | Koodo $1/month for CPO Phones                                                                                      |
+| 41 | Canada Computers: PS5 Bundle (Disc / Spider-Man / Red Controller / Charger / Remote) - 859.99$ (ISPU Only)...      |
+| 42 | Google Nest Audio Smart Speaker ($50) - Sky Blue                                                                   |
+| 43 | Sennheiser HD 350BT Bluetooth 5.0 AptX Low Latency Headphones • $79.99 ATL                                         |
+| 44 | Lenovo Ideapad 5 Pro, 16-inch 2.5K QHD IPS display, 5600H/8GB/512GB, $760                                          |
+| 45 | Judgment - PlayStation 5 $29.99                                                                                    |
+| 46 | (hot?) Lenovo IdeaPad Duet Chromebook 10.1 ($349.99 - $150 - $10 = $189.99 - 46% OFF) keyboard & trackpad included |
+| 47 | Seagate Backup Plus Hub 10TB External Hard Drive Desktop HDD $279.99                                               |
+| 48 | BYOD 40$ for 12 GB in Ontario plus 250$ to spend at the source (maybe)                                             |
+| 49 | Fido Free $120 Accessory Credit - Post Your Finds                                                                  |
+| 50 | Apple TV 4K - 32GB $150@Walmart in-store, 64GB $179.97@Staples ($80 OFF, Pick-up in store only)                    |
+| 51 | nVidia Shield TV Pro $229                                                                                          |
+| 52 | HP Pavilion Aero 13 - Ryzen 5600U / 2560x1600 / 512GB SSD / 8GB / Ceramic White - $699                             |
+| 53 | 17gb for $55 - Online Deal Only - Boxing Week Deal                                                                 |
+| 54 | $40 off + stacked offers. Google Nest Max; Staub Cookware; Braun; Bose; ATL or lower than regular site             |
+| 55 | AmazonBasics AAA 1.5 Volt Performance Alkaline Batteries - Pack of 36 - $8.86                                      |
+| 56 | Virgin Mobile Home Internet 100Mbps for $35/m with mobile plan, $40 without mobile plan + $50 Visa GC - YMMV       |
+| 57 | Get your Google Play credit for eligible device purchases                                                          |
+| 58 | AmazonBasics AAA batteries 36 pack $8.86 - S&S for ATL                                                             |
+| 59 | Shaw Internet Offers: 150MB $50/month & Up with a $150 credit back - 2 Year Plan (YMMV)                            |
+| 60 | [Sponsored] ] MSI’s Last Minute Shopping Guide is Live Now!                                                        |
+| 61 | [Sponsored] 'Tis the season for Savings & Special Gifts from HUAWEI Canada                                         |
+| 62 | [Sponsored] The Unboxing Week Sale is ON now at Tbooth Wireless!                                                   |
+| 63 | $10 OFF $75 coupon                                                                                                 |
+| 64 | VOIP.MS - add $15 and they will add $15                                                                            |
+| 65 | Nvidia Shield Pro $209.99, Shield regular $154.99 after coupon, free shipped                                       |
+| 66 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                       |
+| 67 | WD Red Pro WD181KFGX 18TB OEM $509 - 40% off, flash sale expires tonight                                           |
+| 68 | Wireless Keyboard - Logitech K360 - $10                                                                            |
+| 69 | Fido Internet 150Mps service for 42.50 (first 12 months)                                                           |
+| 70 | Koodo $1/month for CPO Phones                                                                                      |
+| 71 | Canada Computers: PS5 Bundle (Disc / Spider-Man / Red Controller / Charger / Remote) - 859.99$ (ISPU Only)...      |
+| 72 | Google Nest Audio Smart Speaker ($50) - Sky Blue                                                                   |
+| 73 | Sennheiser HD 350BT Bluetooth 5.0 AptX Low Latency Headphones • $79.99 ATL                                         |
+| 74 | Lenovo Ideapad 5 Pro, 16-inch 2.5K QHD IPS display, 5600H/8GB/512GB, $760                                          |
+| 75 | Judgment - PlayStation 5 $29.99                                                                                    |
+| 76 | (hot?) Lenovo IdeaPad Duet Chromebook 10.1 ($349.99 - $150 - $10 = $189.99 - 46% OFF) keyboard & trackpad included |
+| 77 | Seagate Backup Plus Hub 10TB External Hard Drive Desktop HDD $279.99                                               |
+| 78 | BYOD 40$ for 12 GB in Ontario plus 250$ to spend at the source (maybe)                                             |
+| 79 | Fido Free $120 Accessory Credit - Post Your Finds                                                                  |
+| 80 | Apple TV 4K - 32GB $150@Walmart in-store, 64GB $179.97@Staples ($80 OFF, Pick-up in store only)                    |
+| 81 | nVidia Shield TV Pro $229                                                                                          |
+| 82 | HP Pavilion Aero 13 - Ryzen 5600U / 2560x1600 / 512GB SSD / 8GB / Ceramic White - $699                             |
+| 83 | 17gb for $55 - Online Deal Only - Boxing Week Deal                                                                 |
+| 84 | $40 off + stacked offers. Google Nest Max; Staub Cookware; Braun; Bose; ATL or lower than regular site             |
+| 85 | AmazonBasics AAA 1.5 Volt Performance Alkaline Batteries - Pack of 36 - $8.86                                      |
+| 86 | Virgin Mobile Home Internet 100Mbps for $35/m with mobile plan, $40 without mobile plan + $50 Visa GC - YMMV       |
+| 87 | Get your Google Play credit for eligible device purchases                                                          |
+| 88 | AmazonBasics AAA batteries 36 pack $8.86 - S&S for ATL                                                             |
+| 89 | Shaw Internet Offers: 150MB $50/month & Up with a $150 credit back - 2 Year Plan (YMMV)                            |
