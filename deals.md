@@ -4,20 +4,20 @@
 |  1 | [Sponsored] 'Tis the season for Savings & Special Gifts from HUAWEI Canada                                            |
 |  2 | [Sponsored] The Unboxing Week Sale is ON now at Tbooth Wireless!                                                      |
 |  3 | Hisense HS214 2.1 CH Sound Bar Speaker Built-in Subwoofer- $78 (Costco,Canadian Tire) HS218 $127.99                   |
-|  4 | $35 / 12gb BYOD for 24 mths - Virgin Plus at Fairview Mall Toronto Kiosk                                              |
-|  5 | Legion 7 & 7i: AMD R7 5800H or Intel i7-11800H, RTX 3070, 16GB, 1TB - 1,891 (28-30% discounts & 6% cashback)          |
-|  6 | 2.5K UHD Dual Dash Cam - $78.74                                                                                       |
-|  7 | TP-Link AX3000 Whole Home WiFi 6 Mesh WiFi System (Deco X60) - 3 packs - $349.99                                      |
-|  8 | TP-Link Kasa Smart Wi-Fi Plug Lite (4-Pack) $20                                                                       |
-|  9 | Jabra Elite 85t brand new for $199                                                                                    |
-| 10 | Freedom Prepaid $19/mo and $29/mo plans - Flash Sale: Get 10GB of Extra Data (one time bonus) - expiring Dec 13, 2021 |
-| 11 | Google Nest Wifi Router for $156.00 (save 32% off or $73.00!)                                                         |
-| 12 | eShop: Saints Row IV: Re-elected - Nintendo Eshop $3.49 (93% off)                                                     |
-| 13 | 50% off PlayStation Plus, new and expired subscribers only, 12 months $34.99                                          |
-| 14 | TCL 65" and 75” Class 5-Series 4K UHD QLED Dolby Vision HDR Smart Google TV $916.55 and $1298.59 respectively         |
-| 15 | FIDO Pixel 6 128 GB + 12GB plan for $65/mo (Existing Customers)                                                       |
-| 16 | VITAL 5200mAh Power Bank with Apple Watch Charger $19.99                                                              |
-| 17 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                          |
+|  4 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                          |
+|  5 | $35 / 12gb BYOD for 24 mths - Virgin Plus at Fairview Mall Toronto Kiosk                                              |
+|  6 | Legion 7 & 7i: AMD R7 5800H or Intel i7-11800H, RTX 3070, 16GB, 1TB - 1,891 (28-30% discounts & 6% cashback)          |
+|  7 | 2.5K UHD Dual Dash Cam - $78.74                                                                                       |
+|  8 | TP-Link AX3000 Whole Home WiFi 6 Mesh WiFi System (Deco X60) - 3 packs - $349.99                                      |
+|  9 | TP-Link Kasa Smart Wi-Fi Plug Lite (4-Pack) $20                                                                       |
+| 10 | Jabra Elite 85t brand new for $199                                                                                    |
+| 11 | Freedom Prepaid $19/mo and $29/mo plans - Flash Sale: Get 10GB of Extra Data (one time bonus) - expiring Dec 13, 2021 |
+| 12 | Google Nest Wifi Router for $156.00 (save 32% off or $73.00!)                                                         |
+| 13 | eShop: Saints Row IV: Re-elected - Nintendo Eshop $3.49 (93% off)                                                     |
+| 14 | 50% off PlayStation Plus, new and expired subscribers only, 12 months $34.99                                          |
+| 15 | TCL 65" and 75” Class 5-Series 4K UHD QLED Dolby Vision HDR Smart Google TV $916.55 and $1298.59 respectively         |
+| 16 | FIDO Pixel 6 128 GB + 12GB plan for $65/mo (Existing Customers)                                                       |
+| 17 | VITAL 5200mAh Power Bank with Apple Watch Charger $19.99                                                              |
 | 18 | Judgment - PlayStation 5 $29.99                                                                                       |
 | 19 | Plex Lifetime Pass $119.99 (25% off)                                                                                  |
 | 20 | Ring Video Doorbell Wired bundle with Echo Show Gen 5 (2nd Gen)                                                       |
@@ -34,20 +34,20 @@
 | 31 | [Sponsored] 'Tis the season for Savings & Special Gifts from HUAWEI Canada                                            |
 | 32 | [Sponsored] The Unboxing Week Sale is ON now at Tbooth Wireless!                                                      |
 | 33 | Hisense HS214 2.1 CH Sound Bar Speaker Built-in Subwoofer- $78 (Costco,Canadian Tire) HS218 $127.99                   |
-| 34 | $35 / 12gb BYOD for 24 mths - Virgin Plus at Fairview Mall Toronto Kiosk                                              |
-| 35 | Legion 7 & 7i: AMD R7 5800H or Intel i7-11800H, RTX 3070, 16GB, 1TB - 1,891 (28-30% discounts & 6% cashback)          |
-| 36 | 2.5K UHD Dual Dash Cam - $78.74                                                                                       |
-| 37 | TP-Link AX3000 Whole Home WiFi 6 Mesh WiFi System (Deco X60) - 3 packs - $349.99                                      |
-| 38 | TP-Link Kasa Smart Wi-Fi Plug Lite (4-Pack) $20                                                                       |
-| 39 | Jabra Elite 85t brand new for $199                                                                                    |
-| 40 | Freedom Prepaid $19/mo and $29/mo plans - Flash Sale: Get 10GB of Extra Data (one time bonus) - expiring Dec 13, 2021 |
-| 41 | Google Nest Wifi Router for $156.00 (save 32% off or $73.00!)                                                         |
-| 42 | eShop: Saints Row IV: Re-elected - Nintendo Eshop $3.49 (93% off)                                                     |
-| 43 | 50% off PlayStation Plus, new and expired subscribers only, 12 months $34.99                                          |
-| 44 | TCL 65" and 75” Class 5-Series 4K UHD QLED Dolby Vision HDR Smart Google TV $916.55 and $1298.59 respectively         |
-| 45 | FIDO Pixel 6 128 GB + 12GB plan for $65/mo (Existing Customers)                                                       |
-| 46 | VITAL 5200mAh Power Bank with Apple Watch Charger $19.99                                                              |
-| 47 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                          |
+| 34 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                          |
+| 35 | $35 / 12gb BYOD for 24 mths - Virgin Plus at Fairview Mall Toronto Kiosk                                              |
+| 36 | Legion 7 & 7i: AMD R7 5800H or Intel i7-11800H, RTX 3070, 16GB, 1TB - 1,891 (28-30% discounts & 6% cashback)          |
+| 37 | 2.5K UHD Dual Dash Cam - $78.74                                                                                       |
+| 38 | TP-Link AX3000 Whole Home WiFi 6 Mesh WiFi System (Deco X60) - 3 packs - $349.99                                      |
+| 39 | TP-Link Kasa Smart Wi-Fi Plug Lite (4-Pack) $20                                                                       |
+| 40 | Jabra Elite 85t brand new for $199                                                                                    |
+| 41 | Freedom Prepaid $19/mo and $29/mo plans - Flash Sale: Get 10GB of Extra Data (one time bonus) - expiring Dec 13, 2021 |
+| 42 | Google Nest Wifi Router for $156.00 (save 32% off or $73.00!)                                                         |
+| 43 | eShop: Saints Row IV: Re-elected - Nintendo Eshop $3.49 (93% off)                                                     |
+| 44 | 50% off PlayStation Plus, new and expired subscribers only, 12 months $34.99                                          |
+| 45 | TCL 65" and 75” Class 5-Series 4K UHD QLED Dolby Vision HDR Smart Google TV $916.55 and $1298.59 respectively         |
+| 46 | FIDO Pixel 6 128 GB + 12GB plan for $65/mo (Existing Customers)                                                       |
+| 47 | VITAL 5200mAh Power Bank with Apple Watch Charger $19.99                                                              |
 | 48 | Judgment - PlayStation 5 $29.99                                                                                       |
 | 49 | Plex Lifetime Pass $119.99 (25% off)                                                                                  |
 | 50 | Ring Video Doorbell Wired bundle with Echo Show Gen 5 (2nd Gen)                                                       |
@@ -64,20 +64,20 @@
 | 61 | [Sponsored] 'Tis the season for Savings & Special Gifts from HUAWEI Canada                                            |
 | 62 | [Sponsored] The Unboxing Week Sale is ON now at Tbooth Wireless!                                                      |
 | 63 | Hisense HS214 2.1 CH Sound Bar Speaker Built-in Subwoofer- $78 (Costco,Canadian Tire) HS218 $127.99                   |
-| 64 | $35 / 12gb BYOD for 24 mths - Virgin Plus at Fairview Mall Toronto Kiosk                                              |
-| 65 | Legion 7 & 7i: AMD R7 5800H or Intel i7-11800H, RTX 3070, 16GB, 1TB - 1,891 (28-30% discounts & 6% cashback)          |
-| 66 | 2.5K UHD Dual Dash Cam - $78.74                                                                                       |
-| 67 | TP-Link AX3000 Whole Home WiFi 6 Mesh WiFi System (Deco X60) - 3 packs - $349.99                                      |
-| 68 | TP-Link Kasa Smart Wi-Fi Plug Lite (4-Pack) $20                                                                       |
-| 69 | Jabra Elite 85t brand new for $199                                                                                    |
-| 70 | Freedom Prepaid $19/mo and $29/mo plans - Flash Sale: Get 10GB of Extra Data (one time bonus) - expiring Dec 13, 2021 |
-| 71 | Google Nest Wifi Router for $156.00 (save 32% off or $73.00!)                                                         |
-| 72 | eShop: Saints Row IV: Re-elected - Nintendo Eshop $3.49 (93% off)                                                     |
-| 73 | 50% off PlayStation Plus, new and expired subscribers only, 12 months $34.99                                          |
-| 74 | TCL 65" and 75” Class 5-Series 4K UHD QLED Dolby Vision HDR Smart Google TV $916.55 and $1298.59 respectively         |
-| 75 | FIDO Pixel 6 128 GB + 12GB plan for $65/mo (Existing Customers)                                                       |
-| 76 | VITAL 5200mAh Power Bank with Apple Watch Charger $19.99                                                              |
-| 77 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                          |
+| 64 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                          |
+| 65 | $35 / 12gb BYOD for 24 mths - Virgin Plus at Fairview Mall Toronto Kiosk                                              |
+| 66 | Legion 7 & 7i: AMD R7 5800H or Intel i7-11800H, RTX 3070, 16GB, 1TB - 1,891 (28-30% discounts & 6% cashback)          |
+| 67 | 2.5K UHD Dual Dash Cam - $78.74                                                                                       |
+| 68 | TP-Link AX3000 Whole Home WiFi 6 Mesh WiFi System (Deco X60) - 3 packs - $349.99                                      |
+| 69 | TP-Link Kasa Smart Wi-Fi Plug Lite (4-Pack) $20                                                                       |
+| 70 | Jabra Elite 85t brand new for $199                                                                                    |
+| 71 | Freedom Prepaid $19/mo and $29/mo plans - Flash Sale: Get 10GB of Extra Data (one time bonus) - expiring Dec 13, 2021 |
+| 72 | Google Nest Wifi Router for $156.00 (save 32% off or $73.00!)                                                         |
+| 73 | eShop: Saints Row IV: Re-elected - Nintendo Eshop $3.49 (93% off)                                                     |
+| 74 | 50% off PlayStation Plus, new and expired subscribers only, 12 months $34.99                                          |
+| 75 | TCL 65" and 75” Class 5-Series 4K UHD QLED Dolby Vision HDR Smart Google TV $916.55 and $1298.59 respectively         |
+| 76 | FIDO Pixel 6 128 GB + 12GB plan for $65/mo (Existing Customers)                                                       |
+| 77 | VITAL 5200mAh Power Bank with Apple Watch Charger $19.99                                                              |
 | 78 | Judgment - PlayStation 5 $29.99                                                                                       |
 | 79 | Plex Lifetime Pass $119.99 (25% off)                                                                                  |
 | 80 | Ring Video Doorbell Wired bundle with Echo Show Gen 5 (2nd Gen)                                                       |
