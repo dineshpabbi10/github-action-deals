@@ -4,13 +4,13 @@
 |  1 | [Sponsored] ] MSI’s Last Minute Shopping Guide is Live Now!                                                              |
 |  2 | [Sponsored] 'Tis the season for Savings & Special Gifts from HUAWEI Canada                                               |
 |  3 | [Sponsored] The Unboxing Week Sale is ON now at Tbooth Wireless!                                                         |
-|  4 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                                      |
-|  5 | Boxing Week Flyer (Dec. 26 to Jan. 2)                                                                                    |
-|  6 | Bose NC700 $299 Black only                                                                                               |
-|  7 | APC Performance SurgeArrest Power Bar 11 outlet $24.99                                                                   |
-|  8 | Hisense HS214 2.1 Channel Soundbar $79.99 - Starts December 16                                                           |
-|  9 | Hisense HS214 2.1 CH Sound Bar Speaker Built-in Subwoofer- $78 (Costco,Canadian Tire) HS218 $127.99 Costco 240units left |
-| 10 | ThinkPad T14 Gen 2 AMD Ryzen 7 Pro 5850U/24GB/1TB $1242                                                                  |
+|  4 | ThinkPad T14 Gen 2 AMD Ryzen 7 Pro 5850U/24GB/1TB $1242                                                                  |
+|  5 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                                      |
+|  6 | Boxing Week Flyer (Dec. 26 to Jan. 2)                                                                                    |
+|  7 | Bose NC700 $299 Black only                                                                                               |
+|  8 | APC Performance SurgeArrest Power Bar 11 outlet $24.99                                                                   |
+|  9 | Hisense HS214 2.1 Channel Soundbar $79.99 - Starts December 16                                                           |
+| 10 | Hisense HS214 2.1 CH Sound Bar Speaker Built-in Subwoofer- $78 (Costco,Canadian Tire) HS218 $127.99 Costco 240units left |
 | 11 | $35 / 12gb BYOD for 24 mths - Virgin Plus at Fairview Mall Toronto Kiosk                                                 |
 | 12 | 1 Year of Balance: Meditation & Sleep App Subscription App (iOS / Android) Free                                          |
 | 13 | Echo dot 4th gen 34.99$ 50% off + Free Sengled bulb or 6 months Amazon Music Unlimited                                   |
@@ -34,13 +34,13 @@
 | 31 | [Sponsored] ] MSI’s Last Minute Shopping Guide is Live Now!                                                              |
 | 32 | [Sponsored] 'Tis the season for Savings & Special Gifts from HUAWEI Canada                                               |
 | 33 | [Sponsored] The Unboxing Week Sale is ON now at Tbooth Wireless!                                                         |
-| 34 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                                      |
-| 35 | Boxing Week Flyer (Dec. 26 to Jan. 2)                                                                                    |
-| 36 | Bose NC700 $299 Black only                                                                                               |
-| 37 | APC Performance SurgeArrest Power Bar 11 outlet $24.99                                                                   |
-| 38 | Hisense HS214 2.1 Channel Soundbar $79.99 - Starts December 16                                                           |
-| 39 | Hisense HS214 2.1 CH Sound Bar Speaker Built-in Subwoofer- $78 (Costco,Canadian Tire) HS218 $127.99 Costco 240units left |
-| 40 | ThinkPad T14 Gen 2 AMD Ryzen 7 Pro 5850U/24GB/1TB $1242                                                                  |
+| 34 | ThinkPad T14 Gen 2 AMD Ryzen 7 Pro 5850U/24GB/1TB $1242                                                                  |
+| 35 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                                      |
+| 36 | Boxing Week Flyer (Dec. 26 to Jan. 2)                                                                                    |
+| 37 | Bose NC700 $299 Black only                                                                                               |
+| 38 | APC Performance SurgeArrest Power Bar 11 outlet $24.99                                                                   |
+| 39 | Hisense HS214 2.1 Channel Soundbar $79.99 - Starts December 16                                                           |
+| 40 | Hisense HS214 2.1 CH Sound Bar Speaker Built-in Subwoofer- $78 (Costco,Canadian Tire) HS218 $127.99 Costco 240units left |
 | 41 | $35 / 12gb BYOD for 24 mths - Virgin Plus at Fairview Mall Toronto Kiosk                                                 |
 | 42 | 1 Year of Balance: Meditation & Sleep App Subscription App (iOS / Android) Free                                          |
 | 43 | Echo dot 4th gen 34.99$ 50% off + Free Sengled bulb or 6 months Amazon Music Unlimited                                   |
@@ -64,13 +64,13 @@
 | 61 | [Sponsored] ] MSI’s Last Minute Shopping Guide is Live Now!                                                              |
 | 62 | [Sponsored] 'Tis the season for Savings & Special Gifts from HUAWEI Canada                                               |
 | 63 | [Sponsored] The Unboxing Week Sale is ON now at Tbooth Wireless!                                                         |
-| 64 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                                      |
-| 65 | Boxing Week Flyer (Dec. 26 to Jan. 2)                                                                                    |
-| 66 | Bose NC700 $299 Black only                                                                                               |
-| 67 | APC Performance SurgeArrest Power Bar 11 outlet $24.99                                                                   |
-| 68 | Hisense HS214 2.1 Channel Soundbar $79.99 - Starts December 16                                                           |
-| 69 | Hisense HS214 2.1 CH Sound Bar Speaker Built-in Subwoofer- $78 (Costco,Canadian Tire) HS218 $127.99 Costco 240units left |
-| 70 | ThinkPad T14 Gen 2 AMD Ryzen 7 Pro 5850U/24GB/1TB $1242                                                                  |
+| 64 | ThinkPad T14 Gen 2 AMD Ryzen 7 Pro 5850U/24GB/1TB $1242                                                                  |
+| 65 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                                      |
+| 66 | Boxing Week Flyer (Dec. 26 to Jan. 2)                                                                                    |
+| 67 | Bose NC700 $299 Black only                                                                                               |
+| 68 | APC Performance SurgeArrest Power Bar 11 outlet $24.99                                                                   |
+| 69 | Hisense HS214 2.1 Channel Soundbar $79.99 - Starts December 16                                                           |
+| 70 | Hisense HS214 2.1 CH Sound Bar Speaker Built-in Subwoofer- $78 (Costco,Canadian Tire) HS218 $127.99 Costco 240units left |
 | 71 | $35 / 12gb BYOD for 24 mths - Virgin Plus at Fairview Mall Toronto Kiosk                                                 |
 | 72 | 1 Year of Balance: Meditation & Sleep App Subscription App (iOS / Android) Free                                          |
 | 73 | Echo dot 4th gen 34.99$ 50% off + Free Sengled bulb or 6 months Amazon Music Unlimited                                   |
