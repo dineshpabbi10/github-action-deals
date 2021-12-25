@@ -64,12 +64,12 @@
 | 61 | [Sponsored] Shop Walmart’s Boxing Week Deals Now!                                         |
 | 62 | [Sponsored] Newegg's Holideals are On Now!                                                |
 | 63 | [Sponsored] The Unboxing Week Sale at WIRELESSWAVE                                        |
-| 64 | Best Buy Boxing Day Deals + Mini Flyer (Sale Starts at 3 AM ET, December 24)              |
-| 65 | VOIP.MS - add $15 and they will add $15 - targeted                                        |
-| 66 | Drops Lifetime Subscription (2 subscriptions for $41.75)                                  |
-| 67 | Freedom Mobile - YMMV $30 For 15GB Unlimited ($50 - $20 off)                              |
-| 68 | YMMV - 35$/12GB data for 24 months - BYOD Plan - Postpaid                                 |
-| 69 | Bonus $100GC when you Trade in any old phones                                             |
+| 64 | Bonus $100GC when you Trade in any old phones                                             |
+| 65 | Best Buy Boxing Day Deals + Mini Flyer (Sale Starts at 3 AM ET, December 24)              |
+| 66 | VOIP.MS - add $15 and they will add $15 - targeted                                        |
+| 67 | Drops Lifetime Subscription (2 subscriptions for $41.75)                                  |
+| 68 | Freedom Mobile - YMMV $30 For 15GB Unlimited ($50 - $20 off)                              |
+| 69 | YMMV - 35$/12GB data for 24 months - BYOD Plan - Postpaid                                 |
 | 70 | Boxing Week Cellphone Deals                                                               |
 | 71 | Google Pixel 6 128GB Stormy Black $799 -> $699.99                                         |
 | 72 | Nintendo Switch Clubhouse Games: 51 Worldwide Classics                                    |
