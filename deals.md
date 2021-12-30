@@ -33,60 +33,60 @@
 | 30 | [Sponsored] Shop MSI’s 2021 Holiday Sale!                                                                              |
 | 31 | [Sponsored] Shop Walmart’s Boxing Week Deals Now!                                                                      |
 | 32 | [Sponsored] The Unboxing Week Sale at WIRELESSWAVE                                                                     |
-| 33 | VITAL High-Density 20,000mAh USB-C™ Power Bank - $26.99 ($21.59 with PSP)                                              |
-| 34 | Cooler Master NR200P White Mini-ITX Case - $64.99                                                                      |
-| 35 | Samsung 380 watts sound bar with wireless Subwoofer $199                                                               |
-| 36 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
-| 37 | WD 8TB P10 Game Drive $159.99, $140 off! (in store only)                                                               |
-| 38 | Iphone 12/12 Mini Boxing Week Sale                                                                                     |
-| 39 | Lenovo                                                                                                                 |
-| 40 | $200 DoorDash E-Certificate for $159.98                                                                                |
-| 41 | Teksavvy internet $20 off monthly on the first 6 months (new customer only?)                                           |
-| 42 | Sony WH-1000XM4 Wireless Overhead Headphones - One Day Deal [349.99]                                                   |
-| 43 | Get 50,000 PC Optimum™ bonus points when you spend $150 or more                                                        |
-| 44 | LG 27MP60G-B 27" Full HD IPS Monitor with AMD FreeSync - $209.99 [All Time Low]                                        |
-| 45 | iPhone 12 $50 & iPhone 13 $64 w/ Big Gig Unlimited 15GB (YMMV - Loyalty/CSR)                                           |
-| 46 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                                    |
-| 47 | Samsung 25W Fast Charging Wall Charger - $7.50                                                                         |
-| 48 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                              |
-| 49 | Fanatical Oculus Quest 2 game bundle (8 games for 15USD/19.35 CAD$)                                                    |
-| 50 | 32" 4K IPS LG 32UN650-W Monitor $449.99                                                                                |
-| 51 | GoPro Hero10 Black w/ 1 Year GoPro Subscription & 32GB SanDisk Extreme $459.98 (Reg $709.98)                           |
-| 52 | Lenovo: 3-Months of Stadia Pro Free                                                                                    |
-| 53 | Klipsch ProMedia 2.1 Computer Speakers $198(save $101)                                                                 |
-| 54 | Soundpeats Apt-X enabled 5.2BT Air3 Headset - $40.79 -- 65% OFF - Proper Airpods Alternative                           |
-| 55 | Epic Games Holiday Sale - Limitless $14 coupons + Free Fortnite/Rocket League items + 15 days of FREE Games -> UPDATED |
-| 56 | fido Boxing day/week promotion plan(12GB-$35 first year-$40 2nd year-$50 after)$5 cheaper than Black Friday deal       |
-| 57 | LG C1 48" $1499 / 55" $1699 / 65" $2299 / 77" $3999 / 83" $6999 (Costco, BestBuy, Amazon and others) Until Dec 30th    |
-| 58 | COD WW2 $9.60 xbox YMMV                                                                                                |
-| 59 | In app offer $50 for 20gb data YMMV                                                                                    |
+| 33 | In app offer $50 for 20gb data YMMV                                                                                    |
+| 34 | VITAL High-Density 20,000mAh USB-C™ Power Bank - $26.99 ($21.59 with PSP)                                              |
+| 35 | Cooler Master NR200P White Mini-ITX Case - $64.99                                                                      |
+| 36 | Samsung 380 watts sound bar with wireless Subwoofer $199                                                               |
+| 37 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
+| 38 | WD 8TB P10 Game Drive $159.99, $140 off! (in store only)                                                               |
+| 39 | Iphone 12/12 Mini Boxing Week Sale                                                                                     |
+| 40 | Lenovo                                                                                                                 |
+| 41 | $200 DoorDash E-Certificate for $159.98                                                                                |
+| 42 | Teksavvy internet $20 off monthly on the first 6 months (new customer only?)                                           |
+| 43 | Sony WH-1000XM4 Wireless Overhead Headphones - One Day Deal [349.99]                                                   |
+| 44 | Get 50,000 PC Optimum™ bonus points when you spend $150 or more                                                        |
+| 45 | LG 27MP60G-B 27" Full HD IPS Monitor with AMD FreeSync - $209.99 [All Time Low]                                        |
+| 46 | iPhone 12 $50 & iPhone 13 $64 w/ Big Gig Unlimited 15GB (YMMV - Loyalty/CSR)                                           |
+| 47 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                                    |
+| 48 | Samsung 25W Fast Charging Wall Charger - $7.50                                                                         |
+| 49 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                              |
+| 50 | Fanatical Oculus Quest 2 game bundle (8 games for 15USD/19.35 CAD$)                                                    |
+| 51 | 32" 4K IPS LG 32UN650-W Monitor $449.99                                                                                |
+| 52 | GoPro Hero10 Black w/ 1 Year GoPro Subscription & 32GB SanDisk Extreme $459.98 (Reg $709.98)                           |
+| 53 | Lenovo: 3-Months of Stadia Pro Free                                                                                    |
+| 54 | Klipsch ProMedia 2.1 Computer Speakers $198(save $101)                                                                 |
+| 55 | Soundpeats Apt-X enabled 5.2BT Air3 Headset - $40.79 -- 65% OFF - Proper Airpods Alternative                           |
+| 56 | Epic Games Holiday Sale - Limitless $14 coupons + Free Fortnite/Rocket League items + 15 days of FREE Games -> UPDATED |
+| 57 | fido Boxing day/week promotion plan(12GB-$35 first year-$40 2nd year-$50 after)$5 cheaper than Black Friday deal       |
+| 58 | LG C1 48" $1499 / 55" $1699 / 65" $2299 / 77" $3999 / 83" $6999 (Costco, BestBuy, Amazon and others) Until Dec 30th    |
+| 59 | COD WW2 $9.60 xbox YMMV                                                                                                |
 | 60 | [Sponsored] Shop MSI’s 2021 Holiday Sale!                                                                              |
 | 61 | [Sponsored] Shop Walmart’s Boxing Week Deals Now!                                                                      |
 | 62 | [Sponsored] The Unboxing Week Sale at WIRELESSWAVE                                                                     |
-| 63 | VITAL High-Density 20,000mAh USB-C™ Power Bank - $26.99 ($21.59 with PSP)                                              |
-| 64 | Cooler Master NR200P White Mini-ITX Case - $64.99                                                                      |
-| 65 | Samsung 380 watts sound bar with wireless Subwoofer $199                                                               |
-| 66 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
-| 67 | WD 8TB P10 Game Drive $159.99, $140 off! (in store only)                                                               |
-| 68 | Iphone 12/12 Mini Boxing Week Sale                                                                                     |
-| 69 | Lenovo                                                                                                                 |
-| 70 | $200 DoorDash E-Certificate for $159.98                                                                                |
-| 71 | Teksavvy internet $20 off monthly on the first 6 months (new customer only?)                                           |
-| 72 | Sony WH-1000XM4 Wireless Overhead Headphones - One Day Deal [349.99]                                                   |
-| 73 | Get 50,000 PC Optimum™ bonus points when you spend $150 or more                                                        |
-| 74 | LG 27MP60G-B 27" Full HD IPS Monitor with AMD FreeSync - $209.99 [All Time Low]                                        |
-| 75 | iPhone 12 $50 & iPhone 13 $64 w/ Big Gig Unlimited 15GB (YMMV - Loyalty/CSR)                                           |
-| 76 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                                    |
-| 77 | Samsung 25W Fast Charging Wall Charger - $7.50                                                                         |
-| 78 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                              |
-| 79 | Fanatical Oculus Quest 2 game bundle (8 games for 15USD/19.35 CAD$)                                                    |
-| 80 | 32" 4K IPS LG 32UN650-W Monitor $449.99                                                                                |
-| 81 | GoPro Hero10 Black w/ 1 Year GoPro Subscription & 32GB SanDisk Extreme $459.98 (Reg $709.98)                           |
-| 82 | Lenovo: 3-Months of Stadia Pro Free                                                                                    |
-| 83 | Klipsch ProMedia 2.1 Computer Speakers $198(save $101)                                                                 |
-| 84 | Soundpeats Apt-X enabled 5.2BT Air3 Headset - $40.79 -- 65% OFF - Proper Airpods Alternative                           |
-| 85 | Epic Games Holiday Sale - Limitless $14 coupons + Free Fortnite/Rocket League items + 15 days of FREE Games -> UPDATED |
-| 86 | fido Boxing day/week promotion plan(12GB-$35 first year-$40 2nd year-$50 after)$5 cheaper than Black Friday deal       |
-| 87 | LG C1 48" $1499 / 55" $1699 / 65" $2299 / 77" $3999 / 83" $6999 (Costco, BestBuy, Amazon and others) Until Dec 30th    |
-| 88 | COD WW2 $9.60 xbox YMMV                                                                                                |
-| 89 | In app offer $50 for 20gb data YMMV                                                                                    |
+| 63 | In app offer $50 for 20gb data YMMV                                                                                    |
+| 64 | VITAL High-Density 20,000mAh USB-C™ Power Bank - $26.99 ($21.59 with PSP)                                              |
+| 65 | Cooler Master NR200P White Mini-ITX Case - $64.99                                                                      |
+| 66 | Samsung 380 watts sound bar with wireless Subwoofer $199                                                               |
+| 67 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
+| 68 | WD 8TB P10 Game Drive $159.99, $140 off! (in store only)                                                               |
+| 69 | Iphone 12/12 Mini Boxing Week Sale                                                                                     |
+| 70 | Lenovo                                                                                                                 |
+| 71 | $200 DoorDash E-Certificate for $159.98                                                                                |
+| 72 | Teksavvy internet $20 off monthly on the first 6 months (new customer only?)                                           |
+| 73 | Sony WH-1000XM4 Wireless Overhead Headphones - One Day Deal [349.99]                                                   |
+| 74 | Get 50,000 PC Optimum™ bonus points when you spend $150 or more                                                        |
+| 75 | LG 27MP60G-B 27" Full HD IPS Monitor with AMD FreeSync - $209.99 [All Time Low]                                        |
+| 76 | iPhone 12 $50 & iPhone 13 $64 w/ Big Gig Unlimited 15GB (YMMV - Loyalty/CSR)                                           |
+| 77 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                                    |
+| 78 | Samsung 25W Fast Charging Wall Charger - $7.50                                                                         |
+| 79 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                              |
+| 80 | Fanatical Oculus Quest 2 game bundle (8 games for 15USD/19.35 CAD$)                                                    |
+| 81 | 32" 4K IPS LG 32UN650-W Monitor $449.99                                                                                |
+| 82 | GoPro Hero10 Black w/ 1 Year GoPro Subscription & 32GB SanDisk Extreme $459.98 (Reg $709.98)                           |
+| 83 | Lenovo: 3-Months of Stadia Pro Free                                                                                    |
+| 84 | Klipsch ProMedia 2.1 Computer Speakers $198(save $101)                                                                 |
+| 85 | Soundpeats Apt-X enabled 5.2BT Air3 Headset - $40.79 -- 65% OFF - Proper Airpods Alternative                           |
+| 86 | Epic Games Holiday Sale - Limitless $14 coupons + Free Fortnite/Rocket League items + 15 days of FREE Games -> UPDATED |
+| 87 | fido Boxing day/week promotion plan(12GB-$35 first year-$40 2nd year-$50 after)$5 cheaper than Black Friday deal       |
+| 88 | LG C1 48" $1499 / 55" $1699 / 65" $2299 / 77" $3999 / 83" $6999 (Costco, BestBuy, Amazon and others) Until Dec 30th    |
+| 89 | COD WW2 $9.60 xbox YMMV                                                                                                |
