@@ -1,14 +1,14 @@
 |    | deals                                                                                                         |
 |---:|:--------------------------------------------------------------------------------------------------------------|
-|  0 | Share your favourite deals from 2021 and you could win one of five $25 gift cards                             |
-|  1 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $70           |
-|  2 | $10 off $75 purchase coupon                                                                                   |
-|  3 | PS5 Disc version available                                                                                    |
-|  4 | AirPods Pro with Magsafe charging. $229. Save $50                                                             |
-|  5 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                  |
-|  6 | Super Pac-Man Arcade1up 3/4 Scale Arcade Cabinet $499 free shipping                                           |
-|  7 | HOT! 40GB Freedom Data + 1GB Nationwide Data + Unlimited Call/Text - $50/month (YMMV - Loyalty Offer)         |
-|  8 | Freedom Mobile - YMMV $30 For 15GB Unlimited ($50 - $20 off)                                                  |
+|  0 | Freedom Mobile - YMMV $30 For 15GB Unlimited ($50 - $20 off)                                                  |
+|  1 | Share your favourite deals from 2021 and you could win one of five $25 gift cards                             |
+|  2 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $70           |
+|  3 | $10 off $75 purchase coupon                                                                                   |
+|  4 | PS5 Disc version available                                                                                    |
+|  5 | AirPods Pro with Magsafe charging. $229. Save $50                                                             |
+|  6 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                  |
+|  7 | Super Pac-Man Arcade1up 3/4 Scale Arcade Cabinet $499 free shipping                                           |
+|  8 | HOT! 40GB Freedom Data + 1GB Nationwide Data + Unlimited Call/Text - $50/month (YMMV - Loyalty Offer)         |
 |  9 | Up to 20% Off All Smart Home Devices at Home Tech Solutions                                                   |
 | 10 | Steam Winter Sale 2021 - now until Jan 5th                                                                    |
 | 11 | Ubiquiti APs - U6-LITE, LR and PRO in STOCK                                                                   |
@@ -30,15 +30,15 @@
 | 27 | DAILY DEAL - Population: One $23.99 (31% Off)                                                                 |
 | 28 | Hot! Red Dead Redemption 2 Story Mode - $4.80 USD (Reg $39.99 USD)                                            |
 | 29 | Fire tv stick 4k - $28 (in store only) clearance                                                              |
-| 30 | Share your favourite deals from 2021 and you could win one of five $25 gift cards                             |
-| 31 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $70           |
-| 32 | $10 off $75 purchase coupon                                                                                   |
-| 33 | PS5 Disc version available                                                                                    |
-| 34 | AirPods Pro with Magsafe charging. $229. Save $50                                                             |
-| 35 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                  |
-| 36 | Super Pac-Man Arcade1up 3/4 Scale Arcade Cabinet $499 free shipping                                           |
-| 37 | HOT! 40GB Freedom Data + 1GB Nationwide Data + Unlimited Call/Text - $50/month (YMMV - Loyalty Offer)         |
-| 38 | Freedom Mobile - YMMV $30 For 15GB Unlimited ($50 - $20 off)                                                  |
+| 30 | Freedom Mobile - YMMV $30 For 15GB Unlimited ($50 - $20 off)                                                  |
+| 31 | Share your favourite deals from 2021 and you could win one of five $25 gift cards                             |
+| 32 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $70           |
+| 33 | $10 off $75 purchase coupon                                                                                   |
+| 34 | PS5 Disc version available                                                                                    |
+| 35 | AirPods Pro with Magsafe charging. $229. Save $50                                                             |
+| 36 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                  |
+| 37 | Super Pac-Man Arcade1up 3/4 Scale Arcade Cabinet $499 free shipping                                           |
+| 38 | HOT! 40GB Freedom Data + 1GB Nationwide Data + Unlimited Call/Text - $50/month (YMMV - Loyalty Offer)         |
 | 39 | Up to 20% Off All Smart Home Devices at Home Tech Solutions                                                   |
 | 40 | Steam Winter Sale 2021 - now until Jan 5th                                                                    |
 | 41 | Ubiquiti APs - U6-LITE, LR and PRO in STOCK                                                                   |
@@ -60,15 +60,15 @@
 | 57 | DAILY DEAL - Population: One $23.99 (31% Off)                                                                 |
 | 58 | Hot! Red Dead Redemption 2 Story Mode - $4.80 USD (Reg $39.99 USD)                                            |
 | 59 | Fire tv stick 4k - $28 (in store only) clearance                                                              |
-| 60 | Share your favourite deals from 2021 and you could win one of five $25 gift cards                             |
-| 61 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $70           |
-| 62 | $10 off $75 purchase coupon                                                                                   |
-| 63 | PS5 Disc version available                                                                                    |
-| 64 | AirPods Pro with Magsafe charging. $229. Save $50                                                             |
-| 65 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                  |
-| 66 | Super Pac-Man Arcade1up 3/4 Scale Arcade Cabinet $499 free shipping                                           |
-| 67 | HOT! 40GB Freedom Data + 1GB Nationwide Data + Unlimited Call/Text - $50/month (YMMV - Loyalty Offer)         |
-| 68 | Freedom Mobile - YMMV $30 For 15GB Unlimited ($50 - $20 off)                                                  |
+| 60 | Freedom Mobile - YMMV $30 For 15GB Unlimited ($50 - $20 off)                                                  |
+| 61 | Share your favourite deals from 2021 and you could win one of five $25 gift cards                             |
+| 62 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $70           |
+| 63 | $10 off $75 purchase coupon                                                                                   |
+| 64 | PS5 Disc version available                                                                                    |
+| 65 | AirPods Pro with Magsafe charging. $229. Save $50                                                             |
+| 66 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                  |
+| 67 | Super Pac-Man Arcade1up 3/4 Scale Arcade Cabinet $499 free shipping                                           |
+| 68 | HOT! 40GB Freedom Data + 1GB Nationwide Data + Unlimited Call/Text - $50/month (YMMV - Loyalty Offer)         |
 | 69 | Up to 20% Off All Smart Home Devices at Home Tech Solutions                                                   |
 | 70 | Steam Winter Sale 2021 - now until Jan 5th                                                                    |
 | 71 | Ubiquiti APs - U6-LITE, LR and PRO in STOCK                                                                   |
