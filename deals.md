@@ -1,9 +1,9 @@
 |    | deals                                                                                                         |
 |---:|:--------------------------------------------------------------------------------------------------------------|
-|  0 | [YMMV] *UPDATED* iPhone 13 128GB for $8.29 per month on a 2-year TELUS Easy Payment plan with Bring-It-Back   |
-|  1 | Eufy Cam "2 Pro" (365 day Battery life) - 2X Camera+Homebase $349.99                                          |
-|  2 | ProGrade Digital 256GB V90 SD card for cameras - $215.89                                                      |
-|  3 | Share your favourite deals from 2021 and you could win one of five $25 gift cards                             |
+|  0 | Share your favourite deals from 2021 and you could win one of five $25 gift cards                             |
+|  1 | [YMMV] *UPDATED* iPhone 13 128GB for $8.29 per month on a 2-year TELUS Easy Payment plan with Bring-It-Back   |
+|  2 | Eufy Cam "2 Pro" (365 day Battery life) - 2X Camera+Homebase $349.99                                          |
+|  3 | ProGrade Digital 256GB V90 SD card for cameras - $215.89                                                      |
 |  4 | Logitech G502 HERO SE 16000 DPI Optical Gaming Mouse $39.99 (also at Amazon)                                  |
 |  5 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                            |
 |  6 | Ubiquiti APs - U6-LITE, LR and PRO in STOCK                                                                   |
@@ -30,10 +30,10 @@
 | 27 | Fido Internet 150Mps service for 42.50 (first 12 months)                                                      |
 | 28 | Small business cell phone plans                                                                               |
 | 29 | Samsung 980 Pro- 1TB ($199); 2TB ($399) - PS5 OK                                                              |
-| 30 | [YMMV] *UPDATED* iPhone 13 128GB for $8.29 per month on a 2-year TELUS Easy Payment plan with Bring-It-Back   |
-| 31 | Eufy Cam "2 Pro" (365 day Battery life) - 2X Camera+Homebase $349.99                                          |
-| 32 | ProGrade Digital 256GB V90 SD card for cameras - $215.89                                                      |
-| 33 | Share your favourite deals from 2021 and you could win one of five $25 gift cards                             |
+| 30 | Share your favourite deals from 2021 and you could win one of five $25 gift cards                             |
+| 31 | [YMMV] *UPDATED* iPhone 13 128GB for $8.29 per month on a 2-year TELUS Easy Payment plan with Bring-It-Back   |
+| 32 | Eufy Cam "2 Pro" (365 day Battery life) - 2X Camera+Homebase $349.99                                          |
+| 33 | ProGrade Digital 256GB V90 SD card for cameras - $215.89                                                      |
 | 34 | Logitech G502 HERO SE 16000 DPI Optical Gaming Mouse $39.99 (also at Amazon)                                  |
 | 35 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                            |
 | 36 | Ubiquiti APs - U6-LITE, LR and PRO in STOCK                                                                   |
@@ -60,10 +60,10 @@
 | 57 | Fido Internet 150Mps service for 42.50 (first 12 months)                                                      |
 | 58 | Small business cell phone plans                                                                               |
 | 59 | Samsung 980 Pro- 1TB ($199); 2TB ($399) - PS5 OK                                                              |
-| 60 | [YMMV] *UPDATED* iPhone 13 128GB for $8.29 per month on a 2-year TELUS Easy Payment plan with Bring-It-Back   |
-| 61 | Eufy Cam "2 Pro" (365 day Battery life) - 2X Camera+Homebase $349.99                                          |
-| 62 | ProGrade Digital 256GB V90 SD card for cameras - $215.89                                                      |
-| 63 | Share your favourite deals from 2021 and you could win one of five $25 gift cards                             |
+| 60 | Share your favourite deals from 2021 and you could win one of five $25 gift cards                             |
+| 61 | [YMMV] *UPDATED* iPhone 13 128GB for $8.29 per month on a 2-year TELUS Easy Payment plan with Bring-It-Back   |
+| 62 | Eufy Cam "2 Pro" (365 day Battery life) - 2X Camera+Homebase $349.99                                          |
+| 63 | ProGrade Digital 256GB V90 SD card for cameras - $215.89                                                      |
 | 64 | Logitech G502 HERO SE 16000 DPI Optical Gaming Mouse $39.99 (also at Amazon)                                  |
 | 65 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                            |
 | 66 | Ubiquiti APs - U6-LITE, LR and PRO in STOCK                                                                   |
