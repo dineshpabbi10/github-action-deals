@@ -1,92 +1,92 @@
 |    | deals                                                                                                         |
 |---:|:--------------------------------------------------------------------------------------------------------------|
-|  0 | Freedom Mobile - YMMV $30 For 15GB Unlimited ($50 - $20 off)                                                  |
-|  1 | Share your favourite deals from 2021 and you could win one of five $25 gift cards                             |
-|  2 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $70           |
-|  3 | $10 off $75 purchase coupon                                                                                   |
-|  4 | PS5 Disc version available                                                                                    |
-|  5 | AirPods Pro with Magsafe charging. $229. Save $50                                                             |
-|  6 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                  |
-|  7 | Super Pac-Man Arcade1up 3/4 Scale Arcade Cabinet $499 free shipping                                           |
-|  8 | HOT! 40GB Freedom Data + 1GB Nationwide Data + Unlimited Call/Text - $50/month (YMMV - Loyalty Offer)         |
-|  9 | Up to 20% Off All Smart Home Devices at Home Tech Solutions                                                   |
-| 10 | Steam Winter Sale 2021 - now until Jan 5th                                                                    |
-| 11 | Ubiquiti APs - U6-LITE, LR and PRO in STOCK                                                                   |
-| 12 | Mikrotik RB5009UG+S+in Router with 2.5G Ethernet and a 10G SFP+ cage $234 with $11 shipping (free if pick up) |
-| 13 | Amazon Prime Gaming (PC) January 2022- Free for Prime members                                                 |
-| 14 | 1000w pure sine wave inverter $190                                                                            |
-| 15 | Eufy OutdoorCam 1080p $63.99 ($16 off)                                                                        |
-| 16 | Poweramp Full Version Unlocker - $2.49 / Poweramp Equalizer - $1.29 (New Year Sale)                           |
-| 17 | $15 credit for signing up with Amazon Photos for eligible Prime members                                       |
-| 18 | Eero+ subscription 50% off                                                                                    |
-| 19 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                     |
-| 20 | Telus EPP 20GB/$50 BYOD                                                                                       |
-| 21 | Eufy Pan and Tilt 2K resolution $59.99 ($10 coupon)                                                           |
-| 22 | PS Plus games for January 2022                                                                                |
-| 23 | Apple iPad Smart Keyboard ($59.96 Clearance - originally $219.00) - YMMV In Store only                        |
-| 24 | ANKER 10watt wireless charger - $14.44 ATL                                                                    |
-| 25 | Samsung 980 Pro- 1TB ($199); 2TB ($399) - PS5 OK                                                              |
-| 26 | LG Tone Free True Wireless Ear Buds FP5/FP8/FP9 - $88.88/$129.99-$15/$147.99                                  |
-| 27 | DAILY DEAL - Population: One $23.99 (31% Off)                                                                 |
-| 28 | Hot! Red Dead Redemption 2 Story Mode - $4.80 USD (Reg $39.99 USD)                                            |
-| 29 | Fire tv stick 4k - $28 (in store only) clearance                                                              |
-| 30 | Freedom Mobile - YMMV $30 For 15GB Unlimited ($50 - $20 off)                                                  |
-| 31 | Share your favourite deals from 2021 and you could win one of five $25 gift cards                             |
-| 32 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $70           |
-| 33 | $10 off $75 purchase coupon                                                                                   |
-| 34 | PS5 Disc version available                                                                                    |
-| 35 | AirPods Pro with Magsafe charging. $229. Save $50                                                             |
-| 36 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                  |
-| 37 | Super Pac-Man Arcade1up 3/4 Scale Arcade Cabinet $499 free shipping                                           |
-| 38 | HOT! 40GB Freedom Data + 1GB Nationwide Data + Unlimited Call/Text - $50/month (YMMV - Loyalty Offer)         |
-| 39 | Up to 20% Off All Smart Home Devices at Home Tech Solutions                                                   |
-| 40 | Steam Winter Sale 2021 - now until Jan 5th                                                                    |
-| 41 | Ubiquiti APs - U6-LITE, LR and PRO in STOCK                                                                   |
-| 42 | Mikrotik RB5009UG+S+in Router with 2.5G Ethernet and a 10G SFP+ cage $234 with $11 shipping (free if pick up) |
-| 43 | Amazon Prime Gaming (PC) January 2022- Free for Prime members                                                 |
-| 44 | 1000w pure sine wave inverter $190                                                                            |
-| 45 | Eufy OutdoorCam 1080p $63.99 ($16 off)                                                                        |
-| 46 | Poweramp Full Version Unlocker - $2.49 / Poweramp Equalizer - $1.29 (New Year Sale)                           |
-| 47 | $15 credit for signing up with Amazon Photos for eligible Prime members                                       |
-| 48 | Eero+ subscription 50% off                                                                                    |
-| 49 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                     |
-| 50 | Telus EPP 20GB/$50 BYOD                                                                                       |
-| 51 | Eufy Pan and Tilt 2K resolution $59.99 ($10 coupon)                                                           |
-| 52 | PS Plus games for January 2022                                                                                |
-| 53 | Apple iPad Smart Keyboard ($59.96 Clearance - originally $219.00) - YMMV In Store only                        |
-| 54 | ANKER 10watt wireless charger - $14.44 ATL                                                                    |
-| 55 | Samsung 980 Pro- 1TB ($199); 2TB ($399) - PS5 OK                                                              |
-| 56 | LG Tone Free True Wireless Ear Buds FP5/FP8/FP9 - $88.88/$129.99-$15/$147.99                                  |
-| 57 | DAILY DEAL - Population: One $23.99 (31% Off)                                                                 |
-| 58 | Hot! Red Dead Redemption 2 Story Mode - $4.80 USD (Reg $39.99 USD)                                            |
-| 59 | Fire tv stick 4k - $28 (in store only) clearance                                                              |
-| 60 | Freedom Mobile - YMMV $30 For 15GB Unlimited ($50 - $20 off)                                                  |
-| 61 | Share your favourite deals from 2021 and you could win one of five $25 gift cards                             |
-| 62 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $70           |
-| 63 | $10 off $75 purchase coupon                                                                                   |
-| 64 | PS5 Disc version available                                                                                    |
-| 65 | AirPods Pro with Magsafe charging. $229. Save $50                                                             |
-| 66 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                  |
-| 67 | Super Pac-Man Arcade1up 3/4 Scale Arcade Cabinet $499 free shipping                                           |
-| 68 | HOT! 40GB Freedom Data + 1GB Nationwide Data + Unlimited Call/Text - $50/month (YMMV - Loyalty Offer)         |
-| 69 | Up to 20% Off All Smart Home Devices at Home Tech Solutions                                                   |
-| 70 | Steam Winter Sale 2021 - now until Jan 5th                                                                    |
-| 71 | Ubiquiti APs - U6-LITE, LR and PRO in STOCK                                                                   |
-| 72 | Mikrotik RB5009UG+S+in Router with 2.5G Ethernet and a 10G SFP+ cage $234 with $11 shipping (free if pick up) |
-| 73 | Amazon Prime Gaming (PC) January 2022- Free for Prime members                                                 |
-| 74 | 1000w pure sine wave inverter $190                                                                            |
-| 75 | Eufy OutdoorCam 1080p $63.99 ($16 off)                                                                        |
-| 76 | Poweramp Full Version Unlocker - $2.49 / Poweramp Equalizer - $1.29 (New Year Sale)                           |
-| 77 | $15 credit for signing up with Amazon Photos for eligible Prime members                                       |
-| 78 | Eero+ subscription 50% off                                                                                    |
-| 79 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                     |
-| 80 | Telus EPP 20GB/$50 BYOD                                                                                       |
-| 81 | Eufy Pan and Tilt 2K resolution $59.99 ($10 coupon)                                                           |
-| 82 | PS Plus games for January 2022                                                                                |
-| 83 | Apple iPad Smart Keyboard ($59.96 Clearance - originally $219.00) - YMMV In Store only                        |
-| 84 | ANKER 10watt wireless charger - $14.44 ATL                                                                    |
-| 85 | Samsung 980 Pro- 1TB ($199); 2TB ($399) - PS5 OK                                                              |
-| 86 | LG Tone Free True Wireless Ear Buds FP5/FP8/FP9 - $88.88/$129.99-$15/$147.99                                  |
-| 87 | DAILY DEAL - Population: One $23.99 (31% Off)                                                                 |
-| 88 | Hot! Red Dead Redemption 2 Story Mode - $4.80 USD (Reg $39.99 USD)                                            |
-| 89 | Fire tv stick 4k - $28 (in store only) clearance                                                              |
+|  0 | [YMMV] *UPDATED* iPhone 13 128GB for $8.29 per month on a 2-year TELUS Easy Payment plan with Bring-It-Back   |
+|  1 | Eufy Cam "2 Pro" (365 day Battery life) - 2X Camera+Homebase $349.99                                          |
+|  2 | ProGrade Digital 256GB V90 SD card for cameras - $215.89                                                      |
+|  3 | Share your favourite deals from 2021 and you could win one of five $25 gift cards                             |
+|  4 | Logitech G502 HERO SE 16000 DPI Optical Gaming Mouse $39.99 (also at Amazon)                                  |
+|  5 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                            |
+|  6 | Ubiquiti APs - U6-LITE, LR and PRO in STOCK                                                                   |
+|  7 | Bonus $50 - $100GC when you Trade in any old phones                                                           |
+|  8 | $45 25gb + $300 bill credit per line [win back]                                                               |
+|  9 | ADATA Swordfish 1TB NVMe M.2 SSD (ASWORDFISH-1T-C): $100                                                      |
+| 10 | Amazon Prime Gaming (PC) January 2022- Free for Prime members                                                 |
+| 11 | Freedom Mobile - YMMV $30 For 15GB Unlimited ($50 - $20 off)                                                  |
+| 12 | DAILY DEAL - Eleven Table Tennis                                                                              |
+| 13 | TCL 65" and 75” Class 5-Series 4K UHD QLED Dolby Vision HDR Smart Google TV $916.55 and $1298.59 respectively |
+| 14 | Lexar JumpDrive V100 64GB USB 3.0 Flash Drive, Gray (LJDV100-64GABNL) (ATL) - $10.99                          |
+| 15 | YMMV - Fido $60 for 35gb                                                                                      |
+| 16 | MSI Optix MAG2732 27" IPS FHD Gaming Monitor $229.99                                                          |
+| 17 | Heavy-Duty Single Monitor Adjustable Gas Spring Desk Mount for Most 17"-35" Monitors $70.39 (20% off)         |
+| 18 | 32” M7 Smart Monitor UHD/4k VA 350$                                                                           |
+| 19 | $45 20gb ymmv                                                                                                 |
+| 20 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $240 B4 coupons, $7 S&H)                                      |
+| 21 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                           |
+| 22 | iHome iBT371BGC Portable Waterproof Shockproof Bluetooth Speaker with Lights - $14 (Reg 49.99) YMMV           |
+| 23 | $35 / 12gb BYOD for 24 mths - Virgin Plus at most of the GTA Virgin Plus Kiosks                               |
+| 24 | Telus Small business Offer for RBC Clients - BYOD - 30GB for $45 for 4 lines or more                          |
+| 25 | Boxing Week Cellphone Deals (Fido iPhone 12 mini $15/month $400 GC, S21 $20/month $250 GC)                    |
+| 26 | $15 credit for signing up with Amazon Photos for eligible Prime members                                       |
+| 27 | Fido Internet 150Mps service for 42.50 (first 12 months)                                                      |
+| 28 | Small business cell phone plans                                                                               |
+| 29 | Samsung 980 Pro- 1TB ($199); 2TB ($399) - PS5 OK                                                              |
+| 30 | [YMMV] *UPDATED* iPhone 13 128GB for $8.29 per month on a 2-year TELUS Easy Payment plan with Bring-It-Back   |
+| 31 | Eufy Cam "2 Pro" (365 day Battery life) - 2X Camera+Homebase $349.99                                          |
+| 32 | ProGrade Digital 256GB V90 SD card for cameras - $215.89                                                      |
+| 33 | Share your favourite deals from 2021 and you could win one of five $25 gift cards                             |
+| 34 | Logitech G502 HERO SE 16000 DPI Optical Gaming Mouse $39.99 (also at Amazon)                                  |
+| 35 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                            |
+| 36 | Ubiquiti APs - U6-LITE, LR and PRO in STOCK                                                                   |
+| 37 | Bonus $50 - $100GC when you Trade in any old phones                                                           |
+| 38 | $45 25gb + $300 bill credit per line [win back]                                                               |
+| 39 | ADATA Swordfish 1TB NVMe M.2 SSD (ASWORDFISH-1T-C): $100                                                      |
+| 40 | Amazon Prime Gaming (PC) January 2022- Free for Prime members                                                 |
+| 41 | Freedom Mobile - YMMV $30 For 15GB Unlimited ($50 - $20 off)                                                  |
+| 42 | DAILY DEAL - Eleven Table Tennis                                                                              |
+| 43 | TCL 65" and 75” Class 5-Series 4K UHD QLED Dolby Vision HDR Smart Google TV $916.55 and $1298.59 respectively |
+| 44 | Lexar JumpDrive V100 64GB USB 3.0 Flash Drive, Gray (LJDV100-64GABNL) (ATL) - $10.99                          |
+| 45 | YMMV - Fido $60 for 35gb                                                                                      |
+| 46 | MSI Optix MAG2732 27" IPS FHD Gaming Monitor $229.99                                                          |
+| 47 | Heavy-Duty Single Monitor Adjustable Gas Spring Desk Mount for Most 17"-35" Monitors $70.39 (20% off)         |
+| 48 | 32” M7 Smart Monitor UHD/4k VA 350$                                                                           |
+| 49 | $45 20gb ymmv                                                                                                 |
+| 50 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $240 B4 coupons, $7 S&H)                                      |
+| 51 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                           |
+| 52 | iHome iBT371BGC Portable Waterproof Shockproof Bluetooth Speaker with Lights - $14 (Reg 49.99) YMMV           |
+| 53 | $35 / 12gb BYOD for 24 mths - Virgin Plus at most of the GTA Virgin Plus Kiosks                               |
+| 54 | Telus Small business Offer for RBC Clients - BYOD - 30GB for $45 for 4 lines or more                          |
+| 55 | Boxing Week Cellphone Deals (Fido iPhone 12 mini $15/month $400 GC, S21 $20/month $250 GC)                    |
+| 56 | $15 credit for signing up with Amazon Photos for eligible Prime members                                       |
+| 57 | Fido Internet 150Mps service for 42.50 (first 12 months)                                                      |
+| 58 | Small business cell phone plans                                                                               |
+| 59 | Samsung 980 Pro- 1TB ($199); 2TB ($399) - PS5 OK                                                              |
+| 60 | [YMMV] *UPDATED* iPhone 13 128GB for $8.29 per month on a 2-year TELUS Easy Payment plan with Bring-It-Back   |
+| 61 | Eufy Cam "2 Pro" (365 day Battery life) - 2X Camera+Homebase $349.99                                          |
+| 62 | ProGrade Digital 256GB V90 SD card for cameras - $215.89                                                      |
+| 63 | Share your favourite deals from 2021 and you could win one of five $25 gift cards                             |
+| 64 | Logitech G502 HERO SE 16000 DPI Optical Gaming Mouse $39.99 (also at Amazon)                                  |
+| 65 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                            |
+| 66 | Ubiquiti APs - U6-LITE, LR and PRO in STOCK                                                                   |
+| 67 | Bonus $50 - $100GC when you Trade in any old phones                                                           |
+| 68 | $45 25gb + $300 bill credit per line [win back]                                                               |
+| 69 | ADATA Swordfish 1TB NVMe M.2 SSD (ASWORDFISH-1T-C): $100                                                      |
+| 70 | Amazon Prime Gaming (PC) January 2022- Free for Prime members                                                 |
+| 71 | Freedom Mobile - YMMV $30 For 15GB Unlimited ($50 - $20 off)                                                  |
+| 72 | DAILY DEAL - Eleven Table Tennis                                                                              |
+| 73 | TCL 65" and 75” Class 5-Series 4K UHD QLED Dolby Vision HDR Smart Google TV $916.55 and $1298.59 respectively |
+| 74 | Lexar JumpDrive V100 64GB USB 3.0 Flash Drive, Gray (LJDV100-64GABNL) (ATL) - $10.99                          |
+| 75 | YMMV - Fido $60 for 35gb                                                                                      |
+| 76 | MSI Optix MAG2732 27" IPS FHD Gaming Monitor $229.99                                                          |
+| 77 | Heavy-Duty Single Monitor Adjustable Gas Spring Desk Mount for Most 17"-35" Monitors $70.39 (20% off)         |
+| 78 | 32” M7 Smart Monitor UHD/4k VA 350$                                                                           |
+| 79 | $45 20gb ymmv                                                                                                 |
+| 80 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $240 B4 coupons, $7 S&H)                                      |
+| 81 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                           |
+| 82 | iHome iBT371BGC Portable Waterproof Shockproof Bluetooth Speaker with Lights - $14 (Reg 49.99) YMMV           |
+| 83 | $35 / 12gb BYOD for 24 mths - Virgin Plus at most of the GTA Virgin Plus Kiosks                               |
+| 84 | Telus Small business Offer for RBC Clients - BYOD - 30GB for $45 for 4 lines or more                          |
+| 85 | Boxing Week Cellphone Deals (Fido iPhone 12 mini $15/month $400 GC, S21 $20/month $250 GC)                    |
+| 86 | $15 credit for signing up with Amazon Photos for eligible Prime members                                       |
+| 87 | Fido Internet 150Mps service for 42.50 (first 12 months)                                                      |
+| 88 | Small business cell phone plans                                                                               |
+| 89 | Samsung 980 Pro- 1TB ($199); 2TB ($399) - PS5 OK                                                              |
