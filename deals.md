@@ -1,92 +1,92 @@
-|    | deals                                                                                                         |
-|---:|:--------------------------------------------------------------------------------------------------------------|
-|  0 | Share your favourite deals from 2021 and you could win one of five $25 gift cards                             |
-|  1 | [YMMV] *UPDATED* iPhone 13 128GB for $8.29 per month on a 2-year TELUS Easy Payment plan with Bring-It-Back   |
-|  2 | Eufy Cam "2 Pro" (365 day Battery life) - 2X Camera+Homebase $349.99                                          |
-|  3 | ProGrade Digital 256GB V90 SD card for cameras - $215.89                                                      |
-|  4 | Logitech G502 HERO SE 16000 DPI Optical Gaming Mouse $39.99 (also at Amazon)                                  |
-|  5 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                            |
-|  6 | Ubiquiti APs - U6-LITE, LR and PRO in STOCK                                                                   |
-|  7 | Bonus $50 - $100GC when you Trade in any old phones                                                           |
-|  8 | $45 25gb + $300 bill credit per line [win back]                                                               |
-|  9 | ADATA Swordfish 1TB NVMe M.2 SSD (ASWORDFISH-1T-C): $100                                                      |
-| 10 | Amazon Prime Gaming (PC) January 2022- Free for Prime members                                                 |
-| 11 | Freedom Mobile - YMMV $30 For 15GB Unlimited ($50 - $20 off)                                                  |
-| 12 | DAILY DEAL - Eleven Table Tennis                                                                              |
-| 13 | TCL 65" and 75” Class 5-Series 4K UHD QLED Dolby Vision HDR Smart Google TV $916.55 and $1298.59 respectively |
-| 14 | Lexar JumpDrive V100 64GB USB 3.0 Flash Drive, Gray (LJDV100-64GABNL) (ATL) - $10.99                          |
-| 15 | YMMV - Fido $60 for 35gb                                                                                      |
-| 16 | MSI Optix MAG2732 27" IPS FHD Gaming Monitor $229.99                                                          |
-| 17 | Heavy-Duty Single Monitor Adjustable Gas Spring Desk Mount for Most 17"-35" Monitors $70.39 (20% off)         |
-| 18 | 32” M7 Smart Monitor UHD/4k VA 350$                                                                           |
-| 19 | $45 20gb ymmv                                                                                                 |
-| 20 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $240 B4 coupons, $7 S&H)                                      |
-| 21 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                           |
-| 22 | iHome iBT371BGC Portable Waterproof Shockproof Bluetooth Speaker with Lights - $14 (Reg 49.99) YMMV           |
-| 23 | $35 / 12gb BYOD for 24 mths - Virgin Plus at most of the GTA Virgin Plus Kiosks                               |
-| 24 | Telus Small business Offer for RBC Clients - BYOD - 30GB for $45 for 4 lines or more                          |
-| 25 | Boxing Week Cellphone Deals (Fido iPhone 12 mini $15/month $400 GC, S21 $20/month $250 GC)                    |
-| 26 | $15 credit for signing up with Amazon Photos for eligible Prime members                                       |
-| 27 | Fido Internet 150Mps service for 42.50 (first 12 months)                                                      |
-| 28 | Small business cell phone plans                                                                               |
-| 29 | Samsung 980 Pro- 1TB ($199); 2TB ($399) - PS5 OK                                                              |
-| 30 | Share your favourite deals from 2021 and you could win one of five $25 gift cards                             |
-| 31 | [YMMV] *UPDATED* iPhone 13 128GB for $8.29 per month on a 2-year TELUS Easy Payment plan with Bring-It-Back   |
-| 32 | Eufy Cam "2 Pro" (365 day Battery life) - 2X Camera+Homebase $349.99                                          |
-| 33 | ProGrade Digital 256GB V90 SD card for cameras - $215.89                                                      |
-| 34 | Logitech G502 HERO SE 16000 DPI Optical Gaming Mouse $39.99 (also at Amazon)                                  |
-| 35 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                            |
-| 36 | Ubiquiti APs - U6-LITE, LR and PRO in STOCK                                                                   |
-| 37 | Bonus $50 - $100GC when you Trade in any old phones                                                           |
-| 38 | $45 25gb + $300 bill credit per line [win back]                                                               |
-| 39 | ADATA Swordfish 1TB NVMe M.2 SSD (ASWORDFISH-1T-C): $100                                                      |
-| 40 | Amazon Prime Gaming (PC) January 2022- Free for Prime members                                                 |
-| 41 | Freedom Mobile - YMMV $30 For 15GB Unlimited ($50 - $20 off)                                                  |
-| 42 | DAILY DEAL - Eleven Table Tennis                                                                              |
-| 43 | TCL 65" and 75” Class 5-Series 4K UHD QLED Dolby Vision HDR Smart Google TV $916.55 and $1298.59 respectively |
-| 44 | Lexar JumpDrive V100 64GB USB 3.0 Flash Drive, Gray (LJDV100-64GABNL) (ATL) - $10.99                          |
-| 45 | YMMV - Fido $60 for 35gb                                                                                      |
-| 46 | MSI Optix MAG2732 27" IPS FHD Gaming Monitor $229.99                                                          |
-| 47 | Heavy-Duty Single Monitor Adjustable Gas Spring Desk Mount for Most 17"-35" Monitors $70.39 (20% off)         |
-| 48 | 32” M7 Smart Monitor UHD/4k VA 350$                                                                           |
-| 49 | $45 20gb ymmv                                                                                                 |
-| 50 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $240 B4 coupons, $7 S&H)                                      |
-| 51 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                           |
-| 52 | iHome iBT371BGC Portable Waterproof Shockproof Bluetooth Speaker with Lights - $14 (Reg 49.99) YMMV           |
-| 53 | $35 / 12gb BYOD for 24 mths - Virgin Plus at most of the GTA Virgin Plus Kiosks                               |
-| 54 | Telus Small business Offer for RBC Clients - BYOD - 30GB for $45 for 4 lines or more                          |
-| 55 | Boxing Week Cellphone Deals (Fido iPhone 12 mini $15/month $400 GC, S21 $20/month $250 GC)                    |
-| 56 | $15 credit for signing up with Amazon Photos for eligible Prime members                                       |
-| 57 | Fido Internet 150Mps service for 42.50 (first 12 months)                                                      |
-| 58 | Small business cell phone plans                                                                               |
-| 59 | Samsung 980 Pro- 1TB ($199); 2TB ($399) - PS5 OK                                                              |
-| 60 | Share your favourite deals from 2021 and you could win one of five $25 gift cards                             |
-| 61 | [YMMV] *UPDATED* iPhone 13 128GB for $8.29 per month on a 2-year TELUS Easy Payment plan with Bring-It-Back   |
-| 62 | Eufy Cam "2 Pro" (365 day Battery life) - 2X Camera+Homebase $349.99                                          |
-| 63 | ProGrade Digital 256GB V90 SD card for cameras - $215.89                                                      |
-| 64 | Logitech G502 HERO SE 16000 DPI Optical Gaming Mouse $39.99 (also at Amazon)                                  |
-| 65 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                            |
-| 66 | Ubiquiti APs - U6-LITE, LR and PRO in STOCK                                                                   |
-| 67 | Bonus $50 - $100GC when you Trade in any old phones                                                           |
-| 68 | $45 25gb + $300 bill credit per line [win back]                                                               |
-| 69 | ADATA Swordfish 1TB NVMe M.2 SSD (ASWORDFISH-1T-C): $100                                                      |
-| 70 | Amazon Prime Gaming (PC) January 2022- Free for Prime members                                                 |
-| 71 | Freedom Mobile - YMMV $30 For 15GB Unlimited ($50 - $20 off)                                                  |
-| 72 | DAILY DEAL - Eleven Table Tennis                                                                              |
-| 73 | TCL 65" and 75” Class 5-Series 4K UHD QLED Dolby Vision HDR Smart Google TV $916.55 and $1298.59 respectively |
-| 74 | Lexar JumpDrive V100 64GB USB 3.0 Flash Drive, Gray (LJDV100-64GABNL) (ATL) - $10.99                          |
-| 75 | YMMV - Fido $60 for 35gb                                                                                      |
-| 76 | MSI Optix MAG2732 27" IPS FHD Gaming Monitor $229.99                                                          |
-| 77 | Heavy-Duty Single Monitor Adjustable Gas Spring Desk Mount for Most 17"-35" Monitors $70.39 (20% off)         |
-| 78 | 32” M7 Smart Monitor UHD/4k VA 350$                                                                           |
-| 79 | $45 20gb ymmv                                                                                                 |
-| 80 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $240 B4 coupons, $7 S&H)                                      |
-| 81 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                           |
-| 82 | iHome iBT371BGC Portable Waterproof Shockproof Bluetooth Speaker with Lights - $14 (Reg 49.99) YMMV           |
-| 83 | $35 / 12gb BYOD for 24 mths - Virgin Plus at most of the GTA Virgin Plus Kiosks                               |
-| 84 | Telus Small business Offer for RBC Clients - BYOD - 30GB for $45 for 4 lines or more                          |
-| 85 | Boxing Week Cellphone Deals (Fido iPhone 12 mini $15/month $400 GC, S21 $20/month $250 GC)                    |
-| 86 | $15 credit for signing up with Amazon Photos for eligible Prime members                                       |
-| 87 | Fido Internet 150Mps service for 42.50 (first 12 months)                                                      |
-| 88 | Small business cell phone plans                                                                               |
-| 89 | Samsung 980 Pro- 1TB ($199); 2TB ($399) - PS5 OK                                                              |
+|    | deals                                                                                                            |
+|---:|:-----------------------------------------------------------------------------------------------------------------|
+|  0 | LG OLED 65" A1 $1,589.99 on clearance (Costco in-store)                                                          |
+|  1 | Sandisk High Endurance MicroSD cards, 128GB for $24.08, 256GB for $41.83                                         |
+|  2 | Freedom Mobile - YMMV $30 For 15GB Unlimited ($50 - $20 off)                                                     |
+|  3 | YMMV: Xbox Series X Plus Xbox Wireless Controller – Daystrike Camo Special Edition                               |
+|  4 | YMMV - $35 - 12 GB for 2 years - Fido                                                                            |
+|  5 | ASUS Blue Cave AC2600 Dual-Band WiFi Router - $87.87 w/Free Shipping                                             |
+|  6 | Share your favourite deals from 2021 and you could win one of five $25 gift cards                                |
+|  7 | Boxing Week Cellphone Deals (Fido iPhone 12 mini $15/month $400 GC, S21 $20/month $250 GC)                       |
+|  8 | Ubiquiti APs - U6-LITE, LR and PRO in STOCK                                                                      |
+|  9 | DAILY DEAL - Eleven Table Tennis                                                                                 |
+| 10 | Fido Internet 150Mps service for 42.50 (first 12 months)                                                         |
+| 11 | Amazon Prime Gaming (PC) January 2022- Better than Anticipated! Free Star Wars Jedi Fallen Order and more!       |
+| 12 | Sandisk Extreme portable 1TB SSD - $149.99                                                                       |
+| 13 | $35 / 12gb BYOD for 24 mths - Virgin Plus at most of the GTA Virgin Plus Kiosks                                  |
+| 14 | Samsung 25W Fast Charging Wall Charger - $7.50                                                                   |
+| 15 | fido Boxing day/week promotion plan(12GB-$35 first year-$40 2nd year-$50 after)$5 cheaper than Black Friday deal |
+| 16 | Epson FastFoto 680W Photo Scanner - $669                                                                         |
+| 17 | 1000w pure sine wave inverter $190                                                                               |
+| 18 | $45 25gb + $300 bill credit per line [win back]                                                                  |
+| 19 | Lenovo Ideapad pro 5600H 16" $759.99                                                                             |
+| 20 | The Mobile Shop - $35 BYOD , 15GB .                                                                              |
+| 21 | Netgear Nighthawk RAX20 (AX1800) Ethernet Wireless Router - $69.97 w/Coupon and Free Shipping (10 HOURS LEFT!)   |
+| 22 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                        |
+| 23 | Steam Winter Sale 2021 - now until Jan 5th                                                                       |
+| 24 | Freedom Mobile holiday plan 15 GB for $35                                                                        |
+| 25 | iPhone 12 $50 & iPhone 13 $64 w/ Big Gig Unlimited 15GB (YMMV - Loyalty/CSR)                                     |
+| 26 | Eufy wireless doorbell 2k with home base $199, 2K wired Pro $179, Wired Pro is back in stock!                    |
+| 27 | pixel 6 pro $741 with TMS                                                                                        |
+| 28 | Apple iPad Smart Keyboard ($59.96 Clearance - originally $219.00) - YMMV In Store only                           |
+| 29 | Luminar 4 photo editor for free                                                                                  |
+| 30 | LG OLED 65" A1 $1,589.99 on clearance (Costco in-store)                                                          |
+| 31 | Sandisk High Endurance MicroSD cards, 128GB for $24.08, 256GB for $41.83                                         |
+| 32 | Freedom Mobile - YMMV $30 For 15GB Unlimited ($50 - $20 off)                                                     |
+| 33 | YMMV: Xbox Series X Plus Xbox Wireless Controller – Daystrike Camo Special Edition                               |
+| 34 | YMMV - $35 - 12 GB for 2 years - Fido                                                                            |
+| 35 | ASUS Blue Cave AC2600 Dual-Band WiFi Router - $87.87 w/Free Shipping                                             |
+| 36 | Share your favourite deals from 2021 and you could win one of five $25 gift cards                                |
+| 37 | Boxing Week Cellphone Deals (Fido iPhone 12 mini $15/month $400 GC, S21 $20/month $250 GC)                       |
+| 38 | Ubiquiti APs - U6-LITE, LR and PRO in STOCK                                                                      |
+| 39 | DAILY DEAL - Eleven Table Tennis                                                                                 |
+| 40 | Fido Internet 150Mps service for 42.50 (first 12 months)                                                         |
+| 41 | Amazon Prime Gaming (PC) January 2022- Better than Anticipated! Free Star Wars Jedi Fallen Order and more!       |
+| 42 | Sandisk Extreme portable 1TB SSD - $149.99                                                                       |
+| 43 | $35 / 12gb BYOD for 24 mths - Virgin Plus at most of the GTA Virgin Plus Kiosks                                  |
+| 44 | Samsung 25W Fast Charging Wall Charger - $7.50                                                                   |
+| 45 | fido Boxing day/week promotion plan(12GB-$35 first year-$40 2nd year-$50 after)$5 cheaper than Black Friday deal |
+| 46 | Epson FastFoto 680W Photo Scanner - $669                                                                         |
+| 47 | 1000w pure sine wave inverter $190                                                                               |
+| 48 | $45 25gb + $300 bill credit per line [win back]                                                                  |
+| 49 | Lenovo Ideapad pro 5600H 16" $759.99                                                                             |
+| 50 | The Mobile Shop - $35 BYOD , 15GB .                                                                              |
+| 51 | Netgear Nighthawk RAX20 (AX1800) Ethernet Wireless Router - $69.97 w/Coupon and Free Shipping (10 HOURS LEFT!)   |
+| 52 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                        |
+| 53 | Steam Winter Sale 2021 - now until Jan 5th                                                                       |
+| 54 | Freedom Mobile holiday plan 15 GB for $35                                                                        |
+| 55 | iPhone 12 $50 & iPhone 13 $64 w/ Big Gig Unlimited 15GB (YMMV - Loyalty/CSR)                                     |
+| 56 | Eufy wireless doorbell 2k with home base $199, 2K wired Pro $179, Wired Pro is back in stock!                    |
+| 57 | pixel 6 pro $741 with TMS                                                                                        |
+| 58 | Apple iPad Smart Keyboard ($59.96 Clearance - originally $219.00) - YMMV In Store only                           |
+| 59 | Luminar 4 photo editor for free                                                                                  |
+| 60 | LG OLED 65" A1 $1,589.99 on clearance (Costco in-store)                                                          |
+| 61 | Sandisk High Endurance MicroSD cards, 128GB for $24.08, 256GB for $41.83                                         |
+| 62 | Freedom Mobile - YMMV $30 For 15GB Unlimited ($50 - $20 off)                                                     |
+| 63 | YMMV: Xbox Series X Plus Xbox Wireless Controller – Daystrike Camo Special Edition                               |
+| 64 | YMMV - $35 - 12 GB for 2 years - Fido                                                                            |
+| 65 | ASUS Blue Cave AC2600 Dual-Band WiFi Router - $87.87 w/Free Shipping                                             |
+| 66 | Share your favourite deals from 2021 and you could win one of five $25 gift cards                                |
+| 67 | Boxing Week Cellphone Deals (Fido iPhone 12 mini $15/month $400 GC, S21 $20/month $250 GC)                       |
+| 68 | Ubiquiti APs - U6-LITE, LR and PRO in STOCK                                                                      |
+| 69 | DAILY DEAL - Eleven Table Tennis                                                                                 |
+| 70 | Fido Internet 150Mps service for 42.50 (first 12 months)                                                         |
+| 71 | Amazon Prime Gaming (PC) January 2022- Better than Anticipated! Free Star Wars Jedi Fallen Order and more!       |
+| 72 | Sandisk Extreme portable 1TB SSD - $149.99                                                                       |
+| 73 | $35 / 12gb BYOD for 24 mths - Virgin Plus at most of the GTA Virgin Plus Kiosks                                  |
+| 74 | Samsung 25W Fast Charging Wall Charger - $7.50                                                                   |
+| 75 | fido Boxing day/week promotion plan(12GB-$35 first year-$40 2nd year-$50 after)$5 cheaper than Black Friday deal |
+| 76 | Epson FastFoto 680W Photo Scanner - $669                                                                         |
+| 77 | 1000w pure sine wave inverter $190                                                                               |
+| 78 | $45 25gb + $300 bill credit per line [win back]                                                                  |
+| 79 | Lenovo Ideapad pro 5600H 16" $759.99                                                                             |
+| 80 | The Mobile Shop - $35 BYOD , 15GB .                                                                              |
+| 81 | Netgear Nighthawk RAX20 (AX1800) Ethernet Wireless Router - $69.97 w/Coupon and Free Shipping (10 HOURS LEFT!)   |
+| 82 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                        |
+| 83 | Steam Winter Sale 2021 - now until Jan 5th                                                                       |
+| 84 | Freedom Mobile holiday plan 15 GB for $35                                                                        |
+| 85 | iPhone 12 $50 & iPhone 13 $64 w/ Big Gig Unlimited 15GB (YMMV - Loyalty/CSR)                                     |
+| 86 | Eufy wireless doorbell 2k with home base $199, 2K wired Pro $179, Wired Pro is back in stock!                    |
+| 87 | pixel 6 pro $741 with TMS                                                                                        |
+| 88 | Apple iPad Smart Keyboard ($59.96 Clearance - originally $219.00) - YMMV In Store only                           |
+| 89 | Luminar 4 photo editor for free                                                                                  |
