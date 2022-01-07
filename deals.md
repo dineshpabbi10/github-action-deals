@@ -1,92 +1,92 @@
 |    | deals                                                                                                                  |
 |---:|:-----------------------------------------------------------------------------------------------------------------------|
-|  0 | Chromebook 10e tablet 129$ less rakuten                                                                                |
-|  1 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
-|  2 | Onkyo TX-NR7100 9.2 channel AV Receiver $1282 after 5% price beat                                                      |
-|  3 | The Source - Razer Blackwidow Elite Wired Mechanical Gaming Keyboard - $99.99 (Clearence $249.99) YMMV                 |
-|  4 | Arcade1Up 8 in 1 Partycade $199                                                                                        |
-|  5 | LG 55” C1 - $1499.99 - YMMV                                                                                            |
-|  6 | Acer Chromebook spin 511 - $299                                                                                        |
-|  7 | LG C1 48" $1499 / 55" $1699 / 65" $2299 / 77" $3999 / 83" $6999 (Costco, BestBuy, Amazon and others) Until Jan. 6th    |
-|  8 | Aluminum Alloy USB C to HDMI Cable for Home Office 4K@60Hz, 6Ft $13.99 24H deal with FS                                |
-|  9 | Fido Internet 150Mps service for 42.50 (first 12 months)                                                               |
-| 10 | Kids Plus subscription $19.99 (reg $89)                                                                                |
-| 11 | Dell Inspiron 3511 - Intel i5-1135G7, 8GB DDR4, 256GB SSD, 15.6" 1080p FHD IPS Screen - $629 - 10% Unidays = $566.99   |
-| 12 | Amazon Fire TV 4-Series 4K UHD smart TV - 43” $370/50” $470/55” $490 - Omni Series tv various sizes from $410 to $1230 |
-| 13 | Luminar 4 photo editor for free                                                                                        |
-| 14 | Epson FastFoto 680W Photo Scanner - $669                                                                               |
-| 15 | ASUS VivoBook 15.6 OLED 16GB 1TB SSD $850                                                                              |
-| 16 | Share your favourite deals from 2021 and you could win one of five $25 gift cards                                      |
-| 17 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                                    |
-| 18 | LG OLED 65" A1 $1,589.99 (Costco in-store)                                                                             |
-| 19 | BUNDLE: Ring Alarm 8-piece kit (2nd Gen) + Echo Dot(4th Gen) - $274.99 (33% off)                                       |
-| 20 | Freedom Mobile - YMMV $30 For 15GB Unlimited ($50 - $20 off)                                                           |
-| 21 | Amazon Prime Gaming (PC) January 2022- Better than Anticipated! Free Star Wars Jedi Fallen Order and more!             |
-| 22 | 1000w pure sine wave inverter $190                                                                                     |
-| 23 | Limitless $14 coupons + Free Fortnite/Rocket League items + Tomb Raider series FREE                                    |
-| 24 | YMMV - $35 - 12 GB for 2 years - Fido                                                                                  |
-| 25 | $45 25gb + $300 bill credit per line [win back]                                                                        |
-| 26 | Fido offering 100% loyalty discount on Tablet 4GB Plan for 24 Months *YMMV*, existing customers                        |
-| 27 | LG Tone Free True Wireless Ear Buds FP5/FP8/FP9 - $88.88/$129.99-$15/$147.99                                           |
-| 28 | Logitech G502 LIGHTSPEED 16000 DPI Wireless Optical Gaming Mouse - Black - $130 (regularly $170)                       |
-| 29 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                              |
-| 30 | Chromebook 10e tablet 129$ less rakuten                                                                                |
-| 31 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
-| 32 | Onkyo TX-NR7100 9.2 channel AV Receiver $1282 after 5% price beat                                                      |
-| 33 | The Source - Razer Blackwidow Elite Wired Mechanical Gaming Keyboard - $99.99 (Clearence $249.99) YMMV                 |
-| 34 | Arcade1Up 8 in 1 Partycade $199                                                                                        |
-| 35 | LG 55” C1 - $1499.99 - YMMV                                                                                            |
-| 36 | Acer Chromebook spin 511 - $299                                                                                        |
-| 37 | LG C1 48" $1499 / 55" $1699 / 65" $2299 / 77" $3999 / 83" $6999 (Costco, BestBuy, Amazon and others) Until Jan. 6th    |
-| 38 | Aluminum Alloy USB C to HDMI Cable for Home Office 4K@60Hz, 6Ft $13.99 24H deal with FS                                |
-| 39 | Fido Internet 150Mps service for 42.50 (first 12 months)                                                               |
-| 40 | Kids Plus subscription $19.99 (reg $89)                                                                                |
-| 41 | Dell Inspiron 3511 - Intel i5-1135G7, 8GB DDR4, 256GB SSD, 15.6" 1080p FHD IPS Screen - $629 - 10% Unidays = $566.99   |
-| 42 | Amazon Fire TV 4-Series 4K UHD smart TV - 43” $370/50” $470/55” $490 - Omni Series tv various sizes from $410 to $1230 |
-| 43 | Luminar 4 photo editor for free                                                                                        |
-| 44 | Epson FastFoto 680W Photo Scanner - $669                                                                               |
-| 45 | ASUS VivoBook 15.6 OLED 16GB 1TB SSD $850                                                                              |
-| 46 | Share your favourite deals from 2021 and you could win one of five $25 gift cards                                      |
-| 47 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                                    |
-| 48 | LG OLED 65" A1 $1,589.99 (Costco in-store)                                                                             |
-| 49 | BUNDLE: Ring Alarm 8-piece kit (2nd Gen) + Echo Dot(4th Gen) - $274.99 (33% off)                                       |
-| 50 | Freedom Mobile - YMMV $30 For 15GB Unlimited ($50 - $20 off)                                                           |
-| 51 | Amazon Prime Gaming (PC) January 2022- Better than Anticipated! Free Star Wars Jedi Fallen Order and more!             |
-| 52 | 1000w pure sine wave inverter $190                                                                                     |
-| 53 | Limitless $14 coupons + Free Fortnite/Rocket League items + Tomb Raider series FREE                                    |
-| 54 | YMMV - $35 - 12 GB for 2 years - Fido                                                                                  |
-| 55 | $45 25gb + $300 bill credit per line [win back]                                                                        |
-| 56 | Fido offering 100% loyalty discount on Tablet 4GB Plan for 24 Months *YMMV*, existing customers                        |
-| 57 | LG Tone Free True Wireless Ear Buds FP5/FP8/FP9 - $88.88/$129.99-$15/$147.99                                           |
-| 58 | Logitech G502 LIGHTSPEED 16000 DPI Wireless Optical Gaming Mouse - Black - $130 (regularly $170)                       |
-| 59 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                              |
-| 60 | Chromebook 10e tablet 129$ less rakuten                                                                                |
-| 61 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
-| 62 | Onkyo TX-NR7100 9.2 channel AV Receiver $1282 after 5% price beat                                                      |
-| 63 | The Source - Razer Blackwidow Elite Wired Mechanical Gaming Keyboard - $99.99 (Clearence $249.99) YMMV                 |
-| 64 | Arcade1Up 8 in 1 Partycade $199                                                                                        |
-| 65 | LG 55” C1 - $1499.99 - YMMV                                                                                            |
-| 66 | Acer Chromebook spin 511 - $299                                                                                        |
-| 67 | LG C1 48" $1499 / 55" $1699 / 65" $2299 / 77" $3999 / 83" $6999 (Costco, BestBuy, Amazon and others) Until Jan. 6th    |
-| 68 | Aluminum Alloy USB C to HDMI Cable for Home Office 4K@60Hz, 6Ft $13.99 24H deal with FS                                |
-| 69 | Fido Internet 150Mps service for 42.50 (first 12 months)                                                               |
-| 70 | Kids Plus subscription $19.99 (reg $89)                                                                                |
-| 71 | Dell Inspiron 3511 - Intel i5-1135G7, 8GB DDR4, 256GB SSD, 15.6" 1080p FHD IPS Screen - $629 - 10% Unidays = $566.99   |
-| 72 | Amazon Fire TV 4-Series 4K UHD smart TV - 43” $370/50” $470/55” $490 - Omni Series tv various sizes from $410 to $1230 |
-| 73 | Luminar 4 photo editor for free                                                                                        |
-| 74 | Epson FastFoto 680W Photo Scanner - $669                                                                               |
-| 75 | ASUS VivoBook 15.6 OLED 16GB 1TB SSD $850                                                                              |
-| 76 | Share your favourite deals from 2021 and you could win one of five $25 gift cards                                      |
-| 77 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                                    |
-| 78 | LG OLED 65" A1 $1,589.99 (Costco in-store)                                                                             |
-| 79 | BUNDLE: Ring Alarm 8-piece kit (2nd Gen) + Echo Dot(4th Gen) - $274.99 (33% off)                                       |
-| 80 | Freedom Mobile - YMMV $30 For 15GB Unlimited ($50 - $20 off)                                                           |
-| 81 | Amazon Prime Gaming (PC) January 2022- Better than Anticipated! Free Star Wars Jedi Fallen Order and more!             |
-| 82 | 1000w pure sine wave inverter $190                                                                                     |
-| 83 | Limitless $14 coupons + Free Fortnite/Rocket League items + Tomb Raider series FREE                                    |
-| 84 | YMMV - $35 - 12 GB for 2 years - Fido                                                                                  |
-| 85 | $45 25gb + $300 bill credit per line [win back]                                                                        |
-| 86 | Fido offering 100% loyalty discount on Tablet 4GB Plan for 24 Months *YMMV*, existing customers                        |
-| 87 | LG Tone Free True Wireless Ear Buds FP5/FP8/FP9 - $88.88/$129.99-$15/$147.99                                           |
-| 88 | Logitech G502 LIGHTSPEED 16000 DPI Wireless Optical Gaming Mouse - Black - $130 (regularly $170)                       |
-| 89 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                              |
+|  0 | GALAXY Z flip3 bespoke edition $829 with trade in.                                                                     |
+|  1 | Sony WF-1000XM4 Industry Leading Noise Canceling Truly Wireless Earbud Headphones with Alexa Built-in, Black - $309.38 |
+|  2 | fido Boxing day/week promotion plan(12GB-$35 first year-$40 2nd year-$50 after)$5 cheaper than Black Friday deal       |
+|  3 | Fido Internet 150Mps service for 42.50 (first 12 months)                                                               |
+|  4 | The Persistence Enhanced Edition - Free PS5 Digital Upgrade if you own the PS4 version (former PS+ freebie)            |
+|  5 | WYZE Cam V3 - $34.57 - Tax & same day delivery included                                                                |
+|  6 | $45 25gb + $300 bill credit per line [win back]                                                                        |
+|  7 | Kids Plus subscription $19.99 (reg $89)                                                                                |
+|  8 | Epson FastFoto 680W Photo Scanner - $669                                                                               |
+|  9 | YMMV: Xbox Series X Plus Xbox Wireless Controller – Daystrike Camo Special Edition                                     |
+| 10 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                                    |
+| 11 | Onkyo TX-NR7100 9.2 channel AV Receiver $1282 after 5% price beat                                                      |
+| 12 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
+| 13 | 59.99, reg $100+, EVGA Z15 Mechanical Gaming Keyboard - Hotswappable Silver or Bronze Switch, multiple retailers       |
+| 14 | Switch eShop New Year Sale                                                                                             |
+| 15 | Microphone Shock Mount, $5.51                                                                                          |
+| 16 | SX1 Mini Desktop 3D Printer Kit                                                                                        |
+| 17 | Chromebook 10e tablet 129$ less rakuten                                                                                |
+| 18 | Samsung 25W Fast Charging Wall Charger - $7.50                                                                         |
+| 19 | Logitech G502 LIGHTSPEED Wireless Gaming Mouse with HERO Sensor and Tunable Weights - $118 after coupon                |
+| 20 | Jabra Elite/Active 75t Refurbished for $65.99/$83.99(no tax) + free shipping from Jabra                                |
+| 21 | Samsung Galaxy Buds 2 - $89.99, Buds Live $97.49 [With PSP] - YMMV some PSP at $101.99/$110.49                         |
+| 22 | iPhone 12 $50 & iPhone 13 $64 w/ Big Gig Unlimited 15GB (YMMV - Loyalty/CSR)                                           |
+| 23 | eshop: Untitled Goose Game ($12.99), Gris ($5.24) and others for sale ATL (Switch, digital)                            |
+| 24 | Epic Games Holiday Sale $14 Coupon - Still VALID/working as of now, glitch? (YMMV)                                     |
+| 25 | MSI Optix MAG2732 27" IPS FHD Gaming Monitor $229.99                                                                   |
+| 26 | $45 20gb ymmv                                                                                                          |
+| 27 | PS5 Disc version available                                                                                             |
+| 28 | Inspiron 14" 2-in-1 AMD 5500u 8gb/256 $675+2% rakuten                                                                  |
+| 29 | LG OLED 65" A1 $1,589.99 (Costco in-store)                                                                             |
+| 30 | GALAXY Z flip3 bespoke edition $829 with trade in.                                                                     |
+| 31 | Sony WF-1000XM4 Industry Leading Noise Canceling Truly Wireless Earbud Headphones with Alexa Built-in, Black - $309.38 |
+| 32 | fido Boxing day/week promotion plan(12GB-$35 first year-$40 2nd year-$50 after)$5 cheaper than Black Friday deal       |
+| 33 | Fido Internet 150Mps service for 42.50 (first 12 months)                                                               |
+| 34 | The Persistence Enhanced Edition - Free PS5 Digital Upgrade if you own the PS4 version (former PS+ freebie)            |
+| 35 | WYZE Cam V3 - $34.57 - Tax & same day delivery included                                                                |
+| 36 | $45 25gb + $300 bill credit per line [win back]                                                                        |
+| 37 | Kids Plus subscription $19.99 (reg $89)                                                                                |
+| 38 | Epson FastFoto 680W Photo Scanner - $669                                                                               |
+| 39 | YMMV: Xbox Series X Plus Xbox Wireless Controller – Daystrike Camo Special Edition                                     |
+| 40 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                                    |
+| 41 | Onkyo TX-NR7100 9.2 channel AV Receiver $1282 after 5% price beat                                                      |
+| 42 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
+| 43 | 59.99, reg $100+, EVGA Z15 Mechanical Gaming Keyboard - Hotswappable Silver or Bronze Switch, multiple retailers       |
+| 44 | Switch eShop New Year Sale                                                                                             |
+| 45 | Microphone Shock Mount, $5.51                                                                                          |
+| 46 | SX1 Mini Desktop 3D Printer Kit                                                                                        |
+| 47 | Chromebook 10e tablet 129$ less rakuten                                                                                |
+| 48 | Samsung 25W Fast Charging Wall Charger - $7.50                                                                         |
+| 49 | Logitech G502 LIGHTSPEED Wireless Gaming Mouse with HERO Sensor and Tunable Weights - $118 after coupon                |
+| 50 | Jabra Elite/Active 75t Refurbished for $65.99/$83.99(no tax) + free shipping from Jabra                                |
+| 51 | Samsung Galaxy Buds 2 - $89.99, Buds Live $97.49 [With PSP] - YMMV some PSP at $101.99/$110.49                         |
+| 52 | iPhone 12 $50 & iPhone 13 $64 w/ Big Gig Unlimited 15GB (YMMV - Loyalty/CSR)                                           |
+| 53 | eshop: Untitled Goose Game ($12.99), Gris ($5.24) and others for sale ATL (Switch, digital)                            |
+| 54 | Epic Games Holiday Sale $14 Coupon - Still VALID/working as of now, glitch? (YMMV)                                     |
+| 55 | MSI Optix MAG2732 27" IPS FHD Gaming Monitor $229.99                                                                   |
+| 56 | $45 20gb ymmv                                                                                                          |
+| 57 | PS5 Disc version available                                                                                             |
+| 58 | Inspiron 14" 2-in-1 AMD 5500u 8gb/256 $675+2% rakuten                                                                  |
+| 59 | LG OLED 65" A1 $1,589.99 (Costco in-store)                                                                             |
+| 60 | GALAXY Z flip3 bespoke edition $829 with trade in.                                                                     |
+| 61 | Sony WF-1000XM4 Industry Leading Noise Canceling Truly Wireless Earbud Headphones with Alexa Built-in, Black - $309.38 |
+| 62 | fido Boxing day/week promotion plan(12GB-$35 first year-$40 2nd year-$50 after)$5 cheaper than Black Friday deal       |
+| 63 | Fido Internet 150Mps service for 42.50 (first 12 months)                                                               |
+| 64 | The Persistence Enhanced Edition - Free PS5 Digital Upgrade if you own the PS4 version (former PS+ freebie)            |
+| 65 | WYZE Cam V3 - $34.57 - Tax & same day delivery included                                                                |
+| 66 | $45 25gb + $300 bill credit per line [win back]                                                                        |
+| 67 | Kids Plus subscription $19.99 (reg $89)                                                                                |
+| 68 | Epson FastFoto 680W Photo Scanner - $669                                                                               |
+| 69 | YMMV: Xbox Series X Plus Xbox Wireless Controller – Daystrike Camo Special Edition                                     |
+| 70 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                                    |
+| 71 | Onkyo TX-NR7100 9.2 channel AV Receiver $1282 after 5% price beat                                                      |
+| 72 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
+| 73 | 59.99, reg $100+, EVGA Z15 Mechanical Gaming Keyboard - Hotswappable Silver or Bronze Switch, multiple retailers       |
+| 74 | Switch eShop New Year Sale                                                                                             |
+| 75 | Microphone Shock Mount, $5.51                                                                                          |
+| 76 | SX1 Mini Desktop 3D Printer Kit                                                                                        |
+| 77 | Chromebook 10e tablet 129$ less rakuten                                                                                |
+| 78 | Samsung 25W Fast Charging Wall Charger - $7.50                                                                         |
+| 79 | Logitech G502 LIGHTSPEED Wireless Gaming Mouse with HERO Sensor and Tunable Weights - $118 after coupon                |
+| 80 | Jabra Elite/Active 75t Refurbished for $65.99/$83.99(no tax) + free shipping from Jabra                                |
+| 81 | Samsung Galaxy Buds 2 - $89.99, Buds Live $97.49 [With PSP] - YMMV some PSP at $101.99/$110.49                         |
+| 82 | iPhone 12 $50 & iPhone 13 $64 w/ Big Gig Unlimited 15GB (YMMV - Loyalty/CSR)                                           |
+| 83 | eshop: Untitled Goose Game ($12.99), Gris ($5.24) and others for sale ATL (Switch, digital)                            |
+| 84 | Epic Games Holiday Sale $14 Coupon - Still VALID/working as of now, glitch? (YMMV)                                     |
+| 85 | MSI Optix MAG2732 27" IPS FHD Gaming Monitor $229.99                                                                   |
+| 86 | $45 20gb ymmv                                                                                                          |
+| 87 | PS5 Disc version available                                                                                             |
+| 88 | Inspiron 14" 2-in-1 AMD 5500u 8gb/256 $675+2% rakuten                                                                  |
+| 89 | LG OLED 65" A1 $1,589.99 (Costco in-store)                                                                             |
