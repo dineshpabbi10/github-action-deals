@@ -1,92 +1,92 @@
 |    | deals                                                                                                                  |
 |---:|:-----------------------------------------------------------------------------------------------------------------------|
-|  0 | GALAXY Z flip3 bespoke edition $829 with trade in.                                                                     |
-|  1 | Sony WF-1000XM4 Industry Leading Noise Canceling Truly Wireless Earbud Headphones with Alexa Built-in, Black - $309.38 |
-|  2 | fido Boxing day/week promotion plan(12GB-$35 first year-$40 2nd year-$50 after)$5 cheaper than Black Friday deal       |
-|  3 | Fido Internet 150Mps service for 42.50 (first 12 months)                                                               |
-|  4 | The Persistence Enhanced Edition - Free PS5 Digital Upgrade if you own the PS4 version (former PS+ freebie)            |
-|  5 | WYZE Cam V3 - $34.57 - Tax & same day delivery included                                                                |
-|  6 | $45 25gb + $300 bill credit per line [win back]                                                                        |
-|  7 | Kids Plus subscription $19.99 (reg $89)                                                                                |
-|  8 | Epson FastFoto 680W Photo Scanner - $669                                                                               |
-|  9 | YMMV: Xbox Series X Plus Xbox Wireless Controller – Daystrike Camo Special Edition                                     |
-| 10 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                                    |
-| 11 | Onkyo TX-NR7100 9.2 channel AV Receiver $1282 after 5% price beat                                                      |
-| 12 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
-| 13 | 59.99, reg $100+, EVGA Z15 Mechanical Gaming Keyboard - Hotswappable Silver or Bronze Switch, multiple retailers       |
-| 14 | Switch eShop New Year Sale                                                                                             |
-| 15 | Microphone Shock Mount, $5.51                                                                                          |
-| 16 | SX1 Mini Desktop 3D Printer Kit                                                                                        |
-| 17 | Chromebook 10e tablet 129$ less rakuten                                                                                |
-| 18 | Samsung 25W Fast Charging Wall Charger - $7.50                                                                         |
-| 19 | Logitech G502 LIGHTSPEED Wireless Gaming Mouse with HERO Sensor and Tunable Weights - $118 after coupon                |
-| 20 | Jabra Elite/Active 75t Refurbished for $65.99/$83.99(no tax) + free shipping from Jabra                                |
-| 21 | Samsung Galaxy Buds 2 - $89.99, Buds Live $97.49 [With PSP] - YMMV some PSP at $101.99/$110.49                         |
-| 22 | iPhone 12 $50 & iPhone 13 $64 w/ Big Gig Unlimited 15GB (YMMV - Loyalty/CSR)                                           |
-| 23 | eshop: Untitled Goose Game ($12.99), Gris ($5.24) and others for sale ATL (Switch, digital)                            |
-| 24 | Epic Games Holiday Sale $14 Coupon - Still VALID/working as of now, glitch? (YMMV)                                     |
-| 25 | MSI Optix MAG2732 27" IPS FHD Gaming Monitor $229.99                                                                   |
-| 26 | $45 20gb ymmv                                                                                                          |
-| 27 | PS5 Disc version available                                                                                             |
-| 28 | Inspiron 14" 2-in-1 AMD 5500u 8gb/256 $675+2% rakuten                                                                  |
-| 29 | LG OLED 65" A1 $1,589.99 (Costco in-store)                                                                             |
-| 30 | GALAXY Z flip3 bespoke edition $829 with trade in.                                                                     |
-| 31 | Sony WF-1000XM4 Industry Leading Noise Canceling Truly Wireless Earbud Headphones with Alexa Built-in, Black - $309.38 |
-| 32 | fido Boxing day/week promotion plan(12GB-$35 first year-$40 2nd year-$50 after)$5 cheaper than Black Friday deal       |
-| 33 | Fido Internet 150Mps service for 42.50 (first 12 months)                                                               |
-| 34 | The Persistence Enhanced Edition - Free PS5 Digital Upgrade if you own the PS4 version (former PS+ freebie)            |
-| 35 | WYZE Cam V3 - $34.57 - Tax & same day delivery included                                                                |
-| 36 | $45 25gb + $300 bill credit per line [win back]                                                                        |
-| 37 | Kids Plus subscription $19.99 (reg $89)                                                                                |
-| 38 | Epson FastFoto 680W Photo Scanner - $669                                                                               |
-| 39 | YMMV: Xbox Series X Plus Xbox Wireless Controller – Daystrike Camo Special Edition                                     |
-| 40 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                                    |
-| 41 | Onkyo TX-NR7100 9.2 channel AV Receiver $1282 after 5% price beat                                                      |
-| 42 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
-| 43 | 59.99, reg $100+, EVGA Z15 Mechanical Gaming Keyboard - Hotswappable Silver or Bronze Switch, multiple retailers       |
-| 44 | Switch eShop New Year Sale                                                                                             |
-| 45 | Microphone Shock Mount, $5.51                                                                                          |
-| 46 | SX1 Mini Desktop 3D Printer Kit                                                                                        |
-| 47 | Chromebook 10e tablet 129$ less rakuten                                                                                |
-| 48 | Samsung 25W Fast Charging Wall Charger - $7.50                                                                         |
-| 49 | Logitech G502 LIGHTSPEED Wireless Gaming Mouse with HERO Sensor and Tunable Weights - $118 after coupon                |
-| 50 | Jabra Elite/Active 75t Refurbished for $65.99/$83.99(no tax) + free shipping from Jabra                                |
-| 51 | Samsung Galaxy Buds 2 - $89.99, Buds Live $97.49 [With PSP] - YMMV some PSP at $101.99/$110.49                         |
-| 52 | iPhone 12 $50 & iPhone 13 $64 w/ Big Gig Unlimited 15GB (YMMV - Loyalty/CSR)                                           |
-| 53 | eshop: Untitled Goose Game ($12.99), Gris ($5.24) and others for sale ATL (Switch, digital)                            |
-| 54 | Epic Games Holiday Sale $14 Coupon - Still VALID/working as of now, glitch? (YMMV)                                     |
-| 55 | MSI Optix MAG2732 27" IPS FHD Gaming Monitor $229.99                                                                   |
-| 56 | $45 20gb ymmv                                                                                                          |
-| 57 | PS5 Disc version available                                                                                             |
-| 58 | Inspiron 14" 2-in-1 AMD 5500u 8gb/256 $675+2% rakuten                                                                  |
-| 59 | LG OLED 65" A1 $1,589.99 (Costco in-store)                                                                             |
-| 60 | GALAXY Z flip3 bespoke edition $829 with trade in.                                                                     |
-| 61 | Sony WF-1000XM4 Industry Leading Noise Canceling Truly Wireless Earbud Headphones with Alexa Built-in, Black - $309.38 |
-| 62 | fido Boxing day/week promotion plan(12GB-$35 first year-$40 2nd year-$50 after)$5 cheaper than Black Friday deal       |
-| 63 | Fido Internet 150Mps service for 42.50 (first 12 months)                                                               |
-| 64 | The Persistence Enhanced Edition - Free PS5 Digital Upgrade if you own the PS4 version (former PS+ freebie)            |
-| 65 | WYZE Cam V3 - $34.57 - Tax & same day delivery included                                                                |
-| 66 | $45 25gb + $300 bill credit per line [win back]                                                                        |
-| 67 | Kids Plus subscription $19.99 (reg $89)                                                                                |
-| 68 | Epson FastFoto 680W Photo Scanner - $669                                                                               |
-| 69 | YMMV: Xbox Series X Plus Xbox Wireless Controller – Daystrike Camo Special Edition                                     |
-| 70 | Sony X90J (50", 55", 65", 75") (Costco and Other Retailers as well)                                                    |
-| 71 | Onkyo TX-NR7100 9.2 channel AV Receiver $1282 after 5% price beat                                                      |
-| 72 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
-| 73 | 59.99, reg $100+, EVGA Z15 Mechanical Gaming Keyboard - Hotswappable Silver or Bronze Switch, multiple retailers       |
-| 74 | Switch eShop New Year Sale                                                                                             |
-| 75 | Microphone Shock Mount, $5.51                                                                                          |
-| 76 | SX1 Mini Desktop 3D Printer Kit                                                                                        |
-| 77 | Chromebook 10e tablet 129$ less rakuten                                                                                |
-| 78 | Samsung 25W Fast Charging Wall Charger - $7.50                                                                         |
-| 79 | Logitech G502 LIGHTSPEED Wireless Gaming Mouse with HERO Sensor and Tunable Weights - $118 after coupon                |
-| 80 | Jabra Elite/Active 75t Refurbished for $65.99/$83.99(no tax) + free shipping from Jabra                                |
-| 81 | Samsung Galaxy Buds 2 - $89.99, Buds Live $97.49 [With PSP] - YMMV some PSP at $101.99/$110.49                         |
-| 82 | iPhone 12 $50 & iPhone 13 $64 w/ Big Gig Unlimited 15GB (YMMV - Loyalty/CSR)                                           |
-| 83 | eshop: Untitled Goose Game ($12.99), Gris ($5.24) and others for sale ATL (Switch, digital)                            |
-| 84 | Epic Games Holiday Sale $14 Coupon - Still VALID/working as of now, glitch? (YMMV)                                     |
-| 85 | MSI Optix MAG2732 27" IPS FHD Gaming Monitor $229.99                                                                   |
-| 86 | $45 20gb ymmv                                                                                                          |
-| 87 | PS5 Disc version available                                                                                             |
-| 88 | Inspiron 14" 2-in-1 AMD 5500u 8gb/256 $675+2% rakuten                                                                  |
-| 89 | LG OLED 65" A1 $1,589.99 (Costco in-store)                                                                             |
+|  0 | 30+ free games available on GOG.com                                                                                    |
+|  1 | The Source - Razer Blackwidow Elite Wired Mechanical Gaming Keyboard - $99.99 (Sale $249.99) YMMV (Updated - Staples)  |
+|  2 | IdeaPad 5i Chromebook 14" $349                                                                                         |
+|  3 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                                     |
+|  4 | SX1 Mini Desktop 3D Printer Kit                                                                                        |
+|  5 | Amazon Prime Gaming (PC) January 2022- Better than Anticipated! Free Star Wars Jedi Fallen Order and more!             |
+|  6 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                              |
+|  7 | 59.99, reg $100+, EVGA Z15 Mechanical Gaming Keyboard - Hotswappable Silver or Bronze Switch, multiple retailers       |
+|  8 | Xbox Series X in stock in Richmond BC (YMMV)                                                                           |
+|  9 | Razer DeathAdder V2 - Ergonomic Wired Gaming Mouse~$39.99 Reg: $99.99 Save: $60.00 Expires: 2022/1/13                  |
+| 10 | Razer DeathAdder v2 $39.98                                                                                             |
+| 11 | iPhone 12 $50 & iPhone 13 $64 w/ Big Gig Unlimited 15GB (YMMV - Loyalty/CSR)                                           |
+| 12 | ASUS C204EE 11.6" Chromebook - Dark Grey (Intel Celeron N4020/32GB eMMC/4GB RAM/Chrome OS) -- $169                     |
+| 13 | PS4 Marvel's Avengers $9.98 !                                                                                          |
+| 14 | LG OLED 65" A1 $1,589.99 (Costco in-store)                                                                             |
+| 15 | Sony WF-1000XM4 Industry Leading Noise Canceling Truly Wireless Earbud Headphones with Alexa Built-in, Black - $309.38 |
+| 16 | Mikrotik RB5009UG+S+in Router with 2.5G Ethernet and a 10G SFP+ cage $234 with $11 shipping (free if pick up)          |
+| 17 | Virgin Mobile Home Internet 100Mbps for $35/m with mobile plan, $40 without mobile plan + $50 Visa GC - YMMV           |
+| 18 | $139.99 ATL Corsair RMx Series RM850x 80+ Gold Power Supply, 850W, White                                               |
+| 19 | ThinkPad X13 Gen 2 AMD, 5650U/16GB/512GB, 13.3" 16:10 touchscreen 300nits, $1075, 9% cashback                          |
+| 20 | fido Boxing day/week promotion plan(12GB-$35 first year-$40 2nd year-$50 after)$5 cheaper than Black Friday deal       |
+| 21 | Dell 27 inch monitors - QHD for $243, 4K UHD for $315, QHD Gaming for $450                                             |
+| 22 | HOT! 40GB Freedom Data + 1GB Nationwide Data + Unlimited Call/Text - $50/month (YMMV - Loyalty Offer)                  |
+| 23 | Fido Internet 150Mps service for 42.50 (first 12 months)                                                               |
+| 24 | Kingdom Hearts All In One PS4 -$19.99                                                                                  |
+| 25 | Sony X950H 65" LED TV $1598                                                                                            |
+| 26 | Oculus Quest: Squadron One $0                                                                                          |
+| 27 | LG Tone Free True Wireless Ear Buds FP5/FP8/FP9 - $88.88/$129.99-$15/$147.99                                           |
+| 28 | Dell S2522HG. 1080P, 240Hz IPS Monitor - $288                                                                          |
+| 29 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
+| 30 | 30+ free games available on GOG.com                                                                                    |
+| 31 | The Source - Razer Blackwidow Elite Wired Mechanical Gaming Keyboard - $99.99 (Sale $249.99) YMMV (Updated - Staples)  |
+| 32 | IdeaPad 5i Chromebook 14" $349                                                                                         |
+| 33 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                                     |
+| 34 | SX1 Mini Desktop 3D Printer Kit                                                                                        |
+| 35 | Amazon Prime Gaming (PC) January 2022- Better than Anticipated! Free Star Wars Jedi Fallen Order and more!             |
+| 36 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                              |
+| 37 | 59.99, reg $100+, EVGA Z15 Mechanical Gaming Keyboard - Hotswappable Silver or Bronze Switch, multiple retailers       |
+| 38 | Xbox Series X in stock in Richmond BC (YMMV)                                                                           |
+| 39 | Razer DeathAdder V2 - Ergonomic Wired Gaming Mouse~$39.99 Reg: $99.99 Save: $60.00 Expires: 2022/1/13                  |
+| 40 | Razer DeathAdder v2 $39.98                                                                                             |
+| 41 | iPhone 12 $50 & iPhone 13 $64 w/ Big Gig Unlimited 15GB (YMMV - Loyalty/CSR)                                           |
+| 42 | ASUS C204EE 11.6" Chromebook - Dark Grey (Intel Celeron N4020/32GB eMMC/4GB RAM/Chrome OS) -- $169                     |
+| 43 | PS4 Marvel's Avengers $9.98 !                                                                                          |
+| 44 | LG OLED 65" A1 $1,589.99 (Costco in-store)                                                                             |
+| 45 | Sony WF-1000XM4 Industry Leading Noise Canceling Truly Wireless Earbud Headphones with Alexa Built-in, Black - $309.38 |
+| 46 | Mikrotik RB5009UG+S+in Router with 2.5G Ethernet and a 10G SFP+ cage $234 with $11 shipping (free if pick up)          |
+| 47 | Virgin Mobile Home Internet 100Mbps for $35/m with mobile plan, $40 without mobile plan + $50 Visa GC - YMMV           |
+| 48 | $139.99 ATL Corsair RMx Series RM850x 80+ Gold Power Supply, 850W, White                                               |
+| 49 | ThinkPad X13 Gen 2 AMD, 5650U/16GB/512GB, 13.3" 16:10 touchscreen 300nits, $1075, 9% cashback                          |
+| 50 | fido Boxing day/week promotion plan(12GB-$35 first year-$40 2nd year-$50 after)$5 cheaper than Black Friday deal       |
+| 51 | Dell 27 inch monitors - QHD for $243, 4K UHD for $315, QHD Gaming for $450                                             |
+| 52 | HOT! 40GB Freedom Data + 1GB Nationwide Data + Unlimited Call/Text - $50/month (YMMV - Loyalty Offer)                  |
+| 53 | Fido Internet 150Mps service for 42.50 (first 12 months)                                                               |
+| 54 | Kingdom Hearts All In One PS4 -$19.99                                                                                  |
+| 55 | Sony X950H 65" LED TV $1598                                                                                            |
+| 56 | Oculus Quest: Squadron One $0                                                                                          |
+| 57 | LG Tone Free True Wireless Ear Buds FP5/FP8/FP9 - $88.88/$129.99-$15/$147.99                                           |
+| 58 | Dell S2522HG. 1080P, 240Hz IPS Monitor - $288                                                                          |
+| 59 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
+| 60 | 30+ free games available on GOG.com                                                                                    |
+| 61 | The Source - Razer Blackwidow Elite Wired Mechanical Gaming Keyboard - $99.99 (Sale $249.99) YMMV (Updated - Staples)  |
+| 62 | IdeaPad 5i Chromebook 14" $349                                                                                         |
+| 63 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                                     |
+| 64 | SX1 Mini Desktop 3D Printer Kit                                                                                        |
+| 65 | Amazon Prime Gaming (PC) January 2022- Better than Anticipated! Free Star Wars Jedi Fallen Order and more!             |
+| 66 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                              |
+| 67 | 59.99, reg $100+, EVGA Z15 Mechanical Gaming Keyboard - Hotswappable Silver or Bronze Switch, multiple retailers       |
+| 68 | Xbox Series X in stock in Richmond BC (YMMV)                                                                           |
+| 69 | Razer DeathAdder V2 - Ergonomic Wired Gaming Mouse~$39.99 Reg: $99.99 Save: $60.00 Expires: 2022/1/13                  |
+| 70 | Razer DeathAdder v2 $39.98                                                                                             |
+| 71 | iPhone 12 $50 & iPhone 13 $64 w/ Big Gig Unlimited 15GB (YMMV - Loyalty/CSR)                                           |
+| 72 | ASUS C204EE 11.6" Chromebook - Dark Grey (Intel Celeron N4020/32GB eMMC/4GB RAM/Chrome OS) -- $169                     |
+| 73 | PS4 Marvel's Avengers $9.98 !                                                                                          |
+| 74 | LG OLED 65" A1 $1,589.99 (Costco in-store)                                                                             |
+| 75 | Sony WF-1000XM4 Industry Leading Noise Canceling Truly Wireless Earbud Headphones with Alexa Built-in, Black - $309.38 |
+| 76 | Mikrotik RB5009UG+S+in Router with 2.5G Ethernet and a 10G SFP+ cage $234 with $11 shipping (free if pick up)          |
+| 77 | Virgin Mobile Home Internet 100Mbps for $35/m with mobile plan, $40 without mobile plan + $50 Visa GC - YMMV           |
+| 78 | $139.99 ATL Corsair RMx Series RM850x 80+ Gold Power Supply, 850W, White                                               |
+| 79 | ThinkPad X13 Gen 2 AMD, 5650U/16GB/512GB, 13.3" 16:10 touchscreen 300nits, $1075, 9% cashback                          |
+| 80 | fido Boxing day/week promotion plan(12GB-$35 first year-$40 2nd year-$50 after)$5 cheaper than Black Friday deal       |
+| 81 | Dell 27 inch monitors - QHD for $243, 4K UHD for $315, QHD Gaming for $450                                             |
+| 82 | HOT! 40GB Freedom Data + 1GB Nationwide Data + Unlimited Call/Text - $50/month (YMMV - Loyalty Offer)                  |
+| 83 | Fido Internet 150Mps service for 42.50 (first 12 months)                                                               |
+| 84 | Kingdom Hearts All In One PS4 -$19.99                                                                                  |
+| 85 | Sony X950H 65" LED TV $1598                                                                                            |
+| 86 | Oculus Quest: Squadron One $0                                                                                          |
+| 87 | LG Tone Free True Wireless Ear Buds FP5/FP8/FP9 - $88.88/$129.99-$15/$147.99                                           |
+| 88 | Dell S2522HG. 1080P, 240Hz IPS Monitor - $288                                                                          |
+| 89 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
