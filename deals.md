@@ -1,21 +1,21 @@
 |    | deals                                                                                                                  |
 |---:|:-----------------------------------------------------------------------------------------------------------------------|
-|  0 | 30+ free games available on GOG.com                                                                                    |
-|  1 | The Source - Razer Blackwidow Elite Wired Mechanical Gaming Keyboard - $99.99 (Sale $249.99) YMMV (Updated - Staples)  |
-|  2 | IdeaPad 5i Chromebook 14" $349                                                                                         |
-|  3 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                                     |
-|  4 | SX1 Mini Desktop 3D Printer Kit                                                                                        |
-|  5 | Amazon Prime Gaming (PC) January 2022- Better than Anticipated! Free Star Wars Jedi Fallen Order and more!             |
-|  6 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                              |
-|  7 | 59.99, reg $100+, EVGA Z15 Mechanical Gaming Keyboard - Hotswappable Silver or Bronze Switch, multiple retailers       |
-|  8 | Xbox Series X in stock in Richmond BC (YMMV)                                                                           |
-|  9 | Razer DeathAdder V2 - Ergonomic Wired Gaming Mouse~$39.99 Reg: $99.99 Save: $60.00 Expires: 2022/1/13                  |
-| 10 | Razer DeathAdder v2 $39.98                                                                                             |
-| 11 | iPhone 12 $50 & iPhone 13 $64 w/ Big Gig Unlimited 15GB (YMMV - Loyalty/CSR)                                           |
-| 12 | ASUS C204EE 11.6" Chromebook - Dark Grey (Intel Celeron N4020/32GB eMMC/4GB RAM/Chrome OS) -- $169                     |
-| 13 | PS4 Marvel's Avengers $9.98 !                                                                                          |
-| 14 | LG OLED 65" A1 $1,589.99 (Costco in-store)                                                                             |
-| 15 | Sony WF-1000XM4 Industry Leading Noise Canceling Truly Wireless Earbud Headphones with Alexa Built-in, Black - $309.38 |
+|  0 | Sony WF-1000XM4 Industry Leading Noise Canceling Truly Wireless Earbud Headphones with Alexa Built-in, Black - $309.38 |
+|  1 | 30+ free games available on GOG.com                                                                                    |
+|  2 | The Source - Razer Blackwidow Elite Wired Mechanical Gaming Keyboard - $99.99 (Sale $249.99) YMMV (Updated - Staples)  |
+|  3 | IdeaPad 5i Chromebook 14" $349                                                                                         |
+|  4 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                                     |
+|  5 | SX1 Mini Desktop 3D Printer Kit                                                                                        |
+|  6 | Amazon Prime Gaming (PC) January 2022- Better than Anticipated! Free Star Wars Jedi Fallen Order and more!             |
+|  7 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                              |
+|  8 | 59.99, reg $100+, EVGA Z15 Mechanical Gaming Keyboard - Hotswappable Silver or Bronze Switch, multiple retailers       |
+|  9 | Xbox Series X in stock in Richmond BC (YMMV)                                                                           |
+| 10 | Razer DeathAdder V2 - Ergonomic Wired Gaming Mouse~$39.99 Reg: $99.99 Save: $60.00 Expires: 2022/1/13                  |
+| 11 | Razer DeathAdder v2 $39.98                                                                                             |
+| 12 | iPhone 12 $50 & iPhone 13 $64 w/ Big Gig Unlimited 15GB (YMMV - Loyalty/CSR)                                           |
+| 13 | ASUS C204EE 11.6" Chromebook - Dark Grey (Intel Celeron N4020/32GB eMMC/4GB RAM/Chrome OS) -- $169                     |
+| 14 | PS4 Marvel's Avengers $9.98 !                                                                                          |
+| 15 | LG OLED 65" A1 $1,589.99 (Costco in-store)                                                                             |
 | 16 | Mikrotik RB5009UG+S+in Router with 2.5G Ethernet and a 10G SFP+ cage $234 with $11 shipping (free if pick up)          |
 | 17 | Virgin Mobile Home Internet 100Mbps for $35/m with mobile plan, $40 without mobile plan + $50 Visa GC - YMMV           |
 | 18 | $139.99 ATL Corsair RMx Series RM850x 80+ Gold Power Supply, 850W, White                                               |
@@ -30,22 +30,22 @@
 | 27 | LG Tone Free True Wireless Ear Buds FP5/FP8/FP9 - $88.88/$129.99-$15/$147.99                                           |
 | 28 | Dell S2522HG. 1080P, 240Hz IPS Monitor - $288                                                                          |
 | 29 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
-| 30 | 30+ free games available on GOG.com                                                                                    |
-| 31 | The Source - Razer Blackwidow Elite Wired Mechanical Gaming Keyboard - $99.99 (Sale $249.99) YMMV (Updated - Staples)  |
-| 32 | IdeaPad 5i Chromebook 14" $349                                                                                         |
-| 33 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                                     |
-| 34 | SX1 Mini Desktop 3D Printer Kit                                                                                        |
-| 35 | Amazon Prime Gaming (PC) January 2022- Better than Anticipated! Free Star Wars Jedi Fallen Order and more!             |
-| 36 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                              |
-| 37 | 59.99, reg $100+, EVGA Z15 Mechanical Gaming Keyboard - Hotswappable Silver or Bronze Switch, multiple retailers       |
-| 38 | Xbox Series X in stock in Richmond BC (YMMV)                                                                           |
-| 39 | Razer DeathAdder V2 - Ergonomic Wired Gaming Mouse~$39.99 Reg: $99.99 Save: $60.00 Expires: 2022/1/13                  |
-| 40 | Razer DeathAdder v2 $39.98                                                                                             |
-| 41 | iPhone 12 $50 & iPhone 13 $64 w/ Big Gig Unlimited 15GB (YMMV - Loyalty/CSR)                                           |
-| 42 | ASUS C204EE 11.6" Chromebook - Dark Grey (Intel Celeron N4020/32GB eMMC/4GB RAM/Chrome OS) -- $169                     |
-| 43 | PS4 Marvel's Avengers $9.98 !                                                                                          |
-| 44 | LG OLED 65" A1 $1,589.99 (Costco in-store)                                                                             |
-| 45 | Sony WF-1000XM4 Industry Leading Noise Canceling Truly Wireless Earbud Headphones with Alexa Built-in, Black - $309.38 |
+| 30 | Sony WF-1000XM4 Industry Leading Noise Canceling Truly Wireless Earbud Headphones with Alexa Built-in, Black - $309.38 |
+| 31 | 30+ free games available on GOG.com                                                                                    |
+| 32 | The Source - Razer Blackwidow Elite Wired Mechanical Gaming Keyboard - $99.99 (Sale $249.99) YMMV (Updated - Staples)  |
+| 33 | IdeaPad 5i Chromebook 14" $349                                                                                         |
+| 34 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                                     |
+| 35 | SX1 Mini Desktop 3D Printer Kit                                                                                        |
+| 36 | Amazon Prime Gaming (PC) January 2022- Better than Anticipated! Free Star Wars Jedi Fallen Order and more!             |
+| 37 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                              |
+| 38 | 59.99, reg $100+, EVGA Z15 Mechanical Gaming Keyboard - Hotswappable Silver or Bronze Switch, multiple retailers       |
+| 39 | Xbox Series X in stock in Richmond BC (YMMV)                                                                           |
+| 40 | Razer DeathAdder V2 - Ergonomic Wired Gaming Mouse~$39.99 Reg: $99.99 Save: $60.00 Expires: 2022/1/13                  |
+| 41 | Razer DeathAdder v2 $39.98                                                                                             |
+| 42 | iPhone 12 $50 & iPhone 13 $64 w/ Big Gig Unlimited 15GB (YMMV - Loyalty/CSR)                                           |
+| 43 | ASUS C204EE 11.6" Chromebook - Dark Grey (Intel Celeron N4020/32GB eMMC/4GB RAM/Chrome OS) -- $169                     |
+| 44 | PS4 Marvel's Avengers $9.98 !                                                                                          |
+| 45 | LG OLED 65" A1 $1,589.99 (Costco in-store)                                                                             |
 | 46 | Mikrotik RB5009UG+S+in Router with 2.5G Ethernet and a 10G SFP+ cage $234 with $11 shipping (free if pick up)          |
 | 47 | Virgin Mobile Home Internet 100Mbps for $35/m with mobile plan, $40 without mobile plan + $50 Visa GC - YMMV           |
 | 48 | $139.99 ATL Corsair RMx Series RM850x 80+ Gold Power Supply, 850W, White                                               |
@@ -60,22 +60,22 @@
 | 57 | LG Tone Free True Wireless Ear Buds FP5/FP8/FP9 - $88.88/$129.99-$15/$147.99                                           |
 | 58 | Dell S2522HG. 1080P, 240Hz IPS Monitor - $288                                                                          |
 | 59 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
-| 60 | 30+ free games available on GOG.com                                                                                    |
-| 61 | The Source - Razer Blackwidow Elite Wired Mechanical Gaming Keyboard - $99.99 (Sale $249.99) YMMV (Updated - Staples)  |
-| 62 | IdeaPad 5i Chromebook 14" $349                                                                                         |
-| 63 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                                     |
-| 64 | SX1 Mini Desktop 3D Printer Kit                                                                                        |
-| 65 | Amazon Prime Gaming (PC) January 2022- Better than Anticipated! Free Star Wars Jedi Fallen Order and more!             |
-| 66 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                              |
-| 67 | 59.99, reg $100+, EVGA Z15 Mechanical Gaming Keyboard - Hotswappable Silver or Bronze Switch, multiple retailers       |
-| 68 | Xbox Series X in stock in Richmond BC (YMMV)                                                                           |
-| 69 | Razer DeathAdder V2 - Ergonomic Wired Gaming Mouse~$39.99 Reg: $99.99 Save: $60.00 Expires: 2022/1/13                  |
-| 70 | Razer DeathAdder v2 $39.98                                                                                             |
-| 71 | iPhone 12 $50 & iPhone 13 $64 w/ Big Gig Unlimited 15GB (YMMV - Loyalty/CSR)                                           |
-| 72 | ASUS C204EE 11.6" Chromebook - Dark Grey (Intel Celeron N4020/32GB eMMC/4GB RAM/Chrome OS) -- $169                     |
-| 73 | PS4 Marvel's Avengers $9.98 !                                                                                          |
-| 74 | LG OLED 65" A1 $1,589.99 (Costco in-store)                                                                             |
-| 75 | Sony WF-1000XM4 Industry Leading Noise Canceling Truly Wireless Earbud Headphones with Alexa Built-in, Black - $309.38 |
+| 60 | Sony WF-1000XM4 Industry Leading Noise Canceling Truly Wireless Earbud Headphones with Alexa Built-in, Black - $309.38 |
+| 61 | 30+ free games available on GOG.com                                                                                    |
+| 62 | The Source - Razer Blackwidow Elite Wired Mechanical Gaming Keyboard - $99.99 (Sale $249.99) YMMV (Updated - Staples)  |
+| 63 | IdeaPad 5i Chromebook 14" $349                                                                                         |
+| 64 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                                     |
+| 65 | SX1 Mini Desktop 3D Printer Kit                                                                                        |
+| 66 | Amazon Prime Gaming (PC) January 2022- Better than Anticipated! Free Star Wars Jedi Fallen Order and more!             |
+| 67 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                              |
+| 68 | 59.99, reg $100+, EVGA Z15 Mechanical Gaming Keyboard - Hotswappable Silver or Bronze Switch, multiple retailers       |
+| 69 | Xbox Series X in stock in Richmond BC (YMMV)                                                                           |
+| 70 | Razer DeathAdder V2 - Ergonomic Wired Gaming Mouse~$39.99 Reg: $99.99 Save: $60.00 Expires: 2022/1/13                  |
+| 71 | Razer DeathAdder v2 $39.98                                                                                             |
+| 72 | iPhone 12 $50 & iPhone 13 $64 w/ Big Gig Unlimited 15GB (YMMV - Loyalty/CSR)                                           |
+| 73 | ASUS C204EE 11.6" Chromebook - Dark Grey (Intel Celeron N4020/32GB eMMC/4GB RAM/Chrome OS) -- $169                     |
+| 74 | PS4 Marvel's Avengers $9.98 !                                                                                          |
+| 75 | LG OLED 65" A1 $1,589.99 (Costco in-store)                                                                             |
 | 76 | Mikrotik RB5009UG+S+in Router with 2.5G Ethernet and a 10G SFP+ cage $234 with $11 shipping (free if pick up)          |
 | 77 | Virgin Mobile Home Internet 100Mbps for $35/m with mobile plan, $40 without mobile plan + $50 Visa GC - YMMV           |
 | 78 | $139.99 ATL Corsair RMx Series RM850x 80+ Gold Power Supply, 850W, White                                               |
