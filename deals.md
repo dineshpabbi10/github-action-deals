@@ -1,12 +1,12 @@
 |    | deals                                                                                                            |
 |---:|:-----------------------------------------------------------------------------------------------------------------|
-|  0 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                     |
-|  1 | Samsung HW-A650 3.1 channel sound bar $298                                                                       |
-|  2 | Samsung Galaxy Book Go 14" Laptop -- (FHD/fanless/Snapdragon 7c/4GB RAM/) ($249 64GB / $299 128GB)               |
-|  3 | LG OLED A1 55” $1298                                                                                             |
-|  4 | Inspiron 14" 2-in-1 AMD 5500u 8gb/256 $675+2% rakuten                                                            |
-|  5 | Eyez-On Envisalink 4, makes your old alarm panel into a smart panel, $109.95 Deal is back on Amazon              |
-|  6 | Xbox Series X in stock in Richmond BC (YMMV)                                                                     |
+|  0 | Xbox Series X in stock in Richmond BC (YMMV)                                                                     |
+|  1 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                     |
+|  2 | Samsung HW-A650 3.1 channel sound bar $298                                                                       |
+|  3 | Samsung Galaxy Book Go 14" Laptop -- (FHD/fanless/Snapdragon 7c/4GB RAM/) ($249 64GB / $299 128GB)               |
+|  4 | LG OLED A1 55” $1298                                                                                             |
+|  5 | Inspiron 14" 2-in-1 AMD 5500u 8gb/256 $675+2% rakuten                                                            |
+|  6 | Eyez-On Envisalink 4, makes your old alarm panel into a smart panel, $109.95 Deal is back on Amazon              |
 |  7 | (Hot) Audio-Technica ATH-M50x Professional Headphones - $153.48                                                  |
 |  8 | PS4 Marvel's Avengers $9.98 !                                                                                    |
 |  9 | Apple iPad Smart Keyboard ($59.96 Clearance - originally $219.00) - YMMV In Store only                           |
@@ -30,13 +30,13 @@
 | 27 | LG C1 OLED 55" 1697.99$ (200$ off)                                                                               |
 | 28 | IdeaPad 5i Chromebook 14" $349                                                                                   |
 | 29 | LG OLED 65" A1 $1,589.99 (Costco in-store)                                                                       |
-| 30 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                     |
-| 31 | Samsung HW-A650 3.1 channel sound bar $298                                                                       |
-| 32 | Samsung Galaxy Book Go 14" Laptop -- (FHD/fanless/Snapdragon 7c/4GB RAM/) ($249 64GB / $299 128GB)               |
-| 33 | LG OLED A1 55” $1298                                                                                             |
-| 34 | Inspiron 14" 2-in-1 AMD 5500u 8gb/256 $675+2% rakuten                                                            |
-| 35 | Eyez-On Envisalink 4, makes your old alarm panel into a smart panel, $109.95 Deal is back on Amazon              |
-| 36 | Xbox Series X in stock in Richmond BC (YMMV)                                                                     |
+| 30 | Xbox Series X in stock in Richmond BC (YMMV)                                                                     |
+| 31 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                     |
+| 32 | Samsung HW-A650 3.1 channel sound bar $298                                                                       |
+| 33 | Samsung Galaxy Book Go 14" Laptop -- (FHD/fanless/Snapdragon 7c/4GB RAM/) ($249 64GB / $299 128GB)               |
+| 34 | LG OLED A1 55” $1298                                                                                             |
+| 35 | Inspiron 14" 2-in-1 AMD 5500u 8gb/256 $675+2% rakuten                                                            |
+| 36 | Eyez-On Envisalink 4, makes your old alarm panel into a smart panel, $109.95 Deal is back on Amazon              |
 | 37 | (Hot) Audio-Technica ATH-M50x Professional Headphones - $153.48                                                  |
 | 38 | PS4 Marvel's Avengers $9.98 !                                                                                    |
 | 39 | Apple iPad Smart Keyboard ($59.96 Clearance - originally $219.00) - YMMV In Store only                           |
@@ -60,13 +60,13 @@
 | 57 | LG C1 OLED 55" 1697.99$ (200$ off)                                                                               |
 | 58 | IdeaPad 5i Chromebook 14" $349                                                                                   |
 | 59 | LG OLED 65" A1 $1,589.99 (Costco in-store)                                                                       |
-| 60 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                     |
-| 61 | Samsung HW-A650 3.1 channel sound bar $298                                                                       |
-| 62 | Samsung Galaxy Book Go 14" Laptop -- (FHD/fanless/Snapdragon 7c/4GB RAM/) ($249 64GB / $299 128GB)               |
-| 63 | LG OLED A1 55” $1298                                                                                             |
-| 64 | Inspiron 14" 2-in-1 AMD 5500u 8gb/256 $675+2% rakuten                                                            |
-| 65 | Eyez-On Envisalink 4, makes your old alarm panel into a smart panel, $109.95 Deal is back on Amazon              |
-| 66 | Xbox Series X in stock in Richmond BC (YMMV)                                                                     |
+| 60 | Xbox Series X in stock in Richmond BC (YMMV)                                                                     |
+| 61 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                     |
+| 62 | Samsung HW-A650 3.1 channel sound bar $298                                                                       |
+| 63 | Samsung Galaxy Book Go 14" Laptop -- (FHD/fanless/Snapdragon 7c/4GB RAM/) ($249 64GB / $299 128GB)               |
+| 64 | LG OLED A1 55” $1298                                                                                             |
+| 65 | Inspiron 14" 2-in-1 AMD 5500u 8gb/256 $675+2% rakuten                                                            |
+| 66 | Eyez-On Envisalink 4, makes your old alarm panel into a smart panel, $109.95 Deal is back on Amazon              |
 | 67 | (Hot) Audio-Technica ATH-M50x Professional Headphones - $153.48                                                  |
 | 68 | PS4 Marvel's Avengers $9.98 !                                                                                    |
 | 69 | Apple iPad Smart Keyboard ($59.96 Clearance - originally $219.00) - YMMV In Store only                           |
