@@ -1,92 +1,92 @@
 |    | deals                                                                                                            |
 |---:|:-----------------------------------------------------------------------------------------------------------------|
-|  0 | Share your favourite deals from 2021 and you could win one of five $25 gift cards                                |
-|  1 | Apple iPad Smart Keyboard ($59.96 Clearance - originally $219.00) - YMMV In Store only                           |
-|  2 | Porsche design laptops on sale                                                                                   |
-|  3 | Save upto 30% on Nintendo switch games - digital code ( prices ranging between $35.95 - $55.95)                  |
-|  4 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                        |
-|  5 | 100W Fast Charge USB-C To USB-C Nylon Braided Cable With LED Power Display, 6.5 FT $12.99                        |
-|  6 | HOT! 40GB Freedom Data + 1GB Nationwide Data + Unlimited Call/Text - $50/month (YMMV - Loyalty Offer)            |
-|  7 | Amped Wireless WiFi Range Extenders on Sale ($39.99-$69.99)                                                      |
+|  0 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                      |
+|  1 | AmazonBasics AA Rechargeable Batteries (16-Pack) - 22.67 or lower with S&S                                       |
+|  2 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                        |
+|  3 | Acer 27" 1440p WQHD 170Hz Monitor 299.99$                                                                        |
+|  4 | SAMSUNG 256GB BAR Plus USB 3.1 Flash Drive, 400MB/s read, 116MB/s write. $44.99 - matches All Time Low           |
+|  5 | Anker Soundcore Liberty Air 2 Truly Wireless Bluetooth Earphones $59.99                                          |
+|  6 | Rogers Ignite internet 1gbps *possible ymmv                                                                      |
+|  7 | DLink Wi-Fi Water Sensor DCH-S161 2 pack $59.97 YMMV                                                             |
 |  8 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                     |
-|  9 | **OOS** Samsung HW-R550 (320W) Soundbar with Subwoofer (open box) - $99                                          |
-| 10 | SanDisk 128GB Ultra Fit USB 3.1 Flash Drive - SDCZ430-128G-G46 - $20.00                                          |
-| 11 | 59.99, reg $100+, EVGA Z15 Mechanical Gaming Keyboard - Hotswappable Silver or Bronze Switch, multiple retailers |
-| 12 | persona 5 Royale $31.99 digital sale                                                                             |
-| 13 | Chromebook 10e tablet 129$ less rakuten                                                                          |
-| 14 | Anker USB-C Charger 65W GaN Slim Fast Wall Charger $46.74 Lightning Deal / Warm                                  |
-| 15 | iPhone 12 $50 & iPhone 13 $64 w/ Big Gig Unlimited 15GB (YMMV - Loyalty/CSR)                                     |
-| 16 | LG OLED 65" A1 $1,589.99 (Costco in-store)                                                                       |
-| 17 | Sony WH-1000XM3 refurbished for $149.99 [QC]                                                                     |
-| 18 | $45 25gb + $300 bill credit per line [win back]                                                                  |
-| 19 | Super Bomberman R for Playstation - Great local multiplayer - $8.99 (85% OFF)                                    |
-| 20 | PS Store Demons souls $51.29                                                                                     |
-| 21 | Telus EPP 20GB/$50 BYOD                                                                                          |
-| 22 | HP Victus 16.1" Gaming Laptop i7-11800H/1TB SSD/16GB RAM/RTX 3060 - 1499$                                        |
-| 23 | Eyez-On Envisalink 4, makes your old alarm panel into a smart panel, $109.95 Deal is back on Amazon              |
-| 24 | Ender 3-v2 in store 329.99 Dufferin/Wilson store                                                                 |
-| 25 | YMMV: Xbox Series X Plus Xbox Wireless Controller – Daystrike Camo Special Edition                               |
-| 26 | AMAZON.CA 199$ SAMSUNG 24-Inch CRG5 144Hz Curved Gaming Monitor 1920 x 1080p (LC24RG50FQNXZA)                    |
-| 27 | Gods Will Fall - FREE until Jan 13th @ 11am EST                                                                  |
-| 28 | Pokemon Go Johto Tour Ticket for $10.70 for Samsung Phone Users (Reg $16.99)                                     |
-| 29 | PDF Converter by Readdle (iOS) - Free                                                                            |
-| 30 | Share your favourite deals from 2021 and you could win one of five $25 gift cards                                |
-| 31 | Apple iPad Smart Keyboard ($59.96 Clearance - originally $219.00) - YMMV In Store only                           |
-| 32 | Porsche design laptops on sale                                                                                   |
-| 33 | Save upto 30% on Nintendo switch games - digital code ( prices ranging between $35.95 - $55.95)                  |
-| 34 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                        |
-| 35 | 100W Fast Charge USB-C To USB-C Nylon Braided Cable With LED Power Display, 6.5 FT $12.99                        |
-| 36 | HOT! 40GB Freedom Data + 1GB Nationwide Data + Unlimited Call/Text - $50/month (YMMV - Loyalty Offer)            |
-| 37 | Amped Wireless WiFi Range Extenders on Sale ($39.99-$69.99)                                                      |
+|  9 | Lightning deal: Upgraded Tribit MaxSound Plus Portable Bluetooth Speaker with 24W - $67.99                       |
+| 10 | $5 after code, Reg 34.99, ONLY ECHO OWNERS**, Amazon Smart Plug, Works with Alexa, Single Plug                   |
+| 11 | YMMV: Xbox Series X Plus Xbox Wireless Controller – Daystrike Camo Special Edition                               |
+| 12 | HP Victus 16.1" Gaming Laptop i7-11800H/1TB SSD/16GB RAM/RTX 3060 - 1499$                                        |
+| 13 | LG OLED 65" A1 $1,589.99 (Costco in-store)                                                                       |
+| 14 | AirPods Max Silver @ $620 (20% OFF)                                                                              |
+| 15 | Chromebook 10e tablet 129$ less rakuten                                                                          |
+| 16 | Seagate Ironwolf 16TB NAS drive $250 off, $469                                                                   |
+| 17 | LG SH2 Home 100W 2.1 Channel Soundbar -- $99                                                                     |
+| 18 | PS4 Marvel's Avengers $9.98 !                                                                                    |
+| 19 | Eyez-On Envisalink 4, makes your old alarm panel into a smart panel, $109.95 Deal is back on Amazon              |
+| 20 | ASUS VivoBook, 15.6" FHD OLED, i5-1135G7/16GB/1TB, $850                                                          |
+| 21 | Jabra Refurbished Deals 75T/65.99 - 75t Active/83.99 - 85t/103.99                                                |
+| 22 | Apple iPad Smart Keyboard ($59.96 Clearance - originally $219.00) - YMMV In Store only                           |
+| 23 | SpongeBob Battle For Bikini Bottom: Rehydrated for iOS/Android - $1.39/$1.19 ~90% OFF (was $11.99)               |
+| 24 | Logitech MX Master 3 - US site - 122$ CAD tax in or 110$ CAD tax in with no Amazon shipping fee                  |
+| 25 | Pharmaprix Instore liquidation HP Portable SSD P500 $50 (list price $100)                                        |
+| 26 | Amped Wireless WiFi Range Extenders on Sale ($39.99-$69.99)                                                      |
+| 27 | DJI Mavic Mini 2 Bundle $570                                                                                     |
+| 28 | $45 25gb + $300 bill credit per line [win back]                                                                  |
+| 29 | 59.99, reg $100+, EVGA Z15 Mechanical Gaming Keyboard - Hotswappable Silver or Bronze Switch, multiple retailers |
+| 30 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                      |
+| 31 | AmazonBasics AA Rechargeable Batteries (16-Pack) - 22.67 or lower with S&S                                       |
+| 32 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                        |
+| 33 | Acer 27" 1440p WQHD 170Hz Monitor 299.99$                                                                        |
+| 34 | SAMSUNG 256GB BAR Plus USB 3.1 Flash Drive, 400MB/s read, 116MB/s write. $44.99 - matches All Time Low           |
+| 35 | Anker Soundcore Liberty Air 2 Truly Wireless Bluetooth Earphones $59.99                                          |
+| 36 | Rogers Ignite internet 1gbps *possible ymmv                                                                      |
+| 37 | DLink Wi-Fi Water Sensor DCH-S161 2 pack $59.97 YMMV                                                             |
 | 38 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                     |
-| 39 | **OOS** Samsung HW-R550 (320W) Soundbar with Subwoofer (open box) - $99                                          |
-| 40 | SanDisk 128GB Ultra Fit USB 3.1 Flash Drive - SDCZ430-128G-G46 - $20.00                                          |
-| 41 | 59.99, reg $100+, EVGA Z15 Mechanical Gaming Keyboard - Hotswappable Silver or Bronze Switch, multiple retailers |
-| 42 | persona 5 Royale $31.99 digital sale                                                                             |
-| 43 | Chromebook 10e tablet 129$ less rakuten                                                                          |
-| 44 | Anker USB-C Charger 65W GaN Slim Fast Wall Charger $46.74 Lightning Deal / Warm                                  |
-| 45 | iPhone 12 $50 & iPhone 13 $64 w/ Big Gig Unlimited 15GB (YMMV - Loyalty/CSR)                                     |
-| 46 | LG OLED 65" A1 $1,589.99 (Costco in-store)                                                                       |
-| 47 | Sony WH-1000XM3 refurbished for $149.99 [QC]                                                                     |
-| 48 | $45 25gb + $300 bill credit per line [win back]                                                                  |
-| 49 | Super Bomberman R for Playstation - Great local multiplayer - $8.99 (85% OFF)                                    |
-| 50 | PS Store Demons souls $51.29                                                                                     |
-| 51 | Telus EPP 20GB/$50 BYOD                                                                                          |
-| 52 | HP Victus 16.1" Gaming Laptop i7-11800H/1TB SSD/16GB RAM/RTX 3060 - 1499$                                        |
-| 53 | Eyez-On Envisalink 4, makes your old alarm panel into a smart panel, $109.95 Deal is back on Amazon              |
-| 54 | Ender 3-v2 in store 329.99 Dufferin/Wilson store                                                                 |
-| 55 | YMMV: Xbox Series X Plus Xbox Wireless Controller – Daystrike Camo Special Edition                               |
-| 56 | AMAZON.CA 199$ SAMSUNG 24-Inch CRG5 144Hz Curved Gaming Monitor 1920 x 1080p (LC24RG50FQNXZA)                    |
-| 57 | Gods Will Fall - FREE until Jan 13th @ 11am EST                                                                  |
-| 58 | Pokemon Go Johto Tour Ticket for $10.70 for Samsung Phone Users (Reg $16.99)                                     |
-| 59 | PDF Converter by Readdle (iOS) - Free                                                                            |
-| 60 | Share your favourite deals from 2021 and you could win one of five $25 gift cards                                |
-| 61 | Apple iPad Smart Keyboard ($59.96 Clearance - originally $219.00) - YMMV In Store only                           |
-| 62 | Porsche design laptops on sale                                                                                   |
-| 63 | Save upto 30% on Nintendo switch games - digital code ( prices ranging between $35.95 - $55.95)                  |
-| 64 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                        |
-| 65 | 100W Fast Charge USB-C To USB-C Nylon Braided Cable With LED Power Display, 6.5 FT $12.99                        |
-| 66 | HOT! 40GB Freedom Data + 1GB Nationwide Data + Unlimited Call/Text - $50/month (YMMV - Loyalty Offer)            |
-| 67 | Amped Wireless WiFi Range Extenders on Sale ($39.99-$69.99)                                                      |
+| 39 | Lightning deal: Upgraded Tribit MaxSound Plus Portable Bluetooth Speaker with 24W - $67.99                       |
+| 40 | $5 after code, Reg 34.99, ONLY ECHO OWNERS**, Amazon Smart Plug, Works with Alexa, Single Plug                   |
+| 41 | YMMV: Xbox Series X Plus Xbox Wireless Controller – Daystrike Camo Special Edition                               |
+| 42 | HP Victus 16.1" Gaming Laptop i7-11800H/1TB SSD/16GB RAM/RTX 3060 - 1499$                                        |
+| 43 | LG OLED 65" A1 $1,589.99 (Costco in-store)                                                                       |
+| 44 | AirPods Max Silver @ $620 (20% OFF)                                                                              |
+| 45 | Chromebook 10e tablet 129$ less rakuten                                                                          |
+| 46 | Seagate Ironwolf 16TB NAS drive $250 off, $469                                                                   |
+| 47 | LG SH2 Home 100W 2.1 Channel Soundbar -- $99                                                                     |
+| 48 | PS4 Marvel's Avengers $9.98 !                                                                                    |
+| 49 | Eyez-On Envisalink 4, makes your old alarm panel into a smart panel, $109.95 Deal is back on Amazon              |
+| 50 | ASUS VivoBook, 15.6" FHD OLED, i5-1135G7/16GB/1TB, $850                                                          |
+| 51 | Jabra Refurbished Deals 75T/65.99 - 75t Active/83.99 - 85t/103.99                                                |
+| 52 | Apple iPad Smart Keyboard ($59.96 Clearance - originally $219.00) - YMMV In Store only                           |
+| 53 | SpongeBob Battle For Bikini Bottom: Rehydrated for iOS/Android - $1.39/$1.19 ~90% OFF (was $11.99)               |
+| 54 | Logitech MX Master 3 - US site - 122$ CAD tax in or 110$ CAD tax in with no Amazon shipping fee                  |
+| 55 | Pharmaprix Instore liquidation HP Portable SSD P500 $50 (list price $100)                                        |
+| 56 | Amped Wireless WiFi Range Extenders on Sale ($39.99-$69.99)                                                      |
+| 57 | DJI Mavic Mini 2 Bundle $570                                                                                     |
+| 58 | $45 25gb + $300 bill credit per line [win back]                                                                  |
+| 59 | 59.99, reg $100+, EVGA Z15 Mechanical Gaming Keyboard - Hotswappable Silver or Bronze Switch, multiple retailers |
+| 60 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                      |
+| 61 | AmazonBasics AA Rechargeable Batteries (16-Pack) - 22.67 or lower with S&S                                       |
+| 62 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                        |
+| 63 | Acer 27" 1440p WQHD 170Hz Monitor 299.99$                                                                        |
+| 64 | SAMSUNG 256GB BAR Plus USB 3.1 Flash Drive, 400MB/s read, 116MB/s write. $44.99 - matches All Time Low           |
+| 65 | Anker Soundcore Liberty Air 2 Truly Wireless Bluetooth Earphones $59.99                                          |
+| 66 | Rogers Ignite internet 1gbps *possible ymmv                                                                      |
+| 67 | DLink Wi-Fi Water Sensor DCH-S161 2 pack $59.97 YMMV                                                             |
 | 68 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                     |
-| 69 | **OOS** Samsung HW-R550 (320W) Soundbar with Subwoofer (open box) - $99                                          |
-| 70 | SanDisk 128GB Ultra Fit USB 3.1 Flash Drive - SDCZ430-128G-G46 - $20.00                                          |
-| 71 | 59.99, reg $100+, EVGA Z15 Mechanical Gaming Keyboard - Hotswappable Silver or Bronze Switch, multiple retailers |
-| 72 | persona 5 Royale $31.99 digital sale                                                                             |
-| 73 | Chromebook 10e tablet 129$ less rakuten                                                                          |
-| 74 | Anker USB-C Charger 65W GaN Slim Fast Wall Charger $46.74 Lightning Deal / Warm                                  |
-| 75 | iPhone 12 $50 & iPhone 13 $64 w/ Big Gig Unlimited 15GB (YMMV - Loyalty/CSR)                                     |
-| 76 | LG OLED 65" A1 $1,589.99 (Costco in-store)                                                                       |
-| 77 | Sony WH-1000XM3 refurbished for $149.99 [QC]                                                                     |
-| 78 | $45 25gb + $300 bill credit per line [win back]                                                                  |
-| 79 | Super Bomberman R for Playstation - Great local multiplayer - $8.99 (85% OFF)                                    |
-| 80 | PS Store Demons souls $51.29                                                                                     |
-| 81 | Telus EPP 20GB/$50 BYOD                                                                                          |
-| 82 | HP Victus 16.1" Gaming Laptop i7-11800H/1TB SSD/16GB RAM/RTX 3060 - 1499$                                        |
-| 83 | Eyez-On Envisalink 4, makes your old alarm panel into a smart panel, $109.95 Deal is back on Amazon              |
-| 84 | Ender 3-v2 in store 329.99 Dufferin/Wilson store                                                                 |
-| 85 | YMMV: Xbox Series X Plus Xbox Wireless Controller – Daystrike Camo Special Edition                               |
-| 86 | AMAZON.CA 199$ SAMSUNG 24-Inch CRG5 144Hz Curved Gaming Monitor 1920 x 1080p (LC24RG50FQNXZA)                    |
-| 87 | Gods Will Fall - FREE until Jan 13th @ 11am EST                                                                  |
-| 88 | Pokemon Go Johto Tour Ticket for $10.70 for Samsung Phone Users (Reg $16.99)                                     |
-| 89 | PDF Converter by Readdle (iOS) - Free                                                                            |
+| 69 | Lightning deal: Upgraded Tribit MaxSound Plus Portable Bluetooth Speaker with 24W - $67.99                       |
+| 70 | $5 after code, Reg 34.99, ONLY ECHO OWNERS**, Amazon Smart Plug, Works with Alexa, Single Plug                   |
+| 71 | YMMV: Xbox Series X Plus Xbox Wireless Controller – Daystrike Camo Special Edition                               |
+| 72 | HP Victus 16.1" Gaming Laptop i7-11800H/1TB SSD/16GB RAM/RTX 3060 - 1499$                                        |
+| 73 | LG OLED 65" A1 $1,589.99 (Costco in-store)                                                                       |
+| 74 | AirPods Max Silver @ $620 (20% OFF)                                                                              |
+| 75 | Chromebook 10e tablet 129$ less rakuten                                                                          |
+| 76 | Seagate Ironwolf 16TB NAS drive $250 off, $469                                                                   |
+| 77 | LG SH2 Home 100W 2.1 Channel Soundbar -- $99                                                                     |
+| 78 | PS4 Marvel's Avengers $9.98 !                                                                                    |
+| 79 | Eyez-On Envisalink 4, makes your old alarm panel into a smart panel, $109.95 Deal is back on Amazon              |
+| 80 | ASUS VivoBook, 15.6" FHD OLED, i5-1135G7/16GB/1TB, $850                                                          |
+| 81 | Jabra Refurbished Deals 75T/65.99 - 75t Active/83.99 - 85t/103.99                                                |
+| 82 | Apple iPad Smart Keyboard ($59.96 Clearance - originally $219.00) - YMMV In Store only                           |
+| 83 | SpongeBob Battle For Bikini Bottom: Rehydrated for iOS/Android - $1.39/$1.19 ~90% OFF (was $11.99)               |
+| 84 | Logitech MX Master 3 - US site - 122$ CAD tax in or 110$ CAD tax in with no Amazon shipping fee                  |
+| 85 | Pharmaprix Instore liquidation HP Portable SSD P500 $50 (list price $100)                                        |
+| 86 | Amped Wireless WiFi Range Extenders on Sale ($39.99-$69.99)                                                      |
+| 87 | DJI Mavic Mini 2 Bundle $570                                                                                     |
+| 88 | $45 25gb + $300 bill credit per line [win back]                                                                  |
+| 89 | 59.99, reg $100+, EVGA Z15 Mechanical Gaming Keyboard - Hotswappable Silver or Bronze Switch, multiple retailers |
