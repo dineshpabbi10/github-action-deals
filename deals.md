@@ -1,8 +1,8 @@
 |    | deals                                                                                                            |
 |---:|:-----------------------------------------------------------------------------------------------------------------|
-|  0 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                      |
-|  1 | AmazonBasics AA Rechargeable Batteries (16-Pack) - 22.67 or lower with S&S                                       |
-|  2 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                        |
+|  0 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                        |
+|  1 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                      |
+|  2 | AmazonBasics AA Rechargeable Batteries (16-Pack) - 22.67 or lower with S&S                                       |
 |  3 | Acer 27" 1440p WQHD 170Hz Monitor 299.99$                                                                        |
 |  4 | SAMSUNG 256GB BAR Plus USB 3.1 Flash Drive, 400MB/s read, 116MB/s write. $44.99 - matches All Time Low           |
 |  5 | Anker Soundcore Liberty Air 2 Truly Wireless Bluetooth Earphones $59.99                                          |
@@ -31,8 +31,8 @@
 | 28 | $45 25gb + $300 bill credit per line [win back]                                                                  |
 | 29 | 59.99, reg $100+, EVGA Z15 Mechanical Gaming Keyboard - Hotswappable Silver or Bronze Switch, multiple retailers |
 | 30 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                      |
-| 31 | AmazonBasics AA Rechargeable Batteries (16-Pack) - 22.67 or lower with S&S                                       |
-| 32 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                        |
+| 31 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                        |
+| 32 | AmazonBasics AA Rechargeable Batteries (16-Pack) - 22.67 or lower with S&S                                       |
 | 33 | Acer 27" 1440p WQHD 170Hz Monitor 299.99$                                                                        |
 | 34 | SAMSUNG 256GB BAR Plus USB 3.1 Flash Drive, 400MB/s read, 116MB/s write. $44.99 - matches All Time Low           |
 | 35 | Anker Soundcore Liberty Air 2 Truly Wireless Bluetooth Earphones $59.99                                          |
@@ -61,8 +61,8 @@
 | 58 | $45 25gb + $300 bill credit per line [win back]                                                                  |
 | 59 | 59.99, reg $100+, EVGA Z15 Mechanical Gaming Keyboard - Hotswappable Silver or Bronze Switch, multiple retailers |
 | 60 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                      |
-| 61 | AmazonBasics AA Rechargeable Batteries (16-Pack) - 22.67 or lower with S&S                                       |
-| 62 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                        |
+| 61 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                        |
+| 62 | AmazonBasics AA Rechargeable Batteries (16-Pack) - 22.67 or lower with S&S                                       |
 | 63 | Acer 27" 1440p WQHD 170Hz Monitor 299.99$                                                                        |
 | 64 | SAMSUNG 256GB BAR Plus USB 3.1 Flash Drive, 400MB/s read, 116MB/s write. $44.99 - matches All Time Low           |
 | 65 | Anker Soundcore Liberty Air 2 Truly Wireless Bluetooth Earphones $59.99                                          |
