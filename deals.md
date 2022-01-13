@@ -1,92 +1,92 @@
-|    | deals                                                                                                            |
-|---:|:-----------------------------------------------------------------------------------------------------------------|
-|  0 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                        |
-|  1 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                      |
-|  2 | AmazonBasics AA Rechargeable Batteries (16-Pack) - 22.67 or lower with S&S                                       |
-|  3 | Acer 27" 1440p WQHD 170Hz Monitor 299.99$                                                                        |
-|  4 | SAMSUNG 256GB BAR Plus USB 3.1 Flash Drive, 400MB/s read, 116MB/s write. $44.99 - matches All Time Low           |
-|  5 | Anker Soundcore Liberty Air 2 Truly Wireless Bluetooth Earphones $59.99                                          |
-|  6 | Rogers Ignite internet 1gbps *possible ymmv                                                                      |
-|  7 | DLink Wi-Fi Water Sensor DCH-S161 2 pack $59.97 YMMV                                                             |
-|  8 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                     |
-|  9 | Lightning deal: Upgraded Tribit MaxSound Plus Portable Bluetooth Speaker with 24W - $67.99                       |
-| 10 | $5 after code, Reg 34.99, ONLY ECHO OWNERS**, Amazon Smart Plug, Works with Alexa, Single Plug                   |
-| 11 | YMMV: Xbox Series X Plus Xbox Wireless Controller – Daystrike Camo Special Edition                               |
-| 12 | HP Victus 16.1" Gaming Laptop i7-11800H/1TB SSD/16GB RAM/RTX 3060 - 1499$                                        |
-| 13 | LG OLED 65" A1 $1,589.99 (Costco in-store)                                                                       |
-| 14 | AirPods Max Silver @ $620 (20% OFF)                                                                              |
-| 15 | Chromebook 10e tablet 129$ less rakuten                                                                          |
-| 16 | Seagate Ironwolf 16TB NAS drive $250 off, $469                                                                   |
-| 17 | LG SH2 Home 100W 2.1 Channel Soundbar -- $99                                                                     |
-| 18 | PS4 Marvel's Avengers $9.98 !                                                                                    |
-| 19 | Eyez-On Envisalink 4, makes your old alarm panel into a smart panel, $109.95 Deal is back on Amazon              |
-| 20 | ASUS VivoBook, 15.6" FHD OLED, i5-1135G7/16GB/1TB, $850                                                          |
-| 21 | Jabra Refurbished Deals 75T/65.99 - 75t Active/83.99 - 85t/103.99                                                |
-| 22 | Apple iPad Smart Keyboard ($59.96 Clearance - originally $219.00) - YMMV In Store only                           |
-| 23 | SpongeBob Battle For Bikini Bottom: Rehydrated for iOS/Android - $1.39/$1.19 ~90% OFF (was $11.99)               |
-| 24 | Logitech MX Master 3 - US site - 122$ CAD tax in or 110$ CAD tax in with no Amazon shipping fee                  |
-| 25 | Pharmaprix Instore liquidation HP Portable SSD P500 $50 (list price $100)                                        |
-| 26 | Amped Wireless WiFi Range Extenders on Sale ($39.99-$69.99)                                                      |
-| 27 | DJI Mavic Mini 2 Bundle $570                                                                                     |
-| 28 | $45 25gb + $300 bill credit per line [win back]                                                                  |
-| 29 | 59.99, reg $100+, EVGA Z15 Mechanical Gaming Keyboard - Hotswappable Silver or Bronze Switch, multiple retailers |
-| 30 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                      |
-| 31 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                        |
-| 32 | AmazonBasics AA Rechargeable Batteries (16-Pack) - 22.67 or lower with S&S                                       |
-| 33 | Acer 27" 1440p WQHD 170Hz Monitor 299.99$                                                                        |
-| 34 | SAMSUNG 256GB BAR Plus USB 3.1 Flash Drive, 400MB/s read, 116MB/s write. $44.99 - matches All Time Low           |
-| 35 | Anker Soundcore Liberty Air 2 Truly Wireless Bluetooth Earphones $59.99                                          |
-| 36 | Rogers Ignite internet 1gbps *possible ymmv                                                                      |
-| 37 | DLink Wi-Fi Water Sensor DCH-S161 2 pack $59.97 YMMV                                                             |
-| 38 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                     |
-| 39 | Lightning deal: Upgraded Tribit MaxSound Plus Portable Bluetooth Speaker with 24W - $67.99                       |
-| 40 | $5 after code, Reg 34.99, ONLY ECHO OWNERS**, Amazon Smart Plug, Works with Alexa, Single Plug                   |
-| 41 | YMMV: Xbox Series X Plus Xbox Wireless Controller – Daystrike Camo Special Edition                               |
-| 42 | HP Victus 16.1" Gaming Laptop i7-11800H/1TB SSD/16GB RAM/RTX 3060 - 1499$                                        |
-| 43 | LG OLED 65" A1 $1,589.99 (Costco in-store)                                                                       |
-| 44 | AirPods Max Silver @ $620 (20% OFF)                                                                              |
-| 45 | Chromebook 10e tablet 129$ less rakuten                                                                          |
-| 46 | Seagate Ironwolf 16TB NAS drive $250 off, $469                                                                   |
-| 47 | LG SH2 Home 100W 2.1 Channel Soundbar -- $99                                                                     |
-| 48 | PS4 Marvel's Avengers $9.98 !                                                                                    |
-| 49 | Eyez-On Envisalink 4, makes your old alarm panel into a smart panel, $109.95 Deal is back on Amazon              |
-| 50 | ASUS VivoBook, 15.6" FHD OLED, i5-1135G7/16GB/1TB, $850                                                          |
-| 51 | Jabra Refurbished Deals 75T/65.99 - 75t Active/83.99 - 85t/103.99                                                |
-| 52 | Apple iPad Smart Keyboard ($59.96 Clearance - originally $219.00) - YMMV In Store only                           |
-| 53 | SpongeBob Battle For Bikini Bottom: Rehydrated for iOS/Android - $1.39/$1.19 ~90% OFF (was $11.99)               |
-| 54 | Logitech MX Master 3 - US site - 122$ CAD tax in or 110$ CAD tax in with no Amazon shipping fee                  |
-| 55 | Pharmaprix Instore liquidation HP Portable SSD P500 $50 (list price $100)                                        |
-| 56 | Amped Wireless WiFi Range Extenders on Sale ($39.99-$69.99)                                                      |
-| 57 | DJI Mavic Mini 2 Bundle $570                                                                                     |
-| 58 | $45 25gb + $300 bill credit per line [win back]                                                                  |
-| 59 | 59.99, reg $100+, EVGA Z15 Mechanical Gaming Keyboard - Hotswappable Silver or Bronze Switch, multiple retailers |
-| 60 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                      |
-| 61 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                        |
-| 62 | AmazonBasics AA Rechargeable Batteries (16-Pack) - 22.67 or lower with S&S                                       |
-| 63 | Acer 27" 1440p WQHD 170Hz Monitor 299.99$                                                                        |
-| 64 | SAMSUNG 256GB BAR Plus USB 3.1 Flash Drive, 400MB/s read, 116MB/s write. $44.99 - matches All Time Low           |
-| 65 | Anker Soundcore Liberty Air 2 Truly Wireless Bluetooth Earphones $59.99                                          |
-| 66 | Rogers Ignite internet 1gbps *possible ymmv                                                                      |
-| 67 | DLink Wi-Fi Water Sensor DCH-S161 2 pack $59.97 YMMV                                                             |
-| 68 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                     |
-| 69 | Lightning deal: Upgraded Tribit MaxSound Plus Portable Bluetooth Speaker with 24W - $67.99                       |
-| 70 | $5 after code, Reg 34.99, ONLY ECHO OWNERS**, Amazon Smart Plug, Works with Alexa, Single Plug                   |
-| 71 | YMMV: Xbox Series X Plus Xbox Wireless Controller – Daystrike Camo Special Edition                               |
-| 72 | HP Victus 16.1" Gaming Laptop i7-11800H/1TB SSD/16GB RAM/RTX 3060 - 1499$                                        |
-| 73 | LG OLED 65" A1 $1,589.99 (Costco in-store)                                                                       |
-| 74 | AirPods Max Silver @ $620 (20% OFF)                                                                              |
-| 75 | Chromebook 10e tablet 129$ less rakuten                                                                          |
-| 76 | Seagate Ironwolf 16TB NAS drive $250 off, $469                                                                   |
-| 77 | LG SH2 Home 100W 2.1 Channel Soundbar -- $99                                                                     |
-| 78 | PS4 Marvel's Avengers $9.98 !                                                                                    |
-| 79 | Eyez-On Envisalink 4, makes your old alarm panel into a smart panel, $109.95 Deal is back on Amazon              |
-| 80 | ASUS VivoBook, 15.6" FHD OLED, i5-1135G7/16GB/1TB, $850                                                          |
-| 81 | Jabra Refurbished Deals 75T/65.99 - 75t Active/83.99 - 85t/103.99                                                |
-| 82 | Apple iPad Smart Keyboard ($59.96 Clearance - originally $219.00) - YMMV In Store only                           |
-| 83 | SpongeBob Battle For Bikini Bottom: Rehydrated for iOS/Android - $1.39/$1.19 ~90% OFF (was $11.99)               |
-| 84 | Logitech MX Master 3 - US site - 122$ CAD tax in or 110$ CAD tax in with no Amazon shipping fee                  |
-| 85 | Pharmaprix Instore liquidation HP Portable SSD P500 $50 (list price $100)                                        |
-| 86 | Amped Wireless WiFi Range Extenders on Sale ($39.99-$69.99)                                                      |
-| 87 | DJI Mavic Mini 2 Bundle $570                                                                                     |
-| 88 | $45 25gb + $300 bill credit per line [win back]                                                                  |
-| 89 | 59.99, reg $100+, EVGA Z15 Mechanical Gaming Keyboard - Hotswappable Silver or Bronze Switch, multiple retailers |
+|    | deals                                                                                                                  |
+|---:|:-----------------------------------------------------------------------------------------------------------------------|
+|  0 | Two official wireless NES controllers for Switch                                                                       |
+|  1 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                            |
+|  2 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                              |
+|  3 | Cheap Entry-level 4G phone - Blackview A80 $110.23                                                                     |
+|  4 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
+|  5 | 100W Fast Charge USB-C To USB-C Nylon Braided Cable With LED Power Display, 6.5 FT $9.99                               |
+|  6 | Dell 27 inch monitors - QHD for $243, 4K UHD for $315, QHD Gaming for $450                                             |
+|  7 | PUBG: BATTLEGROUNDS is now FREE TO PLAY, Previous Owners get Rewards!                                                  |
+|  8 | (Refurb) Lenovo IdeaPad Flex 5 14ARE05 14" FHD Touchscreen Ryzen 7 4700U, 16GB DDR4, 512GB SSD - $521.36 FREE SHIPPING |
+|  9 | Open box Apple watch 6 40mm $394.96                                                                                    |
+| 10 | Samsung Galaxy Tab S6 Lite, 64 GB $279.98 (or less with trade-in or coupons)                                           |
+| 11 | Twinkly Lights 600 String $139 (Back in stock) at the Bay online                                                       |
+| 12 | $4 [87% OFF] Monster Mobile 4-Port USB Rapid Charging Hub                                                              |
+| 13 | Apple iPad Smart Keyboard ($59.96 Clearance - originally $219.00) - YMMV In Store only                                 |
+| 14 | Jabra Elite/Active 75t Refurbished for $65.99/$83.99(no tax) + free shipping from Jabra                                |
+| 15 | 59.99, reg $100+, EVGA Z15 Mechanical Gaming Keyboard - Hotswappable Silver or Bronze Switch, multiple retailers       |
+| 16 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $70                    |
+| 17 | HOT - Leef iBridge Air 128GB Wireless Streaming Drive - $19.97 (Reg. $79.97)                                           |
+| 18 | Seasonic FOCUS Plus Series 550W 80+ Gold ATX12V Full Modular 120mm - $49.99                                            |
+| 19 | WD Red Pro WD181KFGX 18TB 7200 RPM 512MB Cache SATA 6.0Gb/s 3.5" Internal Hard Drive - OEM - $509 (save 40%)           |
+| 20 | Dell 27" IPS Gaming Monitor 165hz 1440p (S2721DGF) - Open Box - $330                                                   |
+| 21 | Jabra Refurbished Deals 75T/65.99 - 75t Active/83.99 - 85t/103.99                                                      |
+| 22 | WD Red Pro 12TB NAS Internal Hard Drive $384.99 (16% off)                                                              |
+| 23 | Moto Edge (2021) $200 on $45 7Gb plan BEFORE credits                                                                   |
+| 24 | Switch Wired Controllers (2 Pack) 49.99 (Ontario?)                                                                     |
+| 25 | DLink Wi-Fi Water Sensor DCH-S161 2 pack $59.97 YMMV                                                                   |
+| 26 | Possibly "price error" MSI Katana GF66 15.6 for $1149.99 ($350 savings)                                                |
+| 27 | HOT! 40GB Freedom Data + 1GB Nationwide Data + Unlimited Call/Text - $50/month (YMMV - Loyalty Offer)                  |
+| 28 | Nest Hub 2nd Gen back at $69.99                                                                                        |
+| 29 | AmazonBasics AA Rechargeable Batteries (16-Pack) - 22.67 or lower with S&S                                             |
+| 30 | Two official wireless NES controllers for Switch                                                                       |
+| 31 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                            |
+| 32 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                              |
+| 33 | Cheap Entry-level 4G phone - Blackview A80 $110.23                                                                     |
+| 34 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
+| 35 | 100W Fast Charge USB-C To USB-C Nylon Braided Cable With LED Power Display, 6.5 FT $9.99                               |
+| 36 | Dell 27 inch monitors - QHD for $243, 4K UHD for $315, QHD Gaming for $450                                             |
+| 37 | PUBG: BATTLEGROUNDS is now FREE TO PLAY, Previous Owners get Rewards!                                                  |
+| 38 | (Refurb) Lenovo IdeaPad Flex 5 14ARE05 14" FHD Touchscreen Ryzen 7 4700U, 16GB DDR4, 512GB SSD - $521.36 FREE SHIPPING |
+| 39 | Open box Apple watch 6 40mm $394.96                                                                                    |
+| 40 | Samsung Galaxy Tab S6 Lite, 64 GB $279.98 (or less with trade-in or coupons)                                           |
+| 41 | Twinkly Lights 600 String $139 (Back in stock) at the Bay online                                                       |
+| 42 | $4 [87% OFF] Monster Mobile 4-Port USB Rapid Charging Hub                                                              |
+| 43 | Apple iPad Smart Keyboard ($59.96 Clearance - originally $219.00) - YMMV In Store only                                 |
+| 44 | Jabra Elite/Active 75t Refurbished for $65.99/$83.99(no tax) + free shipping from Jabra                                |
+| 45 | 59.99, reg $100+, EVGA Z15 Mechanical Gaming Keyboard - Hotswappable Silver or Bronze Switch, multiple retailers       |
+| 46 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $70                    |
+| 47 | HOT - Leef iBridge Air 128GB Wireless Streaming Drive - $19.97 (Reg. $79.97)                                           |
+| 48 | Seasonic FOCUS Plus Series 550W 80+ Gold ATX12V Full Modular 120mm - $49.99                                            |
+| 49 | WD Red Pro WD181KFGX 18TB 7200 RPM 512MB Cache SATA 6.0Gb/s 3.5" Internal Hard Drive - OEM - $509 (save 40%)           |
+| 50 | Dell 27" IPS Gaming Monitor 165hz 1440p (S2721DGF) - Open Box - $330                                                   |
+| 51 | Jabra Refurbished Deals 75T/65.99 - 75t Active/83.99 - 85t/103.99                                                      |
+| 52 | WD Red Pro 12TB NAS Internal Hard Drive $384.99 (16% off)                                                              |
+| 53 | Moto Edge (2021) $200 on $45 7Gb plan BEFORE credits                                                                   |
+| 54 | Switch Wired Controllers (2 Pack) 49.99 (Ontario?)                                                                     |
+| 55 | DLink Wi-Fi Water Sensor DCH-S161 2 pack $59.97 YMMV                                                                   |
+| 56 | Possibly "price error" MSI Katana GF66 15.6 for $1149.99 ($350 savings)                                                |
+| 57 | HOT! 40GB Freedom Data + 1GB Nationwide Data + Unlimited Call/Text - $50/month (YMMV - Loyalty Offer)                  |
+| 58 | Nest Hub 2nd Gen back at $69.99                                                                                        |
+| 59 | AmazonBasics AA Rechargeable Batteries (16-Pack) - 22.67 or lower with S&S                                             |
+| 60 | Two official wireless NES controllers for Switch                                                                       |
+| 61 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                            |
+| 62 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                              |
+| 63 | Cheap Entry-level 4G phone - Blackview A80 $110.23                                                                     |
+| 64 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
+| 65 | 100W Fast Charge USB-C To USB-C Nylon Braided Cable With LED Power Display, 6.5 FT $9.99                               |
+| 66 | Dell 27 inch monitors - QHD for $243, 4K UHD for $315, QHD Gaming for $450                                             |
+| 67 | PUBG: BATTLEGROUNDS is now FREE TO PLAY, Previous Owners get Rewards!                                                  |
+| 68 | (Refurb) Lenovo IdeaPad Flex 5 14ARE05 14" FHD Touchscreen Ryzen 7 4700U, 16GB DDR4, 512GB SSD - $521.36 FREE SHIPPING |
+| 69 | Open box Apple watch 6 40mm $394.96                                                                                    |
+| 70 | Samsung Galaxy Tab S6 Lite, 64 GB $279.98 (or less with trade-in or coupons)                                           |
+| 71 | Twinkly Lights 600 String $139 (Back in stock) at the Bay online                                                       |
+| 72 | $4 [87% OFF] Monster Mobile 4-Port USB Rapid Charging Hub                                                              |
+| 73 | Apple iPad Smart Keyboard ($59.96 Clearance - originally $219.00) - YMMV In Store only                                 |
+| 74 | Jabra Elite/Active 75t Refurbished for $65.99/$83.99(no tax) + free shipping from Jabra                                |
+| 75 | 59.99, reg $100+, EVGA Z15 Mechanical Gaming Keyboard - Hotswappable Silver or Bronze Switch, multiple retailers       |
+| 76 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $70                    |
+| 77 | HOT - Leef iBridge Air 128GB Wireless Streaming Drive - $19.97 (Reg. $79.97)                                           |
+| 78 | Seasonic FOCUS Plus Series 550W 80+ Gold ATX12V Full Modular 120mm - $49.99                                            |
+| 79 | WD Red Pro WD181KFGX 18TB 7200 RPM 512MB Cache SATA 6.0Gb/s 3.5" Internal Hard Drive - OEM - $509 (save 40%)           |
+| 80 | Dell 27" IPS Gaming Monitor 165hz 1440p (S2721DGF) - Open Box - $330                                                   |
+| 81 | Jabra Refurbished Deals 75T/65.99 - 75t Active/83.99 - 85t/103.99                                                      |
+| 82 | WD Red Pro 12TB NAS Internal Hard Drive $384.99 (16% off)                                                              |
+| 83 | Moto Edge (2021) $200 on $45 7Gb plan BEFORE credits                                                                   |
+| 84 | Switch Wired Controllers (2 Pack) 49.99 (Ontario?)                                                                     |
+| 85 | DLink Wi-Fi Water Sensor DCH-S161 2 pack $59.97 YMMV                                                                   |
+| 86 | Possibly "price error" MSI Katana GF66 15.6 for $1149.99 ($350 savings)                                                |
+| 87 | HOT! 40GB Freedom Data + 1GB Nationwide Data + Unlimited Call/Text - $50/month (YMMV - Loyalty Offer)                  |
+| 88 | Nest Hub 2nd Gen back at $69.99                                                                                        |
+| 89 | AmazonBasics AA Rechargeable Batteries (16-Pack) - 22.67 or lower with S&S                                             |
