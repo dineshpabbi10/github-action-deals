@@ -1,11 +1,11 @@
 |    | deals                                                                                                                  |
 |---:|:-----------------------------------------------------------------------------------------------------------------------|
-|  0 | Two official wireless NES controllers for Switch                                                                       |
-|  1 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                            |
-|  2 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                              |
-|  3 | Cheap Entry-level 4G phone - Blackview A80 $110.23                                                                     |
-|  4 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
-|  5 | 100W Fast Charge USB-C To USB-C Nylon Braided Cable With LED Power Display, 6.5 FT $9.99                               |
+|  0 | 100W Fast Charge USB-C To USB-C Nylon Braided Cable With LED Power Display, 6.5 FT $9.99                               |
+|  1 | Two official wireless NES controllers for Switch                                                                       |
+|  2 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                            |
+|  3 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                              |
+|  4 | Cheap Entry-level 4G phone - Blackview A80 $110.23                                                                     |
+|  5 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
 |  6 | Dell 27 inch monitors - QHD for $243, 4K UHD for $315, QHD Gaming for $450                                             |
 |  7 | PUBG: BATTLEGROUNDS is now FREE TO PLAY, Previous Owners get Rewards!                                                  |
 |  8 | (Refurb) Lenovo IdeaPad Flex 5 14ARE05 14" FHD Touchscreen Ryzen 7 4700U, 16GB DDR4, 512GB SSD - $521.36 FREE SHIPPING |
@@ -30,12 +30,12 @@
 | 27 | HOT! 40GB Freedom Data + 1GB Nationwide Data + Unlimited Call/Text - $50/month (YMMV - Loyalty Offer)                  |
 | 28 | Nest Hub 2nd Gen back at $69.99                                                                                        |
 | 29 | AmazonBasics AA Rechargeable Batteries (16-Pack) - 22.67 or lower with S&S                                             |
-| 30 | Two official wireless NES controllers for Switch                                                                       |
-| 31 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                            |
-| 32 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                              |
-| 33 | Cheap Entry-level 4G phone - Blackview A80 $110.23                                                                     |
-| 34 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
-| 35 | 100W Fast Charge USB-C To USB-C Nylon Braided Cable With LED Power Display, 6.5 FT $9.99                               |
+| 30 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                            |
+| 31 | 100W Fast Charge USB-C To USB-C Nylon Braided Cable With LED Power Display, 6.5 FT $9.99                               |
+| 32 | Two official wireless NES controllers for Switch                                                                       |
+| 33 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                              |
+| 34 | Cheap Entry-level 4G phone - Blackview A80 $110.23                                                                     |
+| 35 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
 | 36 | Dell 27 inch monitors - QHD for $243, 4K UHD for $315, QHD Gaming for $450                                             |
 | 37 | PUBG: BATTLEGROUNDS is now FREE TO PLAY, Previous Owners get Rewards!                                                  |
 | 38 | (Refurb) Lenovo IdeaPad Flex 5 14ARE05 14" FHD Touchscreen Ryzen 7 4700U, 16GB DDR4, 512GB SSD - $521.36 FREE SHIPPING |
@@ -60,12 +60,12 @@
 | 57 | HOT! 40GB Freedom Data + 1GB Nationwide Data + Unlimited Call/Text - $50/month (YMMV - Loyalty Offer)                  |
 | 58 | Nest Hub 2nd Gen back at $69.99                                                                                        |
 | 59 | AmazonBasics AA Rechargeable Batteries (16-Pack) - 22.67 or lower with S&S                                             |
-| 60 | Two official wireless NES controllers for Switch                                                                       |
-| 61 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                            |
-| 62 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                              |
-| 63 | Cheap Entry-level 4G phone - Blackview A80 $110.23                                                                     |
-| 64 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
-| 65 | 100W Fast Charge USB-C To USB-C Nylon Braided Cable With LED Power Display, 6.5 FT $9.99                               |
+| 60 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                            |
+| 61 | 100W Fast Charge USB-C To USB-C Nylon Braided Cable With LED Power Display, 6.5 FT $9.99                               |
+| 62 | Two official wireless NES controllers for Switch                                                                       |
+| 63 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                              |
+| 64 | Cheap Entry-level 4G phone - Blackview A80 $110.23                                                                     |
+| 65 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
 | 66 | Dell 27 inch monitors - QHD for $243, 4K UHD for $315, QHD Gaming for $450                                             |
 | 67 | PUBG: BATTLEGROUNDS is now FREE TO PLAY, Previous Owners get Rewards!                                                  |
 | 68 | (Refurb) Lenovo IdeaPad Flex 5 14ARE05 14" FHD Touchscreen Ryzen 7 4700U, 16GB DDR4, 512GB SSD - $521.36 FREE SHIPPING |
