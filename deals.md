@@ -1,92 +1,92 @@
-|    | deals                                                                                                                  |
-|---:|:-----------------------------------------------------------------------------------------------------------------------|
-|  0 | 100W Fast Charge USB-C To USB-C Nylon Braided Cable With LED Power Display, 6.5 FT $9.99                               |
-|  1 | Two official wireless NES controllers for Switch                                                                       |
-|  2 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                            |
-|  3 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                              |
-|  4 | Cheap Entry-level 4G phone - Blackview A80 $110.23                                                                     |
-|  5 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
-|  6 | Dell 27 inch monitors - QHD for $243, 4K UHD for $315, QHD Gaming for $450                                             |
-|  7 | PUBG: BATTLEGROUNDS is now FREE TO PLAY, Previous Owners get Rewards!                                                  |
-|  8 | (Refurb) Lenovo IdeaPad Flex 5 14ARE05 14" FHD Touchscreen Ryzen 7 4700U, 16GB DDR4, 512GB SSD - $521.36 FREE SHIPPING |
-|  9 | Open box Apple watch 6 40mm $394.96                                                                                    |
-| 10 | Samsung Galaxy Tab S6 Lite, 64 GB $279.98 (or less with trade-in or coupons)                                           |
-| 11 | Twinkly Lights 600 String $139 (Back in stock) at the Bay online                                                       |
-| 12 | $4 [87% OFF] Monster Mobile 4-Port USB Rapid Charging Hub                                                              |
-| 13 | Apple iPad Smart Keyboard ($59.96 Clearance - originally $219.00) - YMMV In Store only                                 |
-| 14 | Jabra Elite/Active 75t Refurbished for $65.99/$83.99(no tax) + free shipping from Jabra                                |
-| 15 | 59.99, reg $100+, EVGA Z15 Mechanical Gaming Keyboard - Hotswappable Silver or Bronze Switch, multiple retailers       |
-| 16 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $70                    |
-| 17 | HOT - Leef iBridge Air 128GB Wireless Streaming Drive - $19.97 (Reg. $79.97)                                           |
-| 18 | Seasonic FOCUS Plus Series 550W 80+ Gold ATX12V Full Modular 120mm - $49.99                                            |
-| 19 | WD Red Pro WD181KFGX 18TB 7200 RPM 512MB Cache SATA 6.0Gb/s 3.5" Internal Hard Drive - OEM - $509 (save 40%)           |
-| 20 | Dell 27" IPS Gaming Monitor 165hz 1440p (S2721DGF) - Open Box - $330                                                   |
-| 21 | Jabra Refurbished Deals 75T/65.99 - 75t Active/83.99 - 85t/103.99                                                      |
-| 22 | WD Red Pro 12TB NAS Internal Hard Drive $384.99 (16% off)                                                              |
-| 23 | Moto Edge (2021) $200 on $45 7Gb plan BEFORE credits                                                                   |
-| 24 | Switch Wired Controllers (2 Pack) 49.99 (Ontario?)                                                                     |
-| 25 | DLink Wi-Fi Water Sensor DCH-S161 2 pack $59.97 YMMV                                                                   |
-| 26 | Possibly "price error" MSI Katana GF66 15.6 for $1149.99 ($350 savings)                                                |
-| 27 | HOT! 40GB Freedom Data + 1GB Nationwide Data + Unlimited Call/Text - $50/month (YMMV - Loyalty Offer)                  |
-| 28 | Nest Hub 2nd Gen back at $69.99                                                                                        |
-| 29 | AmazonBasics AA Rechargeable Batteries (16-Pack) - 22.67 or lower with S&S                                             |
-| 30 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                            |
-| 31 | 100W Fast Charge USB-C To USB-C Nylon Braided Cable With LED Power Display, 6.5 FT $9.99                               |
-| 32 | Two official wireless NES controllers for Switch                                                                       |
-| 33 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                              |
-| 34 | Cheap Entry-level 4G phone - Blackview A80 $110.23                                                                     |
-| 35 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
-| 36 | Dell 27 inch monitors - QHD for $243, 4K UHD for $315, QHD Gaming for $450                                             |
-| 37 | PUBG: BATTLEGROUNDS is now FREE TO PLAY, Previous Owners get Rewards!                                                  |
-| 38 | (Refurb) Lenovo IdeaPad Flex 5 14ARE05 14" FHD Touchscreen Ryzen 7 4700U, 16GB DDR4, 512GB SSD - $521.36 FREE SHIPPING |
-| 39 | Open box Apple watch 6 40mm $394.96                                                                                    |
-| 40 | Samsung Galaxy Tab S6 Lite, 64 GB $279.98 (or less with trade-in or coupons)                                           |
-| 41 | Twinkly Lights 600 String $139 (Back in stock) at the Bay online                                                       |
-| 42 | $4 [87% OFF] Monster Mobile 4-Port USB Rapid Charging Hub                                                              |
-| 43 | Apple iPad Smart Keyboard ($59.96 Clearance - originally $219.00) - YMMV In Store only                                 |
-| 44 | Jabra Elite/Active 75t Refurbished for $65.99/$83.99(no tax) + free shipping from Jabra                                |
-| 45 | 59.99, reg $100+, EVGA Z15 Mechanical Gaming Keyboard - Hotswappable Silver or Bronze Switch, multiple retailers       |
-| 46 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $70                    |
-| 47 | HOT - Leef iBridge Air 128GB Wireless Streaming Drive - $19.97 (Reg. $79.97)                                           |
-| 48 | Seasonic FOCUS Plus Series 550W 80+ Gold ATX12V Full Modular 120mm - $49.99                                            |
-| 49 | WD Red Pro WD181KFGX 18TB 7200 RPM 512MB Cache SATA 6.0Gb/s 3.5" Internal Hard Drive - OEM - $509 (save 40%)           |
-| 50 | Dell 27" IPS Gaming Monitor 165hz 1440p (S2721DGF) - Open Box - $330                                                   |
-| 51 | Jabra Refurbished Deals 75T/65.99 - 75t Active/83.99 - 85t/103.99                                                      |
-| 52 | WD Red Pro 12TB NAS Internal Hard Drive $384.99 (16% off)                                                              |
-| 53 | Moto Edge (2021) $200 on $45 7Gb plan BEFORE credits                                                                   |
-| 54 | Switch Wired Controllers (2 Pack) 49.99 (Ontario?)                                                                     |
-| 55 | DLink Wi-Fi Water Sensor DCH-S161 2 pack $59.97 YMMV                                                                   |
-| 56 | Possibly "price error" MSI Katana GF66 15.6 for $1149.99 ($350 savings)                                                |
-| 57 | HOT! 40GB Freedom Data + 1GB Nationwide Data + Unlimited Call/Text - $50/month (YMMV - Loyalty Offer)                  |
-| 58 | Nest Hub 2nd Gen back at $69.99                                                                                        |
-| 59 | AmazonBasics AA Rechargeable Batteries (16-Pack) - 22.67 or lower with S&S                                             |
-| 60 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                            |
-| 61 | 100W Fast Charge USB-C To USB-C Nylon Braided Cable With LED Power Display, 6.5 FT $9.99                               |
-| 62 | Two official wireless NES controllers for Switch                                                                       |
-| 63 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                              |
-| 64 | Cheap Entry-level 4G phone - Blackview A80 $110.23                                                                     |
-| 65 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
-| 66 | Dell 27 inch monitors - QHD for $243, 4K UHD for $315, QHD Gaming for $450                                             |
-| 67 | PUBG: BATTLEGROUNDS is now FREE TO PLAY, Previous Owners get Rewards!                                                  |
-| 68 | (Refurb) Lenovo IdeaPad Flex 5 14ARE05 14" FHD Touchscreen Ryzen 7 4700U, 16GB DDR4, 512GB SSD - $521.36 FREE SHIPPING |
-| 69 | Open box Apple watch 6 40mm $394.96                                                                                    |
-| 70 | Samsung Galaxy Tab S6 Lite, 64 GB $279.98 (or less with trade-in or coupons)                                           |
-| 71 | Twinkly Lights 600 String $139 (Back in stock) at the Bay online                                                       |
-| 72 | $4 [87% OFF] Monster Mobile 4-Port USB Rapid Charging Hub                                                              |
-| 73 | Apple iPad Smart Keyboard ($59.96 Clearance - originally $219.00) - YMMV In Store only                                 |
-| 74 | Jabra Elite/Active 75t Refurbished for $65.99/$83.99(no tax) + free shipping from Jabra                                |
-| 75 | 59.99, reg $100+, EVGA Z15 Mechanical Gaming Keyboard - Hotswappable Silver or Bronze Switch, multiple retailers       |
-| 76 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $70                    |
-| 77 | HOT - Leef iBridge Air 128GB Wireless Streaming Drive - $19.97 (Reg. $79.97)                                           |
-| 78 | Seasonic FOCUS Plus Series 550W 80+ Gold ATX12V Full Modular 120mm - $49.99                                            |
-| 79 | WD Red Pro WD181KFGX 18TB 7200 RPM 512MB Cache SATA 6.0Gb/s 3.5" Internal Hard Drive - OEM - $509 (save 40%)           |
-| 80 | Dell 27" IPS Gaming Monitor 165hz 1440p (S2721DGF) - Open Box - $330                                                   |
-| 81 | Jabra Refurbished Deals 75T/65.99 - 75t Active/83.99 - 85t/103.99                                                      |
-| 82 | WD Red Pro 12TB NAS Internal Hard Drive $384.99 (16% off)                                                              |
-| 83 | Moto Edge (2021) $200 on $45 7Gb plan BEFORE credits                                                                   |
-| 84 | Switch Wired Controllers (2 Pack) 49.99 (Ontario?)                                                                     |
-| 85 | DLink Wi-Fi Water Sensor DCH-S161 2 pack $59.97 YMMV                                                                   |
-| 86 | Possibly "price error" MSI Katana GF66 15.6 for $1149.99 ($350 savings)                                                |
-| 87 | HOT! 40GB Freedom Data + 1GB Nationwide Data + Unlimited Call/Text - $50/month (YMMV - Loyalty Offer)                  |
-| 88 | Nest Hub 2nd Gen back at $69.99                                                                                        |
-| 89 | AmazonBasics AA Rechargeable Batteries (16-Pack) - 22.67 or lower with S&S                                             |
+|    | deals                                                                                                                |
+|---:|:---------------------------------------------------------------------------------------------------------------------|
+|  0 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                          |
+|  1 | Ipad Pro 12.9 2021 Model M1 WiFi Silver 512 GB $1399                                                                 |
+|  2 | Galactic Civilizations III - FREE until Jan 20th @ 11am EST                                                          |
+|  3 | Calamity of Undeath Epic Pack - FREE (DLC for Neverwinter - F2P Game)                                                |
+|  4 | $59.95 ATL Wacom Intuos Graphics Drawing Tablet with Bonus Software, 7.9" X 6.3", Black (CTL4100)                    |
+|  5 | Lg C1 oled 65 inch - $2269                                                                                           |
+|  6 | Samsung Galaxy Tab S6 Lite, 64 GB $279.98 (or less with trade-in or coupons)                                         |
+|  7 | Jabra Elite/Active 75t Refurbished for $65.99/$83.99(no tax) + free shipping from Jabra                              |
+|  8 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                         |
+|  9 | YMMV - Lenovo Yoga 9i (14”) - Shadow Black - $1410.74                                                                |
+| 10 | Hitman Trilogy Xbox Gamepass Jan 20th                                                                                |
+| 11 | $4 [87% OFF] Monster Mobile 4-Port USB Rapid Charging Hub                                                            |
+| 12 | [bhphotovideo.com] Netgear Nighthawk AX4 AX3000 Router 66.59 USD                                                     |
+| 13 | LG C1 OLED 55" 1697.99$ (200$ off)                                                                                   |
+| 14 | YMMV Koodo/Telus winback offer $27.5/30GB + $40 credit with 2 lines and Telus home internet                          |
+| 15 | Chromebook 10e tablet 129$ less rakuten                                                                              |
+| 16 | Two official wireless NES controllers for Switch $44.99                                                              |
+| 17 | Fongo Home Phone [VOIP] - 4 Months Free Service (New Signup) - On Till Jan 9th [Extended]                            |
+| 18 | ASUS Blue Cave AC2600 Dual-Band WiFi Router - $87.87 w/Free Shipping                                                 |
+| 19 | Amazon Prime Gaming (PC) January 2022- Better than Anticipated! Free Star Wars Jedi Fallen Order and more!           |
+| 20 | Snowrunner PS4 - $26.74 (50% off)                                                                                    |
+| 21 | Switch Wired Controllers (2 Pack) 49.99 (Ontario?)                                                                   |
+| 22 | Telus 12gb/$40 BYOD YMMV                                                                                             |
+| 23 | SanDisk 128GB Ultra Fit USB 3.1 Flash Drive - SDCZ430-128G-G46 - $20.00                                              |
+| 24 | Alienware M15 R6 - i7-11800 16GB 1TB RTX 3070 - $1999.99 (UPDATE: $1987 tax incl. with 12% rakuten)                  |
+| 25 | XPG GAMMIX S50 Lite PCIe 4.0 M.2 2280 PCIe Gen 4 x4 NVMe 1.4 Internal SSD Performance (1TB, 3900/3200MB/s) - $129.99 |
+| 26 | ETYMOTIC ER3SE & ER3XR IEMS - $ 85 USD; JVC HA-FW01 WOOD SERIES IEM - $ 240 USD (w/first order coupon)               |
+| 27 | 59.99, reg $100+, EVGA Z15 Mechanical Gaming Keyboard - Hotswappable Silver or Bronze Switch, multiple retailers     |
+| 28 | LG OLED 65" A1 $1,589.99 (Costco in-store)                                                                           |
+| 29 | AmazonBasics AA Rechargeable Batteries (16-Pack) - 22.67 or lower with S&S                                           |
+| 30 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                          |
+| 31 | Ipad Pro 12.9 2021 Model M1 WiFi Silver 512 GB $1399                                                                 |
+| 32 | Galactic Civilizations III - FREE until Jan 20th @ 11am EST                                                          |
+| 33 | Calamity of Undeath Epic Pack - FREE (DLC for Neverwinter - F2P Game)                                                |
+| 34 | $59.95 ATL Wacom Intuos Graphics Drawing Tablet with Bonus Software, 7.9" X 6.3", Black (CTL4100)                    |
+| 35 | Lg C1 oled 65 inch - $2269                                                                                           |
+| 36 | Samsung Galaxy Tab S6 Lite, 64 GB $279.98 (or less with trade-in or coupons)                                         |
+| 37 | Jabra Elite/Active 75t Refurbished for $65.99/$83.99(no tax) + free shipping from Jabra                              |
+| 38 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                         |
+| 39 | YMMV - Lenovo Yoga 9i (14”) - Shadow Black - $1410.74                                                                |
+| 40 | Hitman Trilogy Xbox Gamepass Jan 20th                                                                                |
+| 41 | $4 [87% OFF] Monster Mobile 4-Port USB Rapid Charging Hub                                                            |
+| 42 | [bhphotovideo.com] Netgear Nighthawk AX4 AX3000 Router 66.59 USD                                                     |
+| 43 | LG C1 OLED 55" 1697.99$ (200$ off)                                                                                   |
+| 44 | YMMV Koodo/Telus winback offer $27.5/30GB + $40 credit with 2 lines and Telus home internet                          |
+| 45 | Chromebook 10e tablet 129$ less rakuten                                                                              |
+| 46 | Two official wireless NES controllers for Switch $44.99                                                              |
+| 47 | Fongo Home Phone [VOIP] - 4 Months Free Service (New Signup) - On Till Jan 9th [Extended]                            |
+| 48 | ASUS Blue Cave AC2600 Dual-Band WiFi Router - $87.87 w/Free Shipping                                                 |
+| 49 | Amazon Prime Gaming (PC) January 2022- Better than Anticipated! Free Star Wars Jedi Fallen Order and more!           |
+| 50 | Snowrunner PS4 - $26.74 (50% off)                                                                                    |
+| 51 | Switch Wired Controllers (2 Pack) 49.99 (Ontario?)                                                                   |
+| 52 | Telus 12gb/$40 BYOD YMMV                                                                                             |
+| 53 | SanDisk 128GB Ultra Fit USB 3.1 Flash Drive - SDCZ430-128G-G46 - $20.00                                              |
+| 54 | Alienware M15 R6 - i7-11800 16GB 1TB RTX 3070 - $1999.99 (UPDATE: $1987 tax incl. with 12% rakuten)                  |
+| 55 | XPG GAMMIX S50 Lite PCIe 4.0 M.2 2280 PCIe Gen 4 x4 NVMe 1.4 Internal SSD Performance (1TB, 3900/3200MB/s) - $129.99 |
+| 56 | ETYMOTIC ER3SE & ER3XR IEMS - $ 85 USD; JVC HA-FW01 WOOD SERIES IEM - $ 240 USD (w/first order coupon)               |
+| 57 | 59.99, reg $100+, EVGA Z15 Mechanical Gaming Keyboard - Hotswappable Silver or Bronze Switch, multiple retailers     |
+| 58 | LG OLED 65" A1 $1,589.99 (Costco in-store)                                                                           |
+| 59 | AmazonBasics AA Rechargeable Batteries (16-Pack) - 22.67 or lower with S&S                                           |
+| 60 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                          |
+| 61 | Ipad Pro 12.9 2021 Model M1 WiFi Silver 512 GB $1399                                                                 |
+| 62 | Galactic Civilizations III - FREE until Jan 20th @ 11am EST                                                          |
+| 63 | Calamity of Undeath Epic Pack - FREE (DLC for Neverwinter - F2P Game)                                                |
+| 64 | $59.95 ATL Wacom Intuos Graphics Drawing Tablet with Bonus Software, 7.9" X 6.3", Black (CTL4100)                    |
+| 65 | Lg C1 oled 65 inch - $2269                                                                                           |
+| 66 | Samsung Galaxy Tab S6 Lite, 64 GB $279.98 (or less with trade-in or coupons)                                         |
+| 67 | Jabra Elite/Active 75t Refurbished for $65.99/$83.99(no tax) + free shipping from Jabra                              |
+| 68 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                         |
+| 69 | YMMV - Lenovo Yoga 9i (14”) - Shadow Black - $1410.74                                                                |
+| 70 | Hitman Trilogy Xbox Gamepass Jan 20th                                                                                |
+| 71 | $4 [87% OFF] Monster Mobile 4-Port USB Rapid Charging Hub                                                            |
+| 72 | [bhphotovideo.com] Netgear Nighthawk AX4 AX3000 Router 66.59 USD                                                     |
+| 73 | LG C1 OLED 55" 1697.99$ (200$ off)                                                                                   |
+| 74 | YMMV Koodo/Telus winback offer $27.5/30GB + $40 credit with 2 lines and Telus home internet                          |
+| 75 | Chromebook 10e tablet 129$ less rakuten                                                                              |
+| 76 | Two official wireless NES controllers for Switch $44.99                                                              |
+| 77 | Fongo Home Phone [VOIP] - 4 Months Free Service (New Signup) - On Till Jan 9th [Extended]                            |
+| 78 | ASUS Blue Cave AC2600 Dual-Band WiFi Router - $87.87 w/Free Shipping                                                 |
+| 79 | Amazon Prime Gaming (PC) January 2022- Better than Anticipated! Free Star Wars Jedi Fallen Order and more!           |
+| 80 | Snowrunner PS4 - $26.74 (50% off)                                                                                    |
+| 81 | Switch Wired Controllers (2 Pack) 49.99 (Ontario?)                                                                   |
+| 82 | Telus 12gb/$40 BYOD YMMV                                                                                             |
+| 83 | SanDisk 128GB Ultra Fit USB 3.1 Flash Drive - SDCZ430-128G-G46 - $20.00                                              |
+| 84 | Alienware M15 R6 - i7-11800 16GB 1TB RTX 3070 - $1999.99 (UPDATE: $1987 tax incl. with 12% rakuten)                  |
+| 85 | XPG GAMMIX S50 Lite PCIe 4.0 M.2 2280 PCIe Gen 4 x4 NVMe 1.4 Internal SSD Performance (1TB, 3900/3200MB/s) - $129.99 |
+| 86 | ETYMOTIC ER3SE & ER3XR IEMS - $ 85 USD; JVC HA-FW01 WOOD SERIES IEM - $ 240 USD (w/first order coupon)               |
+| 87 | 59.99, reg $100+, EVGA Z15 Mechanical Gaming Keyboard - Hotswappable Silver or Bronze Switch, multiple retailers     |
+| 88 | LG OLED 65" A1 $1,589.99 (Costco in-store)                                                                           |
+| 89 | AmazonBasics AA Rechargeable Batteries (16-Pack) - 22.67 or lower with S&S                                           |
