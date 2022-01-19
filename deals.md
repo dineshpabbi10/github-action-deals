@@ -1,92 +1,92 @@
 |    | deals                                                                                                                    |
 |---:|:-------------------------------------------------------------------------------------------------------------------------|
-|  0 | ASRock Z390 Phantom Gaming 4S/AC Intel Z390 SATA 6Gb/s ATX Intel Motherboard - OEM Socket 1151 $49.99                    |
-|  1 | Chromebook 10e tablet 129$ less rakuten                                                                                  |
-|  2 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                              |
-|  3 | AmazonBasics Rotating 6-Outlet Surge Protector Wall Mount, 1080 Joules - $15.77 (ATL)                                    |
-|  4 | Dell XPS Special Edition ( i7-11700 + 3060 Ti 8GB (LHR) +16GB, 16Gx1, DDR4, 2933MHz) for $1649 ($750 off)                |
-|  5 | LG UltraGear 34GP83A-B 34 Inch 21:9 Curved QHD (3440 x 1440) 1ms Nano IPS Gaming Monitor with 160Hz and G-SYNC - $799.99 |
-|  6 | Gaming Monitor LG Ultragear 27GL83A-B 27 inch 16:9 QHD IPS 144Hz 1ms NVIDIA G-SYNC (379.99)                              |
-|  7 | Audio-Technica ATH-CKR7TW (Discontinued) $49.99 down from $149.99                                                        |
-|  8 | [Store4PC] Sabrent 1TB Rocket 4 PLUS NVMe 4.0 Gen4 PCIe M.2 <$178.48>                                                    |
-|  9 | [NewEggCanada] Seasonic PRIME GX-750, 750W 80+ Gold, Full Modular - $108 F/S                                             |
-| 10 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                             |
-| 11 | Eyez-On Envisalink 4, makes your old alarm panel into a smart panel, $109.95 Deal is back on Amazon                      |
-| 12 | Samsung Galaxy Tab S6 Lite, 64 GB $279.98 / 128 GB $329.99 (or less with trade-in or coupons) back in stock              |
-| 13 | DLink Wi-Fi Water Sensor DCH-S161 2 pack $59.97 YMMV                                                                     |
-| 14 | Monster Wireless Earbuds $65 to $80                                                                                      |
-| 15 | ADATA XPG GAMMIX S70 1TB NVMe PCIe 4.0 SSD - 7400/6800 Mb/s - $159.99                                                    |
-| 16 | WD Red Pro WD181KFGX 18TB 7200 RPM 512MB Cache SATA 6.0Gb/s 3.5" Internal Hard Drive - OEM - $509 (save 40%)             |
-| 17 | Telus offers $9.95 internet for low-income seniors in AB & BC                                                            |
-| 18 | HP Stream 14-dq2010ca FHD laptop - Intel Pentium Gold 7505, 4GB, 128GB, FHD 14" IPS Screen - $359.99 + 10% CB = $325     |
-| 19 | 20% off all refurbish                                                                                                    |
-| 20 | FiiO BTR5 HIFi Bluetooth Amp + USB DAC $59.99                                                                            |
-| 21 | CIBC DIVIDEND VISA INFINITE CARD 10% cash back for 4 months ($200) and a year free annual fee (120)                      |
-| 22 | Toad Treasure Tracker for Switch, full game free trial until Jan 20th                                                    |
-| 23 | SanDisk 128GB Ultra Fit USB 3.1 Flash Drive - SDCZ430-128G-G46 - $20.00                                                  |
-| 24 | ASUS Blue Cave AC2600 Dual-Band WiFi Router - $87.87 w/Free Shipping                                                     |
-| 25 | Wicked Audio Torc True Wireless Earbud $9.97                                                                             |
-| 26 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                                       |
-| 27 | Wyze Lamp Socket [$16.98 USD + Shipping]                                                                                 |
-| 28 | Etymotic ER2XR In-Ear Monitors/ear buds - $92.51                                                                         |
-| 29 | YMMY: Get 40% points back when spend min 50,000 points                                                                   |
-| 30 | ASRock Z390 Phantom Gaming 4S/AC Intel Z390 SATA 6Gb/s ATX Intel Motherboard - OEM Socket 1151 $49.99                    |
-| 31 | Chromebook 10e tablet 129$ less rakuten                                                                                  |
-| 32 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                              |
-| 33 | AmazonBasics Rotating 6-Outlet Surge Protector Wall Mount, 1080 Joules - $15.77 (ATL)                                    |
-| 34 | Dell XPS Special Edition ( i7-11700 + 3060 Ti 8GB (LHR) +16GB, 16Gx1, DDR4, 2933MHz) for $1649 ($750 off)                |
-| 35 | LG UltraGear 34GP83A-B 34 Inch 21:9 Curved QHD (3440 x 1440) 1ms Nano IPS Gaming Monitor with 160Hz and G-SYNC - $799.99 |
-| 36 | Gaming Monitor LG Ultragear 27GL83A-B 27 inch 16:9 QHD IPS 144Hz 1ms NVIDIA G-SYNC (379.99)                              |
-| 37 | Audio-Technica ATH-CKR7TW (Discontinued) $49.99 down from $149.99                                                        |
-| 38 | [Store4PC] Sabrent 1TB Rocket 4 PLUS NVMe 4.0 Gen4 PCIe M.2 <$178.48>                                                    |
-| 39 | [NewEggCanada] Seasonic PRIME GX-750, 750W 80+ Gold, Full Modular - $108 F/S                                             |
-| 40 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                             |
-| 41 | Eyez-On Envisalink 4, makes your old alarm panel into a smart panel, $109.95 Deal is back on Amazon                      |
-| 42 | Samsung Galaxy Tab S6 Lite, 64 GB $279.98 / 128 GB $329.99 (or less with trade-in or coupons) back in stock              |
-| 43 | DLink Wi-Fi Water Sensor DCH-S161 2 pack $59.97 YMMV                                                                     |
-| 44 | Monster Wireless Earbuds $65 to $80                                                                                      |
-| 45 | ADATA XPG GAMMIX S70 1TB NVMe PCIe 4.0 SSD - 7400/6800 Mb/s - $159.99                                                    |
-| 46 | WD Red Pro WD181KFGX 18TB 7200 RPM 512MB Cache SATA 6.0Gb/s 3.5" Internal Hard Drive - OEM - $509 (save 40%)             |
-| 47 | Telus offers $9.95 internet for low-income seniors in AB & BC                                                            |
-| 48 | HP Stream 14-dq2010ca FHD laptop - Intel Pentium Gold 7505, 4GB, 128GB, FHD 14" IPS Screen - $359.99 + 10% CB = $325     |
-| 49 | 20% off all refurbish                                                                                                    |
-| 50 | FiiO BTR5 HIFi Bluetooth Amp + USB DAC $59.99                                                                            |
-| 51 | CIBC DIVIDEND VISA INFINITE CARD 10% cash back for 4 months ($200) and a year free annual fee (120)                      |
-| 52 | Toad Treasure Tracker for Switch, full game free trial until Jan 20th                                                    |
-| 53 | SanDisk 128GB Ultra Fit USB 3.1 Flash Drive - SDCZ430-128G-G46 - $20.00                                                  |
-| 54 | ASUS Blue Cave AC2600 Dual-Band WiFi Router - $87.87 w/Free Shipping                                                     |
-| 55 | Wicked Audio Torc True Wireless Earbud $9.97                                                                             |
-| 56 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                                       |
-| 57 | Wyze Lamp Socket [$16.98 USD + Shipping]                                                                                 |
-| 58 | Etymotic ER2XR In-Ear Monitors/ear buds - $92.51                                                                         |
-| 59 | YMMY: Get 40% points back when spend min 50,000 points                                                                   |
+|  0 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                              |
+|  1 | LG OLED 65" A1 $1,589.99 (Costco in-store)                                                                               |
+|  2 | Lenovo V14-ARE 82DQ000KUS 14" Laptop - AMD Ryzen 5 4500U, 4GB DDR4, 1TB HDD, 1080p FHD - $617.99                         |
+|  3 | Seagate 2TB external hard drive - $9 [YMMV]                                                                              |
+|  4 | $35 / 12gb BYOD for 24 mths - Virgin Plus at most of the GTA Virgin Plus Kiosks                                          |
+|  5 | [bhphotovideo.com] Netgear Nighthawk AX4 AX3000 Router 66.59 USD                                                         |
+|  6 | Fido 2022 New Year phone deals (ie: $0 down iphone 12 mini $190, S20 FE 5G $240) [YMMV, TARGETED]                        |
+|  7 | Coming Soon to Xbox Game Pass: Taiko no Tatsujin, Rainbow Six Extraction, Hitman Trilogy, Danganronpa, and More          |
+|  8 | Rogers Ignite internet 1gbps $49.99 *possible ymmv                                                                       |
+|  9 | Wicked Audio Torc True Wireless Earbud $9.97                                                                             |
+| 10 | Telus offers $9.95 internet for low-income seniors in AB & BC                                                            |
+| 11 | Adata Gammix 1tb m.2 Gen4 x4 $130                                                                                        |
+| 12 | FiiO BTR5 HIFi Bluetooth Amp + USB DAC $59.99                                                                            |
+| 13 | DJI Mavic Mini 2 Bundle $570                                                                                             |
+| 14 | ASRock B550 Phantom Gaming 4/ac AM4 AMD B550 Motherboard $79.99 (After $50 MIR)                                          |
+| 15 | Metal Slug 3, Ikaruga, De Blob 2, Sensible World of Soccer and more - Free*                                              |
+| 16 | SanDisk 128GB Ultra Fit USB 3.1 Flash Drive - SDCZ430-128G-G46 - $20.00                                                  |
+| 17 | SanDisk 500GB Ultra 3D NAND SATA3 Internal SSD 2.5" - (SDSSDH3-500G-G25) $59.99                                          |
+| 18 | Samsung Galaxy Tab S6 Lite, 64 GB $279.98 / 128 GB $329.99 (or less with trade-in or coupons) back in stock              |
+| 19 | LG UltraGear 34GP83A-B 34 Inch 21:9 Curved QHD (3440 x 1440) 1ms Nano IPS Gaming Monitor with 160Hz and G-SYNC - $799.99 |
+| 20 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                             |
+| 21 | Eyez-On Envisalink 4, makes your old alarm panel into a smart panel, $109.95 Deal is back on Amazon                      |
+| 22 | Luminar 4 photo editor for free                                                                                          |
+| 23 | Fido offering 100% loyalty discount on Tablet 4GB Plan for 24 Months *YMMV*, existing customers                          |
+| 24 | Chromebook 10e tablet 129$ less rakuten                                                                                  |
+| 25 | LG UltraFine 27" 4K FreeSync Monitor (27UP650-W) $379.99 ($120 off)                                                      |
+| 26 | HOT! 40GB Freedom Data + 1GB Nationwide Data + Unlimited Call/Text - $50/month (YMMV - Loyalty Offer)                    |
+| 27 | AmazonBasics Rotating 6-Outlet Surge Protector Wall Mount, 1080 Joules - $15.77 (ATL)                                    |
+| 28 | Amazon Basics 4xAA 2400mAH NiMH $9.62                                                                                    |
+| 29 | Netgear Orbi Pro AC3000 Wireless Tri-Band Gigabit Wi-Fi System $159.00 (USD) - free shipping                             |
+| 30 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                              |
+| 31 | LG OLED 65" A1 $1,589.99 (Costco in-store)                                                                               |
+| 32 | Lenovo V14-ARE 82DQ000KUS 14" Laptop - AMD Ryzen 5 4500U, 4GB DDR4, 1TB HDD, 1080p FHD - $617.99                         |
+| 33 | Seagate 2TB external hard drive - $9 [YMMV]                                                                              |
+| 34 | $35 / 12gb BYOD for 24 mths - Virgin Plus at most of the GTA Virgin Plus Kiosks                                          |
+| 35 | [bhphotovideo.com] Netgear Nighthawk AX4 AX3000 Router 66.59 USD                                                         |
+| 36 | Fido 2022 New Year phone deals (ie: $0 down iphone 12 mini $190, S20 FE 5G $240) [YMMV, TARGETED]                        |
+| 37 | Coming Soon to Xbox Game Pass: Taiko no Tatsujin, Rainbow Six Extraction, Hitman Trilogy, Danganronpa, and More          |
+| 38 | Rogers Ignite internet 1gbps $49.99 *possible ymmv                                                                       |
+| 39 | Wicked Audio Torc True Wireless Earbud $9.97                                                                             |
+| 40 | Telus offers $9.95 internet for low-income seniors in AB & BC                                                            |
+| 41 | Adata Gammix 1tb m.2 Gen4 x4 $130                                                                                        |
+| 42 | FiiO BTR5 HIFi Bluetooth Amp + USB DAC $59.99                                                                            |
+| 43 | DJI Mavic Mini 2 Bundle $570                                                                                             |
+| 44 | ASRock B550 Phantom Gaming 4/ac AM4 AMD B550 Motherboard $79.99 (After $50 MIR)                                          |
+| 45 | Metal Slug 3, Ikaruga, De Blob 2, Sensible World of Soccer and more - Free*                                              |
+| 46 | SanDisk 128GB Ultra Fit USB 3.1 Flash Drive - SDCZ430-128G-G46 - $20.00                                                  |
+| 47 | SanDisk 500GB Ultra 3D NAND SATA3 Internal SSD 2.5" - (SDSSDH3-500G-G25) $59.99                                          |
+| 48 | Samsung Galaxy Tab S6 Lite, 64 GB $279.98 / 128 GB $329.99 (or less with trade-in or coupons) back in stock              |
+| 49 | LG UltraGear 34GP83A-B 34 Inch 21:9 Curved QHD (3440 x 1440) 1ms Nano IPS Gaming Monitor with 160Hz and G-SYNC - $799.99 |
+| 50 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                             |
+| 51 | Eyez-On Envisalink 4, makes your old alarm panel into a smart panel, $109.95 Deal is back on Amazon                      |
+| 52 | Luminar 4 photo editor for free                                                                                          |
+| 53 | Fido offering 100% loyalty discount on Tablet 4GB Plan for 24 Months *YMMV*, existing customers                          |
+| 54 | Chromebook 10e tablet 129$ less rakuten                                                                                  |
+| 55 | LG UltraFine 27" 4K FreeSync Monitor (27UP650-W) $379.99 ($120 off)                                                      |
+| 56 | HOT! 40GB Freedom Data + 1GB Nationwide Data + Unlimited Call/Text - $50/month (YMMV - Loyalty Offer)                    |
+| 57 | AmazonBasics Rotating 6-Outlet Surge Protector Wall Mount, 1080 Joules - $15.77 (ATL)                                    |
+| 58 | Amazon Basics 4xAA 2400mAH NiMH $9.62                                                                                    |
+| 59 | Netgear Orbi Pro AC3000 Wireless Tri-Band Gigabit Wi-Fi System $159.00 (USD) - free shipping                             |
 | 60 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                              |
-| 61 | ASRock Z390 Phantom Gaming 4S/AC Intel Z390 SATA 6Gb/s ATX Intel Motherboard - OEM Socket 1151 $49.99                    |
-| 62 | Chromebook 10e tablet 129$ less rakuten                                                                                  |
-| 63 | AmazonBasics Rotating 6-Outlet Surge Protector Wall Mount, 1080 Joules - $15.77 (ATL)                                    |
-| 64 | Dell XPS Special Edition ( i7-11700 + 3060 Ti 8GB (LHR) +16GB, 16Gx1, DDR4, 2933MHz) for $1649 ($750 off)                |
-| 65 | LG UltraGear 34GP83A-B 34 Inch 21:9 Curved QHD (3440 x 1440) 1ms Nano IPS Gaming Monitor with 160Hz and G-SYNC - $799.99 |
-| 66 | Gaming Monitor LG Ultragear 27GL83A-B 27 inch 16:9 QHD IPS 144Hz 1ms NVIDIA G-SYNC (379.99)                              |
-| 67 | Audio-Technica ATH-CKR7TW (Discontinued) $49.99 down from $149.99                                                        |
-| 68 | [Store4PC] Sabrent 1TB Rocket 4 PLUS NVMe 4.0 Gen4 PCIe M.2 <$178.48>                                                    |
-| 69 | [NewEggCanada] Seasonic PRIME GX-750, 750W 80+ Gold, Full Modular - $108 F/S                                             |
-| 70 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                             |
-| 71 | Eyez-On Envisalink 4, makes your old alarm panel into a smart panel, $109.95 Deal is back on Amazon                      |
-| 72 | Samsung Galaxy Tab S6 Lite, 64 GB $279.98 / 128 GB $329.99 (or less with trade-in or coupons) back in stock              |
-| 73 | DLink Wi-Fi Water Sensor DCH-S161 2 pack $59.97 YMMV                                                                     |
-| 74 | Monster Wireless Earbuds $65 to $80                                                                                      |
-| 75 | ADATA XPG GAMMIX S70 1TB NVMe PCIe 4.0 SSD - 7400/6800 Mb/s - $159.99                                                    |
-| 76 | WD Red Pro WD181KFGX 18TB 7200 RPM 512MB Cache SATA 6.0Gb/s 3.5" Internal Hard Drive - OEM - $509 (save 40%)             |
-| 77 | Telus offers $9.95 internet for low-income seniors in AB & BC                                                            |
-| 78 | HP Stream 14-dq2010ca FHD laptop - Intel Pentium Gold 7505, 4GB, 128GB, FHD 14" IPS Screen - $359.99 + 10% CB = $325     |
-| 79 | 20% off all refurbish                                                                                                    |
-| 80 | FiiO BTR5 HIFi Bluetooth Amp + USB DAC $59.99                                                                            |
-| 81 | CIBC DIVIDEND VISA INFINITE CARD 10% cash back for 4 months ($200) and a year free annual fee (120)                      |
-| 82 | Toad Treasure Tracker for Switch, full game free trial until Jan 20th                                                    |
-| 83 | SanDisk 128GB Ultra Fit USB 3.1 Flash Drive - SDCZ430-128G-G46 - $20.00                                                  |
-| 84 | ASUS Blue Cave AC2600 Dual-Band WiFi Router - $87.87 w/Free Shipping                                                     |
-| 85 | Wicked Audio Torc True Wireless Earbud $9.97                                                                             |
-| 86 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                                       |
-| 87 | Wyze Lamp Socket [$16.98 USD + Shipping]                                                                                 |
-| 88 | Etymotic ER2XR In-Ear Monitors/ear buds - $92.51                                                                         |
-| 89 | YMMY: Get 40% points back when spend min 50,000 points                                                                   |
+| 61 | LG OLED 65" A1 $1,589.99 (Costco in-store)                                                                               |
+| 62 | Lenovo V14-ARE 82DQ000KUS 14" Laptop - AMD Ryzen 5 4500U, 4GB DDR4, 1TB HDD, 1080p FHD - $617.99                         |
+| 63 | Seagate 2TB external hard drive - $9 [YMMV]                                                                              |
+| 64 | $35 / 12gb BYOD for 24 mths - Virgin Plus at most of the GTA Virgin Plus Kiosks                                          |
+| 65 | [bhphotovideo.com] Netgear Nighthawk AX4 AX3000 Router 66.59 USD                                                         |
+| 66 | Fido 2022 New Year phone deals (ie: $0 down iphone 12 mini $190, S20 FE 5G $240) [YMMV, TARGETED]                        |
+| 67 | Coming Soon to Xbox Game Pass: Taiko no Tatsujin, Rainbow Six Extraction, Hitman Trilogy, Danganronpa, and More          |
+| 68 | Rogers Ignite internet 1gbps $49.99 *possible ymmv                                                                       |
+| 69 | Wicked Audio Torc True Wireless Earbud $9.97                                                                             |
+| 70 | Telus offers $9.95 internet for low-income seniors in AB & BC                                                            |
+| 71 | Adata Gammix 1tb m.2 Gen4 x4 $130                                                                                        |
+| 72 | FiiO BTR5 HIFi Bluetooth Amp + USB DAC $59.99                                                                            |
+| 73 | DJI Mavic Mini 2 Bundle $570                                                                                             |
+| 74 | ASRock B550 Phantom Gaming 4/ac AM4 AMD B550 Motherboard $79.99 (After $50 MIR)                                          |
+| 75 | Metal Slug 3, Ikaruga, De Blob 2, Sensible World of Soccer and more - Free*                                              |
+| 76 | SanDisk 128GB Ultra Fit USB 3.1 Flash Drive - SDCZ430-128G-G46 - $20.00                                                  |
+| 77 | SanDisk 500GB Ultra 3D NAND SATA3 Internal SSD 2.5" - (SDSSDH3-500G-G25) $59.99                                          |
+| 78 | Samsung Galaxy Tab S6 Lite, 64 GB $279.98 / 128 GB $329.99 (or less with trade-in or coupons) back in stock              |
+| 79 | LG UltraGear 34GP83A-B 34 Inch 21:9 Curved QHD (3440 x 1440) 1ms Nano IPS Gaming Monitor with 160Hz and G-SYNC - $799.99 |
+| 80 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                             |
+| 81 | Eyez-On Envisalink 4, makes your old alarm panel into a smart panel, $109.95 Deal is back on Amazon                      |
+| 82 | Luminar 4 photo editor for free                                                                                          |
+| 83 | Fido offering 100% loyalty discount on Tablet 4GB Plan for 24 Months *YMMV*, existing customers                          |
+| 84 | Chromebook 10e tablet 129$ less rakuten                                                                                  |
+| 85 | LG UltraFine 27" 4K FreeSync Monitor (27UP650-W) $379.99 ($120 off)                                                      |
+| 86 | HOT! 40GB Freedom Data + 1GB Nationwide Data + Unlimited Call/Text - $50/month (YMMV - Loyalty Offer)                    |
+| 87 | AmazonBasics Rotating 6-Outlet Surge Protector Wall Mount, 1080 Joules - $15.77 (ATL)                                    |
+| 88 | Amazon Basics 4xAA 2400mAH NiMH $9.62                                                                                    |
+| 89 | Netgear Orbi Pro AC3000 Wireless Tri-Band Gigabit Wi-Fi System $159.00 (USD) - free shipping                             |
