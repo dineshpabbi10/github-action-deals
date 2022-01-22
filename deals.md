@@ -1,92 +1,92 @@
-|    | deals                                                                                                        |
-|---:|:-------------------------------------------------------------------------------------------------------------|
-|  0 | WD Red Pro WD181KFGX 18TB 7200 RPM 512MB Cache SATA 6.0Gb/s 3.5" Internal Hard Drive - OEM - $509 (save 40%) |
-|  1 | [Warm] Monoprice Monolith 13 13 inch THX certified 2000W powered subwoofer $2112.69                          |
-|  2 | Globe WiFi Smart Plugs (pack of 4) $19.99                                                                    |
-|  3 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                  |
-|  4 | SanDisk 128GB Ultra Fit USB 3.1 Flash Drive - SDCZ430-128G-G46 - $20.00                                      |
-|  5 | Amazon Basics Smartphone Mini Tripod - $16.72                                                                |
-|  6 | Jabra Refurbished Deals 75T/65.99 - 75t Active/83.99 - 85t/103.99                                            |
-|  7 | Deal of the day: Kindle, with a built-in front light - Black Or white for $69.99 (was $119.99)               |
-|  8 | DJI FPV Quadcopter Drone with Camera & Controller - Dark Grey 1299.99 ($400 off)                             |
-|  9 | Telus offers $9.95 internet for low-income seniors in AB & BC                                                |
-| 10 | Otterbox Symmetry Series Case for Galaxy S20+/Galaxy S20+ 5G - Black - $9.99                                 |
-| 11 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $240 B4 coupons, $7 S&H)                                     |
-| 12 | Call of Duty Vanguard PS4/PS5/Xbox or Farming Simulator 22 PS4/PS5/Xbox - $49.99/$59.99 (Intro Offer)        |
-| 13 | Logitech G402 Hyperion Fury FPS Gaming Mouse (910-004069) - $29.99 (Delivery + Pickup)                       |
-| 14 | Seagate One Touch 2TB USB 3.2 Gen 1 External Hard Drive - Red Reg $104.99 on for $69.99                      |
-| 15 | Dell Optiplex all in one 512ssd/16gb ram/i5-7500/dvd-rw ~$600 all in                                         |
-| 16 | Google One 100GB FREE for a year w/ any Chromebook bought since 1-May-2019                                   |
-| 17 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $60          |
-| 18 | Logitech G903 129.99$ 25% off (and other models)                                                             |
-| 19 | Koodo/Fido/Virgin QC Only 45$ for 12GB (no credit) and 35$ 9GB Prepaid (Virgin QC only)                      |
-| 20 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                 |
-| 21 | Xbox Game Pass Ultimate: 3 Month Membership (Digital Code) $33.89                                            |
-| 22 | Chromebook 10e tablet 129$ less rakuten                                                                      |
-| 23 | Samsung Galaxy Tab S6 Lite, 64 GB $279.98 / 128 GB $329.99 (or less with trade-in or coupons) back in stock  |
-| 24 | Dell XPS 9300 (Certified Refurbished), 13.4" Touch Screen, i7-1065G7/16GB/512 GB, $951 after code            |
-| 25 | PC Building Simulator complete @19.22$                                                                       |
-| 26 | 3 Months of PC Game Pass for $1                                                                              |
-| 27 | Samsung Frame 65 inch $1999                                                                                  |
-| 28 | Garmin Instinct smartwatch - $199                                                                            |
-| 29 | Three months of EA Play for the price of one ($4.99) - excludes Xbox                                         |
-| 30 | WD Red Pro WD181KFGX 18TB 7200 RPM 512MB Cache SATA 6.0Gb/s 3.5" Internal Hard Drive - OEM - $509 (save 40%) |
-| 31 | [Warm] Monoprice Monolith 13 13 inch THX certified 2000W powered subwoofer $2112.69                          |
-| 32 | Globe WiFi Smart Plugs (pack of 4) $19.99                                                                    |
-| 33 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                  |
-| 34 | SanDisk 128GB Ultra Fit USB 3.1 Flash Drive - SDCZ430-128G-G46 - $20.00                                      |
-| 35 | Amazon Basics Smartphone Mini Tripod - $16.72                                                                |
-| 36 | Jabra Refurbished Deals 75T/65.99 - 75t Active/83.99 - 85t/103.99                                            |
-| 37 | Deal of the day: Kindle, with a built-in front light - Black Or white for $69.99 (was $119.99)               |
-| 38 | DJI FPV Quadcopter Drone with Camera & Controller - Dark Grey 1299.99 ($400 off)                             |
-| 39 | Telus offers $9.95 internet for low-income seniors in AB & BC                                                |
-| 40 | Otterbox Symmetry Series Case for Galaxy S20+/Galaxy S20+ 5G - Black - $9.99                                 |
-| 41 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $240 B4 coupons, $7 S&H)                                     |
-| 42 | Call of Duty Vanguard PS4/PS5/Xbox or Farming Simulator 22 PS4/PS5/Xbox - $49.99/$59.99 (Intro Offer)        |
-| 43 | Logitech G402 Hyperion Fury FPS Gaming Mouse (910-004069) - $29.99 (Delivery + Pickup)                       |
-| 44 | Seagate One Touch 2TB USB 3.2 Gen 1 External Hard Drive - Red Reg $104.99 on for $69.99                      |
-| 45 | Dell Optiplex all in one 512ssd/16gb ram/i5-7500/dvd-rw ~$600 all in                                         |
-| 46 | Google One 100GB FREE for a year w/ any Chromebook bought since 1-May-2019                                   |
-| 47 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $60          |
-| 48 | Logitech G903 129.99$ 25% off (and other models)                                                             |
-| 49 | Koodo/Fido/Virgin QC Only 45$ for 12GB (no credit) and 35$ 9GB Prepaid (Virgin QC only)                      |
-| 50 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                 |
-| 51 | Xbox Game Pass Ultimate: 3 Month Membership (Digital Code) $33.89                                            |
-| 52 | Chromebook 10e tablet 129$ less rakuten                                                                      |
-| 53 | Samsung Galaxy Tab S6 Lite, 64 GB $279.98 / 128 GB $329.99 (or less with trade-in or coupons) back in stock  |
-| 54 | Dell XPS 9300 (Certified Refurbished), 13.4" Touch Screen, i7-1065G7/16GB/512 GB, $951 after code            |
-| 55 | PC Building Simulator complete @19.22$                                                                       |
-| 56 | 3 Months of PC Game Pass for $1                                                                              |
-| 57 | Samsung Frame 65 inch $1999                                                                                  |
-| 58 | Garmin Instinct smartwatch - $199                                                                            |
-| 59 | Three months of EA Play for the price of one ($4.99) - excludes Xbox                                         |
-| 60 | WD Red Pro WD181KFGX 18TB 7200 RPM 512MB Cache SATA 6.0Gb/s 3.5" Internal Hard Drive - OEM - $509 (save 40%) |
-| 61 | [Warm] Monoprice Monolith 13 13 inch THX certified 2000W powered subwoofer $2112.69                          |
-| 62 | Globe WiFi Smart Plugs (pack of 4) $19.99                                                                    |
-| 63 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                  |
-| 64 | SanDisk 128GB Ultra Fit USB 3.1 Flash Drive - SDCZ430-128G-G46 - $20.00                                      |
-| 65 | Amazon Basics Smartphone Mini Tripod - $16.72                                                                |
-| 66 | Jabra Refurbished Deals 75T/65.99 - 75t Active/83.99 - 85t/103.99                                            |
-| 67 | Deal of the day: Kindle, with a built-in front light - Black Or white for $69.99 (was $119.99)               |
-| 68 | DJI FPV Quadcopter Drone with Camera & Controller - Dark Grey 1299.99 ($400 off)                             |
-| 69 | Telus offers $9.95 internet for low-income seniors in AB & BC                                                |
-| 70 | Otterbox Symmetry Series Case for Galaxy S20+/Galaxy S20+ 5G - Black - $9.99                                 |
-| 71 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $240 B4 coupons, $7 S&H)                                     |
-| 72 | Call of Duty Vanguard PS4/PS5/Xbox or Farming Simulator 22 PS4/PS5/Xbox - $49.99/$59.99 (Intro Offer)        |
-| 73 | Logitech G402 Hyperion Fury FPS Gaming Mouse (910-004069) - $29.99 (Delivery + Pickup)                       |
-| 74 | Seagate One Touch 2TB USB 3.2 Gen 1 External Hard Drive - Red Reg $104.99 on for $69.99                      |
-| 75 | Dell Optiplex all in one 512ssd/16gb ram/i5-7500/dvd-rw ~$600 all in                                         |
-| 76 | Google One 100GB FREE for a year w/ any Chromebook bought since 1-May-2019                                   |
-| 77 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $60          |
-| 78 | Logitech G903 129.99$ 25% off (and other models)                                                             |
-| 79 | Koodo/Fido/Virgin QC Only 45$ for 12GB (no credit) and 35$ 9GB Prepaid (Virgin QC only)                      |
-| 80 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                 |
-| 81 | Xbox Game Pass Ultimate: 3 Month Membership (Digital Code) $33.89                                            |
-| 82 | Chromebook 10e tablet 129$ less rakuten                                                                      |
-| 83 | Samsung Galaxy Tab S6 Lite, 64 GB $279.98 / 128 GB $329.99 (or less with trade-in or coupons) back in stock  |
-| 84 | Dell XPS 9300 (Certified Refurbished), 13.4" Touch Screen, i7-1065G7/16GB/512 GB, $951 after code            |
-| 85 | PC Building Simulator complete @19.22$                                                                       |
-| 86 | 3 Months of PC Game Pass for $1                                                                              |
-| 87 | Samsung Frame 65 inch $1999                                                                                  |
-| 88 | Garmin Instinct smartwatch - $199                                                                            |
-| 89 | Three months of EA Play for the price of one ($4.99) - excludes Xbox                                         |
+|    | deals                                                                                                              |
+|---:|:-------------------------------------------------------------------------------------------------------------------|
+|  0 | Seasonic FOCUS Plus Series 550W 80+ Gold ATX12V Full Modular 120mm - $49.99                                        |
+|  1 | Xbox Series S - Fortnite & Rocket League Bundle (399,99$) 50$ OFF                                                  |
+|  2 | BenQ EW2780 27" Full HD 1920 x 1080 3 x HDMI                                                                       |
+|  3 | Samsung LF24G35TFWNXZA 24-inch 1ms 144Hz Monitor - $188.88                                                         |
+|  4 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                        |
+|  5 | GoPro Hero10 Black w/ 1 Year GoPro Subscription & 32GB SanDisk Extreme $459.98 (Reg $709.98)                       |
+|  6 | Telus offers $9.95 internet for low-income seniors in AB & BC                                                      |
+|  7 | Google One 100GB FREE for a year w/ any Chromebook bought since 1-May-2019                                         |
+|  8 | Microsoft 365 Family 15-month Subscription, $99.99                                                                 |
+|  9 | Apple TV 4K 32GB (2nd Generation) ($161 After Points Earned) (Plus 5K Extra Points w/ PC Financial)                |
+| 10 | 20x PC Optimum Points (30%) for Online Orders (Ends Jan 23) (Switch Console/Games/Accessories?)                    |
+| 11 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                       |
+| 12 | $49.99 USD - Microsoft Office Professional Plus 2021 for Windows or Mac Lifetime License                           |
+| 13 | Fido 2022 New Year phone deals (ie: $0 down iphone 12 mini $190, S20 FE 5G $240) [YMMV, TARGETED]                  |
+| 14 | Ooma Telo Air Free Home Phone Service with Three HD3 Handsets $69.97 - YMMV available at Nepean Ottawa location    |
+| 15 | FIFA 22 SWITCH - ($25)                                                                                             |
+| 16 | Eyez-On Envisalink 4, makes your old alarm panel into a smart panel, $109.95 Deal is back on Amazon                |
+| 17 | Wacom Intuos MEDIUM - Wireless Drawing Tablet (HOT ATL!) $139.95                                                   |
+| 18 | Seagate One Touch 2TB USB 3.2 Gen 1 External Hard Drive - Red Reg $104.99 on for $69.99                            |
+| 19 | Lenovo IdeaPad Gaming 3 15.6" 120Hz Ryzen 5 5600H 8GB RAM 512GB SSD RTX 3050 Ti - $962CAD + Shipping & Import Fees |
+| 20 | Samsung Galaxy Tab S6 Lite, 64 GB $279.98 / 128 GB $329.99 (or less with trade-in or coupons) back in stock        |
+| 21 | FIFA 2022 PS5 (and possibly Madden NFL 2022) - 40$ (and 20x points) - In stores                                    |
+| 22 | YMMV - Telus EPP Plan 30GB for $60                                                                                 |
+| 23 | Hisense 75 in. 4K Android Smart Television 75A68G - $899                                                           |
+| 24 | Globe WiFi Smart Plugs (pack of 4) $19.99                                                                          |
+| 25 | Rogers Ignite internet 1gbps $49.99 *possible ymmv                                                                 |
+| 26 | ASUS Blue Cave AC2600 Dual-Band WiFi Router - $87.87 w/Free Shipping                                               |
+| 27 | HP Victus 16.1" Gaming Laptop i7-11800H/1TB SSD/16GB RAM/RTX 3060 - 1499$                                          |
+| 28 | Chromebook 10e tablet 129$ less rakuten                                                                            |
+| 29 | Beyerdynamic DT 990 Pro 250 Ohm - $175 Free Shipping                                                               |
+| 30 | Seasonic FOCUS Plus Series 550W 80+ Gold ATX12V Full Modular 120mm - $49.99                                        |
+| 31 | Xbox Series S - Fortnite & Rocket League Bundle (399,99$) 50$ OFF                                                  |
+| 32 | BenQ EW2780 27" Full HD 1920 x 1080 3 x HDMI                                                                       |
+| 33 | Samsung LF24G35TFWNXZA 24-inch 1ms 144Hz Monitor - $188.88                                                         |
+| 34 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                        |
+| 35 | GoPro Hero10 Black w/ 1 Year GoPro Subscription & 32GB SanDisk Extreme $459.98 (Reg $709.98)                       |
+| 36 | Telus offers $9.95 internet for low-income seniors in AB & BC                                                      |
+| 37 | Google One 100GB FREE for a year w/ any Chromebook bought since 1-May-2019                                         |
+| 38 | Microsoft 365 Family 15-month Subscription, $99.99                                                                 |
+| 39 | Apple TV 4K 32GB (2nd Generation) ($161 After Points Earned) (Plus 5K Extra Points w/ PC Financial)                |
+| 40 | 20x PC Optimum Points (30%) for Online Orders (Ends Jan 23) (Switch Console/Games/Accessories?)                    |
+| 41 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                       |
+| 42 | $49.99 USD - Microsoft Office Professional Plus 2021 for Windows or Mac Lifetime License                           |
+| 43 | Fido 2022 New Year phone deals (ie: $0 down iphone 12 mini $190, S20 FE 5G $240) [YMMV, TARGETED]                  |
+| 44 | Ooma Telo Air Free Home Phone Service with Three HD3 Handsets $69.97 - YMMV available at Nepean Ottawa location    |
+| 45 | FIFA 22 SWITCH - ($25)                                                                                             |
+| 46 | Eyez-On Envisalink 4, makes your old alarm panel into a smart panel, $109.95 Deal is back on Amazon                |
+| 47 | Wacom Intuos MEDIUM - Wireless Drawing Tablet (HOT ATL!) $139.95                                                   |
+| 48 | Seagate One Touch 2TB USB 3.2 Gen 1 External Hard Drive - Red Reg $104.99 on for $69.99                            |
+| 49 | Lenovo IdeaPad Gaming 3 15.6" 120Hz Ryzen 5 5600H 8GB RAM 512GB SSD RTX 3050 Ti - $962CAD + Shipping & Import Fees |
+| 50 | Samsung Galaxy Tab S6 Lite, 64 GB $279.98 / 128 GB $329.99 (or less with trade-in or coupons) back in stock        |
+| 51 | FIFA 2022 PS5 (and possibly Madden NFL 2022) - 40$ (and 20x points) - In stores                                    |
+| 52 | YMMV - Telus EPP Plan 30GB for $60                                                                                 |
+| 53 | Hisense 75 in. 4K Android Smart Television 75A68G - $899                                                           |
+| 54 | Globe WiFi Smart Plugs (pack of 4) $19.99                                                                          |
+| 55 | Rogers Ignite internet 1gbps $49.99 *possible ymmv                                                                 |
+| 56 | ASUS Blue Cave AC2600 Dual-Band WiFi Router - $87.87 w/Free Shipping                                               |
+| 57 | HP Victus 16.1" Gaming Laptop i7-11800H/1TB SSD/16GB RAM/RTX 3060 - 1499$                                          |
+| 58 | Chromebook 10e tablet 129$ less rakuten                                                                            |
+| 59 | Beyerdynamic DT 990 Pro 250 Ohm - $175 Free Shipping                                                               |
+| 60 | Seasonic FOCUS Plus Series 550W 80+ Gold ATX12V Full Modular 120mm - $49.99                                        |
+| 61 | Xbox Series S - Fortnite & Rocket League Bundle (399,99$) 50$ OFF                                                  |
+| 62 | BenQ EW2780 27" Full HD 1920 x 1080 3 x HDMI                                                                       |
+| 63 | Samsung LF24G35TFWNXZA 24-inch 1ms 144Hz Monitor - $188.88                                                         |
+| 64 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                        |
+| 65 | GoPro Hero10 Black w/ 1 Year GoPro Subscription & 32GB SanDisk Extreme $459.98 (Reg $709.98)                       |
+| 66 | Telus offers $9.95 internet for low-income seniors in AB & BC                                                      |
+| 67 | Google One 100GB FREE for a year w/ any Chromebook bought since 1-May-2019                                         |
+| 68 | Microsoft 365 Family 15-month Subscription, $99.99                                                                 |
+| 69 | Apple TV 4K 32GB (2nd Generation) ($161 After Points Earned) (Plus 5K Extra Points w/ PC Financial)                |
+| 70 | 20x PC Optimum Points (30%) for Online Orders (Ends Jan 23) (Switch Console/Games/Accessories?)                    |
+| 71 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                       |
+| 72 | $49.99 USD - Microsoft Office Professional Plus 2021 for Windows or Mac Lifetime License                           |
+| 73 | Fido 2022 New Year phone deals (ie: $0 down iphone 12 mini $190, S20 FE 5G $240) [YMMV, TARGETED]                  |
+| 74 | Ooma Telo Air Free Home Phone Service with Three HD3 Handsets $69.97 - YMMV available at Nepean Ottawa location    |
+| 75 | FIFA 22 SWITCH - ($25)                                                                                             |
+| 76 | Eyez-On Envisalink 4, makes your old alarm panel into a smart panel, $109.95 Deal is back on Amazon                |
+| 77 | Wacom Intuos MEDIUM - Wireless Drawing Tablet (HOT ATL!) $139.95                                                   |
+| 78 | Seagate One Touch 2TB USB 3.2 Gen 1 External Hard Drive - Red Reg $104.99 on for $69.99                            |
+| 79 | Lenovo IdeaPad Gaming 3 15.6" 120Hz Ryzen 5 5600H 8GB RAM 512GB SSD RTX 3050 Ti - $962CAD + Shipping & Import Fees |
+| 80 | Samsung Galaxy Tab S6 Lite, 64 GB $279.98 / 128 GB $329.99 (or less with trade-in or coupons) back in stock        |
+| 81 | FIFA 2022 PS5 (and possibly Madden NFL 2022) - 40$ (and 20x points) - In stores                                    |
+| 82 | YMMV - Telus EPP Plan 30GB for $60                                                                                 |
+| 83 | Hisense 75 in. 4K Android Smart Television 75A68G - $899                                                           |
+| 84 | Globe WiFi Smart Plugs (pack of 4) $19.99                                                                          |
+| 85 | Rogers Ignite internet 1gbps $49.99 *possible ymmv                                                                 |
+| 86 | ASUS Blue Cave AC2600 Dual-Band WiFi Router - $87.87 w/Free Shipping                                               |
+| 87 | HP Victus 16.1" Gaming Laptop i7-11800H/1TB SSD/16GB RAM/RTX 3060 - 1499$                                          |
+| 88 | Chromebook 10e tablet 129$ less rakuten                                                                            |
+| 89 | Beyerdynamic DT 990 Pro 250 Ohm - $175 Free Shipping                                                               |
