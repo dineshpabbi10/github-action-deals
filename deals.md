@@ -1,8 +1,8 @@
 |    | deals                                                                                                                  |
 |---:|:-----------------------------------------------------------------------------------------------------------------------|
-|  0 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                            |
-|  1 | WD_Black 1TB SN850 SSD Solid State Drive with Heatsink (PS5 compatible) Camelx3 all time low $239.99                   |
-|  2 | Buy or Upgrade to UNCHARTED: Legacy of Thieves Collection and get a FREE ticket (up to $30) to see the UNCHARTED movie |
+|  0 | Buy or Upgrade to UNCHARTED: Legacy of Thieves Collection and get a FREE ticket (up to $30) to see the UNCHARTED movie |
+|  1 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                            |
+|  2 | WD_Black 1TB SN850 SSD Solid State Drive with Heatsink (PS5 compatible) Camelx3 all time low $239.99                   |
 |  3 | CORSAIR (2021) RM1000x 1000 W Gold Power Supply for $179.99 after $50 Promo Code CTBBN2528                             |
 |  4 | HyperX Cloud II Wireless Gaming Headset - Black/Red - 143.99. Free Shipping                                            |
 |  5 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                              |
@@ -30,9 +30,9 @@
 | 27 | $49.99 USD - Microsoft Office Professional Plus 2021 for Windows or Mac Lifetime License                               |
 | 28 | Google One 100GB FREE for a year w/ any Chromebook bought since 1-May-2019                                             |
 | 29 | Ooma Telo Air Free Home Phone Service with Three HD3 Handsets $69.97 - YMMV available at Nepean Ottawa location        |
-| 30 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                            |
-| 31 | WD_Black 1TB SN850 SSD Solid State Drive with Heatsink (PS5 compatible) Camelx3 all time low $239.99                   |
-| 32 | Buy or Upgrade to UNCHARTED: Legacy of Thieves Collection and get a FREE ticket (up to $30) to see the UNCHARTED movie |
+| 30 | Buy or Upgrade to UNCHARTED: Legacy of Thieves Collection and get a FREE ticket (up to $30) to see the UNCHARTED movie |
+| 31 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                            |
+| 32 | WD_Black 1TB SN850 SSD Solid State Drive with Heatsink (PS5 compatible) Camelx3 all time low $239.99                   |
 | 33 | CORSAIR (2021) RM1000x 1000 W Gold Power Supply for $179.99 after $50 Promo Code CTBBN2528                             |
 | 34 | HyperX Cloud II Wireless Gaming Headset - Black/Red - 143.99. Free Shipping                                            |
 | 35 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                              |
@@ -60,9 +60,9 @@
 | 57 | $49.99 USD - Microsoft Office Professional Plus 2021 for Windows or Mac Lifetime License                               |
 | 58 | Google One 100GB FREE for a year w/ any Chromebook bought since 1-May-2019                                             |
 | 59 | Ooma Telo Air Free Home Phone Service with Three HD3 Handsets $69.97 - YMMV available at Nepean Ottawa location        |
-| 60 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                            |
-| 61 | WD_Black 1TB SN850 SSD Solid State Drive with Heatsink (PS5 compatible) Camelx3 all time low $239.99                   |
-| 62 | Buy or Upgrade to UNCHARTED: Legacy of Thieves Collection and get a FREE ticket (up to $30) to see the UNCHARTED movie |
+| 60 | Buy or Upgrade to UNCHARTED: Legacy of Thieves Collection and get a FREE ticket (up to $30) to see the UNCHARTED movie |
+| 61 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                            |
+| 62 | WD_Black 1TB SN850 SSD Solid State Drive with Heatsink (PS5 compatible) Camelx3 all time low $239.99                   |
 | 63 | CORSAIR (2021) RM1000x 1000 W Gold Power Supply for $179.99 after $50 Promo Code CTBBN2528                             |
 | 64 | HyperX Cloud II Wireless Gaming Headset - Black/Red - 143.99. Free Shipping                                            |
 | 65 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                              |
