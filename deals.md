@@ -1,92 +1,92 @@
-|    | deals                                                                                                                  |
-|---:|:-----------------------------------------------------------------------------------------------------------------------|
-|  0 | Buy or Upgrade to UNCHARTED: Legacy of Thieves Collection and get a FREE ticket (up to $30) to see the UNCHARTED movie |
-|  1 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                            |
-|  2 | WD_Black 1TB SN850 SSD Solid State Drive with Heatsink (PS5 compatible) Camelx3 all time low $239.99                   |
-|  3 | CORSAIR (2021) RM1000x 1000 W Gold Power Supply for $179.99 after $50 Promo Code CTBBN2528                             |
-|  4 | HyperX Cloud II Wireless Gaming Headset - Black/Red - 143.99. Free Shipping                                            |
-|  5 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                              |
-|  6 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
-|  7 | Eyez-On Envisalink 4, makes your old alarm panel into a smart panel, $109.95 Deal is back on Amazon                    |
-|  8 | Airpods Pro, $199.97, YMMV                                                                                             |
-|  9 | SX1 Mini Desktop 3D Printer Kit                                                                                        |
-| 10 | Sony Wireless Noise Cancelling Headphones WH-1000XM4 - $349.00 + $12.99 Shipping. (Reg $499)                           |
-| 11 | Samsung Galaxy Tab S6 Lite, 64 GB $279.98 / 128 GB $329.99 (or less with trade-in or coupons) back in stock            |
-| 12 | $79 TIV for Pokemon Legends: Arceus starting 01/29, dropping by $1 per day until February 11th ($66)                   |
-| 13 | meross 3-Way Dimmer Smart Switch $36.99                                                                                |
-| 14 | PSP program - Beats Fit Pro $212.49 (reg $249.99 - preorder)                                                           |
-| 15 | Chromebook 10e tablet 129$ less rakuten                                                                                |
-| 16 | Sony 77 in. OLED A80J and LG C1 77 in. OLED $3998.99                                                                   |
-| 17 | Anker Powerport lite 65W PPS charger - $39.99                                                                          |
-| 18 | Unlimited Bowling - FREE (Reg. $14.99)                                                                                 |
-| 19 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                                     |
-| 20 | Public Mobile Lunar Year Sale (2GB bonus every month for 8 months on $25+ plans)                                       |
-| 21 | Seagate BarraCuda 4TB 256MB Cache 3.5" Internal Desktop HDD SATA 6Gb/s (ST4000DM004) - $74.99                          |
-| 22 | 5.67$ Artikl 10,000 mAh Powerbank - IN STORE                                                                           |
-| 23 | AmazonBasics 6-Outlet Surge Protector Power Strip with 2 USB Ports - 500 Joule, White, 2-Pack $19.69                   |
-| 24 | $45 25gb + $300 bill credit per line [win back]                                                                        |
-| 25 | 50 percent off the cost of a Microsoft Certification exam                                                              |
-| 26 | Apple Watch 25% off RBC Rewards                                                                                        |
-| 27 | $49.99 USD - Microsoft Office Professional Plus 2021 for Windows or Mac Lifetime License                               |
-| 28 | Google One 100GB FREE for a year w/ any Chromebook bought since 1-May-2019                                             |
-| 29 | Ooma Telo Air Free Home Phone Service with Three HD3 Handsets $69.97 - YMMV available at Nepean Ottawa location        |
-| 30 | Buy or Upgrade to UNCHARTED: Legacy of Thieves Collection and get a FREE ticket (up to $30) to see the UNCHARTED movie |
-| 31 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                            |
-| 32 | WD_Black 1TB SN850 SSD Solid State Drive with Heatsink (PS5 compatible) Camelx3 all time low $239.99                   |
-| 33 | CORSAIR (2021) RM1000x 1000 W Gold Power Supply for $179.99 after $50 Promo Code CTBBN2528                             |
-| 34 | HyperX Cloud II Wireless Gaming Headset - Black/Red - 143.99. Free Shipping                                            |
-| 35 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                              |
-| 36 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
-| 37 | Eyez-On Envisalink 4, makes your old alarm panel into a smart panel, $109.95 Deal is back on Amazon                    |
-| 38 | Airpods Pro, $199.97, YMMV                                                                                             |
-| 39 | SX1 Mini Desktop 3D Printer Kit                                                                                        |
-| 40 | Sony Wireless Noise Cancelling Headphones WH-1000XM4 - $349.00 + $12.99 Shipping. (Reg $499)                           |
-| 41 | Samsung Galaxy Tab S6 Lite, 64 GB $279.98 / 128 GB $329.99 (or less with trade-in or coupons) back in stock            |
-| 42 | $79 TIV for Pokemon Legends: Arceus starting 01/29, dropping by $1 per day until February 11th ($66)                   |
-| 43 | meross 3-Way Dimmer Smart Switch $36.99                                                                                |
-| 44 | PSP program - Beats Fit Pro $212.49 (reg $249.99 - preorder)                                                           |
-| 45 | Chromebook 10e tablet 129$ less rakuten                                                                                |
-| 46 | Sony 77 in. OLED A80J and LG C1 77 in. OLED $3998.99                                                                   |
-| 47 | Anker Powerport lite 65W PPS charger - $39.99                                                                          |
-| 48 | Unlimited Bowling - FREE (Reg. $14.99)                                                                                 |
-| 49 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                                     |
-| 50 | Public Mobile Lunar Year Sale (2GB bonus every month for 8 months on $25+ plans)                                       |
-| 51 | Seagate BarraCuda 4TB 256MB Cache 3.5" Internal Desktop HDD SATA 6Gb/s (ST4000DM004) - $74.99                          |
-| 52 | 5.67$ Artikl 10,000 mAh Powerbank - IN STORE                                                                           |
-| 53 | AmazonBasics 6-Outlet Surge Protector Power Strip with 2 USB Ports - 500 Joule, White, 2-Pack $19.69                   |
-| 54 | $45 25gb + $300 bill credit per line [win back]                                                                        |
-| 55 | 50 percent off the cost of a Microsoft Certification exam                                                              |
-| 56 | Apple Watch 25% off RBC Rewards                                                                                        |
-| 57 | $49.99 USD - Microsoft Office Professional Plus 2021 for Windows or Mac Lifetime License                               |
-| 58 | Google One 100GB FREE for a year w/ any Chromebook bought since 1-May-2019                                             |
-| 59 | Ooma Telo Air Free Home Phone Service with Three HD3 Handsets $69.97 - YMMV available at Nepean Ottawa location        |
-| 60 | Buy or Upgrade to UNCHARTED: Legacy of Thieves Collection and get a FREE ticket (up to $30) to see the UNCHARTED movie |
-| 61 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                            |
-| 62 | WD_Black 1TB SN850 SSD Solid State Drive with Heatsink (PS5 compatible) Camelx3 all time low $239.99                   |
-| 63 | CORSAIR (2021) RM1000x 1000 W Gold Power Supply for $179.99 after $50 Promo Code CTBBN2528                             |
-| 64 | HyperX Cloud II Wireless Gaming Headset - Black/Red - 143.99. Free Shipping                                            |
-| 65 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                              |
-| 66 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
-| 67 | Eyez-On Envisalink 4, makes your old alarm panel into a smart panel, $109.95 Deal is back on Amazon                    |
-| 68 | Airpods Pro, $199.97, YMMV                                                                                             |
-| 69 | SX1 Mini Desktop 3D Printer Kit                                                                                        |
-| 70 | Sony Wireless Noise Cancelling Headphones WH-1000XM4 - $349.00 + $12.99 Shipping. (Reg $499)                           |
-| 71 | Samsung Galaxy Tab S6 Lite, 64 GB $279.98 / 128 GB $329.99 (or less with trade-in or coupons) back in stock            |
-| 72 | $79 TIV for Pokemon Legends: Arceus starting 01/29, dropping by $1 per day until February 11th ($66)                   |
-| 73 | meross 3-Way Dimmer Smart Switch $36.99                                                                                |
-| 74 | PSP program - Beats Fit Pro $212.49 (reg $249.99 - preorder)                                                           |
-| 75 | Chromebook 10e tablet 129$ less rakuten                                                                                |
-| 76 | Sony 77 in. OLED A80J and LG C1 77 in. OLED $3998.99                                                                   |
-| 77 | Anker Powerport lite 65W PPS charger - $39.99                                                                          |
-| 78 | Unlimited Bowling - FREE (Reg. $14.99)                                                                                 |
-| 79 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                                     |
-| 80 | Public Mobile Lunar Year Sale (2GB bonus every month for 8 months on $25+ plans)                                       |
-| 81 | Seagate BarraCuda 4TB 256MB Cache 3.5" Internal Desktop HDD SATA 6Gb/s (ST4000DM004) - $74.99                          |
-| 82 | 5.67$ Artikl 10,000 mAh Powerbank - IN STORE                                                                           |
-| 83 | AmazonBasics 6-Outlet Surge Protector Power Strip with 2 USB Ports - 500 Joule, White, 2-Pack $19.69                   |
-| 84 | $45 25gb + $300 bill credit per line [win back]                                                                        |
-| 85 | 50 percent off the cost of a Microsoft Certification exam                                                              |
-| 86 | Apple Watch 25% off RBC Rewards                                                                                        |
-| 87 | $49.99 USD - Microsoft Office Professional Plus 2021 for Windows or Mac Lifetime License                               |
-| 88 | Google One 100GB FREE for a year w/ any Chromebook bought since 1-May-2019                                             |
-| 89 | Ooma Telo Air Free Home Phone Service with Three HD3 Handsets $69.97 - YMMV available at Nepean Ottawa location        |
+|    | deals                                                                                                                   |
+|---:|:------------------------------------------------------------------------------------------------------------------------|
+|  0 | 8TB WD Blue 3.5" HDD (CMR) - $179.99 ($143.99 with EDU/Senior & 2 drives)                                               |
+|  1 | $1599.99 Acer Predator i5-11400F, 3060TI, 16GB DDR4, 1TB SSD                                                            |
+|  2 | Ubiquiti Wifi 6 AP - instock                                                                                            |
+|  3 | Link any Canadian-issued Mastercard to your AIR MILES® card and get to your next reward sooner!                         |
+|  4 | 27” 4K Monitor S2721Q - $341.99 …46% Off                                                                                |
+|  5 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                             |
+|  6 | Fido offering 100% loyalty discount on Tablet 4GB Plan for 24 Months *YMMV*, existing customers                         |
+|  7 | Logitech Z625 THX 2.1 Speakers 179.99                                                                                   |
+|  8 | Shadow Warrior 2 $4.39 (90% savings) - Steam key                                                                        |
+|  9 | Logitech G Pro X Superlight mouse - ATL $169.99                                                                         |
+| 10 | Paper Mario - the Origami King $48.33                                                                                   |
+| 11 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                                |
+| 12 | PS Plus February 2022 Games: EA Sports UFC 4, Tiny Tina’s Assault on Dragon Keep, Planet Coaster: Console Edition (PS5) |
+| 13 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $240 B4 coupons, $7 S&H)                                                |
+| 14 | Buy or Upgrade to UNCHARTED: Legacy of Thieves Collection and get a FREE ticket (up to $30) to see the UNCHARTED movie  |
+| 15 | 65" Sony A80j $2498 / LG C1 $2298                                                                                       |
+| 16 | Airpods Pro, $199.97, YMMV                                                                                              |
+| 17 | Netgear Orbi Pro AC3000 Wireless Tri-Band Gigabit Wi-Fi System $159.00 (USD) - free shipping                            |
+| 18 | Amazon Prime Gaming (PC) January 2022- Better than Anticipated! Free Star Wars Jedi Fallen Order and more!              |
+| 19 | WD 2TB Blue SN550 NVMe M.2 Internal SSD $159.99USD +FS                                                                  |
+| 20 | WD Red Pro WD181KFGX 18TB 7200 RPM 512MB Cache SATA 6.0Gb/s 3.5" Internal Hard Drive - OEM - $509 (save 40%)            |
+| 21 | Sealed Lead Acid Batteries (SLA) 12 volt on sale Feb. 1 -13 at 20% discount $24.99 and up                               |
+| 22 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
+| 23 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                                      |
+| 24 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                               |
+| 25 | Mini ITX mobo AMD RYZEN Gigabyte X570 I AORUS Pro WiFi $209 ATL                                                         |
+| 26 | 50 percent off the cost of a Microsoft Certification exam                                                               |
+| 27 | PSP program - Beats Fit Pro $212.49 (reg $249.99 - preorder)                                                            |
+| 28 | Samsung Galaxy Tab S6 Lite, 64 GB $279.98 / 128 GB $329.99 (or less with trade-in or coupons) back in stock             |
+| 29 | Public Mobile Lunar Year Sale (2GB bonus every month for 8 months on $25+ plans)                                        |
+| 30 | 8TB WD Blue 3.5" HDD (CMR) - $179.99 ($143.99 with EDU/Senior & 2 drives)                                               |
+| 31 | $1599.99 Acer Predator i5-11400F, 3060TI, 16GB DDR4, 1TB SSD                                                            |
+| 32 | Ubiquiti Wifi 6 AP - instock                                                                                            |
+| 33 | Link any Canadian-issued Mastercard to your AIR MILES® card and get to your next reward sooner!                         |
+| 34 | 27” 4K Monitor S2721Q - $341.99 …46% Off                                                                                |
+| 35 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                             |
+| 36 | Fido offering 100% loyalty discount on Tablet 4GB Plan for 24 Months *YMMV*, existing customers                         |
+| 37 | Logitech Z625 THX 2.1 Speakers 179.99                                                                                   |
+| 38 | Shadow Warrior 2 $4.39 (90% savings) - Steam key                                                                        |
+| 39 | Logitech G Pro X Superlight mouse - ATL $169.99                                                                         |
+| 40 | Paper Mario - the Origami King $48.33                                                                                   |
+| 41 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                                |
+| 42 | PS Plus February 2022 Games: EA Sports UFC 4, Tiny Tina’s Assault on Dragon Keep, Planet Coaster: Console Edition (PS5) |
+| 43 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $240 B4 coupons, $7 S&H)                                                |
+| 44 | Buy or Upgrade to UNCHARTED: Legacy of Thieves Collection and get a FREE ticket (up to $30) to see the UNCHARTED movie  |
+| 45 | 65" Sony A80j $2498 / LG C1 $2298                                                                                       |
+| 46 | Airpods Pro, $199.97, YMMV                                                                                              |
+| 47 | Netgear Orbi Pro AC3000 Wireless Tri-Band Gigabit Wi-Fi System $159.00 (USD) - free shipping                            |
+| 48 | Amazon Prime Gaming (PC) January 2022- Better than Anticipated! Free Star Wars Jedi Fallen Order and more!              |
+| 49 | WD 2TB Blue SN550 NVMe M.2 Internal SSD $159.99USD +FS                                                                  |
+| 50 | WD Red Pro WD181KFGX 18TB 7200 RPM 512MB Cache SATA 6.0Gb/s 3.5" Internal Hard Drive - OEM - $509 (save 40%)            |
+| 51 | Sealed Lead Acid Batteries (SLA) 12 volt on sale Feb. 1 -13 at 20% discount $24.99 and up                               |
+| 52 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
+| 53 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                                      |
+| 54 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                               |
+| 55 | Mini ITX mobo AMD RYZEN Gigabyte X570 I AORUS Pro WiFi $209 ATL                                                         |
+| 56 | 50 percent off the cost of a Microsoft Certification exam                                                               |
+| 57 | PSP program - Beats Fit Pro $212.49 (reg $249.99 - preorder)                                                            |
+| 58 | Samsung Galaxy Tab S6 Lite, 64 GB $279.98 / 128 GB $329.99 (or less with trade-in or coupons) back in stock             |
+| 59 | Public Mobile Lunar Year Sale (2GB bonus every month for 8 months on $25+ plans)                                        |
+| 60 | 8TB WD Blue 3.5" HDD (CMR) - $179.99 ($143.99 with EDU/Senior & 2 drives)                                               |
+| 61 | $1599.99 Acer Predator i5-11400F, 3060TI, 16GB DDR4, 1TB SSD                                                            |
+| 62 | Ubiquiti Wifi 6 AP - instock                                                                                            |
+| 63 | Link any Canadian-issued Mastercard to your AIR MILES® card and get to your next reward sooner!                         |
+| 64 | 27” 4K Monitor S2721Q - $341.99 …46% Off                                                                                |
+| 65 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                             |
+| 66 | Fido offering 100% loyalty discount on Tablet 4GB Plan for 24 Months *YMMV*, existing customers                         |
+| 67 | Logitech Z625 THX 2.1 Speakers 179.99                                                                                   |
+| 68 | Shadow Warrior 2 $4.39 (90% savings) - Steam key                                                                        |
+| 69 | Logitech G Pro X Superlight mouse - ATL $169.99                                                                         |
+| 70 | Paper Mario - the Origami King $48.33                                                                                   |
+| 71 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                                |
+| 72 | PS Plus February 2022 Games: EA Sports UFC 4, Tiny Tina’s Assault on Dragon Keep, Planet Coaster: Console Edition (PS5) |
+| 73 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $240 B4 coupons, $7 S&H)                                                |
+| 74 | Buy or Upgrade to UNCHARTED: Legacy of Thieves Collection and get a FREE ticket (up to $30) to see the UNCHARTED movie  |
+| 75 | 65" Sony A80j $2498 / LG C1 $2298                                                                                       |
+| 76 | Airpods Pro, $199.97, YMMV                                                                                              |
+| 77 | Netgear Orbi Pro AC3000 Wireless Tri-Band Gigabit Wi-Fi System $159.00 (USD) - free shipping                            |
+| 78 | Amazon Prime Gaming (PC) January 2022- Better than Anticipated! Free Star Wars Jedi Fallen Order and more!              |
+| 79 | WD 2TB Blue SN550 NVMe M.2 Internal SSD $159.99USD +FS                                                                  |
+| 80 | WD Red Pro WD181KFGX 18TB 7200 RPM 512MB Cache SATA 6.0Gb/s 3.5" Internal Hard Drive - OEM - $509 (save 40%)            |
+| 81 | Sealed Lead Acid Batteries (SLA) 12 volt on sale Feb. 1 -13 at 20% discount $24.99 and up                               |
+| 82 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
+| 83 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                                      |
+| 84 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale 24hrs                               |
+| 85 | Mini ITX mobo AMD RYZEN Gigabyte X570 I AORUS Pro WiFi $209 ATL                                                         |
+| 86 | 50 percent off the cost of a Microsoft Certification exam                                                               |
+| 87 | PSP program - Beats Fit Pro $212.49 (reg $249.99 - preorder)                                                            |
+| 88 | Samsung Galaxy Tab S6 Lite, 64 GB $279.98 / 128 GB $329.99 (or less with trade-in or coupons) back in stock             |
+| 89 | Public Mobile Lunar Year Sale (2GB bonus every month for 8 months on $25+ plans)                                        |
