@@ -1,11 +1,11 @@
 |    | deals                                                                                                                   |
 |---:|:------------------------------------------------------------------------------------------------------------------------|
-|  0 | 8TB WD Blue 3.5" HDD (CMR) - $179.99 ($143.99 with EDU/Senior & 2 drives)                                               |
-|  1 | $1599.99 Acer Predator i5-11400F, 3060TI, 16GB DDR4, 1TB SSD                                                            |
-|  2 | Ubiquiti Wifi 6 AP - instock                                                                                            |
-|  3 | Link any Canadian-issued Mastercard to your AIR MILES® card and get to your next reward sooner!                         |
-|  4 | 27” 4K Monitor S2721Q - $341.99 …46% Off                                                                                |
-|  5 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                             |
+|  0 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                             |
+|  1 | 8TB WD Blue 3.5" HDD (CMR) - $179.99 ($143.99 with EDU/Senior & 2 drives)                                               |
+|  2 | $1599.99 Acer Predator i5-11400F, 3060TI, 16GB DDR4, 1TB SSD                                                            |
+|  3 | Ubiquiti Wifi 6 AP - instock                                                                                            |
+|  4 | Link any Canadian-issued Mastercard to your AIR MILES® card and get to your next reward sooner!                         |
+|  5 | 27” 4K Monitor S2721Q - $341.99 …46% Off                                                                                |
 |  6 | Fido offering 100% loyalty discount on Tablet 4GB Plan for 24 Months *YMMV*, existing customers                         |
 |  7 | Logitech Z625 THX 2.1 Speakers 179.99                                                                                   |
 |  8 | Shadow Warrior 2 $4.39 (90% savings) - Steam key                                                                        |
@@ -30,12 +30,12 @@
 | 27 | PSP program - Beats Fit Pro $212.49 (reg $249.99 - preorder)                                                            |
 | 28 | Samsung Galaxy Tab S6 Lite, 64 GB $279.98 / 128 GB $329.99 (or less with trade-in or coupons) back in stock             |
 | 29 | Public Mobile Lunar Year Sale (2GB bonus every month for 8 months on $25+ plans)                                        |
-| 30 | 8TB WD Blue 3.5" HDD (CMR) - $179.99 ($143.99 with EDU/Senior & 2 drives)                                               |
-| 31 | $1599.99 Acer Predator i5-11400F, 3060TI, 16GB DDR4, 1TB SSD                                                            |
-| 32 | Ubiquiti Wifi 6 AP - instock                                                                                            |
-| 33 | Link any Canadian-issued Mastercard to your AIR MILES® card and get to your next reward sooner!                         |
-| 34 | 27” 4K Monitor S2721Q - $341.99 …46% Off                                                                                |
-| 35 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                             |
+| 30 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                             |
+| 31 | 8TB WD Blue 3.5" HDD (CMR) - $179.99 ($143.99 with EDU/Senior & 2 drives)                                               |
+| 32 | $1599.99 Acer Predator i5-11400F, 3060TI, 16GB DDR4, 1TB SSD                                                            |
+| 33 | Ubiquiti Wifi 6 AP - instock                                                                                            |
+| 34 | Link any Canadian-issued Mastercard to your AIR MILES® card and get to your next reward sooner!                         |
+| 35 | 27” 4K Monitor S2721Q - $341.99 …46% Off                                                                                |
 | 36 | Fido offering 100% loyalty discount on Tablet 4GB Plan for 24 Months *YMMV*, existing customers                         |
 | 37 | Logitech Z625 THX 2.1 Speakers 179.99                                                                                   |
 | 38 | Shadow Warrior 2 $4.39 (90% savings) - Steam key                                                                        |
@@ -60,12 +60,12 @@
 | 57 | PSP program - Beats Fit Pro $212.49 (reg $249.99 - preorder)                                                            |
 | 58 | Samsung Galaxy Tab S6 Lite, 64 GB $279.98 / 128 GB $329.99 (or less with trade-in or coupons) back in stock             |
 | 59 | Public Mobile Lunar Year Sale (2GB bonus every month for 8 months on $25+ plans)                                        |
-| 60 | 8TB WD Blue 3.5" HDD (CMR) - $179.99 ($143.99 with EDU/Senior & 2 drives)                                               |
-| 61 | $1599.99 Acer Predator i5-11400F, 3060TI, 16GB DDR4, 1TB SSD                                                            |
-| 62 | Ubiquiti Wifi 6 AP - instock                                                                                            |
-| 63 | Link any Canadian-issued Mastercard to your AIR MILES® card and get to your next reward sooner!                         |
-| 64 | 27” 4K Monitor S2721Q - $341.99 …46% Off                                                                                |
-| 65 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                             |
+| 60 | We're Giving Away a PlayStation 5 Ratchet & Clank Bundle! Comment Here for a Contest Entry!                             |
+| 61 | 8TB WD Blue 3.5" HDD (CMR) - $179.99 ($143.99 with EDU/Senior & 2 drives)                                               |
+| 62 | $1599.99 Acer Predator i5-11400F, 3060TI, 16GB DDR4, 1TB SSD                                                            |
+| 63 | Ubiquiti Wifi 6 AP - instock                                                                                            |
+| 64 | Link any Canadian-issued Mastercard to your AIR MILES® card and get to your next reward sooner!                         |
+| 65 | 27” 4K Monitor S2721Q - $341.99 …46% Off                                                                                |
 | 66 | Fido offering 100% loyalty discount on Tablet 4GB Plan for 24 Months *YMMV*, existing customers                         |
 | 67 | Logitech Z625 THX 2.1 Speakers 179.99                                                                                   |
 | 68 | Shadow Warrior 2 $4.39 (90% savings) - Steam key                                                                        |
