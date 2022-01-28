@@ -1,10 +1,10 @@
 |    | deals                                                                                                                   |
 |---:|:------------------------------------------------------------------------------------------------------------------------|
-|  0 | 27” 4K Monitor S2721Q - $341.99 …46% Off                                                                                |
-|  1 | Securifi smart security hub & wifi mesh                                                                                 |
-|  2 | Alienware m15 Ryzen Edition - 5800H, RTX 3060, 16GB, 512 SDD - $1349.99 - 10% coupon = $1214.99                         |
-|  3 | Fido mobile offer for existing customers (20 GB for 45/month) - YMMV                                                    |
-|  4 | 4010 2k Projector $2400                                                                                                 |
+|  0 | 4010 2k Projector $2400                                                                                                 |
+|  1 | 27” 4K Monitor S2721Q - $341.99 …46% Off                                                                                |
+|  2 | Securifi smart security hub & wifi mesh                                                                                 |
+|  3 | Alienware m15 Ryzen Edition - 5800H, RTX 3060, 16GB, 512 SDD - $1349.99 - 10% coupon = $1214.99                         |
+|  4 | Fido mobile offer for existing customers (20 GB for 45/month) - YMMV                                                    |
 |  5 | Coming Soon to Xbox Game Pass: Taiko no Tatsujin, Rainbow Six Extraction, Hitman Trilogy, Danganronpa, and More         |
 |  6 | Logitech Z625 THX 2.1 Speakers 179.99                                                                                   |
 |  7 | Bluehive Ultra-Thin 15W Fast Wireless Charging Pad, Sale $11.99(Reg.$29.99) 60%Off, starts tomorrow                     |
@@ -30,11 +30,11 @@
 | 27 | PS Plus February 2022 Games: EA Sports UFC 4, Tiny Tina’s Assault on Dragon Keep, Planet Coaster: Console Edition (PS5) |
 | 28 | WD_Black 1TB SN850 SSD Solid State Drive with Heatsink (PS5 compatible) Camelx3 all time low $239.99                    |
 | 29 | Samsung T7 and T7 Touch SSD 1TB $149.99/2TB $339.99 (Up To $105 Off)                                                    |
-| 30 | 27” 4K Monitor S2721Q - $341.99 …46% Off                                                                                |
-| 31 | Securifi smart security hub & wifi mesh                                                                                 |
-| 32 | Alienware m15 Ryzen Edition - 5800H, RTX 3060, 16GB, 512 SDD - $1349.99 - 10% coupon = $1214.99                         |
-| 33 | Fido mobile offer for existing customers (20 GB for 45/month) - YMMV                                                    |
-| 34 | 4010 2k Projector $2400                                                                                                 |
+| 30 | Securifi smart security hub & wifi mesh                                                                                 |
+| 31 | 4010 2k Projector $2400                                                                                                 |
+| 32 | 27” 4K Monitor S2721Q - $341.99 …46% Off                                                                                |
+| 33 | Alienware m15 Ryzen Edition - 5800H, RTX 3060, 16GB, 512 SDD - $1349.99 - 10% coupon = $1214.99                         |
+| 34 | Fido mobile offer for existing customers (20 GB for 45/month) - YMMV                                                    |
 | 35 | Coming Soon to Xbox Game Pass: Taiko no Tatsujin, Rainbow Six Extraction, Hitman Trilogy, Danganronpa, and More         |
 | 36 | Logitech Z625 THX 2.1 Speakers 179.99                                                                                   |
 | 37 | Bluehive Ultra-Thin 15W Fast Wireless Charging Pad, Sale $11.99(Reg.$29.99) 60%Off, starts tomorrow                     |
@@ -60,11 +60,11 @@
 | 57 | PS Plus February 2022 Games: EA Sports UFC 4, Tiny Tina’s Assault on Dragon Keep, Planet Coaster: Console Edition (PS5) |
 | 58 | WD_Black 1TB SN850 SSD Solid State Drive with Heatsink (PS5 compatible) Camelx3 all time low $239.99                    |
 | 59 | Samsung T7 and T7 Touch SSD 1TB $149.99/2TB $339.99 (Up To $105 Off)                                                    |
-| 60 | 27” 4K Monitor S2721Q - $341.99 …46% Off                                                                                |
-| 61 | Securifi smart security hub & wifi mesh                                                                                 |
-| 62 | Alienware m15 Ryzen Edition - 5800H, RTX 3060, 16GB, 512 SDD - $1349.99 - 10% coupon = $1214.99                         |
-| 63 | Fido mobile offer for existing customers (20 GB for 45/month) - YMMV                                                    |
-| 64 | 4010 2k Projector $2400                                                                                                 |
+| 60 | Securifi smart security hub & wifi mesh                                                                                 |
+| 61 | 4010 2k Projector $2400                                                                                                 |
+| 62 | 27” 4K Monitor S2721Q - $341.99 …46% Off                                                                                |
+| 63 | Alienware m15 Ryzen Edition - 5800H, RTX 3060, 16GB, 512 SDD - $1349.99 - 10% coupon = $1214.99                         |
+| 64 | Fido mobile offer for existing customers (20 GB for 45/month) - YMMV                                                    |
 | 65 | Coming Soon to Xbox Game Pass: Taiko no Tatsujin, Rainbow Six Extraction, Hitman Trilogy, Danganronpa, and More         |
 | 66 | Logitech Z625 THX 2.1 Speakers 179.99                                                                                   |
 | 67 | Bluehive Ultra-Thin 15W Fast Wireless Charging Pad, Sale $11.99(Reg.$29.99) 60%Off, starts tomorrow                     |
