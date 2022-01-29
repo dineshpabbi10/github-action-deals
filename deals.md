@@ -1,92 +1,92 @@
-|    | deals                                                                                                                   |
-|---:|:------------------------------------------------------------------------------------------------------------------------|
-|  0 | 4010 2k Projector $2400                                                                                                 |
-|  1 | 27” 4K Monitor S2721Q - $341.99 …46% Off                                                                                |
-|  2 | Securifi smart security hub & wifi mesh                                                                                 |
-|  3 | Alienware m15 Ryzen Edition - 5800H, RTX 3060, 16GB, 512 SDD - $1349.99 - 10% coupon = $1214.99                         |
-|  4 | Fido mobile offer for existing customers (20 GB for 45/month) - YMMV                                                    |
-|  5 | Coming Soon to Xbox Game Pass: Taiko no Tatsujin, Rainbow Six Extraction, Hitman Trilogy, Danganronpa, and More         |
-|  6 | Logitech Z625 THX 2.1 Speakers 179.99                                                                                   |
-|  7 | Bluehive Ultra-Thin 15W Fast Wireless Charging Pad, Sale $11.99(Reg.$29.99) 60%Off, starts tomorrow                     |
-|  8 | Blue Yeticaster Professional Broadcast Bundle with Yeti USB Microphone - 199.99                                         |
-|  9 | Oculus Quest 2 — Advanced All-In-One Virtual Reality Headset — 64 GB (refurbished) $199USD (US only)                    |
-| 10 | Buy or Upgrade to UNCHARTED: Legacy of Thieves Collection and get a FREE ticket (up to $30) to see the UNCHARTED movie  |
-| 11 | Epic Games Free Weekly Game - DAEMON X MACHINA + 3 separate DLC (Jan 27 - Feb 3)                                        |
-| 12 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                                |
-| 13 | eshop: Baldur's Gate 1 and 2 combo, Planescape combos - $11.99 each (Switch, digital)                                   |
-| 14 | Samsung Galaxy Tab S6 Lite, 64 GB $279.98 / 128 GB $329.99 (or less with trade-in or coupons) back in stock             |
-| 15 | Logitech G Pro X Superlight mouse - ATL $169.99                                                                         |
-| 16 | Hot? - HP Victus 16, AMD 5600H, RTX 3050, 8 GB RAM - $824.99 - 9% Rakuten                                               |
-| 17 | Moto Edge (2021) $200 on $45 7Gb plan BEFORE credits                                                                    |
-| 18 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                                      |
-| 19 | Free 5GB/10GB Data for 15 Months (YMMV)                                                                                 |
-| 20 | Chromebook 10e tablet 129$ less rakuten                                                                                 |
-| 21 | HyperX Cloud II Wireless Gaming Headset - Black/Red - 143.99. Free Shipping                                             |
-| 22 | Mini ITX mobo AMD RYZEN Gigabyte X570 I AORUS Pro WiFi $209 ATL                                                         |
-| 23 | Samsung US - $50 Preorder Credit on Next Galaxy Smartphone or Tablet                                                    |
-| 24 | Warm - Seagate Barracuda 4TB 3.5" SMR Hard Drive $74.99 + shipping                                                      |
-| 25 | Link any Canadian-issued Mastercard to your AIR MILES® card and get to your next reward sooner!                         |
-| 26 | Ubiquiti Wifi 6 AP - instock                                                                                            |
-| 27 | PS Plus February 2022 Games: EA Sports UFC 4, Tiny Tina’s Assault on Dragon Keep, Planet Coaster: Console Edition (PS5) |
-| 28 | WD_Black 1TB SN850 SSD Solid State Drive with Heatsink (PS5 compatible) Camelx3 all time low $239.99                    |
-| 29 | Samsung T7 and T7 Touch SSD 1TB $149.99/2TB $339.99 (Up To $105 Off)                                                    |
-| 30 | Securifi smart security hub & wifi mesh                                                                                 |
-| 31 | 4010 2k Projector $2400                                                                                                 |
-| 32 | 27” 4K Monitor S2721Q - $341.99 …46% Off                                                                                |
-| 33 | Alienware m15 Ryzen Edition - 5800H, RTX 3060, 16GB, 512 SDD - $1349.99 - 10% coupon = $1214.99                         |
-| 34 | Fido mobile offer for existing customers (20 GB for 45/month) - YMMV                                                    |
-| 35 | Coming Soon to Xbox Game Pass: Taiko no Tatsujin, Rainbow Six Extraction, Hitman Trilogy, Danganronpa, and More         |
-| 36 | Logitech Z625 THX 2.1 Speakers 179.99                                                                                   |
-| 37 | Bluehive Ultra-Thin 15W Fast Wireless Charging Pad, Sale $11.99(Reg.$29.99) 60%Off, starts tomorrow                     |
-| 38 | Blue Yeticaster Professional Broadcast Bundle with Yeti USB Microphone - 199.99                                         |
-| 39 | Oculus Quest 2 — Advanced All-In-One Virtual Reality Headset — 64 GB (refurbished) $199USD (US only)                    |
-| 40 | Buy or Upgrade to UNCHARTED: Legacy of Thieves Collection and get a FREE ticket (up to $30) to see the UNCHARTED movie  |
-| 41 | Epic Games Free Weekly Game - DAEMON X MACHINA + 3 separate DLC (Jan 27 - Feb 3)                                        |
-| 42 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                                |
-| 43 | eshop: Baldur's Gate 1 and 2 combo, Planescape combos - $11.99 each (Switch, digital)                                   |
-| 44 | Samsung Galaxy Tab S6 Lite, 64 GB $279.98 / 128 GB $329.99 (or less with trade-in or coupons) back in stock             |
-| 45 | Logitech G Pro X Superlight mouse - ATL $169.99                                                                         |
-| 46 | Hot? - HP Victus 16, AMD 5600H, RTX 3050, 8 GB RAM - $824.99 - 9% Rakuten                                               |
-| 47 | Moto Edge (2021) $200 on $45 7Gb plan BEFORE credits                                                                    |
-| 48 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                                      |
-| 49 | Free 5GB/10GB Data for 15 Months (YMMV)                                                                                 |
-| 50 | Chromebook 10e tablet 129$ less rakuten                                                                                 |
-| 51 | HyperX Cloud II Wireless Gaming Headset - Black/Red - 143.99. Free Shipping                                             |
-| 52 | Mini ITX mobo AMD RYZEN Gigabyte X570 I AORUS Pro WiFi $209 ATL                                                         |
-| 53 | Samsung US - $50 Preorder Credit on Next Galaxy Smartphone or Tablet                                                    |
-| 54 | Warm - Seagate Barracuda 4TB 3.5" SMR Hard Drive $74.99 + shipping                                                      |
-| 55 | Link any Canadian-issued Mastercard to your AIR MILES® card and get to your next reward sooner!                         |
-| 56 | Ubiquiti Wifi 6 AP - instock                                                                                            |
-| 57 | PS Plus February 2022 Games: EA Sports UFC 4, Tiny Tina’s Assault on Dragon Keep, Planet Coaster: Console Edition (PS5) |
-| 58 | WD_Black 1TB SN850 SSD Solid State Drive with Heatsink (PS5 compatible) Camelx3 all time low $239.99                    |
-| 59 | Samsung T7 and T7 Touch SSD 1TB $149.99/2TB $339.99 (Up To $105 Off)                                                    |
-| 60 | Securifi smart security hub & wifi mesh                                                                                 |
-| 61 | 4010 2k Projector $2400                                                                                                 |
-| 62 | 27” 4K Monitor S2721Q - $341.99 …46% Off                                                                                |
-| 63 | Alienware m15 Ryzen Edition - 5800H, RTX 3060, 16GB, 512 SDD - $1349.99 - 10% coupon = $1214.99                         |
-| 64 | Fido mobile offer for existing customers (20 GB for 45/month) - YMMV                                                    |
-| 65 | Coming Soon to Xbox Game Pass: Taiko no Tatsujin, Rainbow Six Extraction, Hitman Trilogy, Danganronpa, and More         |
-| 66 | Logitech Z625 THX 2.1 Speakers 179.99                                                                                   |
-| 67 | Bluehive Ultra-Thin 15W Fast Wireless Charging Pad, Sale $11.99(Reg.$29.99) 60%Off, starts tomorrow                     |
-| 68 | Blue Yeticaster Professional Broadcast Bundle with Yeti USB Microphone - 199.99                                         |
-| 69 | Oculus Quest 2 — Advanced All-In-One Virtual Reality Headset — 64 GB (refurbished) $199USD (US only)                    |
-| 70 | Buy or Upgrade to UNCHARTED: Legacy of Thieves Collection and get a FREE ticket (up to $30) to see the UNCHARTED movie  |
-| 71 | Epic Games Free Weekly Game - DAEMON X MACHINA + 3 separate DLC (Jan 27 - Feb 3)                                        |
-| 72 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                                |
-| 73 | eshop: Baldur's Gate 1 and 2 combo, Planescape combos - $11.99 each (Switch, digital)                                   |
-| 74 | Samsung Galaxy Tab S6 Lite, 64 GB $279.98 / 128 GB $329.99 (or less with trade-in or coupons) back in stock             |
-| 75 | Logitech G Pro X Superlight mouse - ATL $169.99                                                                         |
-| 76 | Hot? - HP Victus 16, AMD 5600H, RTX 3050, 8 GB RAM - $824.99 - 9% Rakuten                                               |
-| 77 | Moto Edge (2021) $200 on $45 7Gb plan BEFORE credits                                                                    |
-| 78 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                                      |
-| 79 | Free 5GB/10GB Data for 15 Months (YMMV)                                                                                 |
-| 80 | Chromebook 10e tablet 129$ less rakuten                                                                                 |
-| 81 | HyperX Cloud II Wireless Gaming Headset - Black/Red - 143.99. Free Shipping                                             |
-| 82 | Mini ITX mobo AMD RYZEN Gigabyte X570 I AORUS Pro WiFi $209 ATL                                                         |
-| 83 | Samsung US - $50 Preorder Credit on Next Galaxy Smartphone or Tablet                                                    |
-| 84 | Warm - Seagate Barracuda 4TB 3.5" SMR Hard Drive $74.99 + shipping                                                      |
-| 85 | Link any Canadian-issued Mastercard to your AIR MILES® card and get to your next reward sooner!                         |
-| 86 | Ubiquiti Wifi 6 AP - instock                                                                                            |
-| 87 | PS Plus February 2022 Games: EA Sports UFC 4, Tiny Tina’s Assault on Dragon Keep, Planet Coaster: Console Edition (PS5) |
-| 88 | WD_Black 1TB SN850 SSD Solid State Drive with Heatsink (PS5 compatible) Camelx3 all time low $239.99                    |
-| 89 | Samsung T7 and T7 Touch SSD 1TB $149.99/2TB $339.99 (Up To $105 Off)                                                    |
+|    | deals                                                                                                                  |
+|---:|:-----------------------------------------------------------------------------------------------------------------------|
+|  0 | ATL Facebook Portal Smart Video Calling 10” Touch Screen Display with Alexa -$99                                       |
+|  1 | Ubiquiti Wifi 6 AP - instock and POE Plus Injector is instock, $15, GO GO GO RDFer                                     |
+|  2 | Telus offers $9.95 internet for low-income seniors in AB & BC                                                          |
+|  3 | Chromebook 10e tablet 129$ less rakuten                                                                                |
+|  4 | Destroy All Humans [Original Xbox] - Free (100% Off)                                                                   |
+|  5 | PlayStation 4 DualShock Back Button Attachment 9.99                                                                    |
+|  6 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale (recurrent)                        |
+|  7 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
+|  8 | WD 10TB Elements Desktop Hard Drive HDD, USB 3.0 $219.99                                                               |
+|  9 | LG Oled 65A1 1499$ YMMV In store                                                                                       |
+| 10 | Fanatical Elite VR Bundle 3 for $6.35 - 10 for $17.75                                                                  |
+| 11 | LG OLED A1 55 inch $999                                                                                                |
+| 12 | Tile Mate (2018) RT-13001 - $11.96 ($10.76 with EPP) + FS                                                              |
+| 13 | EVGA GQ 1000W 80+ Gold Certified Semi-modular ATX Power Supply $174.99                                                 |
+| 14 | Moto Edge (2021) $200 on $45 7Gb plan BEFORE credits                                                                   |
+| 15 | Airpods Pro, $199.97, YMMV                                                                                             |
+| 16 | 65" Sony A80j $2498 / LG C1 $2298                                                                                      |
+| 17 | Polk Audio Soundbar & Wireless Subwoofer                                                                               |
+| 18 | Immortals Fenyx Rising $19.99                                                                                          |
+| 19 | Dual Monitor Stand - HUANUO AV Double Articulating Monitor Arm Desk Mount $33.9                                        |
+| 20 | Buy or Upgrade to UNCHARTED: Legacy of Thieves Collection and get a FREE ticket (up to $30) to see the UNCHARTED movie |
+| 21 | Amazon Prime Gaming February 2022 - Free Games and Content                                                             |
+| 22 | Rogers Ignite internet 1gbps $49.99 *possible ymmv                                                                     |
+| 23 | Ubiquiti APs - U6-LITE, LR and PRO in STOCK + PoE Injectors                                                            |
+| 24 | Seagate One Touch 2TB USB 3.2 Gen 1 External Hard Drive - Red Reg $104.99 on for $69.99                                |
+| 25 | Hisense 75U68G ULED 4K Android TV- $1398                                                                               |
+| 26 | Connect and Save! Subscribe to Epic Games Emails and get a $10 USD ($14 CAD?) Epic Coupon!                             |
+| 27 | Ubiquiti UDM-PRO, PoE Injector 802.3at and 802.3af - $469                                                              |
+| 28 | Ooma Telo Air Free Home Phone Service with Three HD3 Handsets $69.97 - YMMV available at Nepean Ottawa location        |
+| 29 | Epic Games Free Weekly Game - DAEMON X MACHINA + 3 separate DLC (Jan 27 - Feb 3)                                       |
+| 30 | ATL Facebook Portal Smart Video Calling 10” Touch Screen Display with Alexa -$99                                       |
+| 31 | Ubiquiti Wifi 6 AP - instock and POE Plus Injector is instock, $15, GO GO GO RDFer                                     |
+| 32 | Telus offers $9.95 internet for low-income seniors in AB & BC                                                          |
+| 33 | Chromebook 10e tablet 129$ less rakuten                                                                                |
+| 34 | Destroy All Humans [Original Xbox] - Free (100% Off)                                                                   |
+| 35 | PlayStation 4 DualShock Back Button Attachment 9.99                                                                    |
+| 36 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale (recurrent)                        |
+| 37 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
+| 38 | WD 10TB Elements Desktop Hard Drive HDD, USB 3.0 $219.99                                                               |
+| 39 | LG Oled 65A1 1499$ YMMV In store                                                                                       |
+| 40 | Fanatical Elite VR Bundle 3 for $6.35 - 10 for $17.75                                                                  |
+| 41 | LG OLED A1 55 inch $999                                                                                                |
+| 42 | Tile Mate (2018) RT-13001 - $11.96 ($10.76 with EPP) + FS                                                              |
+| 43 | EVGA GQ 1000W 80+ Gold Certified Semi-modular ATX Power Supply $174.99                                                 |
+| 44 | Moto Edge (2021) $200 on $45 7Gb plan BEFORE credits                                                                   |
+| 45 | Airpods Pro, $199.97, YMMV                                                                                             |
+| 46 | 65" Sony A80j $2498 / LG C1 $2298                                                                                      |
+| 47 | Polk Audio Soundbar & Wireless Subwoofer                                                                               |
+| 48 | Immortals Fenyx Rising $19.99                                                                                          |
+| 49 | Dual Monitor Stand - HUANUO AV Double Articulating Monitor Arm Desk Mount $33.9                                        |
+| 50 | Buy or Upgrade to UNCHARTED: Legacy of Thieves Collection and get a FREE ticket (up to $30) to see the UNCHARTED movie |
+| 51 | Amazon Prime Gaming February 2022 - Free Games and Content                                                             |
+| 52 | Rogers Ignite internet 1gbps $49.99 *possible ymmv                                                                     |
+| 53 | Ubiquiti APs - U6-LITE, LR and PRO in STOCK + PoE Injectors                                                            |
+| 54 | Seagate One Touch 2TB USB 3.2 Gen 1 External Hard Drive - Red Reg $104.99 on for $69.99                                |
+| 55 | Hisense 75U68G ULED 4K Android TV- $1398                                                                               |
+| 56 | Connect and Save! Subscribe to Epic Games Emails and get a $10 USD ($14 CAD?) Epic Coupon!                             |
+| 57 | Ubiquiti UDM-PRO, PoE Injector 802.3at and 802.3af - $469                                                              |
+| 58 | Ooma Telo Air Free Home Phone Service with Three HD3 Handsets $69.97 - YMMV available at Nepean Ottawa location        |
+| 59 | Epic Games Free Weekly Game - DAEMON X MACHINA + 3 separate DLC (Jan 27 - Feb 3)                                       |
+| 60 | ATL Facebook Portal Smart Video Calling 10” Touch Screen Display with Alexa -$99                                       |
+| 61 | Ubiquiti Wifi 6 AP - instock and POE Plus Injector is instock, $15, GO GO GO RDFer                                     |
+| 62 | Telus offers $9.95 internet for low-income seniors in AB & BC                                                          |
+| 63 | Chromebook 10e tablet 129$ less rakuten                                                                                |
+| 64 | Destroy All Humans [Original Xbox] - Free (100% Off)                                                                   |
+| 65 | PlayStation 4 DualShock Back Button Attachment 9.99                                                                    |
+| 66 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale (recurrent)                        |
+| 67 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
+| 68 | WD 10TB Elements Desktop Hard Drive HDD, USB 3.0 $219.99                                                               |
+| 69 | LG Oled 65A1 1499$ YMMV In store                                                                                       |
+| 70 | Fanatical Elite VR Bundle 3 for $6.35 - 10 for $17.75                                                                  |
+| 71 | LG OLED A1 55 inch $999                                                                                                |
+| 72 | Tile Mate (2018) RT-13001 - $11.96 ($10.76 with EPP) + FS                                                              |
+| 73 | EVGA GQ 1000W 80+ Gold Certified Semi-modular ATX Power Supply $174.99                                                 |
+| 74 | Moto Edge (2021) $200 on $45 7Gb plan BEFORE credits                                                                   |
+| 75 | Airpods Pro, $199.97, YMMV                                                                                             |
+| 76 | 65" Sony A80j $2498 / LG C1 $2298                                                                                      |
+| 77 | Polk Audio Soundbar & Wireless Subwoofer                                                                               |
+| 78 | Immortals Fenyx Rising $19.99                                                                                          |
+| 79 | Dual Monitor Stand - HUANUO AV Double Articulating Monitor Arm Desk Mount $33.9                                        |
+| 80 | Buy or Upgrade to UNCHARTED: Legacy of Thieves Collection and get a FREE ticket (up to $30) to see the UNCHARTED movie |
+| 81 | Amazon Prime Gaming February 2022 - Free Games and Content                                                             |
+| 82 | Rogers Ignite internet 1gbps $49.99 *possible ymmv                                                                     |
+| 83 | Ubiquiti APs - U6-LITE, LR and PRO in STOCK + PoE Injectors                                                            |
+| 84 | Seagate One Touch 2TB USB 3.2 Gen 1 External Hard Drive - Red Reg $104.99 on for $69.99                                |
+| 85 | Hisense 75U68G ULED 4K Android TV- $1398                                                                               |
+| 86 | Connect and Save! Subscribe to Epic Games Emails and get a $10 USD ($14 CAD?) Epic Coupon!                             |
+| 87 | Ubiquiti UDM-PRO, PoE Injector 802.3at and 802.3af - $469                                                              |
+| 88 | Ooma Telo Air Free Home Phone Service with Three HD3 Handsets $69.97 - YMMV available at Nepean Ottawa location        |
+| 89 | Epic Games Free Weekly Game - DAEMON X MACHINA + 3 separate DLC (Jan 27 - Feb 3)                                       |
