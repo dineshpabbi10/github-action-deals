@@ -1,11 +1,11 @@
 |    | deals                                                                                                                    |
 |---:|:-------------------------------------------------------------------------------------------------------------------------|
-|  0 | Samsung Galaxy Tab S6 Lite, 64 GB $279.98 / 128 GB $329.99 (or less with trade-in or coupons) back in stock              |
-|  1 | Kee Rechargeable Lithium Ion AA/AAA -$14.99                                                                              |
-|  2 | Samsung 970 EVO Plus Series - 2Tb PCIe NVMe - M.2 Internal SSD (MZ-V7S2T0B/AM) - $249.99 again                           |
-|  3 | Buy or Upgrade to UNCHARTED: Legacy of Thieves Collection and get a FREE ticket (up to $30) to see the UNCHARTED movie   |
-|  4 | LG Oled 65A1 1499$ YMMV In store                                                                                         |
-|  5 | PowerColor AMD Radeon RX 6500XT Gaming Graphics Card with 4GB GDDR6 Memory - $344.31 (63 in stock sold & shipped Amazon) |
+|  0 | PowerColor AMD Radeon RX 6500XT Gaming Graphics Card with 4GB GDDR6 Memory - $344.31 (63 in stock sold & shipped Amazon) |
+|  1 | Samsung Galaxy Tab S6 Lite, 64 GB $279.98 / 128 GB $329.99 (or less with trade-in or coupons) back in stock              |
+|  2 | Kee Rechargeable Lithium Ion AA/AAA -$14.99                                                                              |
+|  3 | Samsung 970 EVO Plus Series - 2Tb PCIe NVMe - M.2 Internal SSD (MZ-V7S2T0B/AM) - $249.99 again                           |
+|  4 | Buy or Upgrade to UNCHARTED: Legacy of Thieves Collection and get a FREE ticket (up to $30) to see the UNCHARTED movie   |
+|  5 | LG Oled 65A1 1499$ YMMV In store                                                                                         |
 |  6 | Nikon D3500 DSLR clearance $199.97 YMMV                                                                                  |
 |  7 | iPhone 12 $50 & iPhone 13 $64 w/ Big Gig Unlimited 15GB (YMMV - Loyalty/CSR)                                             |
 |  8 | QNAP TS-453D-4G-US Diskless System $599.99                                                                               |
@@ -30,12 +30,12 @@
 | 27 | WD_Black 1TB SN850 SSD Solid State Drive with Heatsink (PS5 compatible) Camelx3 all time low $239.99                     |
 | 28 | Nintendo switch games $29 and under                                                                                      |
 | 29 | PlayStation 4 DualShock Back Button Attachment 9.99                                                                      |
-| 30 | Samsung Galaxy Tab S6 Lite, 64 GB $279.98 / 128 GB $329.99 (or less with trade-in or coupons) back in stock              |
-| 31 | Kee Rechargeable Lithium Ion AA/AAA -$14.99                                                                              |
-| 32 | Samsung 970 EVO Plus Series - 2Tb PCIe NVMe - M.2 Internal SSD (MZ-V7S2T0B/AM) - $249.99 again                           |
-| 33 | Buy or Upgrade to UNCHARTED: Legacy of Thieves Collection and get a FREE ticket (up to $30) to see the UNCHARTED movie   |
-| 34 | LG Oled 65A1 1499$ YMMV In store                                                                                         |
-| 35 | PowerColor AMD Radeon RX 6500XT Gaming Graphics Card with 4GB GDDR6 Memory - $344.31 (63 in stock sold & shipped Amazon) |
+| 30 | PowerColor AMD Radeon RX 6500XT Gaming Graphics Card with 4GB GDDR6 Memory - $344.31 (63 in stock sold & shipped Amazon) |
+| 31 | Samsung Galaxy Tab S6 Lite, 64 GB $279.98 / 128 GB $329.99 (or less with trade-in or coupons) back in stock              |
+| 32 | Kee Rechargeable Lithium Ion AA/AAA -$14.99                                                                              |
+| 33 | Samsung 970 EVO Plus Series - 2Tb PCIe NVMe - M.2 Internal SSD (MZ-V7S2T0B/AM) - $249.99 again                           |
+| 34 | Buy or Upgrade to UNCHARTED: Legacy of Thieves Collection and get a FREE ticket (up to $30) to see the UNCHARTED movie   |
+| 35 | LG Oled 65A1 1499$ YMMV In store                                                                                         |
 | 36 | Nikon D3500 DSLR clearance $199.97 YMMV                                                                                  |
 | 37 | iPhone 12 $50 & iPhone 13 $64 w/ Big Gig Unlimited 15GB (YMMV - Loyalty/CSR)                                             |
 | 38 | QNAP TS-453D-4G-US Diskless System $599.99                                                                               |
