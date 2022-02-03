@@ -1,34 +1,34 @@
 |    | deals                                                                                                         |
 |---:|:--------------------------------------------------------------------------------------------------------------|
-|  0 | Hisense L5G 100" 4K Laser TV + Screen - $3298                                                                 |
-|  1 | Denon AVR-X3700H 9.2 Channel 8K Ultra HD Network AV Receiver $1799.98 ($200 off)                              |
-|  2 | ThinkBook 14p Gen 2 AMD, 5600H/16GB/512GB, 14.0" 16:10 2.2K, $891.51 via Perkopolis                           |
-|  3 | Lenovo Thinkpad L15 Gen 2 (Customizable) - Ryzen 3 5400U, 4GB DDR4, 128GB SSD, 15.6" FHD IPS screen - $604.35 |
-|  4 | Nikon D3500 DSLR clearance $199.97 YMMV                                                                       |
-|  5 | Google Chromecast w/ Google TV $50 ($20 off) - Starts Feb. 4th                                                |
-|  6 | PowerColor Fighter AMD Radeon RX 6500XT Gaming Graphics Card with 4GB GDDR6 Memory - $359.39 (Dual Fan)       |
-|  7 | Lenovo Legion M200 gaming mouse $13.99                                                                        |
-|  8 | Brassex Inc Gaming Chair, Black or Black/Red $170 (reg. $399.97)                                              |
-|  9 | Refurbished 10.5-inch iPad Pro Wi-Fi 64GB $489.99                                                             |
-| 10 | Win 1 of 5 $25 gift cards by sharing your favourite deals from January!                                       |
-| 11 | $49.99 USD - Microsoft Office Professional Plus 2021 for Windows or Mac Lifetime License                      |
-| 12 | Ubiquiti UDM-PRO, PoE Injector 802.3at and 802.3af - $469                                                     |
-| 13 | YMMV - Bose Sport Earbuds (Clearance) 99$                                                                     |
-| 14 | Dell XPS 13 XPS9310-7801SLV-PCA Intel Evo Laptop, i7-1195G7 $1669.99                                          |
-| 15 | JBL T110 Wireless In-Ear Headphones ($9.97) ONTARIO                                                           |
-| 16 | (Qc ONLY possible price error) Philips HUE Smart Tap Switch $14.99 and more...                                |
-| 17 | Apple Magic Keyboard (12.9" iPad Pro) $ 299.98 (ON)                                                           |
-| 18 | Logitech M510 Mouse - $25                                                                                     |
-| 19 | Rogers Ignite internet 1gbps $49.99 *possible ymmv                                                            |
-| 20 | LG OLED A1 55 inch $999                                                                                       |
-| 21 | Samsung Galaxy Watch 4 44mm for $320 and 40mm for $280                                                        |
-| 22 | Refurbished M1 MacBook Airs back in stock at $1099                                                            |
-| 23 | Noctua NH-D15, Premium CPU Cooler with 2x NF-A15 PWM 140mm Fans (Brown) @ Amazon.ca for $109.95               |
-| 24 | Ubiquiti Wifi 6 AP - instock and POE Plus Injector s(OOS)                                                     |
-| 25 | Jabra Elite Active 75t -- $129.99                                                                             |
-| 26 | iPhone 12 $50 & iPhone 13 $64 w/ Big Gig Unlimited 15GB (YMMV - Loyalty/CSR)                                  |
-| 27 | KZ ZSN Pro 1BA+1DD IEM - USD$11.96 + Shipping                                                                 |
-| 28 | 7x Aeroplan Points Feb 2-6                                                                                    |
+|  0 | 7x Aeroplan Points Feb 2-6                                                                                    |
+|  1 | Hisense L5G 100" 4K Laser TV + Screen - $3298                                                                 |
+|  2 | Denon AVR-X3700H 9.2 Channel 8K Ultra HD Network AV Receiver $1799.98 ($200 off)                              |
+|  3 | ThinkBook 14p Gen 2 AMD, 5600H/16GB/512GB, 14.0" 16:10 2.2K, $891.51 via Perkopolis                           |
+|  4 | Lenovo Thinkpad L15 Gen 2 (Customizable) - Ryzen 3 5400U, 4GB DDR4, 128GB SSD, 15.6" FHD IPS screen - $604.35 |
+|  5 | Nikon D3500 DSLR clearance $199.97 YMMV                                                                       |
+|  6 | Google Chromecast w/ Google TV $50 ($20 off) - Starts Feb. 4th                                                |
+|  7 | PowerColor Fighter AMD Radeon RX 6500XT Gaming Graphics Card with 4GB GDDR6 Memory - $359.39 (Dual Fan)       |
+|  8 | Lenovo Legion M200 gaming mouse $13.99                                                                        |
+|  9 | Brassex Inc Gaming Chair, Black or Black/Red $170 (reg. $399.97)                                              |
+| 10 | Refurbished 10.5-inch iPad Pro Wi-Fi 64GB $489.99                                                             |
+| 11 | Win 1 of 5 $25 gift cards by sharing your favourite deals from January!                                       |
+| 12 | $49.99 USD - Microsoft Office Professional Plus 2021 for Windows or Mac Lifetime License                      |
+| 13 | Ubiquiti UDM-PRO, PoE Injector 802.3at and 802.3af - $469                                                     |
+| 14 | YMMV - Bose Sport Earbuds (Clearance) 99$                                                                     |
+| 15 | Dell XPS 13 XPS9310-7801SLV-PCA Intel Evo Laptop, i7-1195G7 $1669.99                                          |
+| 16 | JBL T110 Wireless In-Ear Headphones ($9.97) ONTARIO                                                           |
+| 17 | (Qc ONLY possible price error) Philips HUE Smart Tap Switch $14.99 and more...                                |
+| 18 | Apple Magic Keyboard (12.9" iPad Pro) $ 299.98 (ON)                                                           |
+| 19 | Logitech M510 Mouse - $25                                                                                     |
+| 20 | Rogers Ignite internet 1gbps $49.99 *possible ymmv                                                            |
+| 21 | LG OLED A1 55 inch $999                                                                                       |
+| 22 | Samsung Galaxy Watch 4 44mm for $320 and 40mm for $280                                                        |
+| 23 | Refurbished M1 MacBook Airs back in stock at $1099                                                            |
+| 24 | Noctua NH-D15, Premium CPU Cooler with 2x NF-A15 PWM 140mm Fans (Brown) @ Amazon.ca for $109.95               |
+| 25 | Ubiquiti Wifi 6 AP - instock and POE Plus Injector s(OOS)                                                     |
+| 26 | Jabra Elite Active 75t -- $129.99                                                                             |
+| 27 | iPhone 12 $50 & iPhone 13 $64 w/ Big Gig Unlimited 15GB (YMMV - Loyalty/CSR)                                  |
+| 28 | KZ ZSN Pro 1BA+1DD IEM - USD$11.96 + Shipping                                                                 |
 | 29 | Telus offers $9.95 internet for low-income seniors in AB & BC                                                 |
 | 30 | 7x Aeroplan Points Feb 2-6                                                                                    |
 | 31 | Hisense L5G 100" 4K Laser TV + Screen - $3298                                                                 |
