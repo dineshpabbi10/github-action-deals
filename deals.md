@@ -1,92 +1,92 @@
-|    | deals                                                                                                                    |
-|---:|:-------------------------------------------------------------------------------------------------------------------------|
-|  0 | Samsung Galaxy Tab S7 128gb $229.99 - LAVA HOT - YMMV                                                                    |
-|  1 | Win 1 of 5 $25 gift cards by sharing your favourite deals from January!                                                  |
-|  2 | Amazon Prime Gaming February 2022 - Free Games and Content                                                               |
-|  3 | FLAT Category 6 Ethernet Cable 50 Feet $10.99 with $2 coupon                                                             |
-|  4 | Jabra Elite 75t/Elite Avtive 75t/Elite 85T $66/$84/$104, All in, Certified Refurbished                                   |
-|  5 | Koodo Lunar New Year Promo - $10/m OFF + 1,000 LD Mins                                                                   |
-|  6 | [Warm] Monoprice Monolith 13 13 inch THX certified 2000W powered subwoofer $2112.69                                      |
-|  7 | [YMMV] IKEA 1.5m USB to Lightning cable for 3.00$                                                                        |
-|  8 | Ooma Telo Air Free Home Phone Service with Three HD3 Handsets $69.97 - YMMV available at Nepean Ottawa location          |
-|  9 | Grim Dawn Definitive Edition (XB1/Series S/X) $49.69 (30% savings) - Gold required - 60 fps on Series S/X                |
-| 10 | Virgin Mobile Home Internet 100Mbps for $35/m with mobile plan, $40 without mobile plan + $50 Visa GC - YMMV             |
-| 11 | Asus router RT-AX68U $169.99                                                                                             |
-| 12 | WD 10TB Elements Desktop Hard Drive HDD, USB 3.0 $219.99                                                                 |
-| 13 | Lunar New Year Sale 2022                                                                                                 |
-| 14 | [Desktop computer x86 central processing unit] Intel Core i9-12900K - Core i9 12th Gen Alder Lake 16-Core (8P+8E) - $720 |
-| 15 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $60                      |
-| 16 | Hisense 75 in. 4K Android Smart Television 75A68G - $899                                                                 |
-| 17 | De'Longhi High Performance Radiant Heater $129 - $30 = $99 (restock)                                                     |
-| 18 | Nikon D3500 DSLR clearance $199.97 YMMV                                                                                  |
-| 19 | Dell 24 Monitor - S2421H for $188.99                                                                                     |
-| 20 | TurboTax Business Incorporated T2 Filing Software $119.99                                                                |
-| 21 | Tales of Arise - PlayStation 5 $47.57                                                                                    |
-| 22 | Marshall Kilburn II Portable Bluetooth Speaker $257.99 now, not $253.50 lowest price ever                                |
-| 23 | Fido 2022 New Year phone deals (ie: $0 down iphone 12 mini $190, S20 FE 5G $240) [YMMV, TARGETED]                        |
-| 24 | 65" Sony A80j $2498 / LG C1 $2298                                                                                        |
-| 25 | Marshall Kilburn II Bluetooth speaker $257.99                                                                            |
-| 26 | Borderlands 3 base game for US$5 + tax (requires a US billing address)                                                   |
-| 27 | Sigma fp 4K Full Frame Sensor Camera with 45mm Lens $2200 ($800 off)                                                     |
-| 28 | WD Blue 4TB Hard Drive, 256MB Cache, WD40EZAZ (SMR) [$129.99 - $55 = $74.99]                                             |
-| 29 | LG OLED A1 55 inch $999                                                                                                  |
-| 30 | Win 1 of 5 $25 gift cards by sharing your favourite deals from January!                                                  |
-| 31 | Samsung Galaxy Tab S7 128gb $229.99 - LAVA HOT - YMMV                                                                    |
-| 32 | Amazon Prime Gaming February 2022 - Free Games and Content                                                               |
-| 33 | FLAT Category 6 Ethernet Cable 50 Feet $10.99 with $2 coupon                                                             |
-| 34 | Jabra Elite 75t/Elite Avtive 75t/Elite 85T $66/$84/$104, All in, Certified Refurbished                                   |
-| 35 | Koodo Lunar New Year Promo - $10/m OFF + 1,000 LD Mins                                                                   |
-| 36 | [Warm] Monoprice Monolith 13 13 inch THX certified 2000W powered subwoofer $2112.69                                      |
-| 37 | [YMMV] IKEA 1.5m USB to Lightning cable for 3.00$                                                                        |
-| 38 | Ooma Telo Air Free Home Phone Service with Three HD3 Handsets $69.97 - YMMV available at Nepean Ottawa location          |
-| 39 | Grim Dawn Definitive Edition (XB1/Series S/X) $49.69 (30% savings) - Gold required - 60 fps on Series S/X                |
-| 40 | Virgin Mobile Home Internet 100Mbps for $35/m with mobile plan, $40 without mobile plan + $50 Visa GC - YMMV             |
-| 41 | Asus router RT-AX68U $169.99                                                                                             |
-| 42 | WD 10TB Elements Desktop Hard Drive HDD, USB 3.0 $219.99                                                                 |
-| 43 | Lunar New Year Sale 2022                                                                                                 |
-| 44 | [Desktop computer x86 central processing unit] Intel Core i9-12900K - Core i9 12th Gen Alder Lake 16-Core (8P+8E) - $720 |
-| 45 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $60                      |
-| 46 | Hisense 75 in. 4K Android Smart Television 75A68G - $899                                                                 |
-| 47 | De'Longhi High Performance Radiant Heater $129 - $30 = $99 (restock)                                                     |
-| 48 | Nikon D3500 DSLR clearance $199.97 YMMV                                                                                  |
-| 49 | Dell 24 Monitor - S2421H for $188.99                                                                                     |
-| 50 | TurboTax Business Incorporated T2 Filing Software $119.99                                                                |
-| 51 | Tales of Arise - PlayStation 5 $47.57                                                                                    |
-| 52 | Marshall Kilburn II Portable Bluetooth Speaker $257.99 now, not $253.50 lowest price ever                                |
-| 53 | Fido 2022 New Year phone deals (ie: $0 down iphone 12 mini $190, S20 FE 5G $240) [YMMV, TARGETED]                        |
-| 54 | 65" Sony A80j $2498 / LG C1 $2298                                                                                        |
-| 55 | Marshall Kilburn II Bluetooth speaker $257.99                                                                            |
-| 56 | Borderlands 3 base game for US$5 + tax (requires a US billing address)                                                   |
-| 57 | Sigma fp 4K Full Frame Sensor Camera with 45mm Lens $2200 ($800 off)                                                     |
-| 58 | WD Blue 4TB Hard Drive, 256MB Cache, WD40EZAZ (SMR) [$129.99 - $55 = $74.99]                                             |
-| 59 | LG OLED A1 55 inch $999                                                                                                  |
-| 60 | Win 1 of 5 $25 gift cards by sharing your favourite deals from January!                                                  |
-| 61 | Samsung Galaxy Tab S7 128gb $229.99 - LAVA HOT - YMMV                                                                    |
-| 62 | Amazon Prime Gaming February 2022 - Free Games and Content                                                               |
-| 63 | FLAT Category 6 Ethernet Cable 50 Feet $10.99 with $2 coupon                                                             |
-| 64 | Jabra Elite 75t/Elite Avtive 75t/Elite 85T $66/$84/$104, All in, Certified Refurbished                                   |
-| 65 | Koodo Lunar New Year Promo - $10/m OFF + 1,000 LD Mins                                                                   |
-| 66 | [Warm] Monoprice Monolith 13 13 inch THX certified 2000W powered subwoofer $2112.69                                      |
-| 67 | [YMMV] IKEA 1.5m USB to Lightning cable for 3.00$                                                                        |
-| 68 | Ooma Telo Air Free Home Phone Service with Three HD3 Handsets $69.97 - YMMV available at Nepean Ottawa location          |
-| 69 | Grim Dawn Definitive Edition (XB1/Series S/X) $49.69 (30% savings) - Gold required - 60 fps on Series S/X                |
-| 70 | Virgin Mobile Home Internet 100Mbps for $35/m with mobile plan, $40 without mobile plan + $50 Visa GC - YMMV             |
-| 71 | Asus router RT-AX68U $169.99                                                                                             |
-| 72 | WD 10TB Elements Desktop Hard Drive HDD, USB 3.0 $219.99                                                                 |
-| 73 | Lunar New Year Sale 2022                                                                                                 |
-| 74 | [Desktop computer x86 central processing unit] Intel Core i9-12900K - Core i9 12th Gen Alder Lake 16-Core (8P+8E) - $720 |
-| 75 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $60                      |
-| 76 | Hisense 75 in. 4K Android Smart Television 75A68G - $899                                                                 |
-| 77 | De'Longhi High Performance Radiant Heater $129 - $30 = $99 (restock)                                                     |
-| 78 | Nikon D3500 DSLR clearance $199.97 YMMV                                                                                  |
-| 79 | Dell 24 Monitor - S2421H for $188.99                                                                                     |
-| 80 | TurboTax Business Incorporated T2 Filing Software $119.99                                                                |
-| 81 | Tales of Arise - PlayStation 5 $47.57                                                                                    |
-| 82 | Marshall Kilburn II Portable Bluetooth Speaker $257.99 now, not $253.50 lowest price ever                                |
-| 83 | Fido 2022 New Year phone deals (ie: $0 down iphone 12 mini $190, S20 FE 5G $240) [YMMV, TARGETED]                        |
-| 84 | 65" Sony A80j $2498 / LG C1 $2298                                                                                        |
-| 85 | Marshall Kilburn II Bluetooth speaker $257.99                                                                            |
-| 86 | Borderlands 3 base game for US$5 + tax (requires a US billing address)                                                   |
-| 87 | Sigma fp 4K Full Frame Sensor Camera with 45mm Lens $2200 ($800 off)                                                     |
-| 88 | WD Blue 4TB Hard Drive, 256MB Cache, WD40EZAZ (SMR) [$129.99 - $55 = $74.99]                                             |
-| 89 | LG OLED A1 55 inch $999                                                                                                  |
+|    | deals                                                                                                         |
+|---:|:--------------------------------------------------------------------------------------------------------------|
+|  0 | Hisense L5G 100" 4K Laser TV + Screen - $3298                                                                 |
+|  1 | Denon AVR-X3700H 9.2 Channel 8K Ultra HD Network AV Receiver $1799.98 ($200 off)                              |
+|  2 | ThinkBook 14p Gen 2 AMD, 5600H/16GB/512GB, 14.0" 16:10 2.2K, $891.51 via Perkopolis                           |
+|  3 | Lenovo Thinkpad L15 Gen 2 (Customizable) - Ryzen 3 5400U, 4GB DDR4, 128GB SSD, 15.6" FHD IPS screen - $604.35 |
+|  4 | Nikon D3500 DSLR clearance $199.97 YMMV                                                                       |
+|  5 | Google Chromecast w/ Google TV $50 ($20 off) - Starts Feb. 4th                                                |
+|  6 | PowerColor Fighter AMD Radeon RX 6500XT Gaming Graphics Card with 4GB GDDR6 Memory - $359.39 (Dual Fan)       |
+|  7 | Lenovo Legion M200 gaming mouse $13.99                                                                        |
+|  8 | Brassex Inc Gaming Chair, Black or Black/Red $170 (reg. $399.97)                                              |
+|  9 | Refurbished 10.5-inch iPad Pro Wi-Fi 64GB $489.99                                                             |
+| 10 | Win 1 of 5 $25 gift cards by sharing your favourite deals from January!                                       |
+| 11 | $49.99 USD - Microsoft Office Professional Plus 2021 for Windows or Mac Lifetime License                      |
+| 12 | Ubiquiti UDM-PRO, PoE Injector 802.3at and 802.3af - $469                                                     |
+| 13 | YMMV - Bose Sport Earbuds (Clearance) 99$                                                                     |
+| 14 | Dell XPS 13 XPS9310-7801SLV-PCA Intel Evo Laptop, i7-1195G7 $1669.99                                          |
+| 15 | JBL T110 Wireless In-Ear Headphones ($9.97) ONTARIO                                                           |
+| 16 | (Qc ONLY possible price error) Philips HUE Smart Tap Switch $14.99 and more...                                |
+| 17 | Apple Magic Keyboard (12.9" iPad Pro) $ 299.98 (ON)                                                           |
+| 18 | Logitech M510 Mouse - $25                                                                                     |
+| 19 | Rogers Ignite internet 1gbps $49.99 *possible ymmv                                                            |
+| 20 | LG OLED A1 55 inch $999                                                                                       |
+| 21 | Samsung Galaxy Watch 4 44mm for $320 and 40mm for $280                                                        |
+| 22 | Refurbished M1 MacBook Airs back in stock at $1099                                                            |
+| 23 | Noctua NH-D15, Premium CPU Cooler with 2x NF-A15 PWM 140mm Fans (Brown) @ Amazon.ca for $109.95               |
+| 24 | Ubiquiti Wifi 6 AP - instock and POE Plus Injector s(OOS)                                                     |
+| 25 | Jabra Elite Active 75t -- $129.99                                                                             |
+| 26 | iPhone 12 $50 & iPhone 13 $64 w/ Big Gig Unlimited 15GB (YMMV - Loyalty/CSR)                                  |
+| 27 | KZ ZSN Pro 1BA+1DD IEM - USD$11.96 + Shipping                                                                 |
+| 28 | 7x Aeroplan Points Feb 2-6                                                                                    |
+| 29 | Telus offers $9.95 internet for low-income seniors in AB & BC                                                 |
+| 30 | 7x Aeroplan Points Feb 2-6                                                                                    |
+| 31 | Hisense L5G 100" 4K Laser TV + Screen - $3298                                                                 |
+| 32 | Denon AVR-X3700H 9.2 Channel 8K Ultra HD Network AV Receiver $1799.98 ($200 off)                              |
+| 33 | ThinkBook 14p Gen 2 AMD, 5600H/16GB/512GB, 14.0" 16:10 2.2K, $891.51 via Perkopolis                           |
+| 34 | Lenovo Thinkpad L15 Gen 2 (Customizable) - Ryzen 3 5400U, 4GB DDR4, 128GB SSD, 15.6" FHD IPS screen - $604.35 |
+| 35 | Nikon D3500 DSLR clearance $199.97 YMMV                                                                       |
+| 36 | Google Chromecast w/ Google TV $50 ($20 off) - Starts Feb. 4th                                                |
+| 37 | PowerColor Fighter AMD Radeon RX 6500XT Gaming Graphics Card with 4GB GDDR6 Memory - $359.39 (Dual Fan)       |
+| 38 | Lenovo Legion M200 gaming mouse $13.99                                                                        |
+| 39 | Brassex Inc Gaming Chair, Black or Black/Red $170 (reg. $399.97)                                              |
+| 40 | Refurbished 10.5-inch iPad Pro Wi-Fi 64GB $489.99                                                             |
+| 41 | Win 1 of 5 $25 gift cards by sharing your favourite deals from January!                                       |
+| 42 | $49.99 USD - Microsoft Office Professional Plus 2021 for Windows or Mac Lifetime License                      |
+| 43 | Ubiquiti UDM-PRO, PoE Injector 802.3at and 802.3af - $469                                                     |
+| 44 | YMMV - Bose Sport Earbuds (Clearance) 99$                                                                     |
+| 45 | Dell XPS 13 XPS9310-7801SLV-PCA Intel Evo Laptop, i7-1195G7 $1669.99                                          |
+| 46 | JBL T110 Wireless In-Ear Headphones ($9.97) ONTARIO                                                           |
+| 47 | (Qc ONLY possible price error) Philips HUE Smart Tap Switch $14.99 and more...                                |
+| 48 | Apple Magic Keyboard (12.9" iPad Pro) $ 299.98 (ON)                                                           |
+| 49 | Logitech M510 Mouse - $25                                                                                     |
+| 50 | Rogers Ignite internet 1gbps $49.99 *possible ymmv                                                            |
+| 51 | LG OLED A1 55 inch $999                                                                                       |
+| 52 | Samsung Galaxy Watch 4 44mm for $320 and 40mm for $280                                                        |
+| 53 | Refurbished M1 MacBook Airs back in stock at $1099                                                            |
+| 54 | Noctua NH-D15, Premium CPU Cooler with 2x NF-A15 PWM 140mm Fans (Brown) @ Amazon.ca for $109.95               |
+| 55 | Ubiquiti Wifi 6 AP - instock and POE Plus Injector s(OOS)                                                     |
+| 56 | Jabra Elite Active 75t -- $129.99                                                                             |
+| 57 | iPhone 12 $50 & iPhone 13 $64 w/ Big Gig Unlimited 15GB (YMMV - Loyalty/CSR)                                  |
+| 58 | KZ ZSN Pro 1BA+1DD IEM - USD$11.96 + Shipping                                                                 |
+| 59 | Telus offers $9.95 internet for low-income seniors in AB & BC                                                 |
+| 60 | 7x Aeroplan Points Feb 2-6                                                                                    |
+| 61 | Hisense L5G 100" 4K Laser TV + Screen - $3298                                                                 |
+| 62 | Denon AVR-X3700H 9.2 Channel 8K Ultra HD Network AV Receiver $1799.98 ($200 off)                              |
+| 63 | ThinkBook 14p Gen 2 AMD, 5600H/16GB/512GB, 14.0" 16:10 2.2K, $891.51 via Perkopolis                           |
+| 64 | Lenovo Thinkpad L15 Gen 2 (Customizable) - Ryzen 3 5400U, 4GB DDR4, 128GB SSD, 15.6" FHD IPS screen - $604.35 |
+| 65 | Nikon D3500 DSLR clearance $199.97 YMMV                                                                       |
+| 66 | Google Chromecast w/ Google TV $50 ($20 off) - Starts Feb. 4th                                                |
+| 67 | PowerColor Fighter AMD Radeon RX 6500XT Gaming Graphics Card with 4GB GDDR6 Memory - $359.39 (Dual Fan)       |
+| 68 | Lenovo Legion M200 gaming mouse $13.99                                                                        |
+| 69 | Brassex Inc Gaming Chair, Black or Black/Red $170 (reg. $399.97)                                              |
+| 70 | Refurbished 10.5-inch iPad Pro Wi-Fi 64GB $489.99                                                             |
+| 71 | Win 1 of 5 $25 gift cards by sharing your favourite deals from January!                                       |
+| 72 | $49.99 USD - Microsoft Office Professional Plus 2021 for Windows or Mac Lifetime License                      |
+| 73 | Ubiquiti UDM-PRO, PoE Injector 802.3at and 802.3af - $469                                                     |
+| 74 | YMMV - Bose Sport Earbuds (Clearance) 99$                                                                     |
+| 75 | Dell XPS 13 XPS9310-7801SLV-PCA Intel Evo Laptop, i7-1195G7 $1669.99                                          |
+| 76 | JBL T110 Wireless In-Ear Headphones ($9.97) ONTARIO                                                           |
+| 77 | (Qc ONLY possible price error) Philips HUE Smart Tap Switch $14.99 and more...                                |
+| 78 | Apple Magic Keyboard (12.9" iPad Pro) $ 299.98 (ON)                                                           |
+| 79 | Logitech M510 Mouse - $25                                                                                     |
+| 80 | Rogers Ignite internet 1gbps $49.99 *possible ymmv                                                            |
+| 81 | LG OLED A1 55 inch $999                                                                                       |
+| 82 | Samsung Galaxy Watch 4 44mm for $320 and 40mm for $280                                                        |
+| 83 | Refurbished M1 MacBook Airs back in stock at $1099                                                            |
+| 84 | Noctua NH-D15, Premium CPU Cooler with 2x NF-A15 PWM 140mm Fans (Brown) @ Amazon.ca for $109.95               |
+| 85 | Ubiquiti Wifi 6 AP - instock and POE Plus Injector s(OOS)                                                     |
+| 86 | Jabra Elite Active 75t -- $129.99                                                                             |
+| 87 | iPhone 12 $50 & iPhone 13 $64 w/ Big Gig Unlimited 15GB (YMMV - Loyalty/CSR)                                  |
+| 88 | KZ ZSN Pro 1BA+1DD IEM - USD$11.96 + Shipping                                                                 |
+| 89 | Telus offers $9.95 internet for low-income seniors in AB & BC                                                 |
