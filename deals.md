@@ -1,92 +1,92 @@
-|    | deals                                                                                                         |
-|---:|:--------------------------------------------------------------------------------------------------------------|
-|  0 | 7x Aeroplan Points Feb 2-6                                                                                    |
-|  1 | Hisense L5G 100" 4K Laser TV + Screen - $3298                                                                 |
-|  2 | Denon AVR-X3700H 9.2 Channel 8K Ultra HD Network AV Receiver $1799.98 ($200 off)                              |
-|  3 | ThinkBook 14p Gen 2 AMD, 5600H/16GB/512GB, 14.0" 16:10 2.2K, $891.51 via Perkopolis                           |
-|  4 | Lenovo Thinkpad L15 Gen 2 (Customizable) - Ryzen 3 5400U, 4GB DDR4, 128GB SSD, 15.6" FHD IPS screen - $604.35 |
-|  5 | Nikon D3500 DSLR clearance $199.97 YMMV                                                                       |
-|  6 | Google Chromecast w/ Google TV $50 ($20 off) - Starts Feb. 4th                                                |
-|  7 | PowerColor Fighter AMD Radeon RX 6500XT Gaming Graphics Card with 4GB GDDR6 Memory - $359.39 (Dual Fan)       |
-|  8 | Lenovo Legion M200 gaming mouse $13.99                                                                        |
-|  9 | Brassex Inc Gaming Chair, Black or Black/Red $170 (reg. $399.97)                                              |
-| 10 | Refurbished 10.5-inch iPad Pro Wi-Fi 64GB $489.99                                                             |
-| 11 | Win 1 of 5 $25 gift cards by sharing your favourite deals from January!                                       |
-| 12 | $49.99 USD - Microsoft Office Professional Plus 2021 for Windows or Mac Lifetime License                      |
-| 13 | Ubiquiti UDM-PRO, PoE Injector 802.3at and 802.3af - $469                                                     |
-| 14 | YMMV - Bose Sport Earbuds (Clearance) 99$                                                                     |
-| 15 | Dell XPS 13 XPS9310-7801SLV-PCA Intel Evo Laptop, i7-1195G7 $1669.99                                          |
-| 16 | JBL T110 Wireless In-Ear Headphones ($9.97) ONTARIO                                                           |
-| 17 | (Qc ONLY possible price error) Philips HUE Smart Tap Switch $14.99 and more...                                |
-| 18 | Apple Magic Keyboard (12.9" iPad Pro) $ 299.98 (ON)                                                           |
-| 19 | Logitech M510 Mouse - $25                                                                                     |
-| 20 | Rogers Ignite internet 1gbps $49.99 *possible ymmv                                                            |
-| 21 | LG OLED A1 55 inch $999                                                                                       |
-| 22 | Samsung Galaxy Watch 4 44mm for $320 and 40mm for $280                                                        |
-| 23 | Refurbished M1 MacBook Airs back in stock at $1099                                                            |
-| 24 | Noctua NH-D15, Premium CPU Cooler with 2x NF-A15 PWM 140mm Fans (Brown) @ Amazon.ca for $109.95               |
-| 25 | Ubiquiti Wifi 6 AP - instock and POE Plus Injector s(OOS)                                                     |
-| 26 | Jabra Elite Active 75t -- $129.99                                                                             |
-| 27 | iPhone 12 $50 & iPhone 13 $64 w/ Big Gig Unlimited 15GB (YMMV - Loyalty/CSR)                                  |
-| 28 | KZ ZSN Pro 1BA+1DD IEM - USD$11.96 + Shipping                                                                 |
-| 29 | Telus offers $9.95 internet for low-income seniors in AB & BC                                                 |
-| 30 | 7x Aeroplan Points Feb 2-6                                                                                    |
-| 31 | Hisense L5G 100" 4K Laser TV + Screen - $3298                                                                 |
-| 32 | Denon AVR-X3700H 9.2 Channel 8K Ultra HD Network AV Receiver $1799.98 ($200 off)                              |
-| 33 | ThinkBook 14p Gen 2 AMD, 5600H/16GB/512GB, 14.0" 16:10 2.2K, $891.51 via Perkopolis                           |
-| 34 | Lenovo Thinkpad L15 Gen 2 (Customizable) - Ryzen 3 5400U, 4GB DDR4, 128GB SSD, 15.6" FHD IPS screen - $604.35 |
-| 35 | Nikon D3500 DSLR clearance $199.97 YMMV                                                                       |
-| 36 | Google Chromecast w/ Google TV $50 ($20 off) - Starts Feb. 4th                                                |
-| 37 | PowerColor Fighter AMD Radeon RX 6500XT Gaming Graphics Card with 4GB GDDR6 Memory - $359.39 (Dual Fan)       |
-| 38 | Lenovo Legion M200 gaming mouse $13.99                                                                        |
-| 39 | Brassex Inc Gaming Chair, Black or Black/Red $170 (reg. $399.97)                                              |
-| 40 | Refurbished 10.5-inch iPad Pro Wi-Fi 64GB $489.99                                                             |
-| 41 | Win 1 of 5 $25 gift cards by sharing your favourite deals from January!                                       |
-| 42 | $49.99 USD - Microsoft Office Professional Plus 2021 for Windows or Mac Lifetime License                      |
-| 43 | Ubiquiti UDM-PRO, PoE Injector 802.3at and 802.3af - $469                                                     |
-| 44 | YMMV - Bose Sport Earbuds (Clearance) 99$                                                                     |
-| 45 | Dell XPS 13 XPS9310-7801SLV-PCA Intel Evo Laptop, i7-1195G7 $1669.99                                          |
-| 46 | JBL T110 Wireless In-Ear Headphones ($9.97) ONTARIO                                                           |
-| 47 | (Qc ONLY possible price error) Philips HUE Smart Tap Switch $14.99 and more...                                |
-| 48 | Apple Magic Keyboard (12.9" iPad Pro) $ 299.98 (ON)                                                           |
-| 49 | Logitech M510 Mouse - $25                                                                                     |
-| 50 | Rogers Ignite internet 1gbps $49.99 *possible ymmv                                                            |
-| 51 | LG OLED A1 55 inch $999                                                                                       |
-| 52 | Samsung Galaxy Watch 4 44mm for $320 and 40mm for $280                                                        |
-| 53 | Refurbished M1 MacBook Airs back in stock at $1099                                                            |
-| 54 | Noctua NH-D15, Premium CPU Cooler with 2x NF-A15 PWM 140mm Fans (Brown) @ Amazon.ca for $109.95               |
-| 55 | Ubiquiti Wifi 6 AP - instock and POE Plus Injector s(OOS)                                                     |
-| 56 | Jabra Elite Active 75t -- $129.99                                                                             |
-| 57 | iPhone 12 $50 & iPhone 13 $64 w/ Big Gig Unlimited 15GB (YMMV - Loyalty/CSR)                                  |
-| 58 | KZ ZSN Pro 1BA+1DD IEM - USD$11.96 + Shipping                                                                 |
-| 59 | Telus offers $9.95 internet for low-income seniors in AB & BC                                                 |
-| 60 | 7x Aeroplan Points Feb 2-6                                                                                    |
-| 61 | Hisense L5G 100" 4K Laser TV + Screen - $3298                                                                 |
-| 62 | Denon AVR-X3700H 9.2 Channel 8K Ultra HD Network AV Receiver $1799.98 ($200 off)                              |
-| 63 | ThinkBook 14p Gen 2 AMD, 5600H/16GB/512GB, 14.0" 16:10 2.2K, $891.51 via Perkopolis                           |
-| 64 | Lenovo Thinkpad L15 Gen 2 (Customizable) - Ryzen 3 5400U, 4GB DDR4, 128GB SSD, 15.6" FHD IPS screen - $604.35 |
-| 65 | Nikon D3500 DSLR clearance $199.97 YMMV                                                                       |
-| 66 | Google Chromecast w/ Google TV $50 ($20 off) - Starts Feb. 4th                                                |
-| 67 | PowerColor Fighter AMD Radeon RX 6500XT Gaming Graphics Card with 4GB GDDR6 Memory - $359.39 (Dual Fan)       |
-| 68 | Lenovo Legion M200 gaming mouse $13.99                                                                        |
-| 69 | Brassex Inc Gaming Chair, Black or Black/Red $170 (reg. $399.97)                                              |
-| 70 | Refurbished 10.5-inch iPad Pro Wi-Fi 64GB $489.99                                                             |
-| 71 | Win 1 of 5 $25 gift cards by sharing your favourite deals from January!                                       |
-| 72 | $49.99 USD - Microsoft Office Professional Plus 2021 for Windows or Mac Lifetime License                      |
-| 73 | Ubiquiti UDM-PRO, PoE Injector 802.3at and 802.3af - $469                                                     |
-| 74 | YMMV - Bose Sport Earbuds (Clearance) 99$                                                                     |
-| 75 | Dell XPS 13 XPS9310-7801SLV-PCA Intel Evo Laptop, i7-1195G7 $1669.99                                          |
-| 76 | JBL T110 Wireless In-Ear Headphones ($9.97) ONTARIO                                                           |
-| 77 | (Qc ONLY possible price error) Philips HUE Smart Tap Switch $14.99 and more...                                |
-| 78 | Apple Magic Keyboard (12.9" iPad Pro) $ 299.98 (ON)                                                           |
-| 79 | Logitech M510 Mouse - $25                                                                                     |
-| 80 | Rogers Ignite internet 1gbps $49.99 *possible ymmv                                                            |
-| 81 | LG OLED A1 55 inch $999                                                                                       |
-| 82 | Samsung Galaxy Watch 4 44mm for $320 and 40mm for $280                                                        |
-| 83 | Refurbished M1 MacBook Airs back in stock at $1099                                                            |
-| 84 | Noctua NH-D15, Premium CPU Cooler with 2x NF-A15 PWM 140mm Fans (Brown) @ Amazon.ca for $109.95               |
-| 85 | Ubiquiti Wifi 6 AP - instock and POE Plus Injector s(OOS)                                                     |
-| 86 | Jabra Elite Active 75t -- $129.99                                                                             |
-| 87 | iPhone 12 $50 & iPhone 13 $64 w/ Big Gig Unlimited 15GB (YMMV - Loyalty/CSR)                                  |
-| 88 | KZ ZSN Pro 1BA+1DD IEM - USD$11.96 + Shipping                                                                 |
-| 89 | Telus offers $9.95 internet for low-income seniors in AB & BC                                                 |
+|    | deals                                                                                                   |
+|---:|:--------------------------------------------------------------------------------------------------------|
+|  0 | Rogers Ignite internet 1gbps $49.99 *possible ymmv                                                      |
+|  1 | Full Motion Articulating TV Wall Mount for 37" to 70" Flat Panel TVs - PrimeCables $29.99               |
+|  2 | Connect and Save! Subscribe to Epic Games Emails and get a $10 USD ($14 CAD?) Epic Coupon!              |
+|  3 | XBox Controller - $59.99 various colors                                                                 |
+|  4 | Nintendo[eSHOP] Boomerang-Fu 2.52                                                                       |
+|  5 | YMMV - Bose Sport Earbuds (Clearance) 99$                                                               |
+|  6 | Google Chromecast w/ Google TV $50 ($20 off) - Starts Feb. 4th @ Staples, LD, The Source                |
+|  7 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                            |
+|  8 | RCA 85" TV $1498 online only                                                                            |
+|  9 | Epson FastFoto FF-680W Refurbished $489.99                                                              |
+| 10 | $45 25gb + $300 bill credit per line [win back]                                                         |
+| 11 | De'Longhi High Performance Radiant Heater $129 - $30 = $99 (restock)                                    |
+| 12 | Samsung HW-Q700A sound bar $649                                                                         |
+| 13 | Jabra Elite 75t/Elite Avtive 75t/Elite 85T $66/$84/$104, All in, Certified Refurbished                  |
+| 14 | Refurbished M1 MacBook Airs back in stock at $1099                                                      |
+| 15 | Dell 24 Monitor - S2421H for $188.99                                                                    |
+| 16 | PowerColor Fighter AMD Radeon RX 6500XT Gaming Graphics Card with 4GB GDDR6 Memory - $359.39 (Dual Fan) |
+| 17 | Denon AVR-X3700H 9.2 Channel 8K Ultra HD Network AV Receiver $1799.98 ($200 off)                        |
+| 18 | Articulating TV Wall Mount for 26" to 55" Flat Panel TVs - PrimeCables $27.19                           |
+| 19 | Deal of the day: HUAWEI WATCH FIT new Smartwatch, 1.64" Black or Pink - $98                             |
+| 20 | 7x Aeroplan Points Feb 2-6                                                                              |
+| 21 | ThinkBook 14p Gen 2 AMD, 5600H/16GB/512GB, 14.0" 16:10 2.2K, $891.51 via Perkopolis                     |
+| 22 | Win 1 of 5 $25 gift cards by sharing your favourite deals from January!                                 |
+| 23 | Ink and Toner Cartridges 50-71% off Many brands and variations **online only**                          |
+| 24 | Nikon D3500 DSLR clearance $199.97 YMMV                                                                 |
+| 25 | Price Drop: Kasa Smart Single Pole Light Switch (HS200P3) - 3-pack $39.99                               |
+| 26 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                      |
+| 27 | JBL T110 Wireless In-Ear Headphones ($9.97) ONTARIO                                                     |
+| 28 | Telus offers $9.95 internet for low-income seniors in AB & BC                                           |
+| 29 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                |
+| 30 | Rogers Ignite internet 1gbps $49.99 *possible ymmv                                                      |
+| 31 | Full Motion Articulating TV Wall Mount for 37" to 70" Flat Panel TVs - PrimeCables $29.99               |
+| 32 | Connect and Save! Subscribe to Epic Games Emails and get a $10 USD ($14 CAD?) Epic Coupon!              |
+| 33 | XBox Controller - $59.99 various colors                                                                 |
+| 34 | Nintendo[eSHOP] Boomerang-Fu 2.52                                                                       |
+| 35 | YMMV - Bose Sport Earbuds (Clearance) 99$                                                               |
+| 36 | Google Chromecast w/ Google TV $50 ($20 off) - Starts Feb. 4th @ Staples, LD, The Source                |
+| 37 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                            |
+| 38 | RCA 85" TV $1498 online only                                                                            |
+| 39 | Epson FastFoto FF-680W Refurbished $489.99                                                              |
+| 40 | $45 25gb + $300 bill credit per line [win back]                                                         |
+| 41 | De'Longhi High Performance Radiant Heater $129 - $30 = $99 (restock)                                    |
+| 42 | Samsung HW-Q700A sound bar $649                                                                         |
+| 43 | Jabra Elite 75t/Elite Avtive 75t/Elite 85T $66/$84/$104, All in, Certified Refurbished                  |
+| 44 | Refurbished M1 MacBook Airs back in stock at $1099                                                      |
+| 45 | Dell 24 Monitor - S2421H for $188.99                                                                    |
+| 46 | PowerColor Fighter AMD Radeon RX 6500XT Gaming Graphics Card with 4GB GDDR6 Memory - $359.39 (Dual Fan) |
+| 47 | Denon AVR-X3700H 9.2 Channel 8K Ultra HD Network AV Receiver $1799.98 ($200 off)                        |
+| 48 | Articulating TV Wall Mount for 26" to 55" Flat Panel TVs - PrimeCables $27.19                           |
+| 49 | Deal of the day: HUAWEI WATCH FIT new Smartwatch, 1.64" Black or Pink - $98                             |
+| 50 | 7x Aeroplan Points Feb 2-6                                                                              |
+| 51 | ThinkBook 14p Gen 2 AMD, 5600H/16GB/512GB, 14.0" 16:10 2.2K, $891.51 via Perkopolis                     |
+| 52 | Win 1 of 5 $25 gift cards by sharing your favourite deals from January!                                 |
+| 53 | Ink and Toner Cartridges 50-71% off Many brands and variations **online only**                          |
+| 54 | Nikon D3500 DSLR clearance $199.97 YMMV                                                                 |
+| 55 | Price Drop: Kasa Smart Single Pole Light Switch (HS200P3) - 3-pack $39.99                               |
+| 56 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                      |
+| 57 | JBL T110 Wireless In-Ear Headphones ($9.97) ONTARIO                                                     |
+| 58 | Telus offers $9.95 internet for low-income seniors in AB & BC                                           |
+| 59 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                |
+| 60 | Rogers Ignite internet 1gbps $49.99 *possible ymmv                                                      |
+| 61 | Full Motion Articulating TV Wall Mount for 37" to 70" Flat Panel TVs - PrimeCables $29.99               |
+| 62 | Connect and Save! Subscribe to Epic Games Emails and get a $10 USD ($14 CAD?) Epic Coupon!              |
+| 63 | XBox Controller - $59.99 various colors                                                                 |
+| 64 | Nintendo[eSHOP] Boomerang-Fu 2.52                                                                       |
+| 65 | YMMV - Bose Sport Earbuds (Clearance) 99$                                                               |
+| 66 | Google Chromecast w/ Google TV $50 ($20 off) - Starts Feb. 4th @ Staples, LD, The Source                |
+| 67 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                            |
+| 68 | RCA 85" TV $1498 online only                                                                            |
+| 69 | Epson FastFoto FF-680W Refurbished $489.99                                                              |
+| 70 | $45 25gb + $300 bill credit per line [win back]                                                         |
+| 71 | De'Longhi High Performance Radiant Heater $129 - $30 = $99 (restock)                                    |
+| 72 | Samsung HW-Q700A sound bar $649                                                                         |
+| 73 | Jabra Elite 75t/Elite Avtive 75t/Elite 85T $66/$84/$104, All in, Certified Refurbished                  |
+| 74 | Refurbished M1 MacBook Airs back in stock at $1099                                                      |
+| 75 | Dell 24 Monitor - S2421H for $188.99                                                                    |
+| 76 | PowerColor Fighter AMD Radeon RX 6500XT Gaming Graphics Card with 4GB GDDR6 Memory - $359.39 (Dual Fan) |
+| 77 | Denon AVR-X3700H 9.2 Channel 8K Ultra HD Network AV Receiver $1799.98 ($200 off)                        |
+| 78 | Articulating TV Wall Mount for 26" to 55" Flat Panel TVs - PrimeCables $27.19                           |
+| 79 | Deal of the day: HUAWEI WATCH FIT new Smartwatch, 1.64" Black or Pink - $98                             |
+| 80 | 7x Aeroplan Points Feb 2-6                                                                              |
+| 81 | ThinkBook 14p Gen 2 AMD, 5600H/16GB/512GB, 14.0" 16:10 2.2K, $891.51 via Perkopolis                     |
+| 82 | Win 1 of 5 $25 gift cards by sharing your favourite deals from January!                                 |
+| 83 | Ink and Toner Cartridges 50-71% off Many brands and variations **online only**                          |
+| 84 | Nikon D3500 DSLR clearance $199.97 YMMV                                                                 |
+| 85 | Price Drop: Kasa Smart Single Pole Light Switch (HS200P3) - 3-pack $39.99                               |
+| 86 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                      |
+| 87 | JBL T110 Wireless In-Ear Headphones ($9.97) ONTARIO                                                     |
+| 88 | Telus offers $9.95 internet for low-income seniors in AB & BC                                           |
+| 89 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                |
