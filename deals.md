@@ -1,7 +1,7 @@
 |    | deals                                                                                                                   |
 |---:|:------------------------------------------------------------------------------------------------------------------------|
-|  0 | Dell XPS SE Desktop ( i7-11700 + 3060 Ti 8GB (LHR) +16GB ram, 512 SSD+1TB 7200 rpm HDD) for $1439.99 ($1010 off)        |
-|  1 | *HOT YMMV* Samsung 55 in. QLED The Frame QN55LS03A - $998                                                               |
+|  0 | *HOT YMMV* Samsung 55 in. QLED The Frame QN55LS03A - $998                                                               |
+|  1 | Dell XPS SE Desktop ( i7-11700 + 3060 Ti 8GB (LHR) +16GB ram, 512 SSD+1TB 7200 rpm HDD) for $1439.99 ($1010 off)        |
 |  2 | Alpha Flight Controls Yoke for PC - $297.99                                                                             |
 |  3 | Google Chromecast w/ Google TV $50 ($20 off) - @ LD, Walmart, Staples, Visions, The Source, BB, HD, Newegg, Lowes       |
 |  4 | Cooler Master MasterWatt 550W semi-modular 80+ bronze power supply $39.99 freeship                                      |
@@ -30,8 +30,8 @@
 | 27 | LG OLED A1 55 inch $999                                                                                                 |
 | 28 | Rogers Ignite internet 1gbps $49.99 *possible ymmv                                                                      |
 | 29 | ATL$131.99~Samsung 970 Evo Plus 1 TB M.2-2280 NVME Solid State Drive~cheaper than Black friday and boxing day           |
-| 30 | Dell XPS SE Desktop ( i7-11700 + 3060 Ti 8GB (LHR) +16GB ram, 512 SSD+1TB 7200 rpm HDD) for $1439.99 ($1010 off)        |
-| 31 | *HOT YMMV* Samsung 55 in. QLED The Frame QN55LS03A - $998                                                               |
+| 30 | *HOT YMMV* Samsung 55 in. QLED The Frame QN55LS03A - $998                                                               |
+| 31 | Dell XPS SE Desktop ( i7-11700 + 3060 Ti 8GB (LHR) +16GB ram, 512 SSD+1TB 7200 rpm HDD) for $1439.99 ($1010 off)        |
 | 32 | Alpha Flight Controls Yoke for PC - $297.99                                                                             |
 | 33 | Google Chromecast w/ Google TV $50 ($20 off) - @ LD, Walmart, Staples, Visions, The Source, BB, HD, Newegg, Lowes       |
 | 34 | Cooler Master MasterWatt 550W semi-modular 80+ bronze power supply $39.99 freeship                                      |
@@ -60,8 +60,8 @@
 | 57 | LG OLED A1 55 inch $999                                                                                                 |
 | 58 | Rogers Ignite internet 1gbps $49.99 *possible ymmv                                                                      |
 | 59 | ATL$131.99~Samsung 970 Evo Plus 1 TB M.2-2280 NVME Solid State Drive~cheaper than Black friday and boxing day           |
-| 60 | Dell XPS SE Desktop ( i7-11700 + 3060 Ti 8GB (LHR) +16GB ram, 512 SSD+1TB 7200 rpm HDD) for $1439.99 ($1010 off)        |
-| 61 | *HOT YMMV* Samsung 55 in. QLED The Frame QN55LS03A - $998                                                               |
+| 60 | *HOT YMMV* Samsung 55 in. QLED The Frame QN55LS03A - $998                                                               |
+| 61 | Dell XPS SE Desktop ( i7-11700 + 3060 Ti 8GB (LHR) +16GB ram, 512 SSD+1TB 7200 rpm HDD) for $1439.99 ($1010 off)        |
 | 62 | Alpha Flight Controls Yoke for PC - $297.99                                                                             |
 | 63 | Google Chromecast w/ Google TV $50 ($20 off) - @ LD, Walmart, Staples, Visions, The Source, BB, HD, Newegg, Lowes       |
 | 64 | Cooler Master MasterWatt 550W semi-modular 80+ bronze power supply $39.99 freeship                                      |
