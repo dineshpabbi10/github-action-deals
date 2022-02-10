@@ -1,92 +1,92 @@
-|    | deals                                                                                                                   |
-|---:|:------------------------------------------------------------------------------------------------------------------------|
-|  0 | Arcade 1up Capcom (Street Fighter) Legacy Edition $300 to $350 (no tax)                                                 |
-|  1 | Moto G Power (2021), 4GB/64GB, $250                                                                                     |
-|  2 | The Escapists 2 $1.49                                                                                                   |
-|  3 | Logitech MX Keys Mini Keyboard $99.99 (PM at BB/Staples)                                                                |
-|  4 | *HOT YMMV* Samsung 55 in. QLED The Frame QN55LS03A - $998                                                               |
-|  5 | TCL 75" R635 (2020) Roku version $1699.99 ($300 off)                                                                    |
-|  6 | Refurbished M1 MacBook Airs back in stock at $1099                                                                      |
-|  7 | Anker Nano II 45 Watt GaN II PPS Charger Compact Fast Charger - 56.09$                                                  |
-|  8 | TPLink Deco X20 - 3 Pack (Mesh router) - $236.07                                                                        |
-|  9 | Mysa Smart Thermostats - Fortis $40 rebate + 10% off coupon (BC)                                                        |
-| 10 | Color Wheel (iOS app), Free                                                                                             |
-| 11 | Epson FastFoto FF-680W Refurbished $489.99                                                                              |
-| 12 | Kobo Clara HD 20% off + 15% Rakuten cashback (32% off total) - $102                                                     |
-| 13 | Dell XPS SE Desktop ( i7-11700 + 3060 Ti 8GB (LHR) +16GB ram, 512 SSD+1TB 7200 rpm HDD) for $1439.99 ($1010 off)        |
-| 14 | Audio-Technica AT2020USB+ Cardioid Condenser USB Microphone - $140.80 ATL!!!                                            |
-| 15 | WD Green SN 350 960 GB NVMe SSD - $79.99                                                                                |
-| 16 | Legion deal is back! Same prices as black friday deals! (build your own currently) Legion 7 3070 for $1,893.16          |
-| 17 | [AT&T] $45 Unlimited Max 22 GB Prepaid Priority Unlimited Prepaid Deprioritized US / CAN / MEX Not Multi-line Eligible  |
-| 18 | 10% off on Bang & Olufsen online with promo code                                                                        |
-| 19 | 2021 Kindle Paperwhite (8GB) - $119.99 and Kindle Paperwhite Signature (32GB) $169.99                                   |
-| 20 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
-| 21 | Microsoft H3S-00004 Sculpt Comfort Bluetooth Mouse, Black - $28.73                                                      |
-| 22 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                                      |
-| 23 | Control Ultimate edition bundle $16.49                                                                                  |
-| 24 | PS Plus February 2022 Games: EA Sports UFC 4, Tiny Tina’s Assault on Dragon Keep, Planet Coaster: Console Edition (PS5) |
-| 25 | Refurbished OnePlus 8T+5G 12GB 256GB Silver T-Mobile Unlocked (Excellent Condition) - $340USD plus Shipping/Import Fees |
-| 26 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $240 B4 coupons, $7 S&H)                                                |
-| 27 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                                |
-| 28 | Dell NVMe 2230 Solid State Drive - 1TB - $186.65 After Discount [Steam Deck Compatible]                                 |
-| 29 | Samsung Smart Clear View Cover Fitted Hard Shell Case for Galaxy S21/S21 Ultra - $9.99                                  |
-| 30 | Arcade 1up Capcom (Street Fighter) Legacy Edition $300 to $350 (no tax)                                                 |
-| 31 | Moto G Power (2021), 4GB/64GB, $250                                                                                     |
-| 32 | The Escapists 2 $1.49                                                                                                   |
-| 33 | Logitech MX Keys Mini Keyboard $99.99 (PM at BB/Staples)                                                                |
-| 34 | *HOT YMMV* Samsung 55 in. QLED The Frame QN55LS03A - $998                                                               |
-| 35 | TCL 75" R635 (2020) Roku version $1699.99 ($300 off)                                                                    |
-| 36 | Refurbished M1 MacBook Airs back in stock at $1099                                                                      |
-| 37 | Anker Nano II 45 Watt GaN II PPS Charger Compact Fast Charger - 56.09$                                                  |
-| 38 | TPLink Deco X20 - 3 Pack (Mesh router) - $236.07                                                                        |
-| 39 | Mysa Smart Thermostats - Fortis $40 rebate + 10% off coupon (BC)                                                        |
-| 40 | Color Wheel (iOS app), Free                                                                                             |
-| 41 | Epson FastFoto FF-680W Refurbished $489.99                                                                              |
-| 42 | Kobo Clara HD 20% off + 15% Rakuten cashback (32% off total) - $102                                                     |
-| 43 | Dell XPS SE Desktop ( i7-11700 + 3060 Ti 8GB (LHR) +16GB ram, 512 SSD+1TB 7200 rpm HDD) for $1439.99 ($1010 off)        |
-| 44 | Audio-Technica AT2020USB+ Cardioid Condenser USB Microphone - $140.80 ATL!!!                                            |
-| 45 | WD Green SN 350 960 GB NVMe SSD - $79.99                                                                                |
-| 46 | Legion deal is back! Same prices as black friday deals! (build your own currently) Legion 7 3070 for $1,893.16          |
-| 47 | [AT&T] $45 Unlimited Max 22 GB Prepaid Priority Unlimited Prepaid Deprioritized US / CAN / MEX Not Multi-line Eligible  |
-| 48 | 10% off on Bang & Olufsen online with promo code                                                                        |
-| 49 | 2021 Kindle Paperwhite (8GB) - $119.99 and Kindle Paperwhite Signature (32GB) $169.99                                   |
-| 50 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
-| 51 | Microsoft H3S-00004 Sculpt Comfort Bluetooth Mouse, Black - $28.73                                                      |
-| 52 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                                      |
-| 53 | Control Ultimate edition bundle $16.49                                                                                  |
-| 54 | PS Plus February 2022 Games: EA Sports UFC 4, Tiny Tina’s Assault on Dragon Keep, Planet Coaster: Console Edition (PS5) |
-| 55 | Refurbished OnePlus 8T+5G 12GB 256GB Silver T-Mobile Unlocked (Excellent Condition) - $340USD plus Shipping/Import Fees |
-| 56 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $240 B4 coupons, $7 S&H)                                                |
-| 57 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                                |
-| 58 | Dell NVMe 2230 Solid State Drive - 1TB - $186.65 After Discount [Steam Deck Compatible]                                 |
-| 59 | Samsung Smart Clear View Cover Fitted Hard Shell Case for Galaxy S21/S21 Ultra - $9.99                                  |
-| 60 | Arcade 1up Capcom (Street Fighter) Legacy Edition $300 to $350 (no tax)                                                 |
-| 61 | Moto G Power (2021), 4GB/64GB, $250                                                                                     |
-| 62 | The Escapists 2 $1.49                                                                                                   |
-| 63 | Logitech MX Keys Mini Keyboard $99.99 (PM at BB/Staples)                                                                |
-| 64 | *HOT YMMV* Samsung 55 in. QLED The Frame QN55LS03A - $998                                                               |
-| 65 | TCL 75" R635 (2020) Roku version $1699.99 ($300 off)                                                                    |
-| 66 | Refurbished M1 MacBook Airs back in stock at $1099                                                                      |
-| 67 | Anker Nano II 45 Watt GaN II PPS Charger Compact Fast Charger - 56.09$                                                  |
-| 68 | TPLink Deco X20 - 3 Pack (Mesh router) - $236.07                                                                        |
-| 69 | Mysa Smart Thermostats - Fortis $40 rebate + 10% off coupon (BC)                                                        |
-| 70 | Color Wheel (iOS app), Free                                                                                             |
-| 71 | Epson FastFoto FF-680W Refurbished $489.99                                                                              |
-| 72 | Kobo Clara HD 20% off + 15% Rakuten cashback (32% off total) - $102                                                     |
-| 73 | Dell XPS SE Desktop ( i7-11700 + 3060 Ti 8GB (LHR) +16GB ram, 512 SSD+1TB 7200 rpm HDD) for $1439.99 ($1010 off)        |
-| 74 | Audio-Technica AT2020USB+ Cardioid Condenser USB Microphone - $140.80 ATL!!!                                            |
-| 75 | WD Green SN 350 960 GB NVMe SSD - $79.99                                                                                |
-| 76 | Legion deal is back! Same prices as black friday deals! (build your own currently) Legion 7 3070 for $1,893.16          |
-| 77 | [AT&T] $45 Unlimited Max 22 GB Prepaid Priority Unlimited Prepaid Deprioritized US / CAN / MEX Not Multi-line Eligible  |
-| 78 | 10% off on Bang & Olufsen online with promo code                                                                        |
-| 79 | 2021 Kindle Paperwhite (8GB) - $119.99 and Kindle Paperwhite Signature (32GB) $169.99                                   |
-| 80 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
-| 81 | Microsoft H3S-00004 Sculpt Comfort Bluetooth Mouse, Black - $28.73                                                      |
-| 82 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                                      |
-| 83 | Control Ultimate edition bundle $16.49                                                                                  |
-| 84 | PS Plus February 2022 Games: EA Sports UFC 4, Tiny Tina’s Assault on Dragon Keep, Planet Coaster: Console Edition (PS5) |
-| 85 | Refurbished OnePlus 8T+5G 12GB 256GB Silver T-Mobile Unlocked (Excellent Condition) - $340USD plus Shipping/Import Fees |
-| 86 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $240 B4 coupons, $7 S&H)                                                |
-| 87 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                                |
-| 88 | Dell NVMe 2230 Solid State Drive - 1TB - $186.65 After Discount [Steam Deck Compatible]                                 |
-| 89 | Samsung Smart Clear View Cover Fitted Hard Shell Case for Galaxy S21/S21 Ultra - $9.99                                  |
+|    | deals                                                                                                                  |
+|---:|:-----------------------------------------------------------------------------------------------------------------------|
+|  0 | HOT: 2 x WD 16TB Gold drive for $655 ($20.5/TB) using 15% student discount+ free shipping YMMV                         |
+|  1 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                         |
+|  2 | All-new Echo Dot (4th Gen) | Smart speaker with Alexa | Charcoal Sale Price $40 Reg $70                                |
+|  3 | TP-Link AX1800 Whole Home WiFi 6 Mesh WiFi System (Deco X20) - 3-Pack $244                                             |
+|  4 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Free Keyboard Case, Additional 10% OFF through Perkopolis/SPC         |
+|  5 | Xbox Game Pass Ultimate: 3 Month Membership (Digital Code) $34.79                                                      |
+|  6 | eSIM data plans 25% off                                                                                                |
+|  7 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $60                    |
+|  8 | Google Chromecast w/ Google TV $50 ($20 off) - @ LD, Walmart, Staples, Visions, The Source, BB, HD, Newegg, Lowes      |
+|  9 | Fido offering 100% loyalty discount on Tablet 4GB Plan for 24 Months *YMMV*, existing customers                        |
+| 10 | Active Noise Cancelling True Wireless Earbuds Support AAC SBC Audio $19.99 FS & 10x rewards points                     |
+| 11 | Moto G Power (2021), 4GB/64GB, $250                                                                                    |
+| 12 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                               |
+| 13 | S22 for just $400 (w/ trade-in + student discount + $100 coupon)                                                       |
+| 14 | Razer DeathAdder V2 Gaming Mouse (wired) $49.99 (50% off)                                                              |
+| 15 | *HOT YMMV* Samsung 55 in. QLED The Frame QN55LS03A - $998                                                              |
+| 16 | 2021 Kindle Paperwhite (8GB) - $119.99 and Kindle Paperwhite Signature (32GB) $169.99                                  |
+| 17 | JBL T110 Wireless In-Ear Headphones ($9.97) ONTARIO                                                                    |
+| 18 | Buy or Upgrade to UNCHARTED: Legacy of Thieves Collection and get a FREE ticket (up to $30) to see the UNCHARTED movie |
+| 19 | Razer DeathAdder v2 Pro Wireless Gaming Mouse $89.99 (50% off)                                                         |
+| 20 | SteelSeries Apex Pro full-size gaming keyboard (221.89 - ATL)                                                          |
+| 21 | [AT&T] $45 Unlimited Max 22 GB Prepaid Priority Unlimited Prepaid Deprioritized US / CAN / MEX Not Multi-line Eligible |
+| 22 | Select Kairosoft games 45% off                                                                                         |
+| 23 | Instax Mini Film 60 exposures $48.80                                                                                   |
+| 24 | Polk Audio TSi300 High Performance Tower Loudspeakers - Pair - $398                                                    |
+| 25 | Audio-Technica AT2020USB+ Cardioid Condenser USB Microphone - $130.33 PRICE DROP                                       |
+| 26 | $45 25gb + $300 bill credit per line [win back]                                                                        |
+| 27 | Ubiquiti Wifi 6 AP - instock and POE Plus Injector s(OOS)                                                              |
+| 28 | PowerColor Hellhound AMD Radeon RX 6600 Graphics Card with 8GB GDDR6 Memory - $728.02                                  |
+| 29 | Devil May Cry HD Collection & 4SE Bundle - $19.46                                                                      |
+| 30 | HOT: 2 x WD 16TB Gold drive for $655 ($20.5/TB) using 15% student discount+ free shipping YMMV                         |
+| 31 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                         |
+| 32 | All-new Echo Dot (4th Gen) | Smart speaker with Alexa | Charcoal Sale Price $40 Reg $70                                |
+| 33 | TP-Link AX1800 Whole Home WiFi 6 Mesh WiFi System (Deco X20) - 3-Pack $244                                             |
+| 34 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Free Keyboard Case, Additional 10% OFF through Perkopolis/SPC         |
+| 35 | Xbox Game Pass Ultimate: 3 Month Membership (Digital Code) $34.79                                                      |
+| 36 | eSIM data plans 25% off                                                                                                |
+| 37 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $60                    |
+| 38 | Google Chromecast w/ Google TV $50 ($20 off) - @ LD, Walmart, Staples, Visions, The Source, BB, HD, Newegg, Lowes      |
+| 39 | Fido offering 100% loyalty discount on Tablet 4GB Plan for 24 Months *YMMV*, existing customers                        |
+| 40 | Active Noise Cancelling True Wireless Earbuds Support AAC SBC Audio $19.99 FS & 10x rewards points                     |
+| 41 | Moto G Power (2021), 4GB/64GB, $250                                                                                    |
+| 42 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                               |
+| 43 | S22 for just $400 (w/ trade-in + student discount + $100 coupon)                                                       |
+| 44 | Razer DeathAdder V2 Gaming Mouse (wired) $49.99 (50% off)                                                              |
+| 45 | *HOT YMMV* Samsung 55 in. QLED The Frame QN55LS03A - $998                                                              |
+| 46 | 2021 Kindle Paperwhite (8GB) - $119.99 and Kindle Paperwhite Signature (32GB) $169.99                                  |
+| 47 | JBL T110 Wireless In-Ear Headphones ($9.97) ONTARIO                                                                    |
+| 48 | Buy or Upgrade to UNCHARTED: Legacy of Thieves Collection and get a FREE ticket (up to $30) to see the UNCHARTED movie |
+| 49 | Razer DeathAdder v2 Pro Wireless Gaming Mouse $89.99 (50% off)                                                         |
+| 50 | SteelSeries Apex Pro full-size gaming keyboard (221.89 - ATL)                                                          |
+| 51 | [AT&T] $45 Unlimited Max 22 GB Prepaid Priority Unlimited Prepaid Deprioritized US / CAN / MEX Not Multi-line Eligible |
+| 52 | Select Kairosoft games 45% off                                                                                         |
+| 53 | Instax Mini Film 60 exposures $48.80                                                                                   |
+| 54 | Polk Audio TSi300 High Performance Tower Loudspeakers - Pair - $398                                                    |
+| 55 | Audio-Technica AT2020USB+ Cardioid Condenser USB Microphone - $130.33 PRICE DROP                                       |
+| 56 | $45 25gb + $300 bill credit per line [win back]                                                                        |
+| 57 | Ubiquiti Wifi 6 AP - instock and POE Plus Injector s(OOS)                                                              |
+| 58 | PowerColor Hellhound AMD Radeon RX 6600 Graphics Card with 8GB GDDR6 Memory - $728.02                                  |
+| 59 | Devil May Cry HD Collection & 4SE Bundle - $19.46                                                                      |
+| 60 | HOT: 2 x WD 16TB Gold drive for $655 ($20.5/TB) using 15% student discount+ free shipping YMMV                         |
+| 61 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                         |
+| 62 | All-new Echo Dot (4th Gen) | Smart speaker with Alexa | Charcoal Sale Price $40 Reg $70                                |
+| 63 | TP-Link AX1800 Whole Home WiFi 6 Mesh WiFi System (Deco X20) - 3-Pack $244                                             |
+| 64 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Free Keyboard Case, Additional 10% OFF through Perkopolis/SPC         |
+| 65 | Xbox Game Pass Ultimate: 3 Month Membership (Digital Code) $34.79                                                      |
+| 66 | eSIM data plans 25% off                                                                                                |
+| 67 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $60                    |
+| 68 | Google Chromecast w/ Google TV $50 ($20 off) - @ LD, Walmart, Staples, Visions, The Source, BB, HD, Newegg, Lowes      |
+| 69 | Fido offering 100% loyalty discount on Tablet 4GB Plan for 24 Months *YMMV*, existing customers                        |
+| 70 | Active Noise Cancelling True Wireless Earbuds Support AAC SBC Audio $19.99 FS & 10x rewards points                     |
+| 71 | Moto G Power (2021), 4GB/64GB, $250                                                                                    |
+| 72 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                               |
+| 73 | S22 for just $400 (w/ trade-in + student discount + $100 coupon)                                                       |
+| 74 | Razer DeathAdder V2 Gaming Mouse (wired) $49.99 (50% off)                                                              |
+| 75 | *HOT YMMV* Samsung 55 in. QLED The Frame QN55LS03A - $998                                                              |
+| 76 | 2021 Kindle Paperwhite (8GB) - $119.99 and Kindle Paperwhite Signature (32GB) $169.99                                  |
+| 77 | JBL T110 Wireless In-Ear Headphones ($9.97) ONTARIO                                                                    |
+| 78 | Buy or Upgrade to UNCHARTED: Legacy of Thieves Collection and get a FREE ticket (up to $30) to see the UNCHARTED movie |
+| 79 | Razer DeathAdder v2 Pro Wireless Gaming Mouse $89.99 (50% off)                                                         |
+| 80 | SteelSeries Apex Pro full-size gaming keyboard (221.89 - ATL)                                                          |
+| 81 | [AT&T] $45 Unlimited Max 22 GB Prepaid Priority Unlimited Prepaid Deprioritized US / CAN / MEX Not Multi-line Eligible |
+| 82 | Select Kairosoft games 45% off                                                                                         |
+| 83 | Instax Mini Film 60 exposures $48.80                                                                                   |
+| 84 | Polk Audio TSi300 High Performance Tower Loudspeakers - Pair - $398                                                    |
+| 85 | Audio-Technica AT2020USB+ Cardioid Condenser USB Microphone - $130.33 PRICE DROP                                       |
+| 86 | $45 25gb + $300 bill credit per line [win back]                                                                        |
+| 87 | Ubiquiti Wifi 6 AP - instock and POE Plus Injector s(OOS)                                                              |
+| 88 | PowerColor Hellhound AMD Radeon RX 6600 Graphics Card with 8GB GDDR6 Memory - $728.02                                  |
+| 89 | Devil May Cry HD Collection & 4SE Bundle - $19.46                                                                      |
