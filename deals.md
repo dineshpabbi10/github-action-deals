@@ -1,7 +1,7 @@
 |    | deals                                                                                                                  |
 |---:|:-----------------------------------------------------------------------------------------------------------------------|
-|  0 | HOT: 2 x WD 16TB Gold drive for $655 ($20.5/TB) using 15% student discount+ free shipping YMMV                         |
-|  1 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                         |
+|  0 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                         |
+|  1 | HOT: 2 x WD 16TB Gold drive for $655 ($20.5/TB) using 15% student discount+ free shipping YMMV                         |
 |  2 | All-new Echo Dot (4th Gen) | Smart speaker with Alexa | Charcoal Sale Price $40 Reg $70                                |
 |  3 | TP-Link AX1800 Whole Home WiFi 6 Mesh WiFi System (Deco X20) - 3-Pack $244                                             |
 |  4 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Free Keyboard Case, Additional 10% OFF through Perkopolis/SPC         |
@@ -30,8 +30,8 @@
 | 27 | Ubiquiti Wifi 6 AP - instock and POE Plus Injector s(OOS)                                                              |
 | 28 | PowerColor Hellhound AMD Radeon RX 6600 Graphics Card with 8GB GDDR6 Memory - $728.02                                  |
 | 29 | Devil May Cry HD Collection & 4SE Bundle - $19.46                                                                      |
-| 30 | HOT: 2 x WD 16TB Gold drive for $655 ($20.5/TB) using 15% student discount+ free shipping YMMV                         |
-| 31 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                         |
+| 30 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                         |
+| 31 | HOT: 2 x WD 16TB Gold drive for $655 ($20.5/TB) using 15% student discount+ free shipping YMMV                         |
 | 32 | All-new Echo Dot (4th Gen) | Smart speaker with Alexa | Charcoal Sale Price $40 Reg $70                                |
 | 33 | TP-Link AX1800 Whole Home WiFi 6 Mesh WiFi System (Deco X20) - 3-Pack $244                                             |
 | 34 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Free Keyboard Case, Additional 10% OFF through Perkopolis/SPC         |
@@ -60,8 +60,8 @@
 | 57 | Ubiquiti Wifi 6 AP - instock and POE Plus Injector s(OOS)                                                              |
 | 58 | PowerColor Hellhound AMD Radeon RX 6600 Graphics Card with 8GB GDDR6 Memory - $728.02                                  |
 | 59 | Devil May Cry HD Collection & 4SE Bundle - $19.46                                                                      |
-| 60 | HOT: 2 x WD 16TB Gold drive for $655 ($20.5/TB) using 15% student discount+ free shipping YMMV                         |
-| 61 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                         |
+| 60 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                         |
+| 61 | HOT: 2 x WD 16TB Gold drive for $655 ($20.5/TB) using 15% student discount+ free shipping YMMV                         |
 | 62 | All-new Echo Dot (4th Gen) | Smart speaker with Alexa | Charcoal Sale Price $40 Reg $70                                |
 | 63 | TP-Link AX1800 Whole Home WiFi 6 Mesh WiFi System (Deco X20) - 3-Pack $244                                             |
 | 64 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Free Keyboard Case, Additional 10% OFF through Perkopolis/SPC         |
