@@ -1,12 +1,12 @@
 |    | deals                                                                                                                   |
 |---:|:------------------------------------------------------------------------------------------------------------------------|
-|  0 | ZOTAC GeForce GTX 1660 6GB - $549.99 / ZOTAC GeForce RTX 3080 Ti 12GB - $2,500.00 (Sold and Shipped Amazon.ca)          |
-|  1 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
-|  2 | Fiz: The Brewery Management Game (Android and iOS)                                                                      |
-|  3 | XBox Controller - $59.99 various colors                                                                                 |
-|  4 | Moto G Power (2021), 4GB/64GB, $250                                                                                     |
-|  5 | All-new Echo Dot (4th Gen) | Smart speaker with Alexa | Charcoal Sale Price $40 Reg $70                                 |
-|  6 | Razer DeathAdder v2 Pro Wireless Gaming Mouse $89.99 (50% off)                                                          |
+|  0 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
+|  1 | Razer DeathAdder v2 Pro Wireless Gaming Mouse $89.99 (50% off)                                                          |
+|  2 | ZOTAC GeForce GTX 1660 6GB - $549.99 / ZOTAC GeForce RTX 3080 Ti 12GB - $2,500.00 (Sold and Shipped Amazon.ca)          |
+|  3 | Fiz: The Brewery Management Game (Android and iOS)                                                                      |
+|  4 | XBox Controller - $59.99 various colors                                                                                 |
+|  5 | Moto G Power (2021), 4GB/64GB, $250                                                                                     |
+|  6 | All-new Echo Dot (4th Gen) | Smart speaker with Alexa | Charcoal Sale Price $40 Reg $70                                 |
 |  7 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum |
 |  8 | Two pairs of Galaxy Buds 2 - $190                                                                                       |
 |  9 | *HOT YMMV* Samsung 55 in. QLED The Frame QN55LS03A - $998                                                               |
@@ -31,12 +31,12 @@
 | 28 | Windbound - FREE until Feb 17th @ 11am EST                                                                              |
 | 29 | Lenovo IdeaPad 3i 82H80008CF 15.6" FHD Notebook -- i3-1115G4 -- 8 GB RAM -- 512 GB SSD $499                             |
 | 30 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
-| 31 | ZOTAC GeForce GTX 1660 6GB - $549.99 / ZOTAC GeForce RTX 3080 Ti 12GB - $2,500.00 (Sold and Shipped Amazon.ca)          |
-| 32 | Fiz: The Brewery Management Game (Android and iOS)                                                                      |
-| 33 | XBox Controller - $59.99 various colors                                                                                 |
-| 34 | Moto G Power (2021), 4GB/64GB, $250                                                                                     |
-| 35 | All-new Echo Dot (4th Gen) | Smart speaker with Alexa | Charcoal Sale Price $40 Reg $70                                 |
-| 36 | Razer DeathAdder v2 Pro Wireless Gaming Mouse $89.99 (50% off)                                                          |
+| 31 | Razer DeathAdder v2 Pro Wireless Gaming Mouse $89.99 (50% off)                                                          |
+| 32 | ZOTAC GeForce GTX 1660 6GB - $549.99 / ZOTAC GeForce RTX 3080 Ti 12GB - $2,500.00 (Sold and Shipped Amazon.ca)          |
+| 33 | Fiz: The Brewery Management Game (Android and iOS)                                                                      |
+| 34 | XBox Controller - $59.99 various colors                                                                                 |
+| 35 | Moto G Power (2021), 4GB/64GB, $250                                                                                     |
+| 36 | All-new Echo Dot (4th Gen) | Smart speaker with Alexa | Charcoal Sale Price $40 Reg $70                                 |
 | 37 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum |
 | 38 | Two pairs of Galaxy Buds 2 - $190                                                                                       |
 | 39 | *HOT YMMV* Samsung 55 in. QLED The Frame QN55LS03A - $998                                                               |
@@ -61,12 +61,12 @@
 | 58 | Windbound - FREE until Feb 17th @ 11am EST                                                                              |
 | 59 | Lenovo IdeaPad 3i 82H80008CF 15.6" FHD Notebook -- i3-1115G4 -- 8 GB RAM -- 512 GB SSD $499                             |
 | 60 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
-| 61 | ZOTAC GeForce GTX 1660 6GB - $549.99 / ZOTAC GeForce RTX 3080 Ti 12GB - $2,500.00 (Sold and Shipped Amazon.ca)          |
-| 62 | Fiz: The Brewery Management Game (Android and iOS)                                                                      |
-| 63 | XBox Controller - $59.99 various colors                                                                                 |
-| 64 | Moto G Power (2021), 4GB/64GB, $250                                                                                     |
-| 65 | All-new Echo Dot (4th Gen) | Smart speaker with Alexa | Charcoal Sale Price $40 Reg $70                                 |
-| 66 | Razer DeathAdder v2 Pro Wireless Gaming Mouse $89.99 (50% off)                                                          |
+| 61 | Razer DeathAdder v2 Pro Wireless Gaming Mouse $89.99 (50% off)                                                          |
+| 62 | ZOTAC GeForce GTX 1660 6GB - $549.99 / ZOTAC GeForce RTX 3080 Ti 12GB - $2,500.00 (Sold and Shipped Amazon.ca)          |
+| 63 | Fiz: The Brewery Management Game (Android and iOS)                                                                      |
+| 64 | XBox Controller - $59.99 various colors                                                                                 |
+| 65 | Moto G Power (2021), 4GB/64GB, $250                                                                                     |
+| 66 | All-new Echo Dot (4th Gen) | Smart speaker with Alexa | Charcoal Sale Price $40 Reg $70                                 |
 | 67 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum |
 | 68 | Two pairs of Galaxy Buds 2 - $190                                                                                       |
 | 69 | *HOT YMMV* Samsung 55 in. QLED The Frame QN55LS03A - $998                                                               |
