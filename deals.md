@@ -1,8 +1,8 @@
 |    | deals                                                                                                                   |
 |---:|:------------------------------------------------------------------------------------------------------------------------|
-|  0 | SX1 Mini Desktop 3D Printer Kit                                                                                         |
-|  1 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum |
-|  2 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
+|  0 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
+|  1 | SX1 Mini Desktop 3D Printer Kit                                                                                         |
+|  2 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum |
 |  3 | King of Fighters XV $59.99 (also at Best Buy)                                                                           |
 |  4 | Monitor: Samsung Neo G9 Odyssey $1699                                                                                   |
 |  5 | $9.95 internet for low-income seniors in AB, BC & QC                                                                    |
