@@ -1,92 +1,92 @@
 |    | deals                                                                                                                   |
 |---:|:------------------------------------------------------------------------------------------------------------------------|
 |  0 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
-|  1 | Fido mobile offer for existing customers (20 GB for 45/month) - YMMV                                                    |
-|  2 | Rakuten.ca 14% off                                                                                                      |
-|  3 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum |
-|  4 | Legion deal! Scorching hot laptop deal! Rakuten 14% (build your own Legion 7 3070 for $1732.04)                         |
-|  5 | HP 15-dy2018ca HD laptop - i5-1135G7, 8GB DDR4, 512GB SSD, 15.6" HD display - $604.99 - 14% CB = $520.29                |
-|  6 | Ooma Telo Air Free Home Phone Service with Three HD3 Handsets $69.97 - YMMV available at Nepean Ottawa location         |
-|  7 | Ubiquiti Wifi 6 AP - instock and POE Plus Injector s(OOS)                                                               |
-|  8 | Moto Edge (2021) $200 on $45 7Gb plan BEFORE credits                                                                    |
-|  9 | Motorola One 5G Ace 128 GB Unlocked Smartphone, Volcanic Grey - $359 ($50 OFF)                                          |
-| 10 | Asrock 6900 XT $1899                                                                                                    |
-| 11 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $60                     |
-| 12 | Wicked Audio Hiro True Wireless - $9.97 FS                                                                              |
-| 13 | LG C1 -TSC - 48" $1340 / 55" $1506 / 65" $2033 / 77" $3525                                                              |
-| 14 | JBL T115BT Wireless In-Ear Headphones - Blue - $9.97                                                                    |
-| 15 | Ring light with microphone holder and phone holder                                                                      |
-| 16 | MSI GF63 Gaming Laptop, i5-10500H/8GB/256G/GTX1650 Max-Q, $800                                                          |
-| 17 | Free - Leisure Suit Larry 1 + Leisure Suit Larry 2 (DRM Free - No Steam Required) PC Games                              |
-| 18 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
-| 19 | XFX Speedster SWFT210 Radeon RX 6600 XT - $689.99                                                                       |
-| 20 | HOT: 2 x WD 16TB Gold drive for $655 ($20.5/TB) using 15% student discount+ free shipping YMMV                          |
-| 21 | Fido offering 100% loyalty discount on Tablet 4GB Plan for 24 Months *YMMV*, existing customers                         |
-| 22 | Sony 65 in. 4K HDR Google Smart TV KD65X85J $1089 ($200 off)                                                            |
-| 23 | Demon Souls PS5. $49.96                                                                                                 |
-| 24 | Logitech G502 LIGHTSPEED Wireless Gaming Mouse $124.98                                                                  |
-| 25 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale (recurrent)                         |
-| 26 | Sennheiser HD800S $1699.95 Plus Rakuten 14% Cashback                                                                    |
-| 27 | Dell Inspiron 13 i5310-7923SLV-PUS Intel Evo Laptop, i7-11370H $675+tax                                                 |
-| 28 | Headphones Sale (Various brands and models) [thus, no price in title]                                                   |
-| 29 | YMMV Viewsonic PX747-4k DLP Projector on clearance $639.97                                                              |
+|  1 | 2 x Galaxy Buds2 for just $113 -- ENDED                                                                                 |
+|  2 | eSIM data plans 25% off                                                                                                 |
+|  3 | HOT: 2 x WD 16TB Gold drive for $655 ($20.5/TB) using 15% student discount+ free shipping YMMV                          |
+|  4 | [Quest Store] Synth Riders ($24.77/25% off) + “Buy One, Get One Free” Giveaway                                          |
+|  5 | Apple Watch Series 6 31% Off ($19.99/m 40mm $20.99/m 44mm)                                                              |
+|  6 | Cyberpunk 2077 50% off PlayStation $29.99                                                                               |
+|  7 | Elden Ring (PC) - CA $57.11 with FANATICAL15 coupon                                                                     |
+|  8 | Ubiquiti Wifi 6 AP - instock and POE Plus Injector s(OOS)                                                               |
+|  9 | Samsung Tab S6 Lite 64 Gb $251.99 with venngo/studentbeans/perko                                                        |
+| 10 | XBOX Controllers $49.97                                                                                                 |
+| 11 | Flash Sale: Get a 2GB bonus for the next 12 months for new activations on plans $25+/month                              |
+| 12 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum |
+| 13 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                                |
+| 14 | Logitech Bluetooth Multi-Device Keyboard $39.99                                                                         |
+| 15 | 2021 Kindle Paperwhite (8GB) - $119.99 and Kindle Paperwhite Signature (32GB) $169.99                                   |
+| 16 | $9.95 internet for low-income seniors in AB, BC & QC                                                                    |
+| 17 | Demon Souls PS5. $49.96                                                                                                 |
+| 18 | Lenovo Chromebook 10e tablet 129$ + 14% Rakuten February 14                                                             |
+| 19 | ZOTAC GeForce GTX 1660 6GB - $549.99 / ZOTAC GeForce RTX 3080 Ti 12GB - $2,500.00 (Sold and Shipped Amazon.ca)          |
+| 20 | Moto Edge (2021) $200 on $45 7Gb plan BEFORE credits                                                                    |
+| 21 | ZOTAC Gaming GeForce RTX™ 3070 Ti Trinity OC 8GB GDDR6X - $1,399.90 (SOLD & SHIPPED AMAZON)                             |
+| 22 | MSI GF63 Gaming Laptop, i5-10500H/8GB/256G/GTX1650 Max-Q, $800                                                          |
+| 23 | [eBay USA] AMD Ryzen 9 5950x lowest price? 629.99US + ship + duty                                                       |
+| 24 | Razer Kishi for Android Universal Gaming Controller for Android CA$68.99 CA$109.99 (37% off)                            |
+| 25 | NORDVPN - 70% off a 2-year plus 2X Cash Back                                                                            |
+| 26 | Surface Pro 8 bundle: $1449.99                                                                                          |
+| 27 | ASUS A520M-K AM4 mATX motherboard - $39.99                                                                              |
+| 28 | Dear Esther: Landmark Edition - FREE until Feb 16th @ 7am EST                                                           |
+| 29 | Teach your monster to read App (Apple/Google/Amazon)                                                                    |
 | 30 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
-| 31 | Fido mobile offer for existing customers (20 GB for 45/month) - YMMV                                                    |
-| 32 | Rakuten.ca 14% off                                                                                                      |
-| 33 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum |
-| 34 | Legion deal! Scorching hot laptop deal! Rakuten 14% (build your own Legion 7 3070 for $1732.04)                         |
-| 35 | HP 15-dy2018ca HD laptop - i5-1135G7, 8GB DDR4, 512GB SSD, 15.6" HD display - $604.99 - 14% CB = $520.29                |
-| 36 | Ooma Telo Air Free Home Phone Service with Three HD3 Handsets $69.97 - YMMV available at Nepean Ottawa location         |
-| 37 | Ubiquiti Wifi 6 AP - instock and POE Plus Injector s(OOS)                                                               |
-| 38 | Moto Edge (2021) $200 on $45 7Gb plan BEFORE credits                                                                    |
-| 39 | Motorola One 5G Ace 128 GB Unlocked Smartphone, Volcanic Grey - $359 ($50 OFF)                                          |
-| 40 | Asrock 6900 XT $1899                                                                                                    |
-| 41 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $60                     |
-| 42 | Wicked Audio Hiro True Wireless - $9.97 FS                                                                              |
-| 43 | LG C1 -TSC - 48" $1340 / 55" $1506 / 65" $2033 / 77" $3525                                                              |
-| 44 | JBL T115BT Wireless In-Ear Headphones - Blue - $9.97                                                                    |
-| 45 | Ring light with microphone holder and phone holder                                                                      |
-| 46 | MSI GF63 Gaming Laptop, i5-10500H/8GB/256G/GTX1650 Max-Q, $800                                                          |
-| 47 | Free - Leisure Suit Larry 1 + Leisure Suit Larry 2 (DRM Free - No Steam Required) PC Games                              |
-| 48 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
-| 49 | XFX Speedster SWFT210 Radeon RX 6600 XT - $689.99                                                                       |
-| 50 | HOT: 2 x WD 16TB Gold drive for $655 ($20.5/TB) using 15% student discount+ free shipping YMMV                          |
-| 51 | Fido offering 100% loyalty discount on Tablet 4GB Plan for 24 Months *YMMV*, existing customers                         |
-| 52 | Sony 65 in. 4K HDR Google Smart TV KD65X85J $1089 ($200 off)                                                            |
-| 53 | Demon Souls PS5. $49.96                                                                                                 |
-| 54 | Logitech G502 LIGHTSPEED Wireless Gaming Mouse $124.98                                                                  |
-| 55 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale (recurrent)                         |
-| 56 | Sennheiser HD800S $1699.95 Plus Rakuten 14% Cashback                                                                    |
-| 57 | Dell Inspiron 13 i5310-7923SLV-PUS Intel Evo Laptop, i7-11370H $675+tax                                                 |
-| 58 | Headphones Sale (Various brands and models) [thus, no price in title]                                                   |
-| 59 | YMMV Viewsonic PX747-4k DLP Projector on clearance $639.97                                                              |
+| 31 | 2 x Galaxy Buds2 for just $113 -- ENDED                                                                                 |
+| 32 | eSIM data plans 25% off                                                                                                 |
+| 33 | HOT: 2 x WD 16TB Gold drive for $655 ($20.5/TB) using 15% student discount+ free shipping YMMV                          |
+| 34 | [Quest Store] Synth Riders ($24.77/25% off) + “Buy One, Get One Free” Giveaway                                          |
+| 35 | Apple Watch Series 6 31% Off ($19.99/m 40mm $20.99/m 44mm)                                                              |
+| 36 | Cyberpunk 2077 50% off PlayStation $29.99                                                                               |
+| 37 | Elden Ring (PC) - CA $57.11 with FANATICAL15 coupon                                                                     |
+| 38 | Ubiquiti Wifi 6 AP - instock and POE Plus Injector s(OOS)                                                               |
+| 39 | Samsung Tab S6 Lite 64 Gb $251.99 with venngo/studentbeans/perko                                                        |
+| 40 | XBOX Controllers $49.97                                                                                                 |
+| 41 | Flash Sale: Get a 2GB bonus for the next 12 months for new activations on plans $25+/month                              |
+| 42 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum |
+| 43 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                                |
+| 44 | Logitech Bluetooth Multi-Device Keyboard $39.99                                                                         |
+| 45 | 2021 Kindle Paperwhite (8GB) - $119.99 and Kindle Paperwhite Signature (32GB) $169.99                                   |
+| 46 | $9.95 internet for low-income seniors in AB, BC & QC                                                                    |
+| 47 | Demon Souls PS5. $49.96                                                                                                 |
+| 48 | Lenovo Chromebook 10e tablet 129$ + 14% Rakuten February 14                                                             |
+| 49 | ZOTAC GeForce GTX 1660 6GB - $549.99 / ZOTAC GeForce RTX 3080 Ti 12GB - $2,500.00 (Sold and Shipped Amazon.ca)          |
+| 50 | Moto Edge (2021) $200 on $45 7Gb plan BEFORE credits                                                                    |
+| 51 | ZOTAC Gaming GeForce RTX™ 3070 Ti Trinity OC 8GB GDDR6X - $1,399.90 (SOLD & SHIPPED AMAZON)                             |
+| 52 | MSI GF63 Gaming Laptop, i5-10500H/8GB/256G/GTX1650 Max-Q, $800                                                          |
+| 53 | [eBay USA] AMD Ryzen 9 5950x lowest price? 629.99US + ship + duty                                                       |
+| 54 | Razer Kishi for Android Universal Gaming Controller for Android CA$68.99 CA$109.99 (37% off)                            |
+| 55 | NORDVPN - 70% off a 2-year plus 2X Cash Back                                                                            |
+| 56 | Surface Pro 8 bundle: $1449.99                                                                                          |
+| 57 | ASUS A520M-K AM4 mATX motherboard - $39.99                                                                              |
+| 58 | Dear Esther: Landmark Edition - FREE until Feb 16th @ 7am EST                                                           |
+| 59 | Teach your monster to read App (Apple/Google/Amazon)                                                                    |
 | 60 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
-| 61 | Fido mobile offer for existing customers (20 GB for 45/month) - YMMV                                                    |
-| 62 | Rakuten.ca 14% off                                                                                                      |
-| 63 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum |
-| 64 | Legion deal! Scorching hot laptop deal! Rakuten 14% (build your own Legion 7 3070 for $1732.04)                         |
-| 65 | HP 15-dy2018ca HD laptop - i5-1135G7, 8GB DDR4, 512GB SSD, 15.6" HD display - $604.99 - 14% CB = $520.29                |
-| 66 | Ooma Telo Air Free Home Phone Service with Three HD3 Handsets $69.97 - YMMV available at Nepean Ottawa location         |
-| 67 | Ubiquiti Wifi 6 AP - instock and POE Plus Injector s(OOS)                                                               |
-| 68 | Moto Edge (2021) $200 on $45 7Gb plan BEFORE credits                                                                    |
-| 69 | Motorola One 5G Ace 128 GB Unlocked Smartphone, Volcanic Grey - $359 ($50 OFF)                                          |
-| 70 | Asrock 6900 XT $1899                                                                                                    |
-| 71 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $60                     |
-| 72 | Wicked Audio Hiro True Wireless - $9.97 FS                                                                              |
-| 73 | LG C1 -TSC - 48" $1340 / 55" $1506 / 65" $2033 / 77" $3525                                                              |
-| 74 | JBL T115BT Wireless In-Ear Headphones - Blue - $9.97                                                                    |
-| 75 | Ring light with microphone holder and phone holder                                                                      |
-| 76 | MSI GF63 Gaming Laptop, i5-10500H/8GB/256G/GTX1650 Max-Q, $800                                                          |
-| 77 | Free - Leisure Suit Larry 1 + Leisure Suit Larry 2 (DRM Free - No Steam Required) PC Games                              |
-| 78 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
-| 79 | XFX Speedster SWFT210 Radeon RX 6600 XT - $689.99                                                                       |
-| 80 | HOT: 2 x WD 16TB Gold drive for $655 ($20.5/TB) using 15% student discount+ free shipping YMMV                          |
-| 81 | Fido offering 100% loyalty discount on Tablet 4GB Plan for 24 Months *YMMV*, existing customers                         |
-| 82 | Sony 65 in. 4K HDR Google Smart TV KD65X85J $1089 ($200 off)                                                            |
-| 83 | Demon Souls PS5. $49.96                                                                                                 |
-| 84 | Logitech G502 LIGHTSPEED Wireless Gaming Mouse $124.98                                                                  |
-| 85 | [Hushed] $20USD Lifetime Sub Number, 1000min call - 6000 Sms per year forever. Sale (recurrent)                         |
-| 86 | Sennheiser HD800S $1699.95 Plus Rakuten 14% Cashback                                                                    |
-| 87 | Dell Inspiron 13 i5310-7923SLV-PUS Intel Evo Laptop, i7-11370H $675+tax                                                 |
-| 88 | Headphones Sale (Various brands and models) [thus, no price in title]                                                   |
-| 89 | YMMV Viewsonic PX747-4k DLP Projector on clearance $639.97                                                              |
+| 61 | 2 x Galaxy Buds2 for just $113 -- ENDED                                                                                 |
+| 62 | eSIM data plans 25% off                                                                                                 |
+| 63 | HOT: 2 x WD 16TB Gold drive for $655 ($20.5/TB) using 15% student discount+ free shipping YMMV                          |
+| 64 | [Quest Store] Synth Riders ($24.77/25% off) + “Buy One, Get One Free” Giveaway                                          |
+| 65 | Apple Watch Series 6 31% Off ($19.99/m 40mm $20.99/m 44mm)                                                              |
+| 66 | Cyberpunk 2077 50% off PlayStation $29.99                                                                               |
+| 67 | Elden Ring (PC) - CA $57.11 with FANATICAL15 coupon                                                                     |
+| 68 | Ubiquiti Wifi 6 AP - instock and POE Plus Injector s(OOS)                                                               |
+| 69 | Samsung Tab S6 Lite 64 Gb $251.99 with venngo/studentbeans/perko                                                        |
+| 70 | XBOX Controllers $49.97                                                                                                 |
+| 71 | Flash Sale: Get a 2GB bonus for the next 12 months for new activations on plans $25+/month                              |
+| 72 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum |
+| 73 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                                |
+| 74 | Logitech Bluetooth Multi-Device Keyboard $39.99                                                                         |
+| 75 | 2021 Kindle Paperwhite (8GB) - $119.99 and Kindle Paperwhite Signature (32GB) $169.99                                   |
+| 76 | $9.95 internet for low-income seniors in AB, BC & QC                                                                    |
+| 77 | Demon Souls PS5. $49.96                                                                                                 |
+| 78 | Lenovo Chromebook 10e tablet 129$ + 14% Rakuten February 14                                                             |
+| 79 | ZOTAC GeForce GTX 1660 6GB - $549.99 / ZOTAC GeForce RTX 3080 Ti 12GB - $2,500.00 (Sold and Shipped Amazon.ca)          |
+| 80 | Moto Edge (2021) $200 on $45 7Gb plan BEFORE credits                                                                    |
+| 81 | ZOTAC Gaming GeForce RTX™ 3070 Ti Trinity OC 8GB GDDR6X - $1,399.90 (SOLD & SHIPPED AMAZON)                             |
+| 82 | MSI GF63 Gaming Laptop, i5-10500H/8GB/256G/GTX1650 Max-Q, $800                                                          |
+| 83 | [eBay USA] AMD Ryzen 9 5950x lowest price? 629.99US + ship + duty                                                       |
+| 84 | Razer Kishi for Android Universal Gaming Controller for Android CA$68.99 CA$109.99 (37% off)                            |
+| 85 | NORDVPN - 70% off a 2-year plus 2X Cash Back                                                                            |
+| 86 | Surface Pro 8 bundle: $1449.99                                                                                          |
+| 87 | ASUS A520M-K AM4 mATX motherboard - $39.99                                                                              |
+| 88 | Dear Esther: Landmark Edition - FREE until Feb 16th @ 7am EST                                                           |
+| 89 | Teach your monster to read App (Apple/Google/Amazon)                                                                    |
