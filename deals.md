@@ -1,7 +1,7 @@
 |    | deals                                                                                                                   |
 |---:|:------------------------------------------------------------------------------------------------------------------------|
-|  0 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
-|  1 | 2 x Galaxy Buds2 for just $113 -- ENDED                                                                                 |
+|  0 | 2 x Galaxy Buds2 for just $113 -- ENDED                                                                                 |
+|  1 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
 |  2 | eSIM data plans 25% off                                                                                                 |
 |  3 | HOT: 2 x WD 16TB Gold drive for $655 ($20.5/TB) using 15% student discount+ free shipping YMMV                          |
 |  4 | [Quest Store] Synth Riders ($24.77/25% off) + “Buy One, Get One Free” Giveaway                                          |
@@ -30,8 +30,8 @@
 | 27 | ASUS A520M-K AM4 mATX motherboard - $39.99                                                                              |
 | 28 | Dear Esther: Landmark Edition - FREE until Feb 16th @ 7am EST                                                           |
 | 29 | Teach your monster to read App (Apple/Google/Amazon)                                                                    |
-| 30 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
-| 31 | 2 x Galaxy Buds2 for just $113 -- ENDED                                                                                 |
+| 30 | 2 x Galaxy Buds2 for just $113 -- ENDED                                                                                 |
+| 31 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
 | 32 | eSIM data plans 25% off                                                                                                 |
 | 33 | HOT: 2 x WD 16TB Gold drive for $655 ($20.5/TB) using 15% student discount+ free shipping YMMV                          |
 | 34 | [Quest Store] Synth Riders ($24.77/25% off) + “Buy One, Get One Free” Giveaway                                          |
@@ -60,8 +60,8 @@
 | 57 | ASUS A520M-K AM4 mATX motherboard - $39.99                                                                              |
 | 58 | Dear Esther: Landmark Edition - FREE until Feb 16th @ 7am EST                                                           |
 | 59 | Teach your monster to read App (Apple/Google/Amazon)                                                                    |
-| 60 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
-| 61 | 2 x Galaxy Buds2 for just $113 -- ENDED                                                                                 |
+| 60 | 2 x Galaxy Buds2 for just $113 -- ENDED                                                                                 |
+| 61 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
 | 62 | eSIM data plans 25% off                                                                                                 |
 | 63 | HOT: 2 x WD 16TB Gold drive for $655 ($20.5/TB) using 15% student discount+ free shipping YMMV                          |
 | 64 | [Quest Store] Synth Riders ($24.77/25% off) + “Buy One, Get One Free” Giveaway                                          |
