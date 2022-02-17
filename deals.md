@@ -1,9 +1,9 @@
 |    | deals                                                                                                                   |
 |---:|:------------------------------------------------------------------------------------------------------------------------|
-|  0 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum |
-|  1 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
-|  2 | Elden Ring (PC) - CA $57.11 with FANATICAL15 coupon                                                                     |
-|  3 | Mario Party Superstars (switch) $39.97 (Mississauga, YMMV)                                                              |
+|  0 | Mario Party Superstars (switch) $39.97 (Mississauga, YMMV)                                                              |
+|  1 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum |
+|  2 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
+|  3 | Elden Ring (PC) - CA $57.11 with FANATICAL15 coupon                                                                     |
 |  4 | $45 25gb + $300 bill credit per line [win back]                                                                         |
 |  5 | Arctic Cooling P12 PWM PST 120mm Fans 5-Pack Black $39.99                                                               |
 |  6 | Get an extra 25% off - Family Day Savings - Ends FEB 22 2022                                                            |
@@ -30,10 +30,10 @@
 | 27 | Sony 77 in. OLED A80J and LG C1 77 in. OLED $3998.99                                                                    |
 | 28 | XBOX Controllers $49.97                                                                                                 |
 | 29 | Wyze Car bundle + free bulb $104.99 CAD                                                                                 |
-| 30 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum |
-| 31 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
-| 32 | Elden Ring (PC) - CA $57.11 with FANATICAL15 coupon                                                                     |
-| 33 | Mario Party Superstars (switch) $39.97 (Mississauga, YMMV)                                                              |
+| 30 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
+| 31 | Mario Party Superstars (switch) $39.97 (Mississauga, YMMV)                                                              |
+| 32 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum |
+| 33 | Elden Ring (PC) - CA $57.11 with FANATICAL15 coupon                                                                     |
 | 34 | $45 25gb + $300 bill credit per line [win back]                                                                         |
 | 35 | Arctic Cooling P12 PWM PST 120mm Fans 5-Pack Black $39.99                                                               |
 | 36 | Get an extra 25% off - Family Day Savings - Ends FEB 22 2022                                                            |
@@ -60,10 +60,10 @@
 | 57 | Sony 77 in. OLED A80J and LG C1 77 in. OLED $3998.99                                                                    |
 | 58 | XBOX Controllers $49.97                                                                                                 |
 | 59 | Wyze Car bundle + free bulb $104.99 CAD                                                                                 |
-| 60 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum |
-| 61 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
-| 62 | Elden Ring (PC) - CA $57.11 with FANATICAL15 coupon                                                                     |
-| 63 | Mario Party Superstars (switch) $39.97 (Mississauga, YMMV)                                                              |
+| 60 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
+| 61 | Mario Party Superstars (switch) $39.97 (Mississauga, YMMV)                                                              |
+| 62 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum |
+| 63 | Elden Ring (PC) - CA $57.11 with FANATICAL15 coupon                                                                     |
 | 64 | $45 25gb + $300 bill credit per line [win back]                                                                         |
 | 65 | Arctic Cooling P12 PWM PST 120mm Fans 5-Pack Black $39.99                                                               |
 | 66 | Get an extra 25% off - Family Day Savings - Ends FEB 22 2022                                                            |
