@@ -1,92 +1,92 @@
 |    | deals                                                                                                                   |
 |---:|:------------------------------------------------------------------------------------------------------------------------|
-|  0 | Mario Party Superstars (switch) $39.97 (Mississauga, YMMV)                                                              |
-|  1 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum |
-|  2 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
-|  3 | Elden Ring (PC) - CA $57.11 with FANATICAL15 coupon                                                                     |
-|  4 | $45 25gb + $300 bill credit per line [win back]                                                                         |
-|  5 | Arctic Cooling P12 PWM PST 120mm Fans 5-Pack Black $39.99                                                               |
-|  6 | Get an extra 25% off - Family Day Savings - Ends FEB 22 2022                                                            |
-|  7 | $149.99 Samsung T7 Portable 1TB SSD USB 3.2 (30% off)                                                                   |
-|  8 | Epson FastFoto FF-680W Refurbished $489.99                                                                              |
-|  9 | MSI Radeon RX 6600 XT MECH 2X 8G OC GDDR6 - $629.99                                                                     |
-| 10 | Seasonic Focus PX 750W 80+ Platinum Full-Modular PSU $104.99                                                            |
-| 11 | Xbox Game Pass Ultimate: 3 Month Membership (Digital Code) $33.89                                                       |
-| 12 | [Quest Store] Synth Riders ($24.77/25% off) + “Buy One, Get One Free” Giveaway                                          |
-| 13 | eSIM data plans 25% off                                                                                                 |
-| 14 | Mario Party Superstars - $39.97 (YMMV)                                                                                  |
-| 15 | Lenovo S340 14" FHD Chromebook, Intel N4000, 64GB eMMC, 4GB DDR4, BT, WiFi, Onyx (refurbished) - $199                   |
-| 16 | Dell Inspiron 13 i5310-7923SLV-PUS Intel Evo Laptop, i7-11370H $675+tax                                                 |
-| 17 | TCL 75" R635 (2020) Roku version $1699.99 ($300 off)                                                                    |
-| 18 | Moto Edge (2021) $200 on $45 7Gb plan BEFORE credits                                                                    |
-| 19 | Soundstage 8" Powered Bass Tube Car Subwoofer with Integrated 300 Watt Peak Mono Amplifier (SS8BTE) $98 W FS, $93 ISPU  |
-| 20 | Sony 65 in. 4K HDR Google Smart TV KD65X85J $1089 ($200 off)                                                            |
-| 21 | Cyberpunk 2077 50% off PlayStation $29.99                                                                               |
-| 22 | Apple Watch Series 6 31% Off ($19.99/m 40mm $20.99/m 44mm)                                                              |
-| 23 | GoPro Hero10 Black w/ 1 Year GoPro Subscription & 32GB SanDisk Extreme $459.98 (Reg $709.98)                            |
-| 24 | Telus Small business Offer for RBC Clients - BYOD - 30GB for $45 for 4 lines or more                                    |
-| 25 | ZOTAC Gaming GeForce RTX™ 3070 Ti Trinity OC 8GB GDDR6X - $1,399.90 (SOLD & SHIPPED AMAZON)                             |
-| 26 | Xbox Game Pass Ultimate: 3 Month Membership (Digital Code) $39.99                                                       |
-| 27 | Sony 77 in. OLED A80J and LG C1 77 in. OLED $3998.99                                                                    |
-| 28 | XBOX Controllers $49.97                                                                                                 |
-| 29 | Wyze Car bundle + free bulb $104.99 CAD                                                                                 |
+|  0 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
+|  1 | MSI Ventus GeForce RTX 2060 12GB in stock ($599 plus shipping)                                                          |
+|  2 | Mario Party Superstars (switch) $39.97 (Mississauga, YMMV)                                                              |
+|  3 | Nintendo switch OLED in-stock online                                                                                    |
+|  4 | Microsoft Office Professional 2021 for Windows: Lifetime License - $49.99 USD                                           |
+|  5 | Powerbank 20000mAh QC4 $24.99 after $8 coupon                                                                           |
+|  6 | Fido offering 5 GB bonus for 15 months! YMMV                                                                            |
+|  7 | Polk Audio 12" Powered Subwoofer MXT12 100 W $337                                                                       |
+|  8 | Brothers - A Tale of Two Sons-pc game free to 2/24, 11am est                                                            |
+|  9 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                                |
+| 10 | LG 27" QHD IPS Monitor 27QN600-B with AMD FreeSync - $239.98 - $249.98 (Clearance)                                      |
+| 11 | SanDisk 128GB High Endurance microSDXC Card with Adapter $23.49                                                         |
+| 12 | Arcade 1up Capcom (Street Fighter) Legacy Edition $300 to $350 (no tax)                                                 |
+| 13 | Rasberry Pi 4 Kit - free shipping and no tax - 122 CAD all in                                                           |
+| 14 | XBOX Controllers $49.97                                                                                                 |
+| 15 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
+| 16 | [$484.99] Gigabyte M32Q - 32" QHD 165hz Fast Response monitor                                                           |
+| 17 | [AT&T] $45 Unlimited Max 22 GB Prepaid Priority Unlimited Prepaid Deprioritized US / CAN / MEX Not Multi-line Eligible  |
+| 18 | ThinkBook 14p Gen 2 AMD, 5600H/16GB/512GB, 14.0" 16:10 2.2K, $891.51 via Perkopolis                                     |
+| 19 | sony wf-1000xm4 noise cancelling EARBUDs refurbished $149 USD shipping only to USA adresses                             |
+| 20 | HOT: 2 x WD 16TB Gold drive for $655 ($20.5/TB) using 15% student discount+ free shipping YMMV                          |
+| 21 | Moto Edge (2021) $200 on $45 7Gb plan BEFORE credits                                                                    |
+| 22 | Pavlov VR $5.79 (80% off)                                                                                               |
+| 23 | Jabra Elite 75t/Elite Avtive 75t/Elite 85T $66/$84/$104, All in, Certified Refurbished                                  |
+| 24 | eSIM data plans 25% off                                                                                                 |
+| 25 | Xbox Game Pass Ultimate: 3 Month Membership (Digital Code) $39.99                                                       |
+| 26 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum |
+| 27 | Zelda Link's Awakening, Zelda Skyward Sword, Pikmin 3 & Spatoon 2 on sale for $54.96 at Walmart                         |
+| 28 | Legion 7 AMD - Rakuten 6% (build your own Legion 7 3070 for $1,893.16)                                                  |
+| 29 | 39.99 - Power Supply Cooler Master MasterWatt 650W 80 PLUS BRONZE Semi-Modular                                          |
 | 30 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
-| 31 | Mario Party Superstars (switch) $39.97 (Mississauga, YMMV)                                                              |
-| 32 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum |
-| 33 | Elden Ring (PC) - CA $57.11 with FANATICAL15 coupon                                                                     |
-| 34 | $45 25gb + $300 bill credit per line [win back]                                                                         |
-| 35 | Arctic Cooling P12 PWM PST 120mm Fans 5-Pack Black $39.99                                                               |
-| 36 | Get an extra 25% off - Family Day Savings - Ends FEB 22 2022                                                            |
-| 37 | $149.99 Samsung T7 Portable 1TB SSD USB 3.2 (30% off)                                                                   |
-| 38 | Epson FastFoto FF-680W Refurbished $489.99                                                                              |
-| 39 | MSI Radeon RX 6600 XT MECH 2X 8G OC GDDR6 - $629.99                                                                     |
-| 40 | Seasonic Focus PX 750W 80+ Platinum Full-Modular PSU $104.99                                                            |
-| 41 | Xbox Game Pass Ultimate: 3 Month Membership (Digital Code) $33.89                                                       |
-| 42 | [Quest Store] Synth Riders ($24.77/25% off) + “Buy One, Get One Free” Giveaway                                          |
-| 43 | eSIM data plans 25% off                                                                                                 |
-| 44 | Mario Party Superstars - $39.97 (YMMV)                                                                                  |
-| 45 | Lenovo S340 14" FHD Chromebook, Intel N4000, 64GB eMMC, 4GB DDR4, BT, WiFi, Onyx (refurbished) - $199                   |
-| 46 | Dell Inspiron 13 i5310-7923SLV-PUS Intel Evo Laptop, i7-11370H $675+tax                                                 |
-| 47 | TCL 75" R635 (2020) Roku version $1699.99 ($300 off)                                                                    |
-| 48 | Moto Edge (2021) $200 on $45 7Gb plan BEFORE credits                                                                    |
-| 49 | Soundstage 8" Powered Bass Tube Car Subwoofer with Integrated 300 Watt Peak Mono Amplifier (SS8BTE) $98 W FS, $93 ISPU  |
-| 50 | Sony 65 in. 4K HDR Google Smart TV KD65X85J $1089 ($200 off)                                                            |
-| 51 | Cyberpunk 2077 50% off PlayStation $29.99                                                                               |
-| 52 | Apple Watch Series 6 31% Off ($19.99/m 40mm $20.99/m 44mm)                                                              |
-| 53 | GoPro Hero10 Black w/ 1 Year GoPro Subscription & 32GB SanDisk Extreme $459.98 (Reg $709.98)                            |
-| 54 | Telus Small business Offer for RBC Clients - BYOD - 30GB for $45 for 4 lines or more                                    |
-| 55 | ZOTAC Gaming GeForce RTX™ 3070 Ti Trinity OC 8GB GDDR6X - $1,399.90 (SOLD & SHIPPED AMAZON)                             |
-| 56 | Xbox Game Pass Ultimate: 3 Month Membership (Digital Code) $39.99                                                       |
-| 57 | Sony 77 in. OLED A80J and LG C1 77 in. OLED $3998.99                                                                    |
-| 58 | XBOX Controllers $49.97                                                                                                 |
-| 59 | Wyze Car bundle + free bulb $104.99 CAD                                                                                 |
+| 31 | MSI Ventus GeForce RTX 2060 12GB in stock ($599 plus shipping)                                                          |
+| 32 | Mario Party Superstars (switch) $39.97 (Mississauga, YMMV)                                                              |
+| 33 | Nintendo switch OLED in-stock online                                                                                    |
+| 34 | Microsoft Office Professional 2021 for Windows: Lifetime License - $49.99 USD                                           |
+| 35 | Powerbank 20000mAh QC4 $24.99 after $8 coupon                                                                           |
+| 36 | Fido offering 5 GB bonus for 15 months! YMMV                                                                            |
+| 37 | Polk Audio 12" Powered Subwoofer MXT12 100 W $337                                                                       |
+| 38 | Brothers - A Tale of Two Sons-pc game free to 2/24, 11am est                                                            |
+| 39 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                                |
+| 40 | LG 27" QHD IPS Monitor 27QN600-B with AMD FreeSync - $239.98 - $249.98 (Clearance)                                      |
+| 41 | SanDisk 128GB High Endurance microSDXC Card with Adapter $23.49                                                         |
+| 42 | Arcade 1up Capcom (Street Fighter) Legacy Edition $300 to $350 (no tax)                                                 |
+| 43 | Rasberry Pi 4 Kit - free shipping and no tax - 122 CAD all in                                                           |
+| 44 | XBOX Controllers $49.97                                                                                                 |
+| 45 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
+| 46 | [$484.99] Gigabyte M32Q - 32" QHD 165hz Fast Response monitor                                                           |
+| 47 | [AT&T] $45 Unlimited Max 22 GB Prepaid Priority Unlimited Prepaid Deprioritized US / CAN / MEX Not Multi-line Eligible  |
+| 48 | ThinkBook 14p Gen 2 AMD, 5600H/16GB/512GB, 14.0" 16:10 2.2K, $891.51 via Perkopolis                                     |
+| 49 | sony wf-1000xm4 noise cancelling EARBUDs refurbished $149 USD shipping only to USA adresses                             |
+| 50 | HOT: 2 x WD 16TB Gold drive for $655 ($20.5/TB) using 15% student discount+ free shipping YMMV                          |
+| 51 | Moto Edge (2021) $200 on $45 7Gb plan BEFORE credits                                                                    |
+| 52 | Pavlov VR $5.79 (80% off)                                                                                               |
+| 53 | Jabra Elite 75t/Elite Avtive 75t/Elite 85T $66/$84/$104, All in, Certified Refurbished                                  |
+| 54 | eSIM data plans 25% off                                                                                                 |
+| 55 | Xbox Game Pass Ultimate: 3 Month Membership (Digital Code) $39.99                                                       |
+| 56 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum |
+| 57 | Zelda Link's Awakening, Zelda Skyward Sword, Pikmin 3 & Spatoon 2 on sale for $54.96 at Walmart                         |
+| 58 | Legion 7 AMD - Rakuten 6% (build your own Legion 7 3070 for $1,893.16)                                                  |
+| 59 | 39.99 - Power Supply Cooler Master MasterWatt 650W 80 PLUS BRONZE Semi-Modular                                          |
 | 60 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
-| 61 | Mario Party Superstars (switch) $39.97 (Mississauga, YMMV)                                                              |
-| 62 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum |
-| 63 | Elden Ring (PC) - CA $57.11 with FANATICAL15 coupon                                                                     |
-| 64 | $45 25gb + $300 bill credit per line [win back]                                                                         |
-| 65 | Arctic Cooling P12 PWM PST 120mm Fans 5-Pack Black $39.99                                                               |
-| 66 | Get an extra 25% off - Family Day Savings - Ends FEB 22 2022                                                            |
-| 67 | $149.99 Samsung T7 Portable 1TB SSD USB 3.2 (30% off)                                                                   |
-| 68 | Epson FastFoto FF-680W Refurbished $489.99                                                                              |
-| 69 | MSI Radeon RX 6600 XT MECH 2X 8G OC GDDR6 - $629.99                                                                     |
-| 70 | Seasonic Focus PX 750W 80+ Platinum Full-Modular PSU $104.99                                                            |
-| 71 | Xbox Game Pass Ultimate: 3 Month Membership (Digital Code) $33.89                                                       |
-| 72 | [Quest Store] Synth Riders ($24.77/25% off) + “Buy One, Get One Free” Giveaway                                          |
-| 73 | eSIM data plans 25% off                                                                                                 |
-| 74 | Mario Party Superstars - $39.97 (YMMV)                                                                                  |
-| 75 | Lenovo S340 14" FHD Chromebook, Intel N4000, 64GB eMMC, 4GB DDR4, BT, WiFi, Onyx (refurbished) - $199                   |
-| 76 | Dell Inspiron 13 i5310-7923SLV-PUS Intel Evo Laptop, i7-11370H $675+tax                                                 |
-| 77 | TCL 75" R635 (2020) Roku version $1699.99 ($300 off)                                                                    |
-| 78 | Moto Edge (2021) $200 on $45 7Gb plan BEFORE credits                                                                    |
-| 79 | Soundstage 8" Powered Bass Tube Car Subwoofer with Integrated 300 Watt Peak Mono Amplifier (SS8BTE) $98 W FS, $93 ISPU  |
-| 80 | Sony 65 in. 4K HDR Google Smart TV KD65X85J $1089 ($200 off)                                                            |
-| 81 | Cyberpunk 2077 50% off PlayStation $29.99                                                                               |
-| 82 | Apple Watch Series 6 31% Off ($19.99/m 40mm $20.99/m 44mm)                                                              |
-| 83 | GoPro Hero10 Black w/ 1 Year GoPro Subscription & 32GB SanDisk Extreme $459.98 (Reg $709.98)                            |
-| 84 | Telus Small business Offer for RBC Clients - BYOD - 30GB for $45 for 4 lines or more                                    |
-| 85 | ZOTAC Gaming GeForce RTX™ 3070 Ti Trinity OC 8GB GDDR6X - $1,399.90 (SOLD & SHIPPED AMAZON)                             |
-| 86 | Xbox Game Pass Ultimate: 3 Month Membership (Digital Code) $39.99                                                       |
-| 87 | Sony 77 in. OLED A80J and LG C1 77 in. OLED $3998.99                                                                    |
-| 88 | XBOX Controllers $49.97                                                                                                 |
-| 89 | Wyze Car bundle + free bulb $104.99 CAD                                                                                 |
+| 61 | MSI Ventus GeForce RTX 2060 12GB in stock ($599 plus shipping)                                                          |
+| 62 | Mario Party Superstars (switch) $39.97 (Mississauga, YMMV)                                                              |
+| 63 | Nintendo switch OLED in-stock online                                                                                    |
+| 64 | Microsoft Office Professional 2021 for Windows: Lifetime License - $49.99 USD                                           |
+| 65 | Powerbank 20000mAh QC4 $24.99 after $8 coupon                                                                           |
+| 66 | Fido offering 5 GB bonus for 15 months! YMMV                                                                            |
+| 67 | Polk Audio 12" Powered Subwoofer MXT12 100 W $337                                                                       |
+| 68 | Brothers - A Tale of Two Sons-pc game free to 2/24, 11am est                                                            |
+| 69 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                                |
+| 70 | LG 27" QHD IPS Monitor 27QN600-B with AMD FreeSync - $239.98 - $249.98 (Clearance)                                      |
+| 71 | SanDisk 128GB High Endurance microSDXC Card with Adapter $23.49                                                         |
+| 72 | Arcade 1up Capcom (Street Fighter) Legacy Edition $300 to $350 (no tax)                                                 |
+| 73 | Rasberry Pi 4 Kit - free shipping and no tax - 122 CAD all in                                                           |
+| 74 | XBOX Controllers $49.97                                                                                                 |
+| 75 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
+| 76 | [$484.99] Gigabyte M32Q - 32" QHD 165hz Fast Response monitor                                                           |
+| 77 | [AT&T] $45 Unlimited Max 22 GB Prepaid Priority Unlimited Prepaid Deprioritized US / CAN / MEX Not Multi-line Eligible  |
+| 78 | ThinkBook 14p Gen 2 AMD, 5600H/16GB/512GB, 14.0" 16:10 2.2K, $891.51 via Perkopolis                                     |
+| 79 | sony wf-1000xm4 noise cancelling EARBUDs refurbished $149 USD shipping only to USA adresses                             |
+| 80 | HOT: 2 x WD 16TB Gold drive for $655 ($20.5/TB) using 15% student discount+ free shipping YMMV                          |
+| 81 | Moto Edge (2021) $200 on $45 7Gb plan BEFORE credits                                                                    |
+| 82 | Pavlov VR $5.79 (80% off)                                                                                               |
+| 83 | Jabra Elite 75t/Elite Avtive 75t/Elite 85T $66/$84/$104, All in, Certified Refurbished                                  |
+| 84 | eSIM data plans 25% off                                                                                                 |
+| 85 | Xbox Game Pass Ultimate: 3 Month Membership (Digital Code) $39.99                                                       |
+| 86 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum |
+| 87 | Zelda Link's Awakening, Zelda Skyward Sword, Pikmin 3 & Spatoon 2 on sale for $54.96 at Walmart                         |
+| 88 | Legion 7 AMD - Rakuten 6% (build your own Legion 7 3070 for $1,893.16)                                                  |
+| 89 | 39.99 - Power Supply Cooler Master MasterWatt 650W 80 PLUS BRONZE Semi-Modular                                          |
