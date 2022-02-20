@@ -1,92 +1,92 @@
 |    | deals                                                                                                                   |
 |---:|:------------------------------------------------------------------------------------------------------------------------|
 |  0 | [Sponsored] Kick Off Your Long Weekend with Big Savings at Newegg Canada!                                               |
-|  1 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
-|  2 | Fire TV Stick with all-new Alexa Voice Remote Streaming Media Player - $2.96                                            |
-|  3 | [Gaming laptop] MSI GF65 - 15.6" FHD 144Hz Intel Core i5-10500H - RTX3060, 8GB DDR4, 512GB NVMe SSD $950 After $50 RMA  |
-|  4 | Samsung SSD Internal/Drives 30% Off                                                                                     |
-|  5 | Sonos Perkopolis Discount is back (15%)                                                                                 |
-|  6 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum |
-|  7 | $19/m for 12 months Mobile Prepaid Plan in Canada, Decent service, No contract                                          |
+|  1 | Omni Fire TVs heavily discounted up to 40% off                                                                          |
+|  2 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
+|  3 | $19/m for 12 months Mobile Prepaid Plan in Canada, Decent service, No contract                                          |
+|  4 | Samsung Super Fast Chargers - 25W or 45W (almost 50% off)                                                               |
+|  5 | $5 off - Ventroo V5 CPU Cooler ($41.99 after coupon)                                                                    |
+|  6 | ThinkBook 13s, 5800U/16GB/512GB, $944.96                                                                                |
+|  7 | MSI GF63 Gaming Laptop, i5-10500H/8GB/256G/GTX1650 Max-Q, $800                                                          |
 |  8 | Epson FastFoto FF-680W Refurbished $489.99                                                                              |
-|  9 | Cyberpunk 2077 50% off PlayStation $29.99                                                                               |
-| 10 | Arcade1UP MS. PAC-MAN 8-in-1 Party-cade $175.00 (reg. 349.98) YMMW                                                      |
-| 11 | Mario Party Superstars (switch) $39.97 (Mississauga, YMMV)                                                              |
-| 12 | HOT - YMMV - $29.99 - Samsung 15W Wireless Charger Stand, Black - in store                                              |
-| 13 | [AT&T] $45 Unlimited Max 22 GB Prepaid Priority Unlimited Prepaid Deprioritized US / CAN / MEX Not Multi-line Eligible  |
-| 14 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $60                     |
-| 15 | Samsung 65" 8K UHD HDR QLED ( QN65QN800AFXZC ) $1500 OFF                                                                |
-| 16 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                                |
-| 17 | Samsung DotDay 870 EVO 1Tb SATA 2.5" drive $139.99                                                                      |
-| 18 | Lenovo 10e Chromebook Tablet $129 less 9% Rakuten (Extra $30 rebate new Rakuten members)                                |
-| 19 | Microsoft Office Professional 2021 for Windows: Lifetime License - $49.99 USD                                           |
-| 20 | Arcade 1up Capcom (Street Fighter) Legacy Edition $300 to $350 (no tax)                                                 |
-| 21 | Sony 77 in. OLED A80J and LG C1 77 in. OLED $3998.99                                                                    |
-| 22 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $240 B4 coupons, $7 S&H)                                                |
-| 23 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
-| 24 | EVGA XR1 PRO HDMI Capture USBC 4K Capture and Passthrough with Audio In - $134.99 (50% off) - Pick Up only              |
-| 25 | Planet Of The Discounts - Save Up To 70% OFF - Ends 3/2                                                                 |
+|  9 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum |
+| 10 | Crucial Ballistix 3600 MHz DDR4 DRAM Desktop Memory Kit 16GB (8GB x2) CL16 Red - $83.19                                 |
+| 11 | Samsung SSD Internal/Drives 30% Off                                                                                     |
+| 12 | [Quest Store] Synth Riders ($24.77/25% off) + “Buy One, Get One Free” Giveaway                                          |
+| 13 | FREE - Call Of Duty Warzone / Vanguard --> Log in and get 10 tier skips and Forbidden Sacrifice Bundle - $20 USD Value  |
+| 14 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
+| 15 | Monster Clarity 102 Plus Wireless Noise Cancelling Earbuds - $49.98 with $30 checkout coupon                            |
+| 16 | Sonos Perkopolis Discount is back (15%)                                                                                 |
+| 17 | $273 PNY NVIDIA T600 "Quadro" Video Graphic Card (VCNT600-PB) (40W, Low Profile Single Slot)                            |
+| 18 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $60                     |
+| 19 | Mario Party Superstars (switch) $39.97 (Mississauga, YMMV)                                                              |
+| 20 | Nintendo eShop - Inside for $2.63 (many % off!)                                                                         |
+| 21 | Sandisk Cruzer Glide 3.0 USB Flash Drive - 256 GB - $23.99 in store                                                     |
+| 22 | Visions "First Responders" sale                                                                                         |
+| 23 | Moola: Xbox, PlayStation & Switch Bonuses                                                                               |
+| 24 | Free Xbox "Doritos crash course" game                                                                                   |
+| 25 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $240 B4 coupons, $7 S&H)                                                |
 | 26 | XBOX Controllers $49.97                                                                                                 |
-| 27 | 2 months of Xbox Game Pass Ultimate CA$0.89 Trial (New Accounts Only)                                                   |
-| 28 | CIBC DIVIDEND VISA INFINITE CARD 10% cash back for 4 months ($200) and a year free annual fee (120)                     |
-| 29 | Microsoft Virtual Training days are back (Free exam vouchers available)                                                 |
+| 27 | Polk Audio 12" Powered Subwoofer MXT12 100 W $337                                                                       |
+| 28 | YMMV G15 Ryzen Edition Gaming Laptop - AMD Ryzen™ 7 5800H - NVIDIA® GeForce RTX™ 3050 Ti $1,049                         |
+| 29 | Samsung DotDay 870 EVO 1Tb SATA 2.5" drive $139.99                                                                      |
 | 30 | [Sponsored] Kick Off Your Long Weekend with Big Savings at Newegg Canada!                                               |
-| 31 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
-| 32 | Fire TV Stick with all-new Alexa Voice Remote Streaming Media Player - $2.96                                            |
-| 33 | [Gaming laptop] MSI GF65 - 15.6" FHD 144Hz Intel Core i5-10500H - RTX3060, 8GB DDR4, 512GB NVMe SSD $950 After $50 RMA  |
-| 34 | Samsung SSD Internal/Drives 30% Off                                                                                     |
-| 35 | Sonos Perkopolis Discount is back (15%)                                                                                 |
-| 36 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum |
-| 37 | $19/m for 12 months Mobile Prepaid Plan in Canada, Decent service, No contract                                          |
+| 31 | Omni Fire TVs heavily discounted up to 40% off                                                                          |
+| 32 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
+| 33 | $19/m for 12 months Mobile Prepaid Plan in Canada, Decent service, No contract                                          |
+| 34 | Samsung Super Fast Chargers - 25W or 45W (almost 50% off)                                                               |
+| 35 | $5 off - Ventroo V5 CPU Cooler ($41.99 after coupon)                                                                    |
+| 36 | ThinkBook 13s, 5800U/16GB/512GB, $944.96                                                                                |
+| 37 | MSI GF63 Gaming Laptop, i5-10500H/8GB/256G/GTX1650 Max-Q, $800                                                          |
 | 38 | Epson FastFoto FF-680W Refurbished $489.99                                                                              |
-| 39 | Cyberpunk 2077 50% off PlayStation $29.99                                                                               |
-| 40 | Arcade1UP MS. PAC-MAN 8-in-1 Party-cade $175.00 (reg. 349.98) YMMW                                                      |
-| 41 | Mario Party Superstars (switch) $39.97 (Mississauga, YMMV)                                                              |
-| 42 | HOT - YMMV - $29.99 - Samsung 15W Wireless Charger Stand, Black - in store                                              |
-| 43 | [AT&T] $45 Unlimited Max 22 GB Prepaid Priority Unlimited Prepaid Deprioritized US / CAN / MEX Not Multi-line Eligible  |
-| 44 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $60                     |
-| 45 | Samsung 65" 8K UHD HDR QLED ( QN65QN800AFXZC ) $1500 OFF                                                                |
-| 46 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                                |
-| 47 | Samsung DotDay 870 EVO 1Tb SATA 2.5" drive $139.99                                                                      |
-| 48 | Lenovo 10e Chromebook Tablet $129 less 9% Rakuten (Extra $30 rebate new Rakuten members)                                |
-| 49 | Microsoft Office Professional 2021 for Windows: Lifetime License - $49.99 USD                                           |
-| 50 | Arcade 1up Capcom (Street Fighter) Legacy Edition $300 to $350 (no tax)                                                 |
-| 51 | Sony 77 in. OLED A80J and LG C1 77 in. OLED $3998.99                                                                    |
-| 52 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $240 B4 coupons, $7 S&H)                                                |
-| 53 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
-| 54 | EVGA XR1 PRO HDMI Capture USBC 4K Capture and Passthrough with Audio In - $134.99 (50% off) - Pick Up only              |
-| 55 | Planet Of The Discounts - Save Up To 70% OFF - Ends 3/2                                                                 |
+| 39 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum |
+| 40 | Crucial Ballistix 3600 MHz DDR4 DRAM Desktop Memory Kit 16GB (8GB x2) CL16 Red - $83.19                                 |
+| 41 | Samsung SSD Internal/Drives 30% Off                                                                                     |
+| 42 | [Quest Store] Synth Riders ($24.77/25% off) + “Buy One, Get One Free” Giveaway                                          |
+| 43 | FREE - Call Of Duty Warzone / Vanguard --> Log in and get 10 tier skips and Forbidden Sacrifice Bundle - $20 USD Value  |
+| 44 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
+| 45 | Monster Clarity 102 Plus Wireless Noise Cancelling Earbuds - $49.98 with $30 checkout coupon                            |
+| 46 | Sonos Perkopolis Discount is back (15%)                                                                                 |
+| 47 | $273 PNY NVIDIA T600 "Quadro" Video Graphic Card (VCNT600-PB) (40W, Low Profile Single Slot)                            |
+| 48 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $60                     |
+| 49 | Mario Party Superstars (switch) $39.97 (Mississauga, YMMV)                                                              |
+| 50 | Nintendo eShop - Inside for $2.63 (many % off!)                                                                         |
+| 51 | Sandisk Cruzer Glide 3.0 USB Flash Drive - 256 GB - $23.99 in store                                                     |
+| 52 | Visions "First Responders" sale                                                                                         |
+| 53 | Moola: Xbox, PlayStation & Switch Bonuses                                                                               |
+| 54 | Free Xbox "Doritos crash course" game                                                                                   |
+| 55 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $240 B4 coupons, $7 S&H)                                                |
 | 56 | XBOX Controllers $49.97                                                                                                 |
-| 57 | 2 months of Xbox Game Pass Ultimate CA$0.89 Trial (New Accounts Only)                                                   |
-| 58 | CIBC DIVIDEND VISA INFINITE CARD 10% cash back for 4 months ($200) and a year free annual fee (120)                     |
-| 59 | Microsoft Virtual Training days are back (Free exam vouchers available)                                                 |
+| 57 | Polk Audio 12" Powered Subwoofer MXT12 100 W $337                                                                       |
+| 58 | YMMV G15 Ryzen Edition Gaming Laptop - AMD Ryzen™ 7 5800H - NVIDIA® GeForce RTX™ 3050 Ti $1,049                         |
+| 59 | Samsung DotDay 870 EVO 1Tb SATA 2.5" drive $139.99                                                                      |
 | 60 | [Sponsored] Kick Off Your Long Weekend with Big Savings at Newegg Canada!                                               |
-| 61 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
-| 62 | Fire TV Stick with all-new Alexa Voice Remote Streaming Media Player - $2.96                                            |
-| 63 | [Gaming laptop] MSI GF65 - 15.6" FHD 144Hz Intel Core i5-10500H - RTX3060, 8GB DDR4, 512GB NVMe SSD $950 After $50 RMA  |
-| 64 | Samsung SSD Internal/Drives 30% Off                                                                                     |
-| 65 | Sonos Perkopolis Discount is back (15%)                                                                                 |
-| 66 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum |
-| 67 | $19/m for 12 months Mobile Prepaid Plan in Canada, Decent service, No contract                                          |
+| 61 | Omni Fire TVs heavily discounted up to 40% off                                                                          |
+| 62 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
+| 63 | $19/m for 12 months Mobile Prepaid Plan in Canada, Decent service, No contract                                          |
+| 64 | Samsung Super Fast Chargers - 25W or 45W (almost 50% off)                                                               |
+| 65 | $5 off - Ventroo V5 CPU Cooler ($41.99 after coupon)                                                                    |
+| 66 | ThinkBook 13s, 5800U/16GB/512GB, $944.96                                                                                |
+| 67 | MSI GF63 Gaming Laptop, i5-10500H/8GB/256G/GTX1650 Max-Q, $800                                                          |
 | 68 | Epson FastFoto FF-680W Refurbished $489.99                                                                              |
-| 69 | Cyberpunk 2077 50% off PlayStation $29.99                                                                               |
-| 70 | Arcade1UP MS. PAC-MAN 8-in-1 Party-cade $175.00 (reg. 349.98) YMMW                                                      |
-| 71 | Mario Party Superstars (switch) $39.97 (Mississauga, YMMV)                                                              |
-| 72 | HOT - YMMV - $29.99 - Samsung 15W Wireless Charger Stand, Black - in store                                              |
-| 73 | [AT&T] $45 Unlimited Max 22 GB Prepaid Priority Unlimited Prepaid Deprioritized US / CAN / MEX Not Multi-line Eligible  |
-| 74 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $60                     |
-| 75 | Samsung 65" 8K UHD HDR QLED ( QN65QN800AFXZC ) $1500 OFF                                                                |
-| 76 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                                |
-| 77 | Samsung DotDay 870 EVO 1Tb SATA 2.5" drive $139.99                                                                      |
-| 78 | Lenovo 10e Chromebook Tablet $129 less 9% Rakuten (Extra $30 rebate new Rakuten members)                                |
-| 79 | Microsoft Office Professional 2021 for Windows: Lifetime License - $49.99 USD                                           |
-| 80 | Arcade 1up Capcom (Street Fighter) Legacy Edition $300 to $350 (no tax)                                                 |
-| 81 | Sony 77 in. OLED A80J and LG C1 77 in. OLED $3998.99                                                                    |
-| 82 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $240 B4 coupons, $7 S&H)                                                |
-| 83 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
-| 84 | EVGA XR1 PRO HDMI Capture USBC 4K Capture and Passthrough with Audio In - $134.99 (50% off) - Pick Up only              |
-| 85 | Planet Of The Discounts - Save Up To 70% OFF - Ends 3/2                                                                 |
+| 69 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum |
+| 70 | Crucial Ballistix 3600 MHz DDR4 DRAM Desktop Memory Kit 16GB (8GB x2) CL16 Red - $83.19                                 |
+| 71 | Samsung SSD Internal/Drives 30% Off                                                                                     |
+| 72 | [Quest Store] Synth Riders ($24.77/25% off) + “Buy One, Get One Free” Giveaway                                          |
+| 73 | FREE - Call Of Duty Warzone / Vanguard --> Log in and get 10 tier skips and Forbidden Sacrifice Bundle - $20 USD Value  |
+| 74 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
+| 75 | Monster Clarity 102 Plus Wireless Noise Cancelling Earbuds - $49.98 with $30 checkout coupon                            |
+| 76 | Sonos Perkopolis Discount is back (15%)                                                                                 |
+| 77 | $273 PNY NVIDIA T600 "Quadro" Video Graphic Card (VCNT600-PB) (40W, Low Profile Single Slot)                            |
+| 78 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $60                     |
+| 79 | Mario Party Superstars (switch) $39.97 (Mississauga, YMMV)                                                              |
+| 80 | Nintendo eShop - Inside for $2.63 (many % off!)                                                                         |
+| 81 | Sandisk Cruzer Glide 3.0 USB Flash Drive - 256 GB - $23.99 in store                                                     |
+| 82 | Visions "First Responders" sale                                                                                         |
+| 83 | Moola: Xbox, PlayStation & Switch Bonuses                                                                               |
+| 84 | Free Xbox "Doritos crash course" game                                                                                   |
+| 85 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $240 B4 coupons, $7 S&H)                                                |
 | 86 | XBOX Controllers $49.97                                                                                                 |
-| 87 | 2 months of Xbox Game Pass Ultimate CA$0.89 Trial (New Accounts Only)                                                   |
-| 88 | CIBC DIVIDEND VISA INFINITE CARD 10% cash back for 4 months ($200) and a year free annual fee (120)                     |
-| 89 | Microsoft Virtual Training days are back (Free exam vouchers available)                                                 |
+| 87 | Polk Audio 12" Powered Subwoofer MXT12 100 W $337                                                                       |
+| 88 | YMMV G15 Ryzen Edition Gaming Laptop - AMD Ryzen™ 7 5800H - NVIDIA® GeForce RTX™ 3050 Ti $1,049                         |
+| 89 | Samsung DotDay 870 EVO 1Tb SATA 2.5" drive $139.99                                                                      |
