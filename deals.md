@@ -1,8 +1,8 @@
 |    | deals                                                                                                                   |
 |---:|:------------------------------------------------------------------------------------------------------------------------|
 |  0 | [Sponsored] Kick Off Your Long Weekend with Big Savings at Newegg Canada!                                               |
-|  1 | Samsung Super Fast Chargers - 25W or 45W (almost 50% off)                                                               |
-|  2 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
+|  1 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
+|  2 | Samsung Super Fast Chargers - 25W or 45W (almost 50% off)                                                               |
 |  3 | XPG Summoner mech keyboard -- Cherry MX switches for $80 -- one day only                                                |
 |  4 | Free T-Mobile 30 day, 30 GB data trial                                                                                  |
 |  5 | 3 Years + 3 Months 80% off + 65% cashback via TopCashback = US$27.65                                                    |
@@ -31,8 +31,8 @@
 | 28 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
 | 29 | Omni Fire TVs heavily discounted up to 40% off                                                                          |
 | 30 | [Sponsored] Kick Off Your Long Weekend with Big Savings at Newegg Canada!                                               |
-| 31 | Samsung Super Fast Chargers - 25W or 45W (almost 50% off)                                                               |
-| 32 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
+| 31 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
+| 32 | Samsung Super Fast Chargers - 25W or 45W (almost 50% off)                                                               |
 | 33 | XPG Summoner mech keyboard -- Cherry MX switches for $80 -- one day only                                                |
 | 34 | Free T-Mobile 30 day, 30 GB data trial                                                                                  |
 | 35 | 3 Years + 3 Months 80% off + 65% cashback via TopCashback = US$27.65                                                    |
@@ -61,8 +61,8 @@
 | 58 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
 | 59 | Omni Fire TVs heavily discounted up to 40% off                                                                          |
 | 60 | [Sponsored] Kick Off Your Long Weekend with Big Savings at Newegg Canada!                                               |
-| 61 | Samsung Super Fast Chargers - 25W or 45W (almost 50% off)                                                               |
-| 62 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
+| 61 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
+| 62 | Samsung Super Fast Chargers - 25W or 45W (almost 50% off)                                                               |
 | 63 | XPG Summoner mech keyboard -- Cherry MX switches for $80 -- one day only                                                |
 | 64 | Free T-Mobile 30 day, 30 GB data trial                                                                                  |
 | 65 | 3 Years + 3 Months 80% off + 65% cashback via TopCashback = US$27.65                                                    |
