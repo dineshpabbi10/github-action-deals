@@ -1,8 +1,8 @@
 |    | deals                                                                                                                   |
 |---:|:------------------------------------------------------------------------------------------------------------------------|
 |  0 | [Sponsored] Kick Off Your Long Weekend with Big Savings at Newegg Canada!                                               |
-|  1 | HP Pavilion Aero 13-be0003ca 13.3" 5600U, 8/512, IPS 2560x1600, 400 nits, 100% sRGB, 2.2 lbs - $599.99                  |
-|  2 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
+|  1 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
+|  2 | HP Pavilion Aero 13-be0003ca 13.3" 5600U, 8/512, IPS 2560x1600, 400 nits, 100% sRGB, 2.2 lbs - $599.99                  |
 |  3 | OtterBox Defender S22 Ultra $56.71                                                                                      |
 |  4 | Lenovo Legion 5 Gen 6, 15.6" FHD 165Hz, 5800H/16GB/1TB SSD, RTX 3050 Ti , $1116 after code                              |
 |  5 | 3 Years + 3 Months 80% off + 65% cashback via TopCashback = US$27.65                                                    |
@@ -31,8 +31,8 @@
 | 28 | Seagate IronWolf 4TB NAS Internal Hard Drive HDD $99.99                                                                 |
 | 29 | Switch eShop Sale (Update: Feb 21 1:30pm)                                                                               |
 | 30 | [Sponsored] Kick Off Your Long Weekend with Big Savings at Newegg Canada!                                               |
-| 31 | HP Pavilion Aero 13-be0003ca 13.3" 5600U, 8/512, IPS 2560x1600, 400 nits, 100% sRGB, 2.2 lbs - $599.99                  |
-| 32 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
+| 31 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
+| 32 | HP Pavilion Aero 13-be0003ca 13.3" 5600U, 8/512, IPS 2560x1600, 400 nits, 100% sRGB, 2.2 lbs - $599.99                  |
 | 33 | OtterBox Defender S22 Ultra $56.71                                                                                      |
 | 34 | Lenovo Legion 5 Gen 6, 15.6" FHD 165Hz, 5800H/16GB/1TB SSD, RTX 3050 Ti , $1116 after code                              |
 | 35 | 3 Years + 3 Months 80% off + 65% cashback via TopCashback = US$27.65                                                    |
@@ -61,8 +61,8 @@
 | 58 | Seagate IronWolf 4TB NAS Internal Hard Drive HDD $99.99                                                                 |
 | 59 | Switch eShop Sale (Update: Feb 21 1:30pm)                                                                               |
 | 60 | [Sponsored] Kick Off Your Long Weekend with Big Savings at Newegg Canada!                                               |
-| 61 | HP Pavilion Aero 13-be0003ca 13.3" 5600U, 8/512, IPS 2560x1600, 400 nits, 100% sRGB, 2.2 lbs - $599.99                  |
-| 62 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
+| 61 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
+| 62 | HP Pavilion Aero 13-be0003ca 13.3" 5600U, 8/512, IPS 2560x1600, 400 nits, 100% sRGB, 2.2 lbs - $599.99                  |
 | 63 | OtterBox Defender S22 Ultra $56.71                                                                                      |
 | 64 | Lenovo Legion 5 Gen 6, 15.6" FHD 165Hz, 5800H/16GB/1TB SSD, RTX 3050 Ti , $1116 after code                              |
 | 65 | 3 Years + 3 Months 80% off + 65% cashback via TopCashback = US$27.65                                                    |
