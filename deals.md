@@ -2,9 +2,9 @@
 |---:|:------------------------------------------------------------------------------------------------------------------------|
 |  0 | [Sponsored] Kick Off Your Long Weekend with Big Savings at Newegg Canada!                                               |
 |  1 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
-|  2 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                         |
-|  3 | Samsung Odyssey Neo G9 (1699.99)                                                                                        |
-|  4 | This War of Mine - All profits going to The Ukrainian Red Cross (85% off at GOG) - $4.59                                |
+|  2 | This War of Mine - All profits going to The Ukrainian Red Cross (85% off at GOG) - $4.59                                |
+|  3 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                         |
+|  4 | Samsung Odyssey Neo G9 (1699.99)                                                                                        |
 |  5 | WD Blue 4TB Desktop Hard Disk Drive - 5400 RPM SATA 6Gb/s 256MB Cache 3.5 Inch 68$ (83$ - 15$ coupon)                   |
 |  6 | FIDO XTRA - 50% OFF UFile Online or Premium                                                                             |
 |  7 | Lunar Sale - PC Elden Ring -20% $63.99                                                                                  |
@@ -32,9 +32,9 @@
 | 29 | Hollow Knight - $8.49 (all time low)                                                                                    |
 | 30 | [Sponsored] Kick Off Your Long Weekend with Big Savings at Newegg Canada!                                               |
 | 31 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
-| 32 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                         |
-| 33 | Samsung Odyssey Neo G9 (1699.99)                                                                                        |
-| 34 | This War of Mine - All profits going to The Ukrainian Red Cross (85% off at GOG) - $4.59                                |
+| 32 | This War of Mine - All profits going to The Ukrainian Red Cross (85% off at GOG) - $4.59                                |
+| 33 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                         |
+| 34 | Samsung Odyssey Neo G9 (1699.99)                                                                                        |
 | 35 | WD Blue 4TB Desktop Hard Disk Drive - 5400 RPM SATA 6Gb/s 256MB Cache 3.5 Inch 68$ (83$ - 15$ coupon)                   |
 | 36 | FIDO XTRA - 50% OFF UFile Online or Premium                                                                             |
 | 37 | Lunar Sale - PC Elden Ring -20% $63.99                                                                                  |
@@ -62,9 +62,9 @@
 | 59 | Hollow Knight - $8.49 (all time low)                                                                                    |
 | 60 | [Sponsored] Kick Off Your Long Weekend with Big Savings at Newegg Canada!                                               |
 | 61 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
-| 62 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                         |
-| 63 | Samsung Odyssey Neo G9 (1699.99)                                                                                        |
-| 64 | This War of Mine - All profits going to The Ukrainian Red Cross (85% off at GOG) - $4.59                                |
+| 62 | This War of Mine - All profits going to The Ukrainian Red Cross (85% off at GOG) - $4.59                                |
+| 63 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                         |
+| 64 | Samsung Odyssey Neo G9 (1699.99)                                                                                        |
 | 65 | WD Blue 4TB Desktop Hard Disk Drive - 5400 RPM SATA 6Gb/s 256MB Cache 3.5 Inch 68$ (83$ - 15$ coupon)                   |
 | 66 | FIDO XTRA - 50% OFF UFile Online or Premium                                                                             |
 | 67 | Lunar Sale - PC Elden Ring -20% $63.99                                                                                  |
