@@ -1,92 +1,92 @@
 |    | deals                                                                                                                   |
 |---:|:------------------------------------------------------------------------------------------------------------------------|
-|  0 | [Sponsored] Kick Off Your Long Weekend with Big Savings at Newegg Canada!                                               |
-|  1 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
-|  2 | This War of Mine - All profits going to The Ukrainian Red Cross (85% off at GOG) - $4.59                                |
-|  3 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                         |
-|  4 | Samsung Odyssey Neo G9 (1699.99)                                                                                        |
-|  5 | WD Blue 4TB Desktop Hard Disk Drive - 5400 RPM SATA 6Gb/s 256MB Cache 3.5 Inch 68$ (83$ - 15$ coupon)                   |
-|  6 | FIDO XTRA - 50% OFF UFile Online or Premium                                                                             |
-|  7 | Lunar Sale - PC Elden Ring -20% $63.99                                                                                  |
-|  8 | FREE - Call Of Duty Warzone / Vanguard --> Log in and get 10 tier skips and Forbidden Sacrifice Bundle - $20 USD Value  |
-|  9 | Amazon Gaming - March 2022 Free for Prime Members                                                                       |
-| 10 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum |
-| 11 | AmazonBasics AAA 1.5 Volt Performance Alkaline Batteries - Pack of 20 - $6.90                                           |
-| 12 | LG 32GP850-B 32" 2560 x 1440 Nano IPS Gaming Monitor 1ms 165Hz $549.99                                                  |
-| 13 | New Bonus: $40 (regularly $25) Home Internet 120/20 Mbps $55/month or Mobile service Québec province + Ottawa region    |
-| 14 | WD Elements 14TB USB 3.0, Micro-B Desktop Hard Drive WDBWLG0140HBK-NESN Black - $300                                    |
-| 15 | NORDVPN - 70% off a 2-year plus 2X Cash Back                                                                            |
-| 16 | SONY TV X85J 55" 65" 75" 100ff starting Jan 31                                                                          |
-| 17 | Amazon Basics 48 Pack AA High-Performance Alkaline Batteries $13.45                                                     |
-| 18 | Games with Gold March 2022 - includes Flame in the Flood, Sacred 2, + 2 more                                            |
-| 19 | $45 25gb + $300 bill credit per line [win back]                                                                         |
-| 20 | Playstation Plus March 2022 Games (PS5 - Ghostrunner, PS4 - Ark Survival, Team Sonic Racing, Ghost of Tsushima Legend)  |
-| 21 | $9.95 - ATL - Otterbox Defender Series SCREENLESS Edition Case for Galaxy S20+/Galaxy S20+ 5G - Black                   |
-| 22 | Omni Fire TVs heavily discounted up to 40% off                                                                          |
-| 23 | Tribit StormBox Bluetooth Speaker - $69.99 (reg. $129.99)                                                               |
-| 24 | Free 5GB/10GB Data for 15 Months (YMMV)                                                                                 |
-| 25 | NEW Rogers Price Match (YMMV)                                                                                           |
-| 26 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                                |
-| 27 | HP Chromebook $549, SAVE $250                                                                                           |
-| 28 | 24" FHD IPS Monitor with USB Hub and Ergonomic Stand - $189.99                                                          |
-| 29 | Hollow Knight - $8.49 (all time low)                                                                                    |
-| 30 | [Sponsored] Kick Off Your Long Weekend with Big Savings at Newegg Canada!                                               |
-| 31 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
-| 32 | This War of Mine - All profits going to The Ukrainian Red Cross (85% off at GOG) - $4.59                                |
-| 33 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                         |
-| 34 | Samsung Odyssey Neo G9 (1699.99)                                                                                        |
-| 35 | WD Blue 4TB Desktop Hard Disk Drive - 5400 RPM SATA 6Gb/s 256MB Cache 3.5 Inch 68$ (83$ - 15$ coupon)                   |
-| 36 | FIDO XTRA - 50% OFF UFile Online or Premium                                                                             |
-| 37 | Lunar Sale - PC Elden Ring -20% $63.99                                                                                  |
-| 38 | FREE - Call Of Duty Warzone / Vanguard --> Log in and get 10 tier skips and Forbidden Sacrifice Bundle - $20 USD Value  |
-| 39 | Amazon Gaming - March 2022 Free for Prime Members                                                                       |
-| 40 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum |
-| 41 | AmazonBasics AAA 1.5 Volt Performance Alkaline Batteries - Pack of 20 - $6.90                                           |
-| 42 | LG 32GP850-B 32" 2560 x 1440 Nano IPS Gaming Monitor 1ms 165Hz $549.99                                                  |
-| 43 | New Bonus: $40 (regularly $25) Home Internet 120/20 Mbps $55/month or Mobile service Québec province + Ottawa region    |
-| 44 | WD Elements 14TB USB 3.0, Micro-B Desktop Hard Drive WDBWLG0140HBK-NESN Black - $300                                    |
-| 45 | NORDVPN - 70% off a 2-year plus 2X Cash Back                                                                            |
-| 46 | SONY TV X85J 55" 65" 75" 100ff starting Jan 31                                                                          |
-| 47 | Amazon Basics 48 Pack AA High-Performance Alkaline Batteries $13.45                                                     |
-| 48 | Games with Gold March 2022 - includes Flame in the Flood, Sacred 2, + 2 more                                            |
-| 49 | $45 25gb + $300 bill credit per line [win back]                                                                         |
-| 50 | Playstation Plus March 2022 Games (PS5 - Ghostrunner, PS4 - Ark Survival, Team Sonic Racing, Ghost of Tsushima Legend)  |
-| 51 | $9.95 - ATL - Otterbox Defender Series SCREENLESS Edition Case for Galaxy S20+/Galaxy S20+ 5G - Black                   |
-| 52 | Omni Fire TVs heavily discounted up to 40% off                                                                          |
-| 53 | Tribit StormBox Bluetooth Speaker - $69.99 (reg. $129.99)                                                               |
-| 54 | Free 5GB/10GB Data for 15 Months (YMMV)                                                                                 |
-| 55 | NEW Rogers Price Match (YMMV)                                                                                           |
-| 56 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                                |
-| 57 | HP Chromebook $549, SAVE $250                                                                                           |
-| 58 | 24" FHD IPS Monitor with USB Hub and Ergonomic Stand - $189.99                                                          |
-| 59 | Hollow Knight - $8.49 (all time low)                                                                                    |
-| 60 | [Sponsored] Kick Off Your Long Weekend with Big Savings at Newegg Canada!                                               |
-| 61 | Galaxy S22 Ultra 256GB for the price of Galaxy S22 Ultra 128GB                                                          |
-| 62 | This War of Mine - All profits going to The Ukrainian Red Cross (85% off at GOG) - $4.59                                |
-| 63 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                         |
-| 64 | Samsung Odyssey Neo G9 (1699.99)                                                                                        |
-| 65 | WD Blue 4TB Desktop Hard Disk Drive - 5400 RPM SATA 6Gb/s 256MB Cache 3.5 Inch 68$ (83$ - 15$ coupon)                   |
-| 66 | FIDO XTRA - 50% OFF UFile Online or Premium                                                                             |
-| 67 | Lunar Sale - PC Elden Ring -20% $63.99                                                                                  |
-| 68 | FREE - Call Of Duty Warzone / Vanguard --> Log in and get 10 tier skips and Forbidden Sacrifice Bundle - $20 USD Value  |
-| 69 | Amazon Gaming - March 2022 Free for Prime Members                                                                       |
-| 70 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum |
-| 71 | AmazonBasics AAA 1.5 Volt Performance Alkaline Batteries - Pack of 20 - $6.90                                           |
-| 72 | LG 32GP850-B 32" 2560 x 1440 Nano IPS Gaming Monitor 1ms 165Hz $549.99                                                  |
-| 73 | New Bonus: $40 (regularly $25) Home Internet 120/20 Mbps $55/month or Mobile service Québec province + Ottawa region    |
-| 74 | WD Elements 14TB USB 3.0, Micro-B Desktop Hard Drive WDBWLG0140HBK-NESN Black - $300                                    |
-| 75 | NORDVPN - 70% off a 2-year plus 2X Cash Back                                                                            |
-| 76 | SONY TV X85J 55" 65" 75" 100ff starting Jan 31                                                                          |
-| 77 | Amazon Basics 48 Pack AA High-Performance Alkaline Batteries $13.45                                                     |
-| 78 | Games with Gold March 2022 - includes Flame in the Flood, Sacred 2, + 2 more                                            |
-| 79 | $45 25gb + $300 bill credit per line [win back]                                                                         |
-| 80 | Playstation Plus March 2022 Games (PS5 - Ghostrunner, PS4 - Ark Survival, Team Sonic Racing, Ghost of Tsushima Legend)  |
-| 81 | $9.95 - ATL - Otterbox Defender Series SCREENLESS Edition Case for Galaxy S20+/Galaxy S20+ 5G - Black                   |
-| 82 | Omni Fire TVs heavily discounted up to 40% off                                                                          |
-| 83 | Tribit StormBox Bluetooth Speaker - $69.99 (reg. $129.99)                                                               |
-| 84 | Free 5GB/10GB Data for 15 Months (YMMV)                                                                                 |
-| 85 | NEW Rogers Price Match (YMMV)                                                                                           |
-| 86 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                                |
-| 87 | HP Chromebook $549, SAVE $250                                                                                           |
-| 88 | 24" FHD IPS Monitor with USB Hub and Ergonomic Stand - $189.99                                                          |
-| 89 | Hollow Knight - $8.49 (all time low)                                                                                    |
+|  0 | Kingston Canvas Go! Plus, 256GB microSDXC Memory Card With Adapter $29.99                                               |
+|  1 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                         |
+|  2 | Corsair ML120 High Static Pressure Fan - $15.99                                                                         |
+|  3 | Hisense 55 in. 4K Roku Smart Television 55R62G $497.99 Shipping Included                                                |
+|  4 | Free long distance calls to Ukraine                                                                                     |
+|  5 | TurboTax Download Version 20% off - valid to May 2, 2022                                                                |
+|  6 | Adata XPG XENIA Xe Notebook, 15.6" FHD Touchscreen, Intel Core i7-1165G7, Intel Iris Xe Graphics, 16GB, 1TB, Win10 $999 |
+|  7 | Rogers Plan Match *YMMV*                                                                                                |
+|  8 | 399 cad~AMD Ryzen 7 5800X 8-Core/16-Thread 7nm ZEN 3                                                                    |
+|  9 | Rogers Ignite internet 1gbps $49.99 *possible ymmv                                                                      |
+| 10 | FIDO XTRA - 50% OFF UFile Online or Premium                                                                             |
+| 11 | NEW Rogers Price Match (YMMV)                                                                                           |
+| 12 | Koodo Winback Offer - $50 for 30GB, No contract, Plan Only, YMMV                                                        |
+| 13 | Logitech MX Keys Advanced Wireless Illuminated Keyboard $128.40                                                         |
+| 14 | Samson Q2U Dynamic USB Microphone                                                                                       |
+| 15 | Xbox Game Pass Ultimate: 3 Month Membership (Digital Code) $32.99                                                       |
+| 16 | [YMMV] Apple Watch Series 6 GPS 349$                                                                                    |
+| 17 | Ubiquiti Wifi 6 AP - instock and POE Plus Injector s(OOS)                                                               |
+| 18 | Portable Height Adjustable Laptop Cooler with LED Cooler Fans, red - PrimeCables® $15.99 Free ship                      |
+| 19 | XCOM 2 Collection 5.99                                                                                                  |
+| 20 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum |
+| 21 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                                |
+| 22 | This War of Mine - All profits going to The Ukrainian Red Cross (85% off at GOG) - $4.59                                |
+| 23 | Refurbished 12.9-inch iPad Pro Wi-Fi 64GB (3rd Generation) $829                                                         |
+| 24 | XBOX series S bundle: console + $25 GC + 1 month game pass $379.95                                                      |
+| 25 | Apple AirPods Max - Green $599.99                                                                                       |
+| 26 | Gigabyte A520M S2H (AMD Ryzen AM4/Q-Flash Plus - Easily Flash Your BIOS) Motherboard $49.99                             |
+| 27 | Casio Men's GW6900-1 "G-Shock" Atomic Digital Sport Watch $113.34 (32% off)                                             |
+| 28 | Sid Meier’s Ultimate Collection Game Bundle (PC Digital Download): 3 Games for $1.27                                    |
+| 29 | MSI Radeon RX 6600 XT MECH 2X 8G OC - $614.87                                                                           |
+| 30 | Kingston Canvas Go! Plus, 256GB microSDXC Memory Card With Adapter $29.99                                               |
+| 31 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                         |
+| 32 | Corsair ML120 High Static Pressure Fan - $15.99                                                                         |
+| 33 | Hisense 55 in. 4K Roku Smart Television 55R62G $497.99 Shipping Included                                                |
+| 34 | Free long distance calls to Ukraine                                                                                     |
+| 35 | TurboTax Download Version 20% off - valid to May 2, 2022                                                                |
+| 36 | Adata XPG XENIA Xe Notebook, 15.6" FHD Touchscreen, Intel Core i7-1165G7, Intel Iris Xe Graphics, 16GB, 1TB, Win10 $999 |
+| 37 | Rogers Plan Match *YMMV*                                                                                                |
+| 38 | 399 cad~AMD Ryzen 7 5800X 8-Core/16-Thread 7nm ZEN 3                                                                    |
+| 39 | Rogers Ignite internet 1gbps $49.99 *possible ymmv                                                                      |
+| 40 | FIDO XTRA - 50% OFF UFile Online or Premium                                                                             |
+| 41 | NEW Rogers Price Match (YMMV)                                                                                           |
+| 42 | Koodo Winback Offer - $50 for 30GB, No contract, Plan Only, YMMV                                                        |
+| 43 | Logitech MX Keys Advanced Wireless Illuminated Keyboard $128.40                                                         |
+| 44 | Samson Q2U Dynamic USB Microphone                                                                                       |
+| 45 | Xbox Game Pass Ultimate: 3 Month Membership (Digital Code) $32.99                                                       |
+| 46 | [YMMV] Apple Watch Series 6 GPS 349$                                                                                    |
+| 47 | Ubiquiti Wifi 6 AP - instock and POE Plus Injector s(OOS)                                                               |
+| 48 | Portable Height Adjustable Laptop Cooler with LED Cooler Fans, red - PrimeCables® $15.99 Free ship                      |
+| 49 | XCOM 2 Collection 5.99                                                                                                  |
+| 50 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum |
+| 51 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                                |
+| 52 | This War of Mine - All profits going to The Ukrainian Red Cross (85% off at GOG) - $4.59                                |
+| 53 | Refurbished 12.9-inch iPad Pro Wi-Fi 64GB (3rd Generation) $829                                                         |
+| 54 | XBOX series S bundle: console + $25 GC + 1 month game pass $379.95                                                      |
+| 55 | Apple AirPods Max - Green $599.99                                                                                       |
+| 56 | Gigabyte A520M S2H (AMD Ryzen AM4/Q-Flash Plus - Easily Flash Your BIOS) Motherboard $49.99                             |
+| 57 | Casio Men's GW6900-1 "G-Shock" Atomic Digital Sport Watch $113.34 (32% off)                                             |
+| 58 | Sid Meier’s Ultimate Collection Game Bundle (PC Digital Download): 3 Games for $1.27                                    |
+| 59 | MSI Radeon RX 6600 XT MECH 2X 8G OC - $614.87                                                                           |
+| 60 | Kingston Canvas Go! Plus, 256GB microSDXC Memory Card With Adapter $29.99                                               |
+| 61 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                         |
+| 62 | Corsair ML120 High Static Pressure Fan - $15.99                                                                         |
+| 63 | Hisense 55 in. 4K Roku Smart Television 55R62G $497.99 Shipping Included                                                |
+| 64 | Free long distance calls to Ukraine                                                                                     |
+| 65 | TurboTax Download Version 20% off - valid to May 2, 2022                                                                |
+| 66 | Adata XPG XENIA Xe Notebook, 15.6" FHD Touchscreen, Intel Core i7-1165G7, Intel Iris Xe Graphics, 16GB, 1TB, Win10 $999 |
+| 67 | Rogers Plan Match *YMMV*                                                                                                |
+| 68 | 399 cad~AMD Ryzen 7 5800X 8-Core/16-Thread 7nm ZEN 3                                                                    |
+| 69 | Rogers Ignite internet 1gbps $49.99 *possible ymmv                                                                      |
+| 70 | FIDO XTRA - 50% OFF UFile Online or Premium                                                                             |
+| 71 | NEW Rogers Price Match (YMMV)                                                                                           |
+| 72 | Koodo Winback Offer - $50 for 30GB, No contract, Plan Only, YMMV                                                        |
+| 73 | Logitech MX Keys Advanced Wireless Illuminated Keyboard $128.40                                                         |
+| 74 | Samson Q2U Dynamic USB Microphone                                                                                       |
+| 75 | Xbox Game Pass Ultimate: 3 Month Membership (Digital Code) $32.99                                                       |
+| 76 | [YMMV] Apple Watch Series 6 GPS 349$                                                                                    |
+| 77 | Ubiquiti Wifi 6 AP - instock and POE Plus Injector s(OOS)                                                               |
+| 78 | Portable Height Adjustable Laptop Cooler with LED Cooler Fans, red - PrimeCables® $15.99 Free ship                      |
+| 79 | XCOM 2 Collection 5.99                                                                                                  |
+| 80 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum |
+| 81 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                                |
+| 82 | This War of Mine - All profits going to The Ukrainian Red Cross (85% off at GOG) - $4.59                                |
+| 83 | Refurbished 12.9-inch iPad Pro Wi-Fi 64GB (3rd Generation) $829                                                         |
+| 84 | XBOX series S bundle: console + $25 GC + 1 month game pass $379.95                                                      |
+| 85 | Apple AirPods Max - Green $599.99                                                                                       |
+| 86 | Gigabyte A520M S2H (AMD Ryzen AM4/Q-Flash Plus - Easily Flash Your BIOS) Motherboard $49.99                             |
+| 87 | Casio Men's GW6900-1 "G-Shock" Atomic Digital Sport Watch $113.34 (32% off)                                             |
+| 88 | Sid Meier’s Ultimate Collection Game Bundle (PC Digital Download): 3 Games for $1.27                                    |
+| 89 | MSI Radeon RX 6600 XT MECH 2X 8G OC - $614.87                                                                           |
