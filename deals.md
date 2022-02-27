@@ -1,7 +1,7 @@
 |    | deals                                                                                                                   |
 |---:|:------------------------------------------------------------------------------------------------------------------------|
-|  0 | [Costco] Dell XPS XPS8940-7866BLK-PUS Desktop, i7-11700 $1,899.99 ($400 off)                                            |
-|  1 | OnePlus 8T flash sale $539                                                                                              |
+|  0 | OnePlus 8T flash sale $539                                                                                              |
+|  1 | [Costco] Dell XPS XPS8940-7866BLK-PUS Desktop, i7-11700 $1,899.99 ($400 off)                                            |
 |  2 | Lenovo ThinkPad L14 Gen 2 AMD Laptop, 14.0" FHD IPS 250 nits, Ryzen 7 Pro 5850U - $828.62                               |
 |  3 | Lenovo Thinkpad T14 - Ryzen 5 4560U, 16GB DDR4, 512GB SSD, 14" FHD IPS Display - $930-15% Coupon = $790.50              |
 |  4 | Plunder Panic - FREE until Feb 28th @ 10am EST                                                                          |
