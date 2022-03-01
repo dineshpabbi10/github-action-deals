@@ -1,92 +1,92 @@
-|    | deals                                                                                                                   |
-|---:|:------------------------------------------------------------------------------------------------------------------------|
-|  0 | Mind Maps Pro free for limited time from $19.99                                                                         |
-|  1 | AMD Ryzen 9 5950X CPU [$787.99] (All time low)                                                                          |
-|  2 | Hisense 55A6GV - 55 inch 4K Ultra HD Dolby Vision HDR10 VIDAA Smart TV - $498                                           |
-|  3 | 34" Curved Ultrawide 144hz, 3440x1440, Dell Gaming Monitor S3422DWG $494.99                                             |
-|  4 | Ooma Telo Air Free Home Phone Service with Three HD3 Handsets $69.97 - YMMV available at Nepean Ottawa location         |
-|  5 | [QC] [Videotron] Upgrade 100mbps to 400mbps Internet for $1 more (YMMV - 2021 Black Friday Customers)                   |
-|  6 | [Costco] Dell XPS XPS8940-7866BLK-PUS Desktop, i7-11700 $1,899.99 ($400 off)                                            |
-|  7 | Xbox Series S 512GB Fortnite & Rocket League Bundle Digital only $379.99                                                |
-|  8 | New Bonus: $40 (regularly $25) Home Internet 120/20 Mbps $55/month or Mobile service Québec province + Ottawa region    |
-|  9 | Kingston Canvas Go! Plus, 256GB microSDXC Memory Card With Adapter $29.99                                               |
-| 10 | Hollow Knight - $8.49 (all time low)                                                                                    |
-| 11 | SONY TV X85J 55" 65" 75" 100ff starting Jan 31                                                                          |
-| 12 | [YMMV] Apple Watch Series 6 GPS 349$                                                                                    |
-| 13 | Free long distance calls to Ukraine                                                                                     |
-| 14 | iCAN Tempered Glass Top TV Stand, Black with White $89.99                                                               |
-| 15 | Hitman Sniper free (reg. $1.49)                                                                                         |
-| 16 | LG UltraGear 34" 21:9 Curved WQHD (3440x1440) 160Hz 1ms G-Sync Monitor ($799.99)                                        |
-| 17 | SanDisk 128GB High Endurance microSDXC Card with Adapter $23.49                                                         |
-| 18 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum |
-| 19 | AMD Ryzen 5 5600X $269.99 after $30 off coupon                                                                          |
-| 20 | Lunar Sale - PC Elden Ring -20% $63.99                                                                                  |
-| 21 | PC Game Pass – 2-Month Membership for the price of one ($11.99)                                                         |
-| 22 | Playstation Plus March 2022 Games (PS5 - Ghostrunner, PS4 - Ark Survival, Team Sonic Racing, Ghost of Tsushima Legend)  |
-| 23 | $45 25gb + $300 bill credit per line [win back]                                                                         |
-| 24 | ThinkPad X13 Gen 2 AMD, 5650U/16GB/512GB, 13.3"16:10 Touch 300 nits, $992 after code                                    |
-| 25 | [$484.99] Gigabyte M32Q - 32" QHD 165hz Fast Response monitor                                                           |
-| 26 | Wyze watch 47Mm $42 lightning deal                                                                                      |
-| 27 | ThinkPad L14 Gen 2 AMD, 5850U/16GB/512GB, $829 after code                                                               |
-| 28 | Newegg: [PSU] Seasonic FOCUS GM-850, 850W 80+ Gold, Semi-Modular $88.99 + free shipping                                 |
-| 29 | Sid Meier’s Ultimate Collection Game Bundle (PC Digital Download): 3 Games for $1.27                                    |
-| 30 | Mind Maps Pro free for limited time from $19.99                                                                         |
-| 31 | AMD Ryzen 9 5950X CPU [$787.99] (All time low)                                                                          |
-| 32 | Hisense 55A6GV - 55 inch 4K Ultra HD Dolby Vision HDR10 VIDAA Smart TV - $498                                           |
-| 33 | 34" Curved Ultrawide 144hz, 3440x1440, Dell Gaming Monitor S3422DWG $494.99                                             |
-| 34 | Ooma Telo Air Free Home Phone Service with Three HD3 Handsets $69.97 - YMMV available at Nepean Ottawa location         |
-| 35 | [QC] [Videotron] Upgrade 100mbps to 400mbps Internet for $1 more (YMMV - 2021 Black Friday Customers)                   |
-| 36 | [Costco] Dell XPS XPS8940-7866BLK-PUS Desktop, i7-11700 $1,899.99 ($400 off)                                            |
-| 37 | Xbox Series S 512GB Fortnite & Rocket League Bundle Digital only $379.99                                                |
-| 38 | New Bonus: $40 (regularly $25) Home Internet 120/20 Mbps $55/month or Mobile service Québec province + Ottawa region    |
-| 39 | Kingston Canvas Go! Plus, 256GB microSDXC Memory Card With Adapter $29.99                                               |
-| 40 | Hollow Knight - $8.49 (all time low)                                                                                    |
-| 41 | SONY TV X85J 55" 65" 75" 100ff starting Jan 31                                                                          |
-| 42 | [YMMV] Apple Watch Series 6 GPS 349$                                                                                    |
-| 43 | Free long distance calls to Ukraine                                                                                     |
-| 44 | iCAN Tempered Glass Top TV Stand, Black with White $89.99                                                               |
-| 45 | Hitman Sniper free (reg. $1.49)                                                                                         |
-| 46 | LG UltraGear 34" 21:9 Curved WQHD (3440x1440) 160Hz 1ms G-Sync Monitor ($799.99)                                        |
-| 47 | SanDisk 128GB High Endurance microSDXC Card with Adapter $23.49                                                         |
-| 48 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum |
-| 49 | AMD Ryzen 5 5600X $269.99 after $30 off coupon                                                                          |
-| 50 | Lunar Sale - PC Elden Ring -20% $63.99                                                                                  |
-| 51 | PC Game Pass – 2-Month Membership for the price of one ($11.99)                                                         |
-| 52 | Playstation Plus March 2022 Games (PS5 - Ghostrunner, PS4 - Ark Survival, Team Sonic Racing, Ghost of Tsushima Legend)  |
-| 53 | $45 25gb + $300 bill credit per line [win back]                                                                         |
-| 54 | ThinkPad X13 Gen 2 AMD, 5650U/16GB/512GB, 13.3"16:10 Touch 300 nits, $992 after code                                    |
-| 55 | [$484.99] Gigabyte M32Q - 32" QHD 165hz Fast Response monitor                                                           |
-| 56 | Wyze watch 47Mm $42 lightning deal                                                                                      |
-| 57 | ThinkPad L14 Gen 2 AMD, 5850U/16GB/512GB, $829 after code                                                               |
-| 58 | Newegg: [PSU] Seasonic FOCUS GM-850, 850W 80+ Gold, Semi-Modular $88.99 + free shipping                                 |
-| 59 | Sid Meier’s Ultimate Collection Game Bundle (PC Digital Download): 3 Games for $1.27                                    |
-| 60 | Mind Maps Pro free for limited time from $19.99                                                                         |
-| 61 | AMD Ryzen 9 5950X CPU [$787.99] (All time low)                                                                          |
-| 62 | Hisense 55A6GV - 55 inch 4K Ultra HD Dolby Vision HDR10 VIDAA Smart TV - $498                                           |
-| 63 | 34" Curved Ultrawide 144hz, 3440x1440, Dell Gaming Monitor S3422DWG $494.99                                             |
-| 64 | Ooma Telo Air Free Home Phone Service with Three HD3 Handsets $69.97 - YMMV available at Nepean Ottawa location         |
-| 65 | [QC] [Videotron] Upgrade 100mbps to 400mbps Internet for $1 more (YMMV - 2021 Black Friday Customers)                   |
-| 66 | [Costco] Dell XPS XPS8940-7866BLK-PUS Desktop, i7-11700 $1,899.99 ($400 off)                                            |
-| 67 | Xbox Series S 512GB Fortnite & Rocket League Bundle Digital only $379.99                                                |
-| 68 | New Bonus: $40 (regularly $25) Home Internet 120/20 Mbps $55/month or Mobile service Québec province + Ottawa region    |
-| 69 | Kingston Canvas Go! Plus, 256GB microSDXC Memory Card With Adapter $29.99                                               |
-| 70 | Hollow Knight - $8.49 (all time low)                                                                                    |
-| 71 | SONY TV X85J 55" 65" 75" 100ff starting Jan 31                                                                          |
-| 72 | [YMMV] Apple Watch Series 6 GPS 349$                                                                                    |
-| 73 | Free long distance calls to Ukraine                                                                                     |
-| 74 | iCAN Tempered Glass Top TV Stand, Black with White $89.99                                                               |
-| 75 | Hitman Sniper free (reg. $1.49)                                                                                         |
-| 76 | LG UltraGear 34" 21:9 Curved WQHD (3440x1440) 160Hz 1ms G-Sync Monitor ($799.99)                                        |
-| 77 | SanDisk 128GB High Endurance microSDXC Card with Adapter $23.49                                                         |
-| 78 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum |
-| 79 | AMD Ryzen 5 5600X $269.99 after $30 off coupon                                                                          |
-| 80 | Lunar Sale - PC Elden Ring -20% $63.99                                                                                  |
-| 81 | PC Game Pass – 2-Month Membership for the price of one ($11.99)                                                         |
-| 82 | Playstation Plus March 2022 Games (PS5 - Ghostrunner, PS4 - Ark Survival, Team Sonic Racing, Ghost of Tsushima Legend)  |
-| 83 | $45 25gb + $300 bill credit per line [win back]                                                                         |
-| 84 | ThinkPad X13 Gen 2 AMD, 5650U/16GB/512GB, 13.3"16:10 Touch 300 nits, $992 after code                                    |
-| 85 | [$484.99] Gigabyte M32Q - 32" QHD 165hz Fast Response monitor                                                           |
-| 86 | Wyze watch 47Mm $42 lightning deal                                                                                      |
-| 87 | ThinkPad L14 Gen 2 AMD, 5850U/16GB/512GB, $829 after code                                                               |
-| 88 | Newegg: [PSU] Seasonic FOCUS GM-850, 850W 80+ Gold, Semi-Modular $88.99 + free shipping                                 |
-| 89 | Sid Meier’s Ultimate Collection Game Bundle (PC Digital Download): 3 Games for $1.27                                    |
+|    | deals                                                                                                                    |
+|---:|:-------------------------------------------------------------------------------------------------------------------------|
+|  0 | LG SN7Y 3.1.2 Channel Audio Soundbar with Meridian Technology and Dolby Atmos $399.99                                    |
+|  1 | Bestar Upstand 76.2 cm × 182.9 cm (30 in. × 72 in.) Height-adjustable Desk $479.99                                       |
+|  2 | Dyson Supersonic Hair Dryer Special Gift Edition: $499 - 7.5% Rakuten                                                    |
+|  3 | SanDisk 128GB High Endurance microSDXC Card with Adapter $23.49                                                          |
+|  4 | LG UltraGear 34" 21:9 Curved WQHD (3440x1440) 160Hz 1ms G-Sync Monitor ($799.99)                                         |
+|  5 | Newegg: [PSU] Seasonic FOCUS GM-850, 850W 80+ Gold, Semi-Modular $88.99 + free shipping                                  |
+|  6 | Sennheiser HD 350BT Around Ear Headphones | Color: Black Or White | $79.99 (Reg $129.99) | Free Shipping                 |
+|  7 | HITMAN 3 for PS5 $19.96                                                                                                  |
+|  8 | [AT&T] $45 Unlimited Max 22 GB Prepaid Priority Unlimited Prepaid Deprioritized US / CAN / MEX Not Multi-line Eligible   |
+|  9 | Hisense 65 in. 4K Roku Smart Television 65R63G $697.99 Online                                                            |
+| 10 | Fido offering 100% loyalty discount on Tablet 4GB Plan for 24 Months *YMMV*, existing customers                          |
+| 11 | Ooma Telo Air Free Home Phone Service with Three HD3 Handsets $69.97 - YMMV available at Nepean Ottawa location          |
+| 12 | Garmin Vivofit jr 3 Black Panther (YMMV)                                                                                 |
+| 13 | Lenovo IdeaPad 5 Pro, 5800H/16GB/512GB, 16" 16:10 QHD+, $960                                                             |
+| 14 | AMD Ryzen 5 5600X $269.99 after $30 off coupon                                                                           |
+| 15 | Omni Fire TVs heavily discounted up to 40% off                                                                           |
+| 16 | $50 for 25 GB (emailed code)                                                                                             |
+| 17 | Fasgear 90 degree USB-C cables with 100W PD, 10Gbps & 4K@60Hz: $17.84 (6ft) - $22.09 (10ft)                              |
+| 18 | This War of Mine - All profits going to The Ukrainian Red Cross (85% off at GOG) - $4.59                                 |
+| 19 | Tribit StormBox Bluetooth Speaker - $69.99 (reg. $129.99)                                                                |
+| 20 | [QC] [Videotron] Upgrade 100mbps to 400mbps Internet for $1 more (YMMV - 2021 Black Friday Customers)                    |
+| 21 | $5 off - Ventroo V5 CPU Cooler ($41.99 after coupon)                                                                     |
+| 22 | Adata XPG XENIA Xe Notebook, 15.6" FHD Touchscreen, Intel Core i7-1165G7, Intel Iris Xe Graphics, 16GB, 1TB, Win10 $999  |
+| 23 | Pokémon Legends: Arceus - FREE -->30x Ultra Balls, 30x Gigaton Balls, 30x Jet Balls - Code ARCEUSADVENTURE - Exp: Mar.31 |
+| 24 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum  |
+| 25 | Lunar Sale - PC Elden Ring -20% $63.99                                                                                   |
+| 26 | Soundcore by Anker Life Q30 Hybrid Active Noise Cancelling Headphones - $89.99                                           |
+| 27 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $240 B4 coupons, $7 S&H)                                                 |
+| 28 | Hamsterdam PC Game - Free                                                                                                |
+| 29 | Adjustable Portable Laptop Stand Foldable Notebook Holder (4 USB 3.0 Ports and PD) -39.99 24hrs free shipping 10x points |
+| 30 | LG SN7Y 3.1.2 Channel Audio Soundbar with Meridian Technology and Dolby Atmos $399.99                                    |
+| 31 | Bestar Upstand 76.2 cm × 182.9 cm (30 in. × 72 in.) Height-adjustable Desk $479.99                                       |
+| 32 | Dyson Supersonic Hair Dryer Special Gift Edition: $499 - 7.5% Rakuten                                                    |
+| 33 | SanDisk 128GB High Endurance microSDXC Card with Adapter $23.49                                                          |
+| 34 | LG UltraGear 34" 21:9 Curved WQHD (3440x1440) 160Hz 1ms G-Sync Monitor ($799.99)                                         |
+| 35 | Newegg: [PSU] Seasonic FOCUS GM-850, 850W 80+ Gold, Semi-Modular $88.99 + free shipping                                  |
+| 36 | Sennheiser HD 350BT Around Ear Headphones | Color: Black Or White | $79.99 (Reg $129.99) | Free Shipping                 |
+| 37 | HITMAN 3 for PS5 $19.96                                                                                                  |
+| 38 | [AT&T] $45 Unlimited Max 22 GB Prepaid Priority Unlimited Prepaid Deprioritized US / CAN / MEX Not Multi-line Eligible   |
+| 39 | Hisense 65 in. 4K Roku Smart Television 65R63G $697.99 Online                                                            |
+| 40 | Fido offering 100% loyalty discount on Tablet 4GB Plan for 24 Months *YMMV*, existing customers                          |
+| 41 | Ooma Telo Air Free Home Phone Service with Three HD3 Handsets $69.97 - YMMV available at Nepean Ottawa location          |
+| 42 | Garmin Vivofit jr 3 Black Panther (YMMV)                                                                                 |
+| 43 | Lenovo IdeaPad 5 Pro, 5800H/16GB/512GB, 16" 16:10 QHD+, $960                                                             |
+| 44 | AMD Ryzen 5 5600X $269.99 after $30 off coupon                                                                           |
+| 45 | Omni Fire TVs heavily discounted up to 40% off                                                                           |
+| 46 | $50 for 25 GB (emailed code)                                                                                             |
+| 47 | Fasgear 90 degree USB-C cables with 100W PD, 10Gbps & 4K@60Hz: $17.84 (6ft) - $22.09 (10ft)                              |
+| 48 | This War of Mine - All profits going to The Ukrainian Red Cross (85% off at GOG) - $4.59                                 |
+| 49 | Tribit StormBox Bluetooth Speaker - $69.99 (reg. $129.99)                                                                |
+| 50 | [QC] [Videotron] Upgrade 100mbps to 400mbps Internet for $1 more (YMMV - 2021 Black Friday Customers)                    |
+| 51 | $5 off - Ventroo V5 CPU Cooler ($41.99 after coupon)                                                                     |
+| 52 | Adata XPG XENIA Xe Notebook, 15.6" FHD Touchscreen, Intel Core i7-1165G7, Intel Iris Xe Graphics, 16GB, 1TB, Win10 $999  |
+| 53 | Pokémon Legends: Arceus - FREE -->30x Ultra Balls, 30x Gigaton Balls, 30x Jet Balls - Code ARCEUSADVENTURE - Exp: Mar.31 |
+| 54 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum  |
+| 55 | Lunar Sale - PC Elden Ring -20% $63.99                                                                                   |
+| 56 | Soundcore by Anker Life Q30 Hybrid Active Noise Cancelling Headphones - $89.99                                           |
+| 57 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $240 B4 coupons, $7 S&H)                                                 |
+| 58 | Hamsterdam PC Game - Free                                                                                                |
+| 59 | Adjustable Portable Laptop Stand Foldable Notebook Holder (4 USB 3.0 Ports and PD) -39.99 24hrs free shipping 10x points |
+| 60 | LG SN7Y 3.1.2 Channel Audio Soundbar with Meridian Technology and Dolby Atmos $399.99                                    |
+| 61 | Bestar Upstand 76.2 cm × 182.9 cm (30 in. × 72 in.) Height-adjustable Desk $479.99                                       |
+| 62 | Dyson Supersonic Hair Dryer Special Gift Edition: $499 - 7.5% Rakuten                                                    |
+| 63 | SanDisk 128GB High Endurance microSDXC Card with Adapter $23.49                                                          |
+| 64 | LG UltraGear 34" 21:9 Curved WQHD (3440x1440) 160Hz 1ms G-Sync Monitor ($799.99)                                         |
+| 65 | Newegg: [PSU] Seasonic FOCUS GM-850, 850W 80+ Gold, Semi-Modular $88.99 + free shipping                                  |
+| 66 | Sennheiser HD 350BT Around Ear Headphones | Color: Black Or White | $79.99 (Reg $129.99) | Free Shipping                 |
+| 67 | HITMAN 3 for PS5 $19.96                                                                                                  |
+| 68 | [AT&T] $45 Unlimited Max 22 GB Prepaid Priority Unlimited Prepaid Deprioritized US / CAN / MEX Not Multi-line Eligible   |
+| 69 | Hisense 65 in. 4K Roku Smart Television 65R63G $697.99 Online                                                            |
+| 70 | Fido offering 100% loyalty discount on Tablet 4GB Plan for 24 Months *YMMV*, existing customers                          |
+| 71 | Ooma Telo Air Free Home Phone Service with Three HD3 Handsets $69.97 - YMMV available at Nepean Ottawa location          |
+| 72 | Garmin Vivofit jr 3 Black Panther (YMMV)                                                                                 |
+| 73 | Lenovo IdeaPad 5 Pro, 5800H/16GB/512GB, 16" 16:10 QHD+, $960                                                             |
+| 74 | AMD Ryzen 5 5600X $269.99 after $30 off coupon                                                                           |
+| 75 | Omni Fire TVs heavily discounted up to 40% off                                                                           |
+| 76 | $50 for 25 GB (emailed code)                                                                                             |
+| 77 | Fasgear 90 degree USB-C cables with 100W PD, 10Gbps & 4K@60Hz: $17.84 (6ft) - $22.09 (10ft)                              |
+| 78 | This War of Mine - All profits going to The Ukrainian Red Cross (85% off at GOG) - $4.59                                 |
+| 79 | Tribit StormBox Bluetooth Speaker - $69.99 (reg. $129.99)                                                                |
+| 80 | [QC] [Videotron] Upgrade 100mbps to 400mbps Internet for $1 more (YMMV - 2021 Black Friday Customers)                    |
+| 81 | $5 off - Ventroo V5 CPU Cooler ($41.99 after coupon)                                                                     |
+| 82 | Adata XPG XENIA Xe Notebook, 15.6" FHD Touchscreen, Intel Core i7-1165G7, Intel Iris Xe Graphics, 16GB, 1TB, Win10 $999  |
+| 83 | Pokémon Legends: Arceus - FREE -->30x Ultra Balls, 30x Gigaton Balls, 30x Jet Balls - Code ARCEUSADVENTURE - Exp: Mar.31 |
+| 84 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum  |
+| 85 | Lunar Sale - PC Elden Ring -20% $63.99                                                                                   |
+| 86 | Soundcore by Anker Life Q30 Hybrid Active Noise Cancelling Headphones - $89.99                                           |
+| 87 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $240 B4 coupons, $7 S&H)                                                 |
+| 88 | Hamsterdam PC Game - Free                                                                                                |
+| 89 | Adjustable Portable Laptop Stand Foldable Notebook Holder (4 USB 3.0 Ports and PD) -39.99 24hrs free shipping 10x points |
