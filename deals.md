@@ -1,92 +1,92 @@
-|    | deals                                                                                                                    |
-|---:|:-------------------------------------------------------------------------------------------------------------------------|
-|  0 | LG SN7Y 3.1.2 Channel Audio Soundbar with Meridian Technology and Dolby Atmos $399.99                                    |
-|  1 | Bestar Upstand 76.2 cm × 182.9 cm (30 in. × 72 in.) Height-adjustable Desk $479.99                                       |
-|  2 | Dyson Supersonic Hair Dryer Special Gift Edition: $499 - 7.5% Rakuten                                                    |
-|  3 | SanDisk 128GB High Endurance microSDXC Card with Adapter $23.49                                                          |
-|  4 | LG UltraGear 34" 21:9 Curved WQHD (3440x1440) 160Hz 1ms G-Sync Monitor ($799.99)                                         |
-|  5 | Newegg: [PSU] Seasonic FOCUS GM-850, 850W 80+ Gold, Semi-Modular $88.99 + free shipping                                  |
-|  6 | Sennheiser HD 350BT Around Ear Headphones | Color: Black Or White | $79.99 (Reg $129.99) | Free Shipping                 |
-|  7 | HITMAN 3 for PS5 $19.96                                                                                                  |
-|  8 | [AT&T] $45 Unlimited Max 22 GB Prepaid Priority Unlimited Prepaid Deprioritized US / CAN / MEX Not Multi-line Eligible   |
-|  9 | Hisense 65 in. 4K Roku Smart Television 65R63G $697.99 Online                                                            |
-| 10 | Fido offering 100% loyalty discount on Tablet 4GB Plan for 24 Months *YMMV*, existing customers                          |
-| 11 | Ooma Telo Air Free Home Phone Service with Three HD3 Handsets $69.97 - YMMV available at Nepean Ottawa location          |
-| 12 | Garmin Vivofit jr 3 Black Panther (YMMV)                                                                                 |
-| 13 | Lenovo IdeaPad 5 Pro, 5800H/16GB/512GB, 16" 16:10 QHD+, $960                                                             |
-| 14 | AMD Ryzen 5 5600X $269.99 after $30 off coupon                                                                           |
-| 15 | Omni Fire TVs heavily discounted up to 40% off                                                                           |
-| 16 | $50 for 25 GB (emailed code)                                                                                             |
-| 17 | Fasgear 90 degree USB-C cables with 100W PD, 10Gbps & 4K@60Hz: $17.84 (6ft) - $22.09 (10ft)                              |
-| 18 | This War of Mine - All profits going to The Ukrainian Red Cross (85% off at GOG) - $4.59                                 |
-| 19 | Tribit StormBox Bluetooth Speaker - $69.99 (reg. $129.99)                                                                |
-| 20 | [QC] [Videotron] Upgrade 100mbps to 400mbps Internet for $1 more (YMMV - 2021 Black Friday Customers)                    |
-| 21 | $5 off - Ventroo V5 CPU Cooler ($41.99 after coupon)                                                                     |
-| 22 | Adata XPG XENIA Xe Notebook, 15.6" FHD Touchscreen, Intel Core i7-1165G7, Intel Iris Xe Graphics, 16GB, 1TB, Win10 $999  |
-| 23 | Pokémon Legends: Arceus - FREE -->30x Ultra Balls, 30x Gigaton Balls, 30x Jet Balls - Code ARCEUSADVENTURE - Exp: Mar.31 |
-| 24 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum  |
-| 25 | Lunar Sale - PC Elden Ring -20% $63.99                                                                                   |
-| 26 | Soundcore by Anker Life Q30 Hybrid Active Noise Cancelling Headphones - $89.99                                           |
-| 27 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $240 B4 coupons, $7 S&H)                                                 |
-| 28 | Hamsterdam PC Game - Free                                                                                                |
-| 29 | Adjustable Portable Laptop Stand Foldable Notebook Holder (4 USB 3.0 Ports and PD) -39.99 24hrs free shipping 10x points |
-| 30 | LG SN7Y 3.1.2 Channel Audio Soundbar with Meridian Technology and Dolby Atmos $399.99                                    |
-| 31 | Bestar Upstand 76.2 cm × 182.9 cm (30 in. × 72 in.) Height-adjustable Desk $479.99                                       |
-| 32 | Dyson Supersonic Hair Dryer Special Gift Edition: $499 - 7.5% Rakuten                                                    |
-| 33 | SanDisk 128GB High Endurance microSDXC Card with Adapter $23.49                                                          |
-| 34 | LG UltraGear 34" 21:9 Curved WQHD (3440x1440) 160Hz 1ms G-Sync Monitor ($799.99)                                         |
-| 35 | Newegg: [PSU] Seasonic FOCUS GM-850, 850W 80+ Gold, Semi-Modular $88.99 + free shipping                                  |
-| 36 | Sennheiser HD 350BT Around Ear Headphones | Color: Black Or White | $79.99 (Reg $129.99) | Free Shipping                 |
-| 37 | HITMAN 3 for PS5 $19.96                                                                                                  |
-| 38 | [AT&T] $45 Unlimited Max 22 GB Prepaid Priority Unlimited Prepaid Deprioritized US / CAN / MEX Not Multi-line Eligible   |
-| 39 | Hisense 65 in. 4K Roku Smart Television 65R63G $697.99 Online                                                            |
-| 40 | Fido offering 100% loyalty discount on Tablet 4GB Plan for 24 Months *YMMV*, existing customers                          |
-| 41 | Ooma Telo Air Free Home Phone Service with Three HD3 Handsets $69.97 - YMMV available at Nepean Ottawa location          |
-| 42 | Garmin Vivofit jr 3 Black Panther (YMMV)                                                                                 |
-| 43 | Lenovo IdeaPad 5 Pro, 5800H/16GB/512GB, 16" 16:10 QHD+, $960                                                             |
-| 44 | AMD Ryzen 5 5600X $269.99 after $30 off coupon                                                                           |
-| 45 | Omni Fire TVs heavily discounted up to 40% off                                                                           |
-| 46 | $50 for 25 GB (emailed code)                                                                                             |
-| 47 | Fasgear 90 degree USB-C cables with 100W PD, 10Gbps & 4K@60Hz: $17.84 (6ft) - $22.09 (10ft)                              |
-| 48 | This War of Mine - All profits going to The Ukrainian Red Cross (85% off at GOG) - $4.59                                 |
-| 49 | Tribit StormBox Bluetooth Speaker - $69.99 (reg. $129.99)                                                                |
-| 50 | [QC] [Videotron] Upgrade 100mbps to 400mbps Internet for $1 more (YMMV - 2021 Black Friday Customers)                    |
-| 51 | $5 off - Ventroo V5 CPU Cooler ($41.99 after coupon)                                                                     |
-| 52 | Adata XPG XENIA Xe Notebook, 15.6" FHD Touchscreen, Intel Core i7-1165G7, Intel Iris Xe Graphics, 16GB, 1TB, Win10 $999  |
-| 53 | Pokémon Legends: Arceus - FREE -->30x Ultra Balls, 30x Gigaton Balls, 30x Jet Balls - Code ARCEUSADVENTURE - Exp: Mar.31 |
-| 54 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum  |
-| 55 | Lunar Sale - PC Elden Ring -20% $63.99                                                                                   |
-| 56 | Soundcore by Anker Life Q30 Hybrid Active Noise Cancelling Headphones - $89.99                                           |
-| 57 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $240 B4 coupons, $7 S&H)                                                 |
-| 58 | Hamsterdam PC Game - Free                                                                                                |
-| 59 | Adjustable Portable Laptop Stand Foldable Notebook Holder (4 USB 3.0 Ports and PD) -39.99 24hrs free shipping 10x points |
-| 60 | LG SN7Y 3.1.2 Channel Audio Soundbar with Meridian Technology and Dolby Atmos $399.99                                    |
-| 61 | Bestar Upstand 76.2 cm × 182.9 cm (30 in. × 72 in.) Height-adjustable Desk $479.99                                       |
-| 62 | Dyson Supersonic Hair Dryer Special Gift Edition: $499 - 7.5% Rakuten                                                    |
-| 63 | SanDisk 128GB High Endurance microSDXC Card with Adapter $23.49                                                          |
-| 64 | LG UltraGear 34" 21:9 Curved WQHD (3440x1440) 160Hz 1ms G-Sync Monitor ($799.99)                                         |
-| 65 | Newegg: [PSU] Seasonic FOCUS GM-850, 850W 80+ Gold, Semi-Modular $88.99 + free shipping                                  |
-| 66 | Sennheiser HD 350BT Around Ear Headphones | Color: Black Or White | $79.99 (Reg $129.99) | Free Shipping                 |
-| 67 | HITMAN 3 for PS5 $19.96                                                                                                  |
-| 68 | [AT&T] $45 Unlimited Max 22 GB Prepaid Priority Unlimited Prepaid Deprioritized US / CAN / MEX Not Multi-line Eligible   |
-| 69 | Hisense 65 in. 4K Roku Smart Television 65R63G $697.99 Online                                                            |
-| 70 | Fido offering 100% loyalty discount on Tablet 4GB Plan for 24 Months *YMMV*, existing customers                          |
-| 71 | Ooma Telo Air Free Home Phone Service with Three HD3 Handsets $69.97 - YMMV available at Nepean Ottawa location          |
-| 72 | Garmin Vivofit jr 3 Black Panther (YMMV)                                                                                 |
-| 73 | Lenovo IdeaPad 5 Pro, 5800H/16GB/512GB, 16" 16:10 QHD+, $960                                                             |
-| 74 | AMD Ryzen 5 5600X $269.99 after $30 off coupon                                                                           |
-| 75 | Omni Fire TVs heavily discounted up to 40% off                                                                           |
-| 76 | $50 for 25 GB (emailed code)                                                                                             |
-| 77 | Fasgear 90 degree USB-C cables with 100W PD, 10Gbps & 4K@60Hz: $17.84 (6ft) - $22.09 (10ft)                              |
-| 78 | This War of Mine - All profits going to The Ukrainian Red Cross (85% off at GOG) - $4.59                                 |
-| 79 | Tribit StormBox Bluetooth Speaker - $69.99 (reg. $129.99)                                                                |
-| 80 | [QC] [Videotron] Upgrade 100mbps to 400mbps Internet for $1 more (YMMV - 2021 Black Friday Customers)                    |
-| 81 | $5 off - Ventroo V5 CPU Cooler ($41.99 after coupon)                                                                     |
-| 82 | Adata XPG XENIA Xe Notebook, 15.6" FHD Touchscreen, Intel Core i7-1165G7, Intel Iris Xe Graphics, 16GB, 1TB, Win10 $999  |
-| 83 | Pokémon Legends: Arceus - FREE -->30x Ultra Balls, 30x Gigaton Balls, 30x Jet Balls - Code ARCEUSADVENTURE - Exp: Mar.31 |
-| 84 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum  |
-| 85 | Lunar Sale - PC Elden Ring -20% $63.99                                                                                   |
-| 86 | Soundcore by Anker Life Q30 Hybrid Active Noise Cancelling Headphones - $89.99                                           |
-| 87 | Xiaomi POCO X3 Pro Global Version 6GB+128GB (US $240 B4 coupons, $7 S&H)                                                 |
-| 88 | Hamsterdam PC Game - Free                                                                                                |
-| 89 | Adjustable Portable Laptop Stand Foldable Notebook Holder (4 USB 3.0 Ports and PD) -39.99 24hrs free shipping 10x points |
+|    | deals                                                                                                                   |
+|---:|:------------------------------------------------------------------------------------------------------------------------|
+|  0 | Arcade1Up Super Pac-Man with Light up Marquee, 7 Games in 1 $299.97 (reg. $489.99) In store only in Ontario             |
+|  1 | NBA 2K21 Mamba Forever Edition PS5 Playstation 5 $19.99 ATL                                                             |
+|  2 | Win 1 of 5 $25 gift cards by sharing your favourite deals from February                                                 |
+|  3 | Soundcore by Anker Life Q30 Hybrid Active Noise Cancelling Headphones - $89.99                                          |
+|  4 | LG UltraGear 34" 21:9 Curved WQHD (3440x1440) 160Hz 1ms G-Sync Monitor ($799.99)                                        |
+|  5 | Hisense 75U68G ULED 4K Android TV- $1398                                                                                |
+|  6 | Logitech G502 limited edition wired mouse - $39.97, Reg Price $79.99                                                    |
+|  7 | [ATL] Nikon 20072 NIKKOR Z 24-70mm f/4 S_ 44% OFF_$729.99                                                               |
+|  8 | Newegg: [PSU] Seasonic FOCUS GM-850, 850W 80+ Gold, Semi-Modular $88.99 + free shipping                                 |
+|  9 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum |
+| 10 | Sennheiser HD 350BT Around Ear Headphones | Color: Black Or White | $79.99 (Reg $129.99) | Free Shipping                |
+| 11 | EF ECOFLOW RIVER 288Wh Portable Power Station,3 x 600W ($349)                                                           |
+| 12 | ATX Power Supply Breakout Board $2.86 (after 60% off)                                                                   |
+| 13 | Moto Edge (2021) $200 on $45 7Gb plan BEFORE credits                                                                    |
+| 14 | New Bonus: $40 (regularly $25) Home Internet 120/20 Mbps $55/month or Mobile service Québec province + Ottawa region    |
+| 15 | Alienware 27" (gaming) monitor AW2721D - $791.99 with coupon, other discounts possible                                  |
+| 16 | $45 25gb + $300 bill credit per line [win back]                                                                         |
+| 17 | SONY WHXB900N Wireless Noise Canceling Extra BassTM Headphones $178                                                     |
+| 18 | NEW Rogers Price Match (YMMV)                                                                                           |
+| 19 | Tribit StormBox Bluetooth Speaker - $69.99 (reg. $129.99)                                                               |
+| 20 | Asus RX 6600 - $584.99 / MSI RX 6600 XT - $639.99                                                                       |
+| 21 | Lenovo 10e Chromebook Tablet $129 less 9% Rakuten (Extra $30 rebate new Rakuten members)                                |
+| 22 | Xbox Game Pass: March games will include Guardians of the Galaxy                                                        |
+| 23 | Fasgear 90 degree USB-C cables with 100W PD, 10Gbps & 4K@60Hz: $17.84 (6ft) - $22.09 (10ft)                             |
+| 24 | Amazon Gaming - March 2022 Free for Prime Members                                                                       |
+| 25 | Hisense 65 in. 4K Roku Smart Television 65R63G $697.99 Online                                                           |
+| 26 | Costco.ca: Dell Inspiron 13 i5310-5682SLV-PUS Intel Evo Laptop, i5-11320H - $889.99                                     |
+| 27 | AMD Ryzen 5 5600X $269.99 after $30 off coupon                                                                          |
+| 28 | Omni Fire TVs heavily discounted up to 40% off                                                                          |
+| 29 | Legion 7 AMD - Rakuten 9% (build your own Legion 7 3070 for $1,832.74)                                                  |
+| 30 | Arcade1Up Super Pac-Man with Light up Marquee, 7 Games in 1 $299.97 (reg. $489.99) In store only in Ontario             |
+| 31 | NBA 2K21 Mamba Forever Edition PS5 Playstation 5 $19.99 ATL                                                             |
+| 32 | Win 1 of 5 $25 gift cards by sharing your favourite deals from February                                                 |
+| 33 | Soundcore by Anker Life Q30 Hybrid Active Noise Cancelling Headphones - $89.99                                          |
+| 34 | LG UltraGear 34" 21:9 Curved WQHD (3440x1440) 160Hz 1ms G-Sync Monitor ($799.99)                                        |
+| 35 | Hisense 75U68G ULED 4K Android TV- $1398                                                                                |
+| 36 | Logitech G502 limited edition wired mouse - $39.97, Reg Price $79.99                                                    |
+| 37 | [ATL] Nikon 20072 NIKKOR Z 24-70mm f/4 S_ 44% OFF_$729.99                                                               |
+| 38 | Newegg: [PSU] Seasonic FOCUS GM-850, 850W 80+ Gold, Semi-Modular $88.99 + free shipping                                 |
+| 39 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum |
+| 40 | Sennheiser HD 350BT Around Ear Headphones | Color: Black Or White | $79.99 (Reg $129.99) | Free Shipping                |
+| 41 | EF ECOFLOW RIVER 288Wh Portable Power Station,3 x 600W ($349)                                                           |
+| 42 | ATX Power Supply Breakout Board $2.86 (after 60% off)                                                                   |
+| 43 | Moto Edge (2021) $200 on $45 7Gb plan BEFORE credits                                                                    |
+| 44 | New Bonus: $40 (regularly $25) Home Internet 120/20 Mbps $55/month or Mobile service Québec province + Ottawa region    |
+| 45 | Alienware 27" (gaming) monitor AW2721D - $791.99 with coupon, other discounts possible                                  |
+| 46 | $45 25gb + $300 bill credit per line [win back]                                                                         |
+| 47 | SONY WHXB900N Wireless Noise Canceling Extra BassTM Headphones $178                                                     |
+| 48 | NEW Rogers Price Match (YMMV)                                                                                           |
+| 49 | Tribit StormBox Bluetooth Speaker - $69.99 (reg. $129.99)                                                               |
+| 50 | Asus RX 6600 - $584.99 / MSI RX 6600 XT - $639.99                                                                       |
+| 51 | Lenovo 10e Chromebook Tablet $129 less 9% Rakuten (Extra $30 rebate new Rakuten members)                                |
+| 52 | Xbox Game Pass: March games will include Guardians of the Galaxy                                                        |
+| 53 | Fasgear 90 degree USB-C cables with 100W PD, 10Gbps & 4K@60Hz: $17.84 (6ft) - $22.09 (10ft)                             |
+| 54 | Amazon Gaming - March 2022 Free for Prime Members                                                                       |
+| 55 | Hisense 65 in. 4K Roku Smart Television 65R63G $697.99 Online                                                           |
+| 56 | Costco.ca: Dell Inspiron 13 i5310-5682SLV-PUS Intel Evo Laptop, i5-11320H - $889.99                                     |
+| 57 | AMD Ryzen 5 5600X $269.99 after $30 off coupon                                                                          |
+| 58 | Omni Fire TVs heavily discounted up to 40% off                                                                          |
+| 59 | Legion 7 AMD - Rakuten 9% (build your own Legion 7 3070 for $1,832.74)                                                  |
+| 60 | Arcade1Up Super Pac-Man with Light up Marquee, 7 Games in 1 $299.97 (reg. $489.99) In store only in Ontario             |
+| 61 | NBA 2K21 Mamba Forever Edition PS5 Playstation 5 $19.99 ATL                                                             |
+| 62 | Win 1 of 5 $25 gift cards by sharing your favourite deals from February                                                 |
+| 63 | Soundcore by Anker Life Q30 Hybrid Active Noise Cancelling Headphones - $89.99                                          |
+| 64 | LG UltraGear 34" 21:9 Curved WQHD (3440x1440) 160Hz 1ms G-Sync Monitor ($799.99)                                        |
+| 65 | Hisense 75U68G ULED 4K Android TV- $1398                                                                                |
+| 66 | Logitech G502 limited edition wired mouse - $39.97, Reg Price $79.99                                                    |
+| 67 | [ATL] Nikon 20072 NIKKOR Z 24-70mm f/4 S_ 44% OFF_$729.99                                                               |
+| 68 | Newegg: [PSU] Seasonic FOCUS GM-850, 850W 80+ Gold, Semi-Modular $88.99 + free shipping                                 |
+| 69 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum |
+| 70 | Sennheiser HD 350BT Around Ear Headphones | Color: Black Or White | $79.99 (Reg $129.99) | Free Shipping                |
+| 71 | EF ECOFLOW RIVER 288Wh Portable Power Station,3 x 600W ($349)                                                           |
+| 72 | ATX Power Supply Breakout Board $2.86 (after 60% off)                                                                   |
+| 73 | Moto Edge (2021) $200 on $45 7Gb plan BEFORE credits                                                                    |
+| 74 | New Bonus: $40 (regularly $25) Home Internet 120/20 Mbps $55/month or Mobile service Québec province + Ottawa region    |
+| 75 | Alienware 27" (gaming) monitor AW2721D - $791.99 with coupon, other discounts possible                                  |
+| 76 | $45 25gb + $300 bill credit per line [win back]                                                                         |
+| 77 | SONY WHXB900N Wireless Noise Canceling Extra BassTM Headphones $178                                                     |
+| 78 | NEW Rogers Price Match (YMMV)                                                                                           |
+| 79 | Tribit StormBox Bluetooth Speaker - $69.99 (reg. $129.99)                                                               |
+| 80 | Asus RX 6600 - $584.99 / MSI RX 6600 XT - $639.99                                                                       |
+| 81 | Lenovo 10e Chromebook Tablet $129 less 9% Rakuten (Extra $30 rebate new Rakuten members)                                |
+| 82 | Xbox Game Pass: March games will include Guardians of the Galaxy                                                        |
+| 83 | Fasgear 90 degree USB-C cables with 100W PD, 10Gbps & 4K@60Hz: $17.84 (6ft) - $22.09 (10ft)                             |
+| 84 | Amazon Gaming - March 2022 Free for Prime Members                                                                       |
+| 85 | Hisense 65 in. 4K Roku Smart Television 65R63G $697.99 Online                                                           |
+| 86 | Costco.ca: Dell Inspiron 13 i5310-5682SLV-PUS Intel Evo Laptop, i5-11320H - $889.99                                     |
+| 87 | AMD Ryzen 5 5600X $269.99 after $30 off coupon                                                                          |
+| 88 | Omni Fire TVs heavily discounted up to 40% off                                                                          |
+| 89 | Legion 7 AMD - Rakuten 9% (build your own Legion 7 3070 for $1,832.74)                                                  |
