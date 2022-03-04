@@ -30,10 +30,10 @@
 | 27 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                         |
 | 28 | Amazon Gaming - March 2022 Free for Prime Members                                                                       |
 | 29 | [HP] 14" FHD Ryzen 7 5700U 16GB RAM 1TB NVMe M.2 SSD $794+tax                                                           |
-| 30 | Seagate IronWolf 4TB NAS Internal Hard Drive HDD $99.99                                                                 |
-| 31 | Overcooked! All You Can Eat half price on Nintendo eShop                                                                |
-| 32 | March 5-11 Get PC Optimum™ points** 5.000 for every $50 spent on Apple Gift Cards!                                      |
-| 33 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum |
+| 30 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum |
+| 31 | Seagate IronWolf 4TB NAS Internal Hard Drive HDD $99.99                                                                 |
+| 32 | Overcooked! All You Can Eat half price on Nintendo eShop                                                                |
+| 33 | March 5-11 Get PC Optimum™ points** 5.000 for every $50 spent on Apple Gift Cards!                                      |
 | 34 | Asus Dual RX 6500 XT - $376.99 / Sapphire RX 6500 XT - $429.99                                                          |
 | 35 | Apple iMac 21.5" - 2.3 GHz 7th Generation Intel Core i5 - 256 GB SSD - 8 GB DDR4 - $1,000                               |
 | 36 | Arcade 1up Capcom (Street Fighter) Legacy Edition $300 to $350 (no tax)                                                 |
@@ -60,10 +60,10 @@
 | 57 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                         |
 | 58 | Amazon Gaming - March 2022 Free for Prime Members                                                                       |
 | 59 | [HP] 14" FHD Ryzen 7 5700U 16GB RAM 1TB NVMe M.2 SSD $794+tax                                                           |
-| 60 | Seagate IronWolf 4TB NAS Internal Hard Drive HDD $99.99                                                                 |
-| 61 | Overcooked! All You Can Eat half price on Nintendo eShop                                                                |
-| 62 | March 5-11 Get PC Optimum™ points** 5.000 for every $50 spent on Apple Gift Cards!                                      |
-| 63 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum |
+| 60 | Pre-Order Samsung Tab S8's: Free Galaxy Buds 2 & Keyboard Case, Additional 10% OFF through Perkopolis/SPC, $810 Minimum |
+| 61 | Seagate IronWolf 4TB NAS Internal Hard Drive HDD $99.99                                                                 |
+| 62 | Overcooked! All You Can Eat half price on Nintendo eShop                                                                |
+| 63 | March 5-11 Get PC Optimum™ points** 5.000 for every $50 spent on Apple Gift Cards!                                      |
 | 64 | Asus Dual RX 6500 XT - $376.99 / Sapphire RX 6500 XT - $429.99                                                          |
 | 65 | Apple iMac 21.5" - 2.3 GHz 7th Generation Intel Core i5 - 256 GB SSD - 8 GB DDR4 - $1,000                               |
 | 66 | Arcade 1up Capcom (Street Fighter) Legacy Edition $300 to $350 (no tax)                                                 |
