@@ -1,92 +1,92 @@
-|    | deals                                                                                                             |
-|---:|:------------------------------------------------------------------------------------------------------------------|
-|  0 | Amazon fire TV 55" 4k                                                                                             |
-|  1 | Aukey RGB mechanical gaming keyboard 34.99 free shipping                                                          |
-|  2 | Costco Lg 55 inch TV $499 in store (55up7560) YMMV                                                                |
-|  3 | Solar Power Bank 26800mAh, with 4 Foldable Solar Panels, 13% off and 20$ Coupon, Total Price 22$                  |
-|  4 | Fire HD 10 Tablet (10.1" 1080p full HD display, 32 GB) – (2019 Release) $124.99                                   |
-|  5 | LEGO® The Incredibles. 85% discounted. $10.50 YMMV                                                                |
-|  6 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $60               |
-|  7 | Logitech MX Keys Mini Keyboard $99.99 (PM at BB/Staples)                                                          |
-|  8 | Switch versions of DOOM and DOOM Eternal - $13.37/$26.39 (75%/67% off)                                            |
-|  9 | YMMV - Bose 700 headphones ($240)                                                                                 |
-| 10 | WD My Cloud Expert Series EX4100 4-Bay Diskless NAS $379.99 or WD My Cloud PR4100 $579.99 (YMMV Amex < 20% offer) |
-| 11 | MSI SPATIUM M370 NVMe M.2 1TB SSD, 3D NAND Internal SSD, $110.94                                                  |
-| 12 | 5-in-1 Type C Hub to HDMI, 3 USB Ports $12.99 FS                                                                  |
-| 13 | New Zoomer Wireless March Deal - $45/7GB + $0 TCL 20 Pro                                                          |
-| 14 | Logitech M510 Wireless Mouse $30                                                                                  |
-| 15 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                          |
-| 16 | Monster Soundbar 49.99 + 20x Points YMMV                                                                          |
-| 17 | XBOX Controllers $49.97                                                                                           |
-| 18 | Legends Flashback Zone Game Console - RetroGaming & Atari Flashback X (50% off)                                   |
-| 19 | Get 2 years with 70% off, about USD $3.5/month                                                                    |
-| 20 | Gamestop giving $55 TIV for Mario Switch games March 10th                                                         |
-| 21 | Hisense 75U68G ULED 4K Android TV- $1398                                                                          |
-| 22 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                      |
-| 23 | Win 1 of 5 $25 gift cards by sharing your favourite deals from February                                           |
-| 24 | Meross Smart WiFi LED Bulbs Compatible with Apple $38.99 - 10 coupon = $28.99                                     |
-| 25 | Final Fantasy VII Remake Standard Edition (PS4) - $20                                                             |
-| 26 | Hollow Knight - $8.49 (all time low)                                                                              |
-| 27 | Bose earbuds $99                                                                                                  |
-| 28 | BestBuy.ca: Amiibo Min Min Pre-Order - 21.99$                                                                     |
-| 29 | Cooler Master MWE Gold 850 V2 Fully Modular PSU - 89.76 (Amazon.ca)                                               |
-| 30 | Amazon fire TV 55" 4k                                                                                             |
-| 31 | Aukey RGB mechanical gaming keyboard 34.99 free shipping                                                          |
-| 32 | Costco Lg 55 inch TV $499 in store (55up7560) YMMV                                                                |
-| 33 | Solar Power Bank 26800mAh, with 4 Foldable Solar Panels, 13% off and 20$ Coupon, Total Price 22$                  |
-| 34 | Fire HD 10 Tablet (10.1" 1080p full HD display, 32 GB) – (2019 Release) $124.99                                   |
-| 35 | LEGO® The Incredibles. 85% discounted. $10.50 YMMV                                                                |
-| 36 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $60               |
-| 37 | Logitech MX Keys Mini Keyboard $99.99 (PM at BB/Staples)                                                          |
-| 38 | Switch versions of DOOM and DOOM Eternal - $13.37/$26.39 (75%/67% off)                                            |
-| 39 | YMMV - Bose 700 headphones ($240)                                                                                 |
-| 40 | WD My Cloud Expert Series EX4100 4-Bay Diskless NAS $379.99 or WD My Cloud PR4100 $579.99 (YMMV Amex < 20% offer) |
-| 41 | MSI SPATIUM M370 NVMe M.2 1TB SSD, 3D NAND Internal SSD, $110.94                                                  |
-| 42 | 5-in-1 Type C Hub to HDMI, 3 USB Ports $12.99 FS                                                                  |
-| 43 | New Zoomer Wireless March Deal - $45/7GB + $0 TCL 20 Pro                                                          |
-| 44 | Logitech M510 Wireless Mouse $30                                                                                  |
-| 45 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                          |
-| 46 | Monster Soundbar 49.99 + 20x Points YMMV                                                                          |
-| 47 | XBOX Controllers $49.97                                                                                           |
-| 48 | Legends Flashback Zone Game Console - RetroGaming & Atari Flashback X (50% off)                                   |
-| 49 | Get 2 years with 70% off, about USD $3.5/month                                                                    |
-| 50 | Gamestop giving $55 TIV for Mario Switch games March 10th                                                         |
-| 51 | Hisense 75U68G ULED 4K Android TV- $1398                                                                          |
-| 52 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                      |
-| 53 | Win 1 of 5 $25 gift cards by sharing your favourite deals from February                                           |
-| 54 | Meross Smart WiFi LED Bulbs Compatible with Apple $38.99 - 10 coupon = $28.99                                     |
-| 55 | Final Fantasy VII Remake Standard Edition (PS4) - $20                                                             |
-| 56 | Hollow Knight - $8.49 (all time low)                                                                              |
-| 57 | Bose earbuds $99                                                                                                  |
-| 58 | BestBuy.ca: Amiibo Min Min Pre-Order - 21.99$                                                                     |
-| 59 | Cooler Master MWE Gold 850 V2 Fully Modular PSU - 89.76 (Amazon.ca)                                               |
-| 60 | Amazon fire TV 55" 4k                                                                                             |
-| 61 | Aukey RGB mechanical gaming keyboard 34.99 free shipping                                                          |
-| 62 | Costco Lg 55 inch TV $499 in store (55up7560) YMMV                                                                |
-| 63 | Solar Power Bank 26800mAh, with 4 Foldable Solar Panels, 13% off and 20$ Coupon, Total Price 22$                  |
-| 64 | Fire HD 10 Tablet (10.1" 1080p full HD display, 32 GB) – (2019 Release) $124.99                                   |
-| 65 | LEGO® The Incredibles. 85% discounted. $10.50 YMMV                                                                |
-| 66 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $60               |
-| 67 | Logitech MX Keys Mini Keyboard $99.99 (PM at BB/Staples)                                                          |
-| 68 | Switch versions of DOOM and DOOM Eternal - $13.37/$26.39 (75%/67% off)                                            |
-| 69 | YMMV - Bose 700 headphones ($240)                                                                                 |
-| 70 | WD My Cloud Expert Series EX4100 4-Bay Diskless NAS $379.99 or WD My Cloud PR4100 $579.99 (YMMV Amex < 20% offer) |
-| 71 | MSI SPATIUM M370 NVMe M.2 1TB SSD, 3D NAND Internal SSD, $110.94                                                  |
-| 72 | 5-in-1 Type C Hub to HDMI, 3 USB Ports $12.99 FS                                                                  |
-| 73 | New Zoomer Wireless March Deal - $45/7GB + $0 TCL 20 Pro                                                          |
-| 74 | Logitech M510 Wireless Mouse $30                                                                                  |
-| 75 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                          |
-| 76 | Monster Soundbar 49.99 + 20x Points YMMV                                                                          |
-| 77 | XBOX Controllers $49.97                                                                                           |
-| 78 | Legends Flashback Zone Game Console - RetroGaming & Atari Flashback X (50% off)                                   |
-| 79 | Get 2 years with 70% off, about USD $3.5/month                                                                    |
-| 80 | Gamestop giving $55 TIV for Mario Switch games March 10th                                                         |
-| 81 | Hisense 75U68G ULED 4K Android TV- $1398                                                                          |
-| 82 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                      |
-| 83 | Win 1 of 5 $25 gift cards by sharing your favourite deals from February                                           |
-| 84 | Meross Smart WiFi LED Bulbs Compatible with Apple $38.99 - 10 coupon = $28.99                                     |
-| 85 | Final Fantasy VII Remake Standard Edition (PS4) - $20                                                             |
-| 86 | Hollow Knight - $8.49 (all time low)                                                                              |
-| 87 | Bose earbuds $99                                                                                                  |
-| 88 | BestBuy.ca: Amiibo Min Min Pre-Order - 21.99$                                                                     |
-| 89 | Cooler Master MWE Gold 850 V2 Fully Modular PSU - 89.76 (Amazon.ca)                                               |
+|    | deals                                                                                                                |
+|---:|:---------------------------------------------------------------------------------------------------------------------|
+|  0 | WIndscribe VPN Free 30GB                                                                                             |
+|  1 | Gamestop giving $55 TIV for Mario Switch games March 10th                                                            |
+|  2 | Primus.ca Upto 1GBps $25 for 4 months then $50 after, 1 year contract                                                |
+|  3 | Win 1 of 5 $25 gift cards by sharing your favourite deals from February                                              |
+|  4 | [YMMV] Razer Deathadder V2, $50 plus 20x points                                                                      |
+|  5 | Aukey RGB mechanical gaming keyboard 34.99 free shipping                                                             |
+|  6 | SpeakOut Wireless $100 Top Up + Free SIM + $25 Bonus Promo valid till 3 May 2022                                     |
+|  7 | Digital Only Nintendo Switch Games - $51.98 w/ PSP (MK8D, SMDU, Yoshis Crafted World, Luigis Mansion and SM3D World) |
+|  8 | Logitech MX Keys Mini Keyboard $99.99 (PM at BB/Staples)                                                             |
+|  9 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                      |
+| 10 | Lenovo IdeaPad 5 Pro, 5800H/16GB/512GB, 16" 16:10 QHD+, $960                                                         |
+| 11 | Costco Lg 55 inch TV $499 in store (55up7560) YMMV                                                                   |
+| 12 | Fire HD 10 Tablet (10.1" 1080p full HD display, 32 GB) – (2019 Release) $124.99                                      |
+| 13 | PC Game Pass – 2-Month Membership for the price of one ($11.99)                                                      |
+| 14 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                         |
+| 15 | Monster Soundbar 49.99 + 20x Points YMMV                                                                             |
+| 16 | Ticwatch pro 3 ultra GPS 322.99 tax in FS                                                                            |
+| 17 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                             |
+| 18 | Samsung 980 Pro 2TB NVME drive. PS5 internal NVME expansion storage drive. $349.99 / $399.99 All-time low            |
+| 19 | ATL $349.99, 2TB: Samsung 980 PRO SSD 2TB PCIe NVMe Gen 4 NO HEATSINK                                                |
+| 20 | WD My Cloud Expert Series EX4100 4-Bay Diskless NAS $379.99 or WD My Cloud PR4100 $579.99 (YMMV Amex < 20% offer)    |
+| 21 | Arcade1Up Super Pac-Man with Light up Marquee, 7 Games in 1 $299.97 (reg. $489.99) In store only in Ontario          |
+| 22 | eshop: FAR: Lone Sails (Switch, digital) for $3.77                                                                   |
+| 23 | Microsoft Office Professional 2021 for Windows: Lifetime License - $49.99 USD                                        |
+| 24 | MSI SPATIUM M370 NVMe M.2 1TB SSD, 3D NAND Internal SSD, $110.94                                                     |
+| 25 | Super Mario 3D World+ Bowser's Fury and others - ATL                                                                 |
+| 26 | New Zoomer Wireless March Deal - $45/7GB + $0 TCL 20 Pro                                                             |
+| 27 | Get 2 years with 70% off, about USD $3.5/month                                                                       |
+| 28 | Switch versions of DOOM and DOOM Eternal - $13.37/$26.39 (75%/67% off)                                               |
+| 29 | XBOX Controllers $49.97                                                                                              |
+| 30 | WIndscribe VPN Free 30GB                                                                                             |
+| 31 | Gamestop giving $55 TIV for Mario Switch games March 10th                                                            |
+| 32 | Primus.ca Upto 1GBps $25 for 4 months then $50 after, 1 year contract                                                |
+| 33 | Win 1 of 5 $25 gift cards by sharing your favourite deals from February                                              |
+| 34 | [YMMV] Razer Deathadder V2, $50 plus 20x points                                                                      |
+| 35 | Aukey RGB mechanical gaming keyboard 34.99 free shipping                                                             |
+| 36 | SpeakOut Wireless $100 Top Up + Free SIM + $25 Bonus Promo valid till 3 May 2022                                     |
+| 37 | Digital Only Nintendo Switch Games - $51.98 w/ PSP (MK8D, SMDU, Yoshis Crafted World, Luigis Mansion and SM3D World) |
+| 38 | Logitech MX Keys Mini Keyboard $99.99 (PM at BB/Staples)                                                             |
+| 39 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                      |
+| 40 | Lenovo IdeaPad 5 Pro, 5800H/16GB/512GB, 16" 16:10 QHD+, $960                                                         |
+| 41 | Costco Lg 55 inch TV $499 in store (55up7560) YMMV                                                                   |
+| 42 | Fire HD 10 Tablet (10.1" 1080p full HD display, 32 GB) – (2019 Release) $124.99                                      |
+| 43 | PC Game Pass – 2-Month Membership for the price of one ($11.99)                                                      |
+| 44 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                         |
+| 45 | Monster Soundbar 49.99 + 20x Points YMMV                                                                             |
+| 46 | Ticwatch pro 3 ultra GPS 322.99 tax in FS                                                                            |
+| 47 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                             |
+| 48 | Samsung 980 Pro 2TB NVME drive. PS5 internal NVME expansion storage drive. $349.99 / $399.99 All-time low            |
+| 49 | ATL $349.99, 2TB: Samsung 980 PRO SSD 2TB PCIe NVMe Gen 4 NO HEATSINK                                                |
+| 50 | WD My Cloud Expert Series EX4100 4-Bay Diskless NAS $379.99 or WD My Cloud PR4100 $579.99 (YMMV Amex < 20% offer)    |
+| 51 | Arcade1Up Super Pac-Man with Light up Marquee, 7 Games in 1 $299.97 (reg. $489.99) In store only in Ontario          |
+| 52 | eshop: FAR: Lone Sails (Switch, digital) for $3.77                                                                   |
+| 53 | Microsoft Office Professional 2021 for Windows: Lifetime License - $49.99 USD                                        |
+| 54 | MSI SPATIUM M370 NVMe M.2 1TB SSD, 3D NAND Internal SSD, $110.94                                                     |
+| 55 | Super Mario 3D World+ Bowser's Fury and others - ATL                                                                 |
+| 56 | New Zoomer Wireless March Deal - $45/7GB + $0 TCL 20 Pro                                                             |
+| 57 | Get 2 years with 70% off, about USD $3.5/month                                                                       |
+| 58 | Switch versions of DOOM and DOOM Eternal - $13.37/$26.39 (75%/67% off)                                               |
+| 59 | XBOX Controllers $49.97                                                                                              |
+| 60 | WIndscribe VPN Free 30GB                                                                                             |
+| 61 | Gamestop giving $55 TIV for Mario Switch games March 10th                                                            |
+| 62 | Primus.ca Upto 1GBps $25 for 4 months then $50 after, 1 year contract                                                |
+| 63 | Win 1 of 5 $25 gift cards by sharing your favourite deals from February                                              |
+| 64 | [YMMV] Razer Deathadder V2, $50 plus 20x points                                                                      |
+| 65 | Aukey RGB mechanical gaming keyboard 34.99 free shipping                                                             |
+| 66 | SpeakOut Wireless $100 Top Up + Free SIM + $25 Bonus Promo valid till 3 May 2022                                     |
+| 67 | Digital Only Nintendo Switch Games - $51.98 w/ PSP (MK8D, SMDU, Yoshis Crafted World, Luigis Mansion and SM3D World) |
+| 68 | Logitech MX Keys Mini Keyboard $99.99 (PM at BB/Staples)                                                             |
+| 69 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                      |
+| 70 | Lenovo IdeaPad 5 Pro, 5800H/16GB/512GB, 16" 16:10 QHD+, $960                                                         |
+| 71 | Costco Lg 55 inch TV $499 in store (55up7560) YMMV                                                                   |
+| 72 | Fire HD 10 Tablet (10.1" 1080p full HD display, 32 GB) – (2019 Release) $124.99                                      |
+| 73 | PC Game Pass – 2-Month Membership for the price of one ($11.99)                                                      |
+| 74 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                         |
+| 75 | Monster Soundbar 49.99 + 20x Points YMMV                                                                             |
+| 76 | Ticwatch pro 3 ultra GPS 322.99 tax in FS                                                                            |
+| 77 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                             |
+| 78 | Samsung 980 Pro 2TB NVME drive. PS5 internal NVME expansion storage drive. $349.99 / $399.99 All-time low            |
+| 79 | ATL $349.99, 2TB: Samsung 980 PRO SSD 2TB PCIe NVMe Gen 4 NO HEATSINK                                                |
+| 80 | WD My Cloud Expert Series EX4100 4-Bay Diskless NAS $379.99 or WD My Cloud PR4100 $579.99 (YMMV Amex < 20% offer)    |
+| 81 | Arcade1Up Super Pac-Man with Light up Marquee, 7 Games in 1 $299.97 (reg. $489.99) In store only in Ontario          |
+| 82 | eshop: FAR: Lone Sails (Switch, digital) for $3.77                                                                   |
+| 83 | Microsoft Office Professional 2021 for Windows: Lifetime License - $49.99 USD                                        |
+| 84 | MSI SPATIUM M370 NVMe M.2 1TB SSD, 3D NAND Internal SSD, $110.94                                                     |
+| 85 | Super Mario 3D World+ Bowser's Fury and others - ATL                                                                 |
+| 86 | New Zoomer Wireless March Deal - $45/7GB + $0 TCL 20 Pro                                                             |
+| 87 | Get 2 years with 70% off, about USD $3.5/month                                                                       |
+| 88 | Switch versions of DOOM and DOOM Eternal - $13.37/$26.39 (75%/67% off)                                               |
+| 89 | XBOX Controllers $49.97                                                                                              |
