@@ -1,92 +1,92 @@
-|    | deals                                                                                                                |
-|---:|:---------------------------------------------------------------------------------------------------------------------|
-|  0 | WIndscribe VPN Free 30GB                                                                                             |
-|  1 | Gamestop giving $55 TIV for Mario Switch games March 10th                                                            |
-|  2 | Primus.ca Upto 1GBps $25 for 4 months then $50 after, 1 year contract                                                |
-|  3 | Win 1 of 5 $25 gift cards by sharing your favourite deals from February                                              |
-|  4 | [YMMV] Razer Deathadder V2, $50 plus 20x points                                                                      |
-|  5 | Aukey RGB mechanical gaming keyboard 34.99 free shipping                                                             |
-|  6 | SpeakOut Wireless $100 Top Up + Free SIM + $25 Bonus Promo valid till 3 May 2022                                     |
-|  7 | Digital Only Nintendo Switch Games - $51.98 w/ PSP (MK8D, SMDU, Yoshis Crafted World, Luigis Mansion and SM3D World) |
-|  8 | Logitech MX Keys Mini Keyboard $99.99 (PM at BB/Staples)                                                             |
-|  9 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                      |
-| 10 | Lenovo IdeaPad 5 Pro, 5800H/16GB/512GB, 16" 16:10 QHD+, $960                                                         |
-| 11 | Costco Lg 55 inch TV $499 in store (55up7560) YMMV                                                                   |
-| 12 | Fire HD 10 Tablet (10.1" 1080p full HD display, 32 GB) – (2019 Release) $124.99                                      |
-| 13 | PC Game Pass – 2-Month Membership for the price of one ($11.99)                                                      |
-| 14 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                         |
-| 15 | Monster Soundbar 49.99 + 20x Points YMMV                                                                             |
-| 16 | Ticwatch pro 3 ultra GPS 322.99 tax in FS                                                                            |
-| 17 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                             |
-| 18 | Samsung 980 Pro 2TB NVME drive. PS5 internal NVME expansion storage drive. $349.99 / $399.99 All-time low            |
-| 19 | ATL $349.99, 2TB: Samsung 980 PRO SSD 2TB PCIe NVMe Gen 4 NO HEATSINK                                                |
-| 20 | WD My Cloud Expert Series EX4100 4-Bay Diskless NAS $379.99 or WD My Cloud PR4100 $579.99 (YMMV Amex < 20% offer)    |
-| 21 | Arcade1Up Super Pac-Man with Light up Marquee, 7 Games in 1 $299.97 (reg. $489.99) In store only in Ontario          |
-| 22 | eshop: FAR: Lone Sails (Switch, digital) for $3.77                                                                   |
-| 23 | Microsoft Office Professional 2021 for Windows: Lifetime License - $49.99 USD                                        |
-| 24 | MSI SPATIUM M370 NVMe M.2 1TB SSD, 3D NAND Internal SSD, $110.94                                                     |
-| 25 | Super Mario 3D World+ Bowser's Fury and others - ATL                                                                 |
-| 26 | New Zoomer Wireless March Deal - $45/7GB + $0 TCL 20 Pro                                                             |
-| 27 | Get 2 years with 70% off, about USD $3.5/month                                                                       |
-| 28 | Switch versions of DOOM and DOOM Eternal - $13.37/$26.39 (75%/67% off)                                               |
-| 29 | XBOX Controllers $49.97                                                                                              |
-| 30 | WIndscribe VPN Free 30GB                                                                                             |
-| 31 | Gamestop giving $55 TIV for Mario Switch games March 10th                                                            |
-| 32 | Primus.ca Upto 1GBps $25 for 4 months then $50 after, 1 year contract                                                |
-| 33 | Win 1 of 5 $25 gift cards by sharing your favourite deals from February                                              |
-| 34 | [YMMV] Razer Deathadder V2, $50 plus 20x points                                                                      |
-| 35 | Aukey RGB mechanical gaming keyboard 34.99 free shipping                                                             |
-| 36 | SpeakOut Wireless $100 Top Up + Free SIM + $25 Bonus Promo valid till 3 May 2022                                     |
-| 37 | Digital Only Nintendo Switch Games - $51.98 w/ PSP (MK8D, SMDU, Yoshis Crafted World, Luigis Mansion and SM3D World) |
-| 38 | Logitech MX Keys Mini Keyboard $99.99 (PM at BB/Staples)                                                             |
-| 39 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                      |
-| 40 | Lenovo IdeaPad 5 Pro, 5800H/16GB/512GB, 16" 16:10 QHD+, $960                                                         |
-| 41 | Costco Lg 55 inch TV $499 in store (55up7560) YMMV                                                                   |
-| 42 | Fire HD 10 Tablet (10.1" 1080p full HD display, 32 GB) – (2019 Release) $124.99                                      |
-| 43 | PC Game Pass – 2-Month Membership for the price of one ($11.99)                                                      |
-| 44 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                         |
-| 45 | Monster Soundbar 49.99 + 20x Points YMMV                                                                             |
-| 46 | Ticwatch pro 3 ultra GPS 322.99 tax in FS                                                                            |
-| 47 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                             |
-| 48 | Samsung 980 Pro 2TB NVME drive. PS5 internal NVME expansion storage drive. $349.99 / $399.99 All-time low            |
-| 49 | ATL $349.99, 2TB: Samsung 980 PRO SSD 2TB PCIe NVMe Gen 4 NO HEATSINK                                                |
-| 50 | WD My Cloud Expert Series EX4100 4-Bay Diskless NAS $379.99 or WD My Cloud PR4100 $579.99 (YMMV Amex < 20% offer)    |
-| 51 | Arcade1Up Super Pac-Man with Light up Marquee, 7 Games in 1 $299.97 (reg. $489.99) In store only in Ontario          |
-| 52 | eshop: FAR: Lone Sails (Switch, digital) for $3.77                                                                   |
-| 53 | Microsoft Office Professional 2021 for Windows: Lifetime License - $49.99 USD                                        |
-| 54 | MSI SPATIUM M370 NVMe M.2 1TB SSD, 3D NAND Internal SSD, $110.94                                                     |
-| 55 | Super Mario 3D World+ Bowser's Fury and others - ATL                                                                 |
-| 56 | New Zoomer Wireless March Deal - $45/7GB + $0 TCL 20 Pro                                                             |
-| 57 | Get 2 years with 70% off, about USD $3.5/month                                                                       |
-| 58 | Switch versions of DOOM and DOOM Eternal - $13.37/$26.39 (75%/67% off)                                               |
-| 59 | XBOX Controllers $49.97                                                                                              |
-| 60 | WIndscribe VPN Free 30GB                                                                                             |
-| 61 | Gamestop giving $55 TIV for Mario Switch games March 10th                                                            |
-| 62 | Primus.ca Upto 1GBps $25 for 4 months then $50 after, 1 year contract                                                |
-| 63 | Win 1 of 5 $25 gift cards by sharing your favourite deals from February                                              |
-| 64 | [YMMV] Razer Deathadder V2, $50 plus 20x points                                                                      |
-| 65 | Aukey RGB mechanical gaming keyboard 34.99 free shipping                                                             |
-| 66 | SpeakOut Wireless $100 Top Up + Free SIM + $25 Bonus Promo valid till 3 May 2022                                     |
-| 67 | Digital Only Nintendo Switch Games - $51.98 w/ PSP (MK8D, SMDU, Yoshis Crafted World, Luigis Mansion and SM3D World) |
-| 68 | Logitech MX Keys Mini Keyboard $99.99 (PM at BB/Staples)                                                             |
-| 69 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                      |
-| 70 | Lenovo IdeaPad 5 Pro, 5800H/16GB/512GB, 16" 16:10 QHD+, $960                                                         |
-| 71 | Costco Lg 55 inch TV $499 in store (55up7560) YMMV                                                                   |
-| 72 | Fire HD 10 Tablet (10.1" 1080p full HD display, 32 GB) – (2019 Release) $124.99                                      |
-| 73 | PC Game Pass – 2-Month Membership for the price of one ($11.99)                                                      |
-| 74 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                         |
-| 75 | Monster Soundbar 49.99 + 20x Points YMMV                                                                             |
-| 76 | Ticwatch pro 3 ultra GPS 322.99 tax in FS                                                                            |
-| 77 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                             |
-| 78 | Samsung 980 Pro 2TB NVME drive. PS5 internal NVME expansion storage drive. $349.99 / $399.99 All-time low            |
-| 79 | ATL $349.99, 2TB: Samsung 980 PRO SSD 2TB PCIe NVMe Gen 4 NO HEATSINK                                                |
-| 80 | WD My Cloud Expert Series EX4100 4-Bay Diskless NAS $379.99 or WD My Cloud PR4100 $579.99 (YMMV Amex < 20% offer)    |
-| 81 | Arcade1Up Super Pac-Man with Light up Marquee, 7 Games in 1 $299.97 (reg. $489.99) In store only in Ontario          |
-| 82 | eshop: FAR: Lone Sails (Switch, digital) for $3.77                                                                   |
-| 83 | Microsoft Office Professional 2021 for Windows: Lifetime License - $49.99 USD                                        |
-| 84 | MSI SPATIUM M370 NVMe M.2 1TB SSD, 3D NAND Internal SSD, $110.94                                                     |
-| 85 | Super Mario 3D World+ Bowser's Fury and others - ATL                                                                 |
-| 86 | New Zoomer Wireless March Deal - $45/7GB + $0 TCL 20 Pro                                                             |
-| 87 | Get 2 years with 70% off, about USD $3.5/month                                                                       |
-| 88 | Switch versions of DOOM and DOOM Eternal - $13.37/$26.39 (75%/67% off)                                               |
-| 89 | XBOX Controllers $49.97                                                                                              |
+|    | deals                                                                                                                   |
+|---:|:------------------------------------------------------------------------------------------------------------------------|
+|  0 | $1400 Dell XPS 8940 (Gaming) Nvidia RTX 3070, i5-11400, 8GB RAM, 256GB SSD + 2TB HD, WIN 10 Home, Certified Refurbished |
+|  1 | Microsoft Office Professional 2021 for Windows: Lifetime License - $49.99 USD                                           |
+|  2 | WIndscribe VPN Free 30GB                                                                                                |
+|  3 | KEF Mu3 Wireless Bluetooth In-Ear Headphones $148.99                                                                    |
+|  4 | Netgear Orbi AC2200 Tri-Band Wi-Fi System - 3 Pack Open Box $99.99 In store only YMMV                                   |
+|  5 | RCA 65" smart 4k LED TV $599.99                                                                                         |
+|  6 | [Costco.ca] Dell Inspiron 13 Laptop (i7, 16GB RAM, 512GB SSD, QHD+) $999.99                                             |
+|  7 | Hisense 75U68G ULED 4K Android TV- $1398                                                                                |
+|  8 | HyperX Alloy Origins Core - Tenkeyless Mechanical Gaming Keyboard (Red Switch) $89.99                                   |
+|  9 | Nintendo Switch Digital Mario Games - Kart 8, 3D World, Luigi, U Deluxe, Yoshi - $53.59                                 |
+| 10 | Lenovo IdeaPad 5 Pro, 5800H/16GB/512GB, 16" 16:10 QHD+, $960                                                            |
+| 11 | $397 - LG SP7Y 440W 5.1 Soundbar - PM with Bestbuy/Visions                                                              |
+| 12 | Gigabyte B450M DS3H (AMD Ryzen AM4/Micro ATX/M.2/HMDI/DVI/USB 3.1/DDR4/Motherboard) $59.99                              |
+| 13 | [YMMV - Richmond Centre] Shaw "Fibre+" (Cable) Internet Deals - Internet 500 for $70, 750 for $75                       |
+| 14 | WD Black Sn850 SSD $189.99 1TB $359.99 2TB                                                                              |
+| 15 | Jabra 85T refurbished Grey earbuds $92.99 no tax and free shipping                                                      |
+| 16 | Legion 7 AMD - Rakuten 10% (build your own Legion 7 3070 for $1,889.55)                                                 |
+| 17 | LEGO® The Incredibles. 85% discounted. $10.50 YMMV                                                                      |
+| 18 | Acer Gaming desktop 11th gen i5 16GB DDR4 1TB SSD RTX 3060 Ti 1599.99$ + tax                                            |
+| 19 | Acer VG240Y 24-in IPS Gaming Monitor, (165 Hz, 1920 x 1080) $179.99 ($80 savings)                                       |
+| 20 | Fasgear 90 degree USB-C cables with 100W PD, 10Gbps & 4K@60Hz: $17.84 (6ft) - $22.09 (10ft)                             |
+| 21 | Beats 50% off                                                                                                           |
+| 22 | ProGrade V90 UHS-II SDXC Cards - 256GB $202, 128GB $113, 64GB $73                                                       |
+| 23 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
+| 24 | Cooler Master MWE Gold 850 V2 Fully Modular PSU - 89.76 (Amazon.ca)                                                     |
+| 25 | Prograde SD Card V90 (256GB) -Up to 250MB/s Write Speed and 300 MB/s - $202 ATL                                         |
+| 26 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                         |
+| 27 | Govee wifi/Bluetooth thermometer - $29.99                                                                               |
+| 28 | Xbox Game Pass Ultimate: 3 Month Membership (Digital Code) $31.89                                                       |
+| 29 | Gamestop giving $55 TIV for Mario Switch games March 10th                                                               |
+| 30 | $1400 Dell XPS 8940 (Gaming) Nvidia RTX 3070, i5-11400, 8GB RAM, 256GB SSD + 2TB HD, WIN 10 Home, Certified Refurbished |
+| 31 | Microsoft Office Professional 2021 for Windows: Lifetime License - $49.99 USD                                           |
+| 32 | WIndscribe VPN Free 30GB                                                                                                |
+| 33 | KEF Mu3 Wireless Bluetooth In-Ear Headphones $148.99                                                                    |
+| 34 | Netgear Orbi AC2200 Tri-Band Wi-Fi System - 3 Pack Open Box $99.99 In store only YMMV                                   |
+| 35 | RCA 65" smart 4k LED TV $599.99                                                                                         |
+| 36 | [Costco.ca] Dell Inspiron 13 Laptop (i7, 16GB RAM, 512GB SSD, QHD+) $999.99                                             |
+| 37 | Hisense 75U68G ULED 4K Android TV- $1398                                                                                |
+| 38 | HyperX Alloy Origins Core - Tenkeyless Mechanical Gaming Keyboard (Red Switch) $89.99                                   |
+| 39 | Nintendo Switch Digital Mario Games - Kart 8, 3D World, Luigi, U Deluxe, Yoshi - $53.59                                 |
+| 40 | Lenovo IdeaPad 5 Pro, 5800H/16GB/512GB, 16" 16:10 QHD+, $960                                                            |
+| 41 | $397 - LG SP7Y 440W 5.1 Soundbar - PM with Bestbuy/Visions                                                              |
+| 42 | Gigabyte B450M DS3H (AMD Ryzen AM4/Micro ATX/M.2/HMDI/DVI/USB 3.1/DDR4/Motherboard) $59.99                              |
+| 43 | [YMMV - Richmond Centre] Shaw "Fibre+" (Cable) Internet Deals - Internet 500 for $70, 750 for $75                       |
+| 44 | WD Black Sn850 SSD $189.99 1TB $359.99 2TB                                                                              |
+| 45 | Jabra 85T refurbished Grey earbuds $92.99 no tax and free shipping                                                      |
+| 46 | Legion 7 AMD - Rakuten 10% (build your own Legion 7 3070 for $1,889.55)                                                 |
+| 47 | LEGO® The Incredibles. 85% discounted. $10.50 YMMV                                                                      |
+| 48 | Acer Gaming desktop 11th gen i5 16GB DDR4 1TB SSD RTX 3060 Ti 1599.99$ + tax                                            |
+| 49 | Acer VG240Y 24-in IPS Gaming Monitor, (165 Hz, 1920 x 1080) $179.99 ($80 savings)                                       |
+| 50 | Fasgear 90 degree USB-C cables with 100W PD, 10Gbps & 4K@60Hz: $17.84 (6ft) - $22.09 (10ft)                             |
+| 51 | Beats 50% off                                                                                                           |
+| 52 | ProGrade V90 UHS-II SDXC Cards - 256GB $202, 128GB $113, 64GB $73                                                       |
+| 53 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
+| 54 | Cooler Master MWE Gold 850 V2 Fully Modular PSU - 89.76 (Amazon.ca)                                                     |
+| 55 | Prograde SD Card V90 (256GB) -Up to 250MB/s Write Speed and 300 MB/s - $202 ATL                                         |
+| 56 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                         |
+| 57 | Govee wifi/Bluetooth thermometer - $29.99                                                                               |
+| 58 | Xbox Game Pass Ultimate: 3 Month Membership (Digital Code) $31.89                                                       |
+| 59 | Gamestop giving $55 TIV for Mario Switch games March 10th                                                               |
+| 60 | $1400 Dell XPS 8940 (Gaming) Nvidia RTX 3070, i5-11400, 8GB RAM, 256GB SSD + 2TB HD, WIN 10 Home, Certified Refurbished |
+| 61 | Microsoft Office Professional 2021 for Windows: Lifetime License - $49.99 USD                                           |
+| 62 | WIndscribe VPN Free 30GB                                                                                                |
+| 63 | KEF Mu3 Wireless Bluetooth In-Ear Headphones $148.99                                                                    |
+| 64 | Netgear Orbi AC2200 Tri-Band Wi-Fi System - 3 Pack Open Box $99.99 In store only YMMV                                   |
+| 65 | RCA 65" smart 4k LED TV $599.99                                                                                         |
+| 66 | [Costco.ca] Dell Inspiron 13 Laptop (i7, 16GB RAM, 512GB SSD, QHD+) $999.99                                             |
+| 67 | Hisense 75U68G ULED 4K Android TV- $1398                                                                                |
+| 68 | HyperX Alloy Origins Core - Tenkeyless Mechanical Gaming Keyboard (Red Switch) $89.99                                   |
+| 69 | Nintendo Switch Digital Mario Games - Kart 8, 3D World, Luigi, U Deluxe, Yoshi - $53.59                                 |
+| 70 | Lenovo IdeaPad 5 Pro, 5800H/16GB/512GB, 16" 16:10 QHD+, $960                                                            |
+| 71 | $397 - LG SP7Y 440W 5.1 Soundbar - PM with Bestbuy/Visions                                                              |
+| 72 | Gigabyte B450M DS3H (AMD Ryzen AM4/Micro ATX/M.2/HMDI/DVI/USB 3.1/DDR4/Motherboard) $59.99                              |
+| 73 | [YMMV - Richmond Centre] Shaw "Fibre+" (Cable) Internet Deals - Internet 500 for $70, 750 for $75                       |
+| 74 | WD Black Sn850 SSD $189.99 1TB $359.99 2TB                                                                              |
+| 75 | Jabra 85T refurbished Grey earbuds $92.99 no tax and free shipping                                                      |
+| 76 | Legion 7 AMD - Rakuten 10% (build your own Legion 7 3070 for $1,889.55)                                                 |
+| 77 | LEGO® The Incredibles. 85% discounted. $10.50 YMMV                                                                      |
+| 78 | Acer Gaming desktop 11th gen i5 16GB DDR4 1TB SSD RTX 3060 Ti 1599.99$ + tax                                            |
+| 79 | Acer VG240Y 24-in IPS Gaming Monitor, (165 Hz, 1920 x 1080) $179.99 ($80 savings)                                       |
+| 80 | Fasgear 90 degree USB-C cables with 100W PD, 10Gbps & 4K@60Hz: $17.84 (6ft) - $22.09 (10ft)                             |
+| 81 | Beats 50% off                                                                                                           |
+| 82 | ProGrade V90 UHS-II SDXC Cards - 256GB $202, 128GB $113, 64GB $73                                                       |
+| 83 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
+| 84 | Cooler Master MWE Gold 850 V2 Fully Modular PSU - 89.76 (Amazon.ca)                                                     |
+| 85 | Prograde SD Card V90 (256GB) -Up to 250MB/s Write Speed and 300 MB/s - $202 ATL                                         |
+| 86 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                         |
+| 87 | Govee wifi/Bluetooth thermometer - $29.99                                                                               |
+| 88 | Xbox Game Pass Ultimate: 3 Month Membership (Digital Code) $31.89                                                       |
+| 89 | Gamestop giving $55 TIV for Mario Switch games March 10th                                                               |
