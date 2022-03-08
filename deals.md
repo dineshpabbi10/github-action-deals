@@ -1,13 +1,13 @@
 |    | deals                                                                                                                   |
 |---:|:------------------------------------------------------------------------------------------------------------------------|
-|  0 | $1400 Dell XPS 8940 (Gaming) Nvidia RTX 3070, i5-11400, 8GB RAM, 256GB SSD + 2TB HD, WIN 10 Home, Certified Refurbished |
-|  1 | Microsoft Office Professional 2021 for Windows: Lifetime License - $49.99 USD                                           |
-|  2 | WIndscribe VPN Free 30GB                                                                                                |
-|  3 | KEF Mu3 Wireless Bluetooth In-Ear Headphones $148.99                                                                    |
-|  4 | Netgear Orbi AC2200 Tri-Band Wi-Fi System - 3 Pack Open Box $99.99 In store only YMMV                                   |
-|  5 | RCA 65" smart 4k LED TV $599.99                                                                                         |
-|  6 | [Costco.ca] Dell Inspiron 13 Laptop (i7, 16GB RAM, 512GB SSD, QHD+) $999.99                                             |
-|  7 | Hisense 75U68G ULED 4K Android TV- $1398                                                                                |
+|  0 | Hisense 75U68G ULED 4K Android TV- $1398                                                                                |
+|  1 | $1400 Dell XPS 8940 (Gaming) Nvidia RTX 3070, i5-11400, 8GB RAM, 256GB SSD + 2TB HD, WIN 10 Home, Certified Refurbished |
+|  2 | Microsoft Office Professional 2021 for Windows: Lifetime License - $49.99 USD                                           |
+|  3 | WIndscribe VPN Free 30GB                                                                                                |
+|  4 | KEF Mu3 Wireless Bluetooth In-Ear Headphones $148.99                                                                    |
+|  5 | Netgear Orbi AC2200 Tri-Band Wi-Fi System - 3 Pack Open Box $99.99 In store only YMMV                                   |
+|  6 | RCA 65" smart 4k LED TV $599.99                                                                                         |
+|  7 | [Costco.ca] Dell Inspiron 13 Laptop (i7, 16GB RAM, 512GB SSD, QHD+) $999.99                                             |
 |  8 | HyperX Alloy Origins Core - Tenkeyless Mechanical Gaming Keyboard (Red Switch) $89.99                                   |
 |  9 | Nintendo Switch Digital Mario Games - Kart 8, 3D World, Luigi, U Deluxe, Yoshi - $53.59                                 |
 | 10 | Lenovo IdeaPad 5 Pro, 5800H/16GB/512GB, 16" 16:10 QHD+, $960                                                            |
@@ -30,14 +30,14 @@
 | 27 | Govee wifi/Bluetooth thermometer - $29.99                                                                               |
 | 28 | Xbox Game Pass Ultimate: 3 Month Membership (Digital Code) $31.89                                                       |
 | 29 | Gamestop giving $55 TIV for Mario Switch games March 10th                                                               |
-| 30 | $1400 Dell XPS 8940 (Gaming) Nvidia RTX 3070, i5-11400, 8GB RAM, 256GB SSD + 2TB HD, WIN 10 Home, Certified Refurbished |
-| 31 | Microsoft Office Professional 2021 for Windows: Lifetime License - $49.99 USD                                           |
-| 32 | WIndscribe VPN Free 30GB                                                                                                |
-| 33 | KEF Mu3 Wireless Bluetooth In-Ear Headphones $148.99                                                                    |
-| 34 | Netgear Orbi AC2200 Tri-Band Wi-Fi System - 3 Pack Open Box $99.99 In store only YMMV                                   |
-| 35 | RCA 65" smart 4k LED TV $599.99                                                                                         |
-| 36 | [Costco.ca] Dell Inspiron 13 Laptop (i7, 16GB RAM, 512GB SSD, QHD+) $999.99                                             |
-| 37 | Hisense 75U68G ULED 4K Android TV- $1398                                                                                |
+| 30 | Hisense 75U68G ULED 4K Android TV- $1398                                                                                |
+| 31 | $1400 Dell XPS 8940 (Gaming) Nvidia RTX 3070, i5-11400, 8GB RAM, 256GB SSD + 2TB HD, WIN 10 Home, Certified Refurbished |
+| 32 | Microsoft Office Professional 2021 for Windows: Lifetime License - $49.99 USD                                           |
+| 33 | WIndscribe VPN Free 30GB                                                                                                |
+| 34 | KEF Mu3 Wireless Bluetooth In-Ear Headphones $148.99                                                                    |
+| 35 | Netgear Orbi AC2200 Tri-Band Wi-Fi System - 3 Pack Open Box $99.99 In store only YMMV                                   |
+| 36 | RCA 65" smart 4k LED TV $599.99                                                                                         |
+| 37 | [Costco.ca] Dell Inspiron 13 Laptop (i7, 16GB RAM, 512GB SSD, QHD+) $999.99                                             |
 | 38 | HyperX Alloy Origins Core - Tenkeyless Mechanical Gaming Keyboard (Red Switch) $89.99                                   |
 | 39 | Nintendo Switch Digital Mario Games - Kart 8, 3D World, Luigi, U Deluxe, Yoshi - $53.59                                 |
 | 40 | Lenovo IdeaPad 5 Pro, 5800H/16GB/512GB, 16" 16:10 QHD+, $960                                                            |
@@ -60,14 +60,14 @@
 | 57 | Govee wifi/Bluetooth thermometer - $29.99                                                                               |
 | 58 | Xbox Game Pass Ultimate: 3 Month Membership (Digital Code) $31.89                                                       |
 | 59 | Gamestop giving $55 TIV for Mario Switch games March 10th                                                               |
-| 60 | $1400 Dell XPS 8940 (Gaming) Nvidia RTX 3070, i5-11400, 8GB RAM, 256GB SSD + 2TB HD, WIN 10 Home, Certified Refurbished |
-| 61 | Microsoft Office Professional 2021 for Windows: Lifetime License - $49.99 USD                                           |
-| 62 | WIndscribe VPN Free 30GB                                                                                                |
-| 63 | KEF Mu3 Wireless Bluetooth In-Ear Headphones $148.99                                                                    |
-| 64 | Netgear Orbi AC2200 Tri-Band Wi-Fi System - 3 Pack Open Box $99.99 In store only YMMV                                   |
-| 65 | RCA 65" smart 4k LED TV $599.99                                                                                         |
-| 66 | [Costco.ca] Dell Inspiron 13 Laptop (i7, 16GB RAM, 512GB SSD, QHD+) $999.99                                             |
-| 67 | Hisense 75U68G ULED 4K Android TV- $1398                                                                                |
+| 60 | Hisense 75U68G ULED 4K Android TV- $1398                                                                                |
+| 61 | $1400 Dell XPS 8940 (Gaming) Nvidia RTX 3070, i5-11400, 8GB RAM, 256GB SSD + 2TB HD, WIN 10 Home, Certified Refurbished |
+| 62 | Microsoft Office Professional 2021 for Windows: Lifetime License - $49.99 USD                                           |
+| 63 | WIndscribe VPN Free 30GB                                                                                                |
+| 64 | KEF Mu3 Wireless Bluetooth In-Ear Headphones $148.99                                                                    |
+| 65 | Netgear Orbi AC2200 Tri-Band Wi-Fi System - 3 Pack Open Box $99.99 In store only YMMV                                   |
+| 66 | RCA 65" smart 4k LED TV $599.99                                                                                         |
+| 67 | [Costco.ca] Dell Inspiron 13 Laptop (i7, 16GB RAM, 512GB SSD, QHD+) $999.99                                             |
 | 68 | HyperX Alloy Origins Core - Tenkeyless Mechanical Gaming Keyboard (Red Switch) $89.99                                   |
 | 69 | Nintendo Switch Digital Mario Games - Kart 8, 3D World, Luigi, U Deluxe, Yoshi - $53.59                                 |
 | 70 | Lenovo IdeaPad 5 Pro, 5800H/16GB/512GB, 16" 16:10 QHD+, $960                                                            |
