@@ -1,92 +1,92 @@
-|    | deals                                                                                                                   |
-|---:|:------------------------------------------------------------------------------------------------------------------------|
-|  0 | Hisense 75U68G ULED 4K Android TV- $1398                                                                                |
-|  1 | $1400 Dell XPS 8940 (Gaming) Nvidia RTX 3070, i5-11400, 8GB RAM, 256GB SSD + 2TB HD, WIN 10 Home, Certified Refurbished |
-|  2 | Microsoft Office Professional 2021 for Windows: Lifetime License - $49.99 USD                                           |
-|  3 | WIndscribe VPN Free 30GB                                                                                                |
-|  4 | KEF Mu3 Wireless Bluetooth In-Ear Headphones $148.99                                                                    |
-|  5 | Netgear Orbi AC2200 Tri-Band Wi-Fi System - 3 Pack Open Box $99.99 In store only YMMV                                   |
-|  6 | RCA 65" smart 4k LED TV $599.99                                                                                         |
-|  7 | [Costco.ca] Dell Inspiron 13 Laptop (i7, 16GB RAM, 512GB SSD, QHD+) $999.99                                             |
-|  8 | HyperX Alloy Origins Core - Tenkeyless Mechanical Gaming Keyboard (Red Switch) $89.99                                   |
-|  9 | Nintendo Switch Digital Mario Games - Kart 8, 3D World, Luigi, U Deluxe, Yoshi - $53.59                                 |
-| 10 | Lenovo IdeaPad 5 Pro, 5800H/16GB/512GB, 16" 16:10 QHD+, $960                                                            |
-| 11 | $397 - LG SP7Y 440W 5.1 Soundbar - PM with Bestbuy/Visions                                                              |
-| 12 | Gigabyte B450M DS3H (AMD Ryzen AM4/Micro ATX/M.2/HMDI/DVI/USB 3.1/DDR4/Motherboard) $59.99                              |
-| 13 | [YMMV - Richmond Centre] Shaw "Fibre+" (Cable) Internet Deals - Internet 500 for $70, 750 for $75                       |
-| 14 | WD Black Sn850 SSD $189.99 1TB $359.99 2TB                                                                              |
-| 15 | Jabra 85T refurbished Grey earbuds $92.99 no tax and free shipping                                                      |
-| 16 | Legion 7 AMD - Rakuten 10% (build your own Legion 7 3070 for $1,889.55)                                                 |
-| 17 | LEGO® The Incredibles. 85% discounted. $10.50 YMMV                                                                      |
-| 18 | Acer Gaming desktop 11th gen i5 16GB DDR4 1TB SSD RTX 3060 Ti 1599.99$ + tax                                            |
-| 19 | Acer VG240Y 24-in IPS Gaming Monitor, (165 Hz, 1920 x 1080) $179.99 ($80 savings)                                       |
-| 20 | Fasgear 90 degree USB-C cables with 100W PD, 10Gbps & 4K@60Hz: $17.84 (6ft) - $22.09 (10ft)                             |
-| 21 | Beats 50% off                                                                                                           |
-| 22 | ProGrade V90 UHS-II SDXC Cards - 256GB $202, 128GB $113, 64GB $73                                                       |
-| 23 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
-| 24 | Cooler Master MWE Gold 850 V2 Fully Modular PSU - 89.76 (Amazon.ca)                                                     |
-| 25 | Prograde SD Card V90 (256GB) -Up to 250MB/s Write Speed and 300 MB/s - $202 ATL                                         |
-| 26 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                         |
-| 27 | Govee wifi/Bluetooth thermometer - $29.99                                                                               |
-| 28 | Xbox Game Pass Ultimate: 3 Month Membership (Digital Code) $31.89                                                       |
-| 29 | Gamestop giving $55 TIV for Mario Switch games March 10th                                                               |
-| 30 | Hisense 75U68G ULED 4K Android TV- $1398                                                                                |
-| 31 | $1400 Dell XPS 8940 (Gaming) Nvidia RTX 3070, i5-11400, 8GB RAM, 256GB SSD + 2TB HD, WIN 10 Home, Certified Refurbished |
-| 32 | Microsoft Office Professional 2021 for Windows: Lifetime License - $49.99 USD                                           |
-| 33 | WIndscribe VPN Free 30GB                                                                                                |
-| 34 | KEF Mu3 Wireless Bluetooth In-Ear Headphones $148.99                                                                    |
-| 35 | Netgear Orbi AC2200 Tri-Band Wi-Fi System - 3 Pack Open Box $99.99 In store only YMMV                                   |
-| 36 | RCA 65" smart 4k LED TV $599.99                                                                                         |
-| 37 | [Costco.ca] Dell Inspiron 13 Laptop (i7, 16GB RAM, 512GB SSD, QHD+) $999.99                                             |
-| 38 | HyperX Alloy Origins Core - Tenkeyless Mechanical Gaming Keyboard (Red Switch) $89.99                                   |
-| 39 | Nintendo Switch Digital Mario Games - Kart 8, 3D World, Luigi, U Deluxe, Yoshi - $53.59                                 |
-| 40 | Lenovo IdeaPad 5 Pro, 5800H/16GB/512GB, 16" 16:10 QHD+, $960                                                            |
-| 41 | $397 - LG SP7Y 440W 5.1 Soundbar - PM with Bestbuy/Visions                                                              |
-| 42 | Gigabyte B450M DS3H (AMD Ryzen AM4/Micro ATX/M.2/HMDI/DVI/USB 3.1/DDR4/Motherboard) $59.99                              |
-| 43 | [YMMV - Richmond Centre] Shaw "Fibre+" (Cable) Internet Deals - Internet 500 for $70, 750 for $75                       |
-| 44 | WD Black Sn850 SSD $189.99 1TB $359.99 2TB                                                                              |
-| 45 | Jabra 85T refurbished Grey earbuds $92.99 no tax and free shipping                                                      |
-| 46 | Legion 7 AMD - Rakuten 10% (build your own Legion 7 3070 for $1,889.55)                                                 |
-| 47 | LEGO® The Incredibles. 85% discounted. $10.50 YMMV                                                                      |
-| 48 | Acer Gaming desktop 11th gen i5 16GB DDR4 1TB SSD RTX 3060 Ti 1599.99$ + tax                                            |
-| 49 | Acer VG240Y 24-in IPS Gaming Monitor, (165 Hz, 1920 x 1080) $179.99 ($80 savings)                                       |
-| 50 | Fasgear 90 degree USB-C cables with 100W PD, 10Gbps & 4K@60Hz: $17.84 (6ft) - $22.09 (10ft)                             |
-| 51 | Beats 50% off                                                                                                           |
-| 52 | ProGrade V90 UHS-II SDXC Cards - 256GB $202, 128GB $113, 64GB $73                                                       |
-| 53 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
-| 54 | Cooler Master MWE Gold 850 V2 Fully Modular PSU - 89.76 (Amazon.ca)                                                     |
-| 55 | Prograde SD Card V90 (256GB) -Up to 250MB/s Write Speed and 300 MB/s - $202 ATL                                         |
-| 56 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                         |
-| 57 | Govee wifi/Bluetooth thermometer - $29.99                                                                               |
-| 58 | Xbox Game Pass Ultimate: 3 Month Membership (Digital Code) $31.89                                                       |
-| 59 | Gamestop giving $55 TIV for Mario Switch games March 10th                                                               |
-| 60 | Hisense 75U68G ULED 4K Android TV- $1398                                                                                |
-| 61 | $1400 Dell XPS 8940 (Gaming) Nvidia RTX 3070, i5-11400, 8GB RAM, 256GB SSD + 2TB HD, WIN 10 Home, Certified Refurbished |
-| 62 | Microsoft Office Professional 2021 for Windows: Lifetime License - $49.99 USD                                           |
-| 63 | WIndscribe VPN Free 30GB                                                                                                |
-| 64 | KEF Mu3 Wireless Bluetooth In-Ear Headphones $148.99                                                                    |
-| 65 | Netgear Orbi AC2200 Tri-Band Wi-Fi System - 3 Pack Open Box $99.99 In store only YMMV                                   |
-| 66 | RCA 65" smart 4k LED TV $599.99                                                                                         |
-| 67 | [Costco.ca] Dell Inspiron 13 Laptop (i7, 16GB RAM, 512GB SSD, QHD+) $999.99                                             |
-| 68 | HyperX Alloy Origins Core - Tenkeyless Mechanical Gaming Keyboard (Red Switch) $89.99                                   |
-| 69 | Nintendo Switch Digital Mario Games - Kart 8, 3D World, Luigi, U Deluxe, Yoshi - $53.59                                 |
-| 70 | Lenovo IdeaPad 5 Pro, 5800H/16GB/512GB, 16" 16:10 QHD+, $960                                                            |
-| 71 | $397 - LG SP7Y 440W 5.1 Soundbar - PM with Bestbuy/Visions                                                              |
-| 72 | Gigabyte B450M DS3H (AMD Ryzen AM4/Micro ATX/M.2/HMDI/DVI/USB 3.1/DDR4/Motherboard) $59.99                              |
-| 73 | [YMMV - Richmond Centre] Shaw "Fibre+" (Cable) Internet Deals - Internet 500 for $70, 750 for $75                       |
-| 74 | WD Black Sn850 SSD $189.99 1TB $359.99 2TB                                                                              |
-| 75 | Jabra 85T refurbished Grey earbuds $92.99 no tax and free shipping                                                      |
-| 76 | Legion 7 AMD - Rakuten 10% (build your own Legion 7 3070 for $1,889.55)                                                 |
-| 77 | LEGO® The Incredibles. 85% discounted. $10.50 YMMV                                                                      |
-| 78 | Acer Gaming desktop 11th gen i5 16GB DDR4 1TB SSD RTX 3060 Ti 1599.99$ + tax                                            |
-| 79 | Acer VG240Y 24-in IPS Gaming Monitor, (165 Hz, 1920 x 1080) $179.99 ($80 savings)                                       |
-| 80 | Fasgear 90 degree USB-C cables with 100W PD, 10Gbps & 4K@60Hz: $17.84 (6ft) - $22.09 (10ft)                             |
-| 81 | Beats 50% off                                                                                                           |
-| 82 | ProGrade V90 UHS-II SDXC Cards - 256GB $202, 128GB $113, 64GB $73                                                       |
-| 83 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
-| 84 | Cooler Master MWE Gold 850 V2 Fully Modular PSU - 89.76 (Amazon.ca)                                                     |
-| 85 | Prograde SD Card V90 (256GB) -Up to 250MB/s Write Speed and 300 MB/s - $202 ATL                                         |
-| 86 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                         |
-| 87 | Govee wifi/Bluetooth thermometer - $29.99                                                                               |
-| 88 | Xbox Game Pass Ultimate: 3 Month Membership (Digital Code) $31.89                                                       |
-| 89 | Gamestop giving $55 TIV for Mario Switch games March 10th                                                               |
+|    | deals                                                                                                                    |
+|---:|:-------------------------------------------------------------------------------------------------------------------------|
+|  0 | Samsung Super Fast Chargers - 25W or 45W (almost 50% off)                                                                |
+|  1 | GTA V (PS5) currently up on the PS Store at 75% off ($9.99/€9,99 USD, $12.50 CAD)until June 14 and can be pre-loaded now |
+|  2 | Ubiquiti Wifi 6 AP - instock and POE Plus Injector s(OOS)                                                                |
+|  3 | Onkyo TX-RZ50 ($295 off)                                                                                                 |
+|  4 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                                 |
+|  5 | HyperX Alloy Origins Core - Tenkeyless Mechanical Gaming Keyboard (Red Switch) $89.99                                    |
+|  6 | Bundle for Ukraine $10 USD for 991 items (572 games) DRM FREE                                                            |
+|  7 | ADATA Legend 840 PCIe Gen4 x4 NVMe 1TB @ $129.99 (13% off)                                                               |
+|  8 | Mario Kart 8 Deluxe and Super Mario 3D World+Bowser's Fury PHYSICAL COPIES $54.99 March 11th-16th                        |
+|  9 | Dell G15 Ryzen Edition Clearance 5600H / 8GB / 3050 / 256GB $899 + Workperks 5% off + Rakuten 2% off                     |
+| 10 | Western Digital 4TB Red Plus WD40EFZX Internal 3.5" CMR Hard Drive - $94.99                                              |
+| 11 | Select Digital Games on Sale-Mario kart,New Super Mario Bros U, Luigi's Mansion, Yoshi, Super Mario 3d World             |
+| 12 | ORICO Portable Surge Protector with 3 Outlets 3 USB Ports $4.99 FS                                                       |
+| 13 | ORICO DCAP-5U 5-Port USB Wall Charger Adapter:$3.99 and FS                                                               |
+| 14 | 25% off 12-month Playstation Plus subscription - $52.49                                                                  |
+| 15 | Jabra 85T refurbished Grey earbuds $92.99 no tax and free shipping                                                       |
+| 16 | RCA 65" smart 4k LED TV $599.99                                                                                          |
+| 17 | Ticwatch pro 3 ultra GPS 322.99 tax in FS                                                                                |
+| 18 | Gigabyte B450 AORUS Elite V2 (AMD Ryzen AM4/ATX/M.2 Thermal Guard/Hmdi/DVI/USB 3.1/DDR4) $89.99                          |
+| 19 | [AT&T] $45 Unlimited Max 22 GB Prepaid Priority Unlimited Prepaid Deprioritized US / CAN / MEX Not Multi-line Eligible   |
+| 20 | March 5-11 Get PC Optimum™ points** 5.000 for every $50 spent on Apple Gift Cards!                                       |
+| 21 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                          |
+| 22 | [YMMV - Richmond Centre] Shaw "Fibre+" (Cable) Internet Deals - Internet 500 for $70, 750 for $75                        |
+| 23 | Jabra Elite 7 Active 10% off (Flash Sale)                                                                                |
+| 24 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $60                      |
+| 25 | [QC Only] 15% off all bundles with promo code                                                                            |
+| 26 | WIndscribe VPN Free 30GB                                                                                                 |
+| 27 | Aukey RGB mechanical gaming keyboard 34.99 free shipping                                                                 |
+| 28 | Xbox Game Pass Ultimate: 3 Month Membership (Digital Code) $31.89                                                        |
+| 29 | Nulaxy Laptop Stand - $34.84                                                                                             |
+| 30 | Samsung Super Fast Chargers - 25W or 45W (almost 50% off)                                                                |
+| 31 | GTA V (PS5) currently up on the PS Store at 75% off ($9.99/€9,99 USD, $12.50 CAD)until June 14 and can be pre-loaded now |
+| 32 | Ubiquiti Wifi 6 AP - instock and POE Plus Injector s(OOS)                                                                |
+| 33 | Onkyo TX-RZ50 ($295 off)                                                                                                 |
+| 34 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                                 |
+| 35 | HyperX Alloy Origins Core - Tenkeyless Mechanical Gaming Keyboard (Red Switch) $89.99                                    |
+| 36 | Bundle for Ukraine $10 USD for 991 items (572 games) DRM FREE                                                            |
+| 37 | ADATA Legend 840 PCIe Gen4 x4 NVMe 1TB @ $129.99 (13% off)                                                               |
+| 38 | Mario Kart 8 Deluxe and Super Mario 3D World+Bowser's Fury PHYSICAL COPIES $54.99 March 11th-16th                        |
+| 39 | Dell G15 Ryzen Edition Clearance 5600H / 8GB / 3050 / 256GB $899 + Workperks 5% off + Rakuten 2% off                     |
+| 40 | Western Digital 4TB Red Plus WD40EFZX Internal 3.5" CMR Hard Drive - $94.99                                              |
+| 41 | Select Digital Games on Sale-Mario kart,New Super Mario Bros U, Luigi's Mansion, Yoshi, Super Mario 3d World             |
+| 42 | ORICO Portable Surge Protector with 3 Outlets 3 USB Ports $4.99 FS                                                       |
+| 43 | ORICO DCAP-5U 5-Port USB Wall Charger Adapter:$3.99 and FS                                                               |
+| 44 | 25% off 12-month Playstation Plus subscription - $52.49                                                                  |
+| 45 | Jabra 85T refurbished Grey earbuds $92.99 no tax and free shipping                                                       |
+| 46 | RCA 65" smart 4k LED TV $599.99                                                                                          |
+| 47 | Ticwatch pro 3 ultra GPS 322.99 tax in FS                                                                                |
+| 48 | Gigabyte B450 AORUS Elite V2 (AMD Ryzen AM4/ATX/M.2 Thermal Guard/Hmdi/DVI/USB 3.1/DDR4) $89.99                          |
+| 49 | [AT&T] $45 Unlimited Max 22 GB Prepaid Priority Unlimited Prepaid Deprioritized US / CAN / MEX Not Multi-line Eligible   |
+| 50 | March 5-11 Get PC Optimum™ points** 5.000 for every $50 spent on Apple Gift Cards!                                       |
+| 51 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                          |
+| 52 | [YMMV - Richmond Centre] Shaw "Fibre+" (Cable) Internet Deals - Internet 500 for $70, 750 for $75                        |
+| 53 | Jabra Elite 7 Active 10% off (Flash Sale)                                                                                |
+| 54 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $60                      |
+| 55 | [QC Only] 15% off all bundles with promo code                                                                            |
+| 56 | WIndscribe VPN Free 30GB                                                                                                 |
+| 57 | Aukey RGB mechanical gaming keyboard 34.99 free shipping                                                                 |
+| 58 | Xbox Game Pass Ultimate: 3 Month Membership (Digital Code) $31.89                                                        |
+| 59 | Nulaxy Laptop Stand - $34.84                                                                                             |
+| 60 | Samsung Super Fast Chargers - 25W or 45W (almost 50% off)                                                                |
+| 61 | GTA V (PS5) currently up on the PS Store at 75% off ($9.99/€9,99 USD, $12.50 CAD)until June 14 and can be pre-loaded now |
+| 62 | Ubiquiti Wifi 6 AP - instock and POE Plus Injector s(OOS)                                                                |
+| 63 | Onkyo TX-RZ50 ($295 off)                                                                                                 |
+| 64 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                                 |
+| 65 | HyperX Alloy Origins Core - Tenkeyless Mechanical Gaming Keyboard (Red Switch) $89.99                                    |
+| 66 | Bundle for Ukraine $10 USD for 991 items (572 games) DRM FREE                                                            |
+| 67 | ADATA Legend 840 PCIe Gen4 x4 NVMe 1TB @ $129.99 (13% off)                                                               |
+| 68 | Mario Kart 8 Deluxe and Super Mario 3D World+Bowser's Fury PHYSICAL COPIES $54.99 March 11th-16th                        |
+| 69 | Dell G15 Ryzen Edition Clearance 5600H / 8GB / 3050 / 256GB $899 + Workperks 5% off + Rakuten 2% off                     |
+| 70 | Western Digital 4TB Red Plus WD40EFZX Internal 3.5" CMR Hard Drive - $94.99                                              |
+| 71 | Select Digital Games on Sale-Mario kart,New Super Mario Bros U, Luigi's Mansion, Yoshi, Super Mario 3d World             |
+| 72 | ORICO Portable Surge Protector with 3 Outlets 3 USB Ports $4.99 FS                                                       |
+| 73 | ORICO DCAP-5U 5-Port USB Wall Charger Adapter:$3.99 and FS                                                               |
+| 74 | 25% off 12-month Playstation Plus subscription - $52.49                                                                  |
+| 75 | Jabra 85T refurbished Grey earbuds $92.99 no tax and free shipping                                                       |
+| 76 | RCA 65" smart 4k LED TV $599.99                                                                                          |
+| 77 | Ticwatch pro 3 ultra GPS 322.99 tax in FS                                                                                |
+| 78 | Gigabyte B450 AORUS Elite V2 (AMD Ryzen AM4/ATX/M.2 Thermal Guard/Hmdi/DVI/USB 3.1/DDR4) $89.99                          |
+| 79 | [AT&T] $45 Unlimited Max 22 GB Prepaid Priority Unlimited Prepaid Deprioritized US / CAN / MEX Not Multi-line Eligible   |
+| 80 | March 5-11 Get PC Optimum™ points** 5.000 for every $50 spent on Apple Gift Cards!                                       |
+| 81 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                          |
+| 82 | [YMMV - Richmond Centre] Shaw "Fibre+" (Cable) Internet Deals - Internet 500 for $70, 750 for $75                        |
+| 83 | Jabra Elite 7 Active 10% off (Flash Sale)                                                                                |
+| 84 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $60                      |
+| 85 | [QC Only] 15% off all bundles with promo code                                                                            |
+| 86 | WIndscribe VPN Free 30GB                                                                                                 |
+| 87 | Aukey RGB mechanical gaming keyboard 34.99 free shipping                                                                 |
+| 88 | Xbox Game Pass Ultimate: 3 Month Membership (Digital Code) $31.89                                                        |
+| 89 | Nulaxy Laptop Stand - $34.84                                                                                             |
