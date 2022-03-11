@@ -1,92 +1,92 @@
-|    | deals                                                                                                                    |
-|---:|:-------------------------------------------------------------------------------------------------------------------------|
-|  0 | FREE - All Float Tech LLC Apps (for iOS and Mac OS)                                                                      |
-|  1 | UMIDIGI AirBuds Pro ANC in-Ear Earphones, Sweat Proof Bluetooth 5.1 Headphones with 6 Mics - $59.99                      |
-|  2 | Mario Kart 8 Deluxe and Super Mario 3D World+Bowser's Fury PHYSICAL COPIES $54.99 March 10th-16th                        |
-|  3 | $129.99 - Samsung 980 Series - 1TB PCIe Gen3. X4 NVMe 1.4 - M.2 Internal SSD (MZ-V8V1T0B/AM)                             |
-|  4 | Ultimate Racing Sim 10-Items Bundle (PC Digital Download) $16.54                                                         |
-|  5 | McAfee Live Safe 2021, Unlimited Devices, Antivirus Internet and Identity Security Software, 1 Year Subscription $29.99  |
-|  6 | Lunar Sale - PC Elden Ring -20% $63.99                                                                                   |
-|  7 | Acer VG240Y 24-in IPS Gaming Monitor, (165 Hz, 1920 x 1080) $179.99 ($80 savings)                                        |
-|  8 | 1-Month Xbox Game Pass Ultimate Membership (Email Delivery) $10.99                                                       |
-|  9 | Moto Edge (2021) $200 on $45 7Gb plan BEFORE credits                                                                     |
-| 10 | Metroid Dread -Nintendo Switch Games and Software - Standard Edition $70.49                                              |
-| 11 | RCA 65" smart 4k LED TV $599.99                                                                                          |
-| 12 | 6 in 1 USB-C Portable Hub To HDMI 4K, USB Ports, SD/TF Card Readers $19.99 FS for March 9 only                           |
-| 13 | Bundle for Ukraine $10 USD for 991 items (572 games) DRM FREE                                                            |
-| 14 | Kena Bridge of Spirits Deluxe Edition Playstation 5 - $41.20                                                             |
-| 15 | Omega Blade for Oculus VR - Free                                                                                         |
-| 16 | Observer System Redux - PlayStation 5 $19.99                                                                             |
-| 17 | HyperX Alloy Origins Core - Tenkeyless Mechanical Gaming Keyboard (Red Switch) $89.99                                    |
-| 18 | Ubiquiti Wifi 6 AP - instock and POE Plus Injector s(OOS)                                                                |
-| 19 | Xbox Game Pass Ultimate: 3 Month Membership (Digital Code) $37.39                                                        |
-| 20 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                                       |
-| 21 | Refurbished M1 MacBook Airs back in stock at $1099                                                                       |
-| 22 | Samsung Super Fast Chargers - 25W or 45W (almost 50% off)                                                                |
-| 23 | Win 1 of 5 $25 gift cards by sharing your favourite deals from February (last day to enter)                              |
-| 24 | Gigabyte B450M DS3H (AMD Ryzen AM4/Micro ATX/M.2/HMDI/DVI/USB 3.1/DDR4/Motherboard) $59.99                               |
-| 25 | ADATA Legend 840 PCIe Gen4 x4 NVMe 1TB @ $129.99 (13% off)                                                               |
-| 26 | GTA V (PS5) currently up on the PS Store at 75% off ($9.99/€9,99 USD, $12.50 CAD)until June 14 and can be pre-loaded now |
-| 27 | Sony X90J 65" $1498 / 75" $2198                                                                                          |
-| 28 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                          |
-| 29 | Get 20% off your next app with code OCULUS20 by Mar 13                                                                   |
-| 30 | FREE - All Float Tech LLC Apps (for iOS and Mac OS)                                                                      |
-| 31 | UMIDIGI AirBuds Pro ANC in-Ear Earphones, Sweat Proof Bluetooth 5.1 Headphones with 6 Mics - $59.99                      |
-| 32 | Mario Kart 8 Deluxe and Super Mario 3D World+Bowser's Fury PHYSICAL COPIES $54.99 March 10th-16th                        |
-| 33 | $129.99 - Samsung 980 Series - 1TB PCIe Gen3. X4 NVMe 1.4 - M.2 Internal SSD (MZ-V8V1T0B/AM)                             |
-| 34 | Ultimate Racing Sim 10-Items Bundle (PC Digital Download) $16.54                                                         |
-| 35 | McAfee Live Safe 2021, Unlimited Devices, Antivirus Internet and Identity Security Software, 1 Year Subscription $29.99  |
-| 36 | Lunar Sale - PC Elden Ring -20% $63.99                                                                                   |
-| 37 | Acer VG240Y 24-in IPS Gaming Monitor, (165 Hz, 1920 x 1080) $179.99 ($80 savings)                                        |
-| 38 | 1-Month Xbox Game Pass Ultimate Membership (Email Delivery) $10.99                                                       |
-| 39 | Moto Edge (2021) $200 on $45 7Gb plan BEFORE credits                                                                     |
-| 40 | Metroid Dread -Nintendo Switch Games and Software - Standard Edition $70.49                                              |
-| 41 | RCA 65" smart 4k LED TV $599.99                                                                                          |
-| 42 | 6 in 1 USB-C Portable Hub To HDMI 4K, USB Ports, SD/TF Card Readers $19.99 FS for March 9 only                           |
-| 43 | Bundle for Ukraine $10 USD for 991 items (572 games) DRM FREE                                                            |
-| 44 | Kena Bridge of Spirits Deluxe Edition Playstation 5 - $41.20                                                             |
-| 45 | Omega Blade for Oculus VR - Free                                                                                         |
-| 46 | Observer System Redux - PlayStation 5 $19.99                                                                             |
-| 47 | HyperX Alloy Origins Core - Tenkeyless Mechanical Gaming Keyboard (Red Switch) $89.99                                    |
-| 48 | Ubiquiti Wifi 6 AP - instock and POE Plus Injector s(OOS)                                                                |
-| 49 | Xbox Game Pass Ultimate: 3 Month Membership (Digital Code) $37.39                                                        |
-| 50 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                                       |
-| 51 | Refurbished M1 MacBook Airs back in stock at $1099                                                                       |
-| 52 | Samsung Super Fast Chargers - 25W or 45W (almost 50% off)                                                                |
-| 53 | Win 1 of 5 $25 gift cards by sharing your favourite deals from February (last day to enter)                              |
-| 54 | Gigabyte B450M DS3H (AMD Ryzen AM4/Micro ATX/M.2/HMDI/DVI/USB 3.1/DDR4/Motherboard) $59.99                               |
-| 55 | ADATA Legend 840 PCIe Gen4 x4 NVMe 1TB @ $129.99 (13% off)                                                               |
-| 56 | GTA V (PS5) currently up on the PS Store at 75% off ($9.99/€9,99 USD, $12.50 CAD)until June 14 and can be pre-loaded now |
-| 57 | Sony X90J 65" $1498 / 75" $2198                                                                                          |
-| 58 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                          |
-| 59 | Get 20% off your next app with code OCULUS20 by Mar 13                                                                   |
-| 60 | FREE - All Float Tech LLC Apps (for iOS and Mac OS)                                                                      |
-| 61 | UMIDIGI AirBuds Pro ANC in-Ear Earphones, Sweat Proof Bluetooth 5.1 Headphones with 6 Mics - $59.99                      |
-| 62 | Mario Kart 8 Deluxe and Super Mario 3D World+Bowser's Fury PHYSICAL COPIES $54.99 March 10th-16th                        |
-| 63 | $129.99 - Samsung 980 Series - 1TB PCIe Gen3. X4 NVMe 1.4 - M.2 Internal SSD (MZ-V8V1T0B/AM)                             |
-| 64 | Ultimate Racing Sim 10-Items Bundle (PC Digital Download) $16.54                                                         |
-| 65 | McAfee Live Safe 2021, Unlimited Devices, Antivirus Internet and Identity Security Software, 1 Year Subscription $29.99  |
-| 66 | Lunar Sale - PC Elden Ring -20% $63.99                                                                                   |
-| 67 | Acer VG240Y 24-in IPS Gaming Monitor, (165 Hz, 1920 x 1080) $179.99 ($80 savings)                                        |
-| 68 | 1-Month Xbox Game Pass Ultimate Membership (Email Delivery) $10.99                                                       |
-| 69 | Moto Edge (2021) $200 on $45 7Gb plan BEFORE credits                                                                     |
-| 70 | Metroid Dread -Nintendo Switch Games and Software - Standard Edition $70.49                                              |
-| 71 | RCA 65" smart 4k LED TV $599.99                                                                                          |
-| 72 | 6 in 1 USB-C Portable Hub To HDMI 4K, USB Ports, SD/TF Card Readers $19.99 FS for March 9 only                           |
-| 73 | Bundle for Ukraine $10 USD for 991 items (572 games) DRM FREE                                                            |
-| 74 | Kena Bridge of Spirits Deluxe Edition Playstation 5 - $41.20                                                             |
-| 75 | Omega Blade for Oculus VR - Free                                                                                         |
-| 76 | Observer System Redux - PlayStation 5 $19.99                                                                             |
-| 77 | HyperX Alloy Origins Core - Tenkeyless Mechanical Gaming Keyboard (Red Switch) $89.99                                    |
-| 78 | Ubiquiti Wifi 6 AP - instock and POE Plus Injector s(OOS)                                                                |
-| 79 | Xbox Game Pass Ultimate: 3 Month Membership (Digital Code) $37.39                                                        |
-| 80 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                                       |
-| 81 | Refurbished M1 MacBook Airs back in stock at $1099                                                                       |
-| 82 | Samsung Super Fast Chargers - 25W or 45W (almost 50% off)                                                                |
-| 83 | Win 1 of 5 $25 gift cards by sharing your favourite deals from February (last day to enter)                              |
-| 84 | Gigabyte B450M DS3H (AMD Ryzen AM4/Micro ATX/M.2/HMDI/DVI/USB 3.1/DDR4/Motherboard) $59.99                               |
-| 85 | ADATA Legend 840 PCIe Gen4 x4 NVMe 1TB @ $129.99 (13% off)                                                               |
-| 86 | GTA V (PS5) currently up on the PS Store at 75% off ($9.99/€9,99 USD, $12.50 CAD)until June 14 and can be pre-loaded now |
-| 87 | Sony X90J 65" $1498 / 75" $2198                                                                                          |
-| 88 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                          |
-| 89 | Get 20% off your next app with code OCULUS20 by Mar 13                                                                   |
+|    | deals                                                                                                                  |
+|---:|:-----------------------------------------------------------------------------------------------------------------------|
+|  0 | [Sponsored] Exclusive Sale at Tbooth Wireless! Five Days Only, March 10-14                                             |
+|  1 | [Warm] ASUS TUF RTX 3070 Ti 8GB - 1050$                                                                                |
+|  2 | Walkabout Mini Golf - $12.49                                                                                           |
+|  3 | YMMV (Walmart) Mario Kart 8 Deluxe for Nintendo Switch - $54.96 plus $25 off your first grocery order of $60+          |
+|  4 | Samsung Super Fast Chargers - 25W or 45W (almost 50% off)                                                              |
+|  5 | Ultimate Racing Sim 10-Items Bundle (PC Digital Download) $16.54                                                       |
+|  6 | Telus Internet Flash Sale (PureFibre Internet 300 from $75/mo)                                                         |
+|  7 | Gamestop giving $55 TIV for Mario Switch games March 10th                                                              |
+|  8 | Cities: Skylines - FREE until March 17th @ 11am EST                                                                    |
+|  9 | TP-Link Deco M9 Plus AC2200 Smart Home Mesh Wi-Fi System Tri-band (3-Pack, Refurbished) $129.95 USD +FS                |
+| 10 | YMMV - Bose 700 headphones ($240)                                                                                      |
+| 11 | GIGABYTE 14" Notebook $699 with rebates                                                                                |
+| 12 | Lightning Deal Sabrent USB 3.2 Type-C Enclosure for M.2 PCIe NVMe and SATA SSDs $31.43 + Free shipping                 |
+| 13 | Super Mario game and watch $39.9(43% off)                                                                              |
+| 14 | Acer VG240Y 24-in IPS Gaming Monitor, (165 Hz, 1920 x 1080) $179.99 ($80 savings)                                      |
+| 15 | 23$ for 3gb unlimited                                                                                                  |
+| 16 | Logitech MK360 Wireless Optical Keyboard & Mouse Combo $24.99                                                          |
+| 17 | Asus ROG Zephyrus G14 2021 5800HS/3050TI/QHD/16GB/512GB $1499                                                          |
+| 18 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
+| 19 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                        |
+| 20 | RCA 65" smart 4k LED TV $599.99                                                                                        |
+| 21 | Mario switch games on sale $55                                                                                         |
+| 22 | Walmart Xbox Series X Bundles in stock                                                                                 |
+| 23 | Fongo Home Phone - 3 months free - March Madness sale. $4.95/mo after.                                                 |
+| 24 | TP-Link Tapo Smart Home Security WiFi Camera, 2.4GHz Wi-Fi 1080p (Full HD), Up to 30 ft Night Vision $35               |
+| 25 | YMMV: Unlock 4 free months of Apple Music with your World / World Elite Mastercard®                                    |
+| 26 | WIndscribe VPN Free 30GB                                                                                               |
+| 27 | Intel Core i7-12700K Desktop Processor $507.99 with $10 coupon                                                         |
+| 28 | Mario Kart 8 Deluxe and Super Mario 3D World+Bowser's Fury PHYSICAL COPIES $54.99 March 10th-16th                      |
+| 29 | [AT&T] $45 Unlimited Max 22 GB Prepaid Priority Unlimited Prepaid Deprioritized US / CAN / MEX Not Multi-line Eligible |
+| 30 | [Sponsored] Exclusive Sale at Tbooth Wireless! Five Days Only, March 10-14                                             |
+| 31 | [Warm] ASUS TUF RTX 3070 Ti 8GB - 1050$                                                                                |
+| 32 | Walkabout Mini Golf - $12.49                                                                                           |
+| 33 | YMMV (Walmart) Mario Kart 8 Deluxe for Nintendo Switch - $54.96 plus $25 off your first grocery order of $60+          |
+| 34 | Samsung Super Fast Chargers - 25W or 45W (almost 50% off)                                                              |
+| 35 | Ultimate Racing Sim 10-Items Bundle (PC Digital Download) $16.54                                                       |
+| 36 | Telus Internet Flash Sale (PureFibre Internet 300 from $75/mo)                                                         |
+| 37 | Gamestop giving $55 TIV for Mario Switch games March 10th                                                              |
+| 38 | Cities: Skylines - FREE until March 17th @ 11am EST                                                                    |
+| 39 | TP-Link Deco M9 Plus AC2200 Smart Home Mesh Wi-Fi System Tri-band (3-Pack, Refurbished) $129.95 USD +FS                |
+| 40 | YMMV - Bose 700 headphones ($240)                                                                                      |
+| 41 | GIGABYTE 14" Notebook $699 with rebates                                                                                |
+| 42 | Lightning Deal Sabrent USB 3.2 Type-C Enclosure for M.2 PCIe NVMe and SATA SSDs $31.43 + Free shipping                 |
+| 43 | Super Mario game and watch $39.9(43% off)                                                                              |
+| 44 | Acer VG240Y 24-in IPS Gaming Monitor, (165 Hz, 1920 x 1080) $179.99 ($80 savings)                                      |
+| 45 | 23$ for 3gb unlimited                                                                                                  |
+| 46 | Logitech MK360 Wireless Optical Keyboard & Mouse Combo $24.99                                                          |
+| 47 | Asus ROG Zephyrus G14 2021 5800HS/3050TI/QHD/16GB/512GB $1499                                                          |
+| 48 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
+| 49 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                        |
+| 50 | RCA 65" smart 4k LED TV $599.99                                                                                        |
+| 51 | Mario switch games on sale $55                                                                                         |
+| 52 | Walmart Xbox Series X Bundles in stock                                                                                 |
+| 53 | Fongo Home Phone - 3 months free - March Madness sale. $4.95/mo after.                                                 |
+| 54 | TP-Link Tapo Smart Home Security WiFi Camera, 2.4GHz Wi-Fi 1080p (Full HD), Up to 30 ft Night Vision $35               |
+| 55 | YMMV: Unlock 4 free months of Apple Music with your World / World Elite Mastercard®                                    |
+| 56 | WIndscribe VPN Free 30GB                                                                                               |
+| 57 | Intel Core i7-12700K Desktop Processor $507.99 with $10 coupon                                                         |
+| 58 | Mario Kart 8 Deluxe and Super Mario 3D World+Bowser's Fury PHYSICAL COPIES $54.99 March 10th-16th                      |
+| 59 | [AT&T] $45 Unlimited Max 22 GB Prepaid Priority Unlimited Prepaid Deprioritized US / CAN / MEX Not Multi-line Eligible |
+| 60 | [Sponsored] Exclusive Sale at Tbooth Wireless! Five Days Only, March 10-14                                             |
+| 61 | [Warm] ASUS TUF RTX 3070 Ti 8GB - 1050$                                                                                |
+| 62 | Walkabout Mini Golf - $12.49                                                                                           |
+| 63 | YMMV (Walmart) Mario Kart 8 Deluxe for Nintendo Switch - $54.96 plus $25 off your first grocery order of $60+          |
+| 64 | Samsung Super Fast Chargers - 25W or 45W (almost 50% off)                                                              |
+| 65 | Ultimate Racing Sim 10-Items Bundle (PC Digital Download) $16.54                                                       |
+| 66 | Telus Internet Flash Sale (PureFibre Internet 300 from $75/mo)                                                         |
+| 67 | Gamestop giving $55 TIV for Mario Switch games March 10th                                                              |
+| 68 | Cities: Skylines - FREE until March 17th @ 11am EST                                                                    |
+| 69 | TP-Link Deco M9 Plus AC2200 Smart Home Mesh Wi-Fi System Tri-band (3-Pack, Refurbished) $129.95 USD +FS                |
+| 70 | YMMV - Bose 700 headphones ($240)                                                                                      |
+| 71 | GIGABYTE 14" Notebook $699 with rebates                                                                                |
+| 72 | Lightning Deal Sabrent USB 3.2 Type-C Enclosure for M.2 PCIe NVMe and SATA SSDs $31.43 + Free shipping                 |
+| 73 | Super Mario game and watch $39.9(43% off)                                                                              |
+| 74 | Acer VG240Y 24-in IPS Gaming Monitor, (165 Hz, 1920 x 1080) $179.99 ($80 savings)                                      |
+| 75 | 23$ for 3gb unlimited                                                                                                  |
+| 76 | Logitech MK360 Wireless Optical Keyboard & Mouse Combo $24.99                                                          |
+| 77 | Asus ROG Zephyrus G14 2021 5800HS/3050TI/QHD/16GB/512GB $1499                                                          |
+| 78 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
+| 79 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                        |
+| 80 | RCA 65" smart 4k LED TV $599.99                                                                                        |
+| 81 | Mario switch games on sale $55                                                                                         |
+| 82 | Walmart Xbox Series X Bundles in stock                                                                                 |
+| 83 | Fongo Home Phone - 3 months free - March Madness sale. $4.95/mo after.                                                 |
+| 84 | TP-Link Tapo Smart Home Security WiFi Camera, 2.4GHz Wi-Fi 1080p (Full HD), Up to 30 ft Night Vision $35               |
+| 85 | YMMV: Unlock 4 free months of Apple Music with your World / World Elite Mastercard®                                    |
+| 86 | WIndscribe VPN Free 30GB                                                                                               |
+| 87 | Intel Core i7-12700K Desktop Processor $507.99 with $10 coupon                                                         |
+| 88 | Mario Kart 8 Deluxe and Super Mario 3D World+Bowser's Fury PHYSICAL COPIES $54.99 March 10th-16th                      |
+| 89 | [AT&T] $45 Unlimited Max 22 GB Prepaid Priority Unlimited Prepaid Deprioritized US / CAN / MEX Not Multi-line Eligible |
