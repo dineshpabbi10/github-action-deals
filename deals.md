@@ -1,11 +1,11 @@
 |    | deals                                                                                                         |
 |---:|:--------------------------------------------------------------------------------------------------------------|
 |  0 | [Sponsored] Exclusive Sale at Tbooth Wireless! Five Days Only, March 10-14                                    |
-|  1 | YMMV (Walmart) Mario Kart 8 Deluxe for Nintendo Switch - $54.96 plus $25 off your first grocery order of $60+ |
-|  2 | (VERY GOOD Condition) Pixel 6 128gb $665 from Amazon Warehouse - 8 available                                  |
-|  3 | [Costco.ca] Dell Inspiron 13 Laptop (i7, 16GB RAM, 512GB SSD, QHD+) $999.99                                   |
-|  4 | Freedom $10/month for 1gb unlimited talk as add on line                                                       |
-|  5 | Amazon fire TV 55" 4k - $439.99                                                                               |
+|  1 | Amazon fire TV 55" 4k - $439.99                                                                               |
+|  2 | YMMV (Walmart) Mario Kart 8 Deluxe for Nintendo Switch - $54.96 plus $25 off your first grocery order of $60+ |
+|  3 | (VERY GOOD Condition) Pixel 6 128gb $665 from Amazon Warehouse - 8 available                                  |
+|  4 | [Costco.ca] Dell Inspiron 13 Laptop (i7, 16GB RAM, 512GB SSD, QHD+) $999.99                                   |
+|  5 | Freedom $10/month for 1gb unlimited talk as add on line                                                       |
 |  6 | 6 Mario Switch games on sale plus 20x PC points event [IN STORE ONLY]!                                        |
 |  7 | TELUS $95 unlimited Canada/USA text/call/data, 50 GB 5G+, NO ROAMING IN US!!! Hot for the right person.       |
 |  8 | Sofirn flash light extra 15% off USD free shipping from Canada                                                |
@@ -31,11 +31,11 @@
 | 28 | GIGABYTE 14" Notebook $699 with rebates                                                                       |
 | 29 | Asus ROG Zephyrus G14 2021 5800HS/3050TI/QHD/16GB/512GB $1499                                                 |
 | 30 | [Sponsored] Exclusive Sale at Tbooth Wireless! Five Days Only, March 10-14                                    |
-| 31 | YMMV (Walmart) Mario Kart 8 Deluxe for Nintendo Switch - $54.96 plus $25 off your first grocery order of $60+ |
-| 32 | (VERY GOOD Condition) Pixel 6 128gb $665 from Amazon Warehouse - 8 available                                  |
-| 33 | [Costco.ca] Dell Inspiron 13 Laptop (i7, 16GB RAM, 512GB SSD, QHD+) $999.99                                   |
-| 34 | Freedom $10/month for 1gb unlimited talk as add on line                                                       |
-| 35 | Amazon fire TV 55" 4k - $439.99                                                                               |
+| 31 | Amazon fire TV 55" 4k - $439.99                                                                               |
+| 32 | YMMV (Walmart) Mario Kart 8 Deluxe for Nintendo Switch - $54.96 plus $25 off your first grocery order of $60+ |
+| 33 | (VERY GOOD Condition) Pixel 6 128gb $665 from Amazon Warehouse - 8 available                                  |
+| 34 | [Costco.ca] Dell Inspiron 13 Laptop (i7, 16GB RAM, 512GB SSD, QHD+) $999.99                                   |
+| 35 | Freedom $10/month for 1gb unlimited talk as add on line                                                       |
 | 36 | 6 Mario Switch games on sale plus 20x PC points event [IN STORE ONLY]!                                        |
 | 37 | TELUS $95 unlimited Canada/USA text/call/data, 50 GB 5G+, NO ROAMING IN US!!! Hot for the right person.       |
 | 38 | Sofirn flash light extra 15% off USD free shipping from Canada                                                |
@@ -61,11 +61,11 @@
 | 58 | GIGABYTE 14" Notebook $699 with rebates                                                                       |
 | 59 | Asus ROG Zephyrus G14 2021 5800HS/3050TI/QHD/16GB/512GB $1499                                                 |
 | 60 | [Sponsored] Exclusive Sale at Tbooth Wireless! Five Days Only, March 10-14                                    |
-| 61 | YMMV (Walmart) Mario Kart 8 Deluxe for Nintendo Switch - $54.96 plus $25 off your first grocery order of $60+ |
-| 62 | (VERY GOOD Condition) Pixel 6 128gb $665 from Amazon Warehouse - 8 available                                  |
-| 63 | [Costco.ca] Dell Inspiron 13 Laptop (i7, 16GB RAM, 512GB SSD, QHD+) $999.99                                   |
-| 64 | Freedom $10/month for 1gb unlimited talk as add on line                                                       |
-| 65 | Amazon fire TV 55" 4k - $439.99                                                                               |
+| 61 | Amazon fire TV 55" 4k - $439.99                                                                               |
+| 62 | YMMV (Walmart) Mario Kart 8 Deluxe for Nintendo Switch - $54.96 plus $25 off your first grocery order of $60+ |
+| 63 | (VERY GOOD Condition) Pixel 6 128gb $665 from Amazon Warehouse - 8 available                                  |
+| 64 | [Costco.ca] Dell Inspiron 13 Laptop (i7, 16GB RAM, 512GB SSD, QHD+) $999.99                                   |
+| 65 | Freedom $10/month for 1gb unlimited talk as add on line                                                       |
 | 66 | 6 Mario Switch games on sale plus 20x PC points event [IN STORE ONLY]!                                        |
 | 67 | TELUS $95 unlimited Canada/USA text/call/data, 50 GB 5G+, NO ROAMING IN US!!! Hot for the right person.       |
 | 68 | Sofirn flash light extra 15% off USD free shipping from Canada                                                |
