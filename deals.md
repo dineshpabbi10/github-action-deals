@@ -1,92 +1,92 @@
-|    | deals                                                                                                         |
-|---:|:--------------------------------------------------------------------------------------------------------------|
-|  0 | [Sponsored] Exclusive Sale at Tbooth Wireless! Five Days Only, March 10-14                                    |
-|  1 | Amazon fire TV 55" 4k - $439.99                                                                               |
-|  2 | YMMV (Walmart) Mario Kart 8 Deluxe for Nintendo Switch - $54.96 plus $25 off your first grocery order of $60+ |
-|  3 | (VERY GOOD Condition) Pixel 6 128gb $665 from Amazon Warehouse - 8 available                                  |
-|  4 | [Costco.ca] Dell Inspiron 13 Laptop (i7, 16GB RAM, 512GB SSD, QHD+) $999.99                                   |
-|  5 | Freedom $10/month for 1gb unlimited talk as add on line                                                       |
-|  6 | 6 Mario Switch games on sale plus 20x PC points event [IN STORE ONLY]!                                        |
-|  7 | TELUS $95 unlimited Canada/USA text/call/data, 50 GB 5G+, NO ROAMING IN US!!! Hot for the right person.       |
-|  8 | Sofirn flash light extra 15% off USD free shipping from Canada                                                |
-|  9 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                  |
-| 10 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.               |
-| 11 | USB-C to USB-A M/M Charge/Sync Cable 2M(6.5ft) with Aluminum Alloy Connector - PrimeCables® $9.99 FS          |
-| 12 | 5000 pts for every $50 spent on Apple gift cards (YMMV)                                                       |
-| 13 | Apple AirPods Pro - $249                                                                                      |
-| 14 | Add a Line $20/Month - 3GB + Unlimited Talk / Text Canada Wide                                                |
-| 15 | Walmart Xbox Series X Bundles in stock                                                                        |
-| 16 | PC Elden Ring -20% $63.99                                                                                     |
-| 17 | Soundcore by Anker Life Tune Pro (Q35) Over-Ear Noise Cancelling Bluetooth Headphones - $110                  |
-| 18 | Last Dream, Trainpunk Run, Prologue -full PC games for free                                                   |
-| 19 | 25% off 12-month Playstation Plus subscription - $52.49                                                       |
-| 20 | Cities: Skylines - FREE until March 17th @ 11am EST                                                           |
-| 21 | WD 12 TB GOLD ENTERPRISE-CLASS HARD DRIVE $252.63 USD                                                         |
-| 22 | Fasgear 90 degree USB-C cables with 100W PD, 10Gbps & 4K@60Hz: $17.84 (6ft) - $22.09 (10ft)                   |
-| 23 | Fongo Home Phone - 3 months free - March Madness sale. $4.95/mo after.                                        |
-| 24 | 23$ for 3gb unlimited                                                                                         |
-| 25 | Xbox Game Pass: March games will include Guardians of the Galaxy                                              |
-| 26 | WIndscribe VPN Free 30GB                                                                                      |
-| 27 | Intel Core i7-12700K Desktop Processor $507.99 with $10 coupon                                                |
-| 28 | GIGABYTE 14" Notebook $699 with rebates                                                                       |
-| 29 | Asus ROG Zephyrus G14 2021 5800HS/3050TI/QHD/16GB/512GB $1499                                                 |
-| 30 | [Sponsored] Exclusive Sale at Tbooth Wireless! Five Days Only, March 10-14                                    |
-| 31 | Amazon fire TV 55" 4k - $439.99                                                                               |
-| 32 | YMMV (Walmart) Mario Kart 8 Deluxe for Nintendo Switch - $54.96 plus $25 off your first grocery order of $60+ |
-| 33 | (VERY GOOD Condition) Pixel 6 128gb $665 from Amazon Warehouse - 8 available                                  |
-| 34 | [Costco.ca] Dell Inspiron 13 Laptop (i7, 16GB RAM, 512GB SSD, QHD+) $999.99                                   |
-| 35 | Freedom $10/month for 1gb unlimited talk as add on line                                                       |
-| 36 | 6 Mario Switch games on sale plus 20x PC points event [IN STORE ONLY]!                                        |
-| 37 | TELUS $95 unlimited Canada/USA text/call/data, 50 GB 5G+, NO ROAMING IN US!!! Hot for the right person.       |
-| 38 | Sofirn flash light extra 15% off USD free shipping from Canada                                                |
-| 39 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                  |
-| 40 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.               |
-| 41 | USB-C to USB-A M/M Charge/Sync Cable 2M(6.5ft) with Aluminum Alloy Connector - PrimeCables® $9.99 FS          |
-| 42 | 5000 pts for every $50 spent on Apple gift cards (YMMV)                                                       |
-| 43 | Apple AirPods Pro - $249                                                                                      |
-| 44 | Add a Line $20/Month - 3GB + Unlimited Talk / Text Canada Wide                                                |
-| 45 | Walmart Xbox Series X Bundles in stock                                                                        |
-| 46 | PC Elden Ring -20% $63.99                                                                                     |
-| 47 | Soundcore by Anker Life Tune Pro (Q35) Over-Ear Noise Cancelling Bluetooth Headphones - $110                  |
-| 48 | Last Dream, Trainpunk Run, Prologue -full PC games for free                                                   |
-| 49 | 25% off 12-month Playstation Plus subscription - $52.49                                                       |
-| 50 | Cities: Skylines - FREE until March 17th @ 11am EST                                                           |
-| 51 | WD 12 TB GOLD ENTERPRISE-CLASS HARD DRIVE $252.63 USD                                                         |
-| 52 | Fasgear 90 degree USB-C cables with 100W PD, 10Gbps & 4K@60Hz: $17.84 (6ft) - $22.09 (10ft)                   |
-| 53 | Fongo Home Phone - 3 months free - March Madness sale. $4.95/mo after.                                        |
-| 54 | 23$ for 3gb unlimited                                                                                         |
-| 55 | Xbox Game Pass: March games will include Guardians of the Galaxy                                              |
-| 56 | WIndscribe VPN Free 30GB                                                                                      |
-| 57 | Intel Core i7-12700K Desktop Processor $507.99 with $10 coupon                                                |
-| 58 | GIGABYTE 14" Notebook $699 with rebates                                                                       |
-| 59 | Asus ROG Zephyrus G14 2021 5800HS/3050TI/QHD/16GB/512GB $1499                                                 |
-| 60 | [Sponsored] Exclusive Sale at Tbooth Wireless! Five Days Only, March 10-14                                    |
-| 61 | Amazon fire TV 55" 4k - $439.99                                                                               |
-| 62 | YMMV (Walmart) Mario Kart 8 Deluxe for Nintendo Switch - $54.96 plus $25 off your first grocery order of $60+ |
-| 63 | (VERY GOOD Condition) Pixel 6 128gb $665 from Amazon Warehouse - 8 available                                  |
-| 64 | [Costco.ca] Dell Inspiron 13 Laptop (i7, 16GB RAM, 512GB SSD, QHD+) $999.99                                   |
-| 65 | Freedom $10/month for 1gb unlimited talk as add on line                                                       |
-| 66 | 6 Mario Switch games on sale plus 20x PC points event [IN STORE ONLY]!                                        |
-| 67 | TELUS $95 unlimited Canada/USA text/call/data, 50 GB 5G+, NO ROAMING IN US!!! Hot for the right person.       |
-| 68 | Sofirn flash light extra 15% off USD free shipping from Canada                                                |
-| 69 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                  |
-| 70 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.               |
-| 71 | USB-C to USB-A M/M Charge/Sync Cable 2M(6.5ft) with Aluminum Alloy Connector - PrimeCables® $9.99 FS          |
-| 72 | 5000 pts for every $50 spent on Apple gift cards (YMMV)                                                       |
-| 73 | Apple AirPods Pro - $249                                                                                      |
-| 74 | Add a Line $20/Month - 3GB + Unlimited Talk / Text Canada Wide                                                |
-| 75 | Walmart Xbox Series X Bundles in stock                                                                        |
-| 76 | PC Elden Ring -20% $63.99                                                                                     |
-| 77 | Soundcore by Anker Life Tune Pro (Q35) Over-Ear Noise Cancelling Bluetooth Headphones - $110                  |
-| 78 | Last Dream, Trainpunk Run, Prologue -full PC games for free                                                   |
-| 79 | 25% off 12-month Playstation Plus subscription - $52.49                                                       |
-| 80 | Cities: Skylines - FREE until March 17th @ 11am EST                                                           |
-| 81 | WD 12 TB GOLD ENTERPRISE-CLASS HARD DRIVE $252.63 USD                                                         |
-| 82 | Fasgear 90 degree USB-C cables with 100W PD, 10Gbps & 4K@60Hz: $17.84 (6ft) - $22.09 (10ft)                   |
-| 83 | Fongo Home Phone - 3 months free - March Madness sale. $4.95/mo after.                                        |
-| 84 | 23$ for 3gb unlimited                                                                                         |
-| 85 | Xbox Game Pass: March games will include Guardians of the Galaxy                                              |
-| 86 | WIndscribe VPN Free 30GB                                                                                      |
-| 87 | Intel Core i7-12700K Desktop Processor $507.99 with $10 coupon                                                |
-| 88 | GIGABYTE 14" Notebook $699 with rebates                                                                       |
-| 89 | Asus ROG Zephyrus G14 2021 5800HS/3050TI/QHD/16GB/512GB $1499                                                 |
+|    | deals                                                                                                                    |
+|---:|:-------------------------------------------------------------------------------------------------------------------------|
+|  0 | [Sponsored] Exclusive Sale at Tbooth Wireless! Five Days Only, March 10-14                                               |
+|  1 | Canon EOS M6 24.2MP Mirrorless Camera w/ EF-M 15-45mm f/3.5-6.3 IS STM - $449.99                                         |
+|  2 | (VERY GOOD Condition) Pixel 6 128gb $665 from Amazon Warehouse - 8 available                                             |
+|  3 | NZXT H510 - CA-H510i-BR - Compact ATX Mid-Tower PC Gaming Case Tempered Side Panel $79                                   |
+|  4 | Samsung S20 FE 5G Cloud Navy $640                                                                                        |
+|  5 | Lucky Mobile Refer-a-Friend Promotion is back! $50 Credit until March 31st, 2022                                         |
+|  6 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                          |
+|  7 | AMD Sapphire Pulse 6700xt ($779), Gigabyte 6700xt ($849)                                                                 |
+|  8 | Mario + Rabbids kingdom Battle 83% off                                                                                   |
+|  9 | Apple AirPods Pro - $249                                                                                                 |
+| 10 | Walmart Xbox Series X Bundles in stock                                                                                   |
+| 11 | AIRTHINGS Corentium Home , Radon Gas Detector 150$ (~25% off)                                                            |
+| 12 | Dell XPS 15 9510 - i7 - 3.5K OLED - $1799.99                                                                             |
+| 13 | Mario Kart 8 Deluxe and Super Mario 3D World+Bowser's Fury PHYSICAL COPIES $54.99 March 10th-16th                        |
+| 14 | Sony X90J 65" $1498 / 75" $2198                                                                                          |
+| 15 | PC Elden Ring -20% $63.99                                                                                                |
+| 16 | ASUS TUF Gaming GeForce GTX 1650 OC Edition 4GB GDDR6 - in stock ($249.99)                                               |
+| 17 | Amazon Basics 48 Pack AA High-Performance Alkaline Batteries $13.45                                                      |
+| 18 | 6 Mario Switch games on sale plus 20x PC points event [IN STORE ONLY]!                                                   |
+| 19 | Sennheiser HD 350BT Bluetooth                                                                                            |
+| 20 | [QC] [Videotron] Upgrade 100mbps to 400mbps Internet for $1 more (YMMV - 2021 Black Friday Customers)                    |
+| 21 | Save upto 33% on Mario Brother titled games for Nintendo Switch priced $54.95 and under                                  |
+| 22 | 5000 pts for every $50 spent on Apple gift cards (YMMV)                                                                  |
+| 23 | (ATL) (NO HEATSINK) WD Black 2TB SN850 NVMe SSD, $359.00                                                                 |
+| 24 | Amazon fire TV 55" 4k - $439.99                                                                                          |
+| 25 | Hisense 75U68G ULED 4K Android TV- $1398                                                                                 |
+| 26 | GTA V (PS5) currently up on the PS Store at 75% off ($9.99/€9,99 USD, $12.50 CAD)until June 14 and can be pre-loaded now |
+| 27 | Ultimate Racing Sim 10-Items Bundle (PC Digital Download) $16.54                                                         |
+| 28 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $60                      |
+| 29 | Amazon Gaming - March 2022 Free for Prime Members                                                                        |
+| 30 | [Sponsored] Exclusive Sale at Tbooth Wireless! Five Days Only, March 10-14                                               |
+| 31 | Canon EOS M6 24.2MP Mirrorless Camera w/ EF-M 15-45mm f/3.5-6.3 IS STM - $449.99                                         |
+| 32 | (VERY GOOD Condition) Pixel 6 128gb $665 from Amazon Warehouse - 8 available                                             |
+| 33 | NZXT H510 - CA-H510i-BR - Compact ATX Mid-Tower PC Gaming Case Tempered Side Panel $79                                   |
+| 34 | Samsung S20 FE 5G Cloud Navy $640                                                                                        |
+| 35 | Lucky Mobile Refer-a-Friend Promotion is back! $50 Credit until March 31st, 2022                                         |
+| 36 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                          |
+| 37 | AMD Sapphire Pulse 6700xt ($779), Gigabyte 6700xt ($849)                                                                 |
+| 38 | Mario + Rabbids kingdom Battle 83% off                                                                                   |
+| 39 | Apple AirPods Pro - $249                                                                                                 |
+| 40 | Walmart Xbox Series X Bundles in stock                                                                                   |
+| 41 | AIRTHINGS Corentium Home , Radon Gas Detector 150$ (~25% off)                                                            |
+| 42 | Dell XPS 15 9510 - i7 - 3.5K OLED - $1799.99                                                                             |
+| 43 | Mario Kart 8 Deluxe and Super Mario 3D World+Bowser's Fury PHYSICAL COPIES $54.99 March 10th-16th                        |
+| 44 | Sony X90J 65" $1498 / 75" $2198                                                                                          |
+| 45 | PC Elden Ring -20% $63.99                                                                                                |
+| 46 | ASUS TUF Gaming GeForce GTX 1650 OC Edition 4GB GDDR6 - in stock ($249.99)                                               |
+| 47 | Amazon Basics 48 Pack AA High-Performance Alkaline Batteries $13.45                                                      |
+| 48 | 6 Mario Switch games on sale plus 20x PC points event [IN STORE ONLY]!                                                   |
+| 49 | Sennheiser HD 350BT Bluetooth                                                                                            |
+| 50 | [QC] [Videotron] Upgrade 100mbps to 400mbps Internet for $1 more (YMMV - 2021 Black Friday Customers)                    |
+| 51 | Save upto 33% on Mario Brother titled games for Nintendo Switch priced $54.95 and under                                  |
+| 52 | 5000 pts for every $50 spent on Apple gift cards (YMMV)                                                                  |
+| 53 | (ATL) (NO HEATSINK) WD Black 2TB SN850 NVMe SSD, $359.00                                                                 |
+| 54 | Amazon fire TV 55" 4k - $439.99                                                                                          |
+| 55 | Hisense 75U68G ULED 4K Android TV- $1398                                                                                 |
+| 56 | GTA V (PS5) currently up on the PS Store at 75% off ($9.99/€9,99 USD, $12.50 CAD)until June 14 and can be pre-loaded now |
+| 57 | Ultimate Racing Sim 10-Items Bundle (PC Digital Download) $16.54                                                         |
+| 58 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $60                      |
+| 59 | Amazon Gaming - March 2022 Free for Prime Members                                                                        |
+| 60 | [Sponsored] Exclusive Sale at Tbooth Wireless! Five Days Only, March 10-14                                               |
+| 61 | Canon EOS M6 24.2MP Mirrorless Camera w/ EF-M 15-45mm f/3.5-6.3 IS STM - $449.99                                         |
+| 62 | (VERY GOOD Condition) Pixel 6 128gb $665 from Amazon Warehouse - 8 available                                             |
+| 63 | NZXT H510 - CA-H510i-BR - Compact ATX Mid-Tower PC Gaming Case Tempered Side Panel $79                                   |
+| 64 | Samsung S20 FE 5G Cloud Navy $640                                                                                        |
+| 65 | Lucky Mobile Refer-a-Friend Promotion is back! $50 Credit until March 31st, 2022                                         |
+| 66 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                          |
+| 67 | AMD Sapphire Pulse 6700xt ($779), Gigabyte 6700xt ($849)                                                                 |
+| 68 | Mario + Rabbids kingdom Battle 83% off                                                                                   |
+| 69 | Apple AirPods Pro - $249                                                                                                 |
+| 70 | Walmart Xbox Series X Bundles in stock                                                                                   |
+| 71 | AIRTHINGS Corentium Home , Radon Gas Detector 150$ (~25% off)                                                            |
+| 72 | Dell XPS 15 9510 - i7 - 3.5K OLED - $1799.99                                                                             |
+| 73 | Mario Kart 8 Deluxe and Super Mario 3D World+Bowser's Fury PHYSICAL COPIES $54.99 March 10th-16th                        |
+| 74 | Sony X90J 65" $1498 / 75" $2198                                                                                          |
+| 75 | PC Elden Ring -20% $63.99                                                                                                |
+| 76 | ASUS TUF Gaming GeForce GTX 1650 OC Edition 4GB GDDR6 - in stock ($249.99)                                               |
+| 77 | Amazon Basics 48 Pack AA High-Performance Alkaline Batteries $13.45                                                      |
+| 78 | 6 Mario Switch games on sale plus 20x PC points event [IN STORE ONLY]!                                                   |
+| 79 | Sennheiser HD 350BT Bluetooth                                                                                            |
+| 80 | [QC] [Videotron] Upgrade 100mbps to 400mbps Internet for $1 more (YMMV - 2021 Black Friday Customers)                    |
+| 81 | Save upto 33% on Mario Brother titled games for Nintendo Switch priced $54.95 and under                                  |
+| 82 | 5000 pts for every $50 spent on Apple gift cards (YMMV)                                                                  |
+| 83 | (ATL) (NO HEATSINK) WD Black 2TB SN850 NVMe SSD, $359.00                                                                 |
+| 84 | Amazon fire TV 55" 4k - $439.99                                                                                          |
+| 85 | Hisense 75U68G ULED 4K Android TV- $1398                                                                                 |
+| 86 | GTA V (PS5) currently up on the PS Store at 75% off ($9.99/€9,99 USD, $12.50 CAD)until June 14 and can be pre-loaded now |
+| 87 | Ultimate Racing Sim 10-Items Bundle (PC Digital Download) $16.54                                                         |
+| 88 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $60                      |
+| 89 | Amazon Gaming - March 2022 Free for Prime Members                                                                        |
