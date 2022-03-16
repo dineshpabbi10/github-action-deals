@@ -1,92 +1,92 @@
-|    | deals                                                                                                                    |
-|---:|:-------------------------------------------------------------------------------------------------------------------------|
-|  0 | [Sponsored] Exclusive Sale at Tbooth Wireless! Five Days Only, March 10-14                                               |
-|  1 | IdeaPad 3 AMD (17”) - Arctic Grey - Ryzen 5 5500U, 8GB DDR4, 256GB SSD, 17.3" FHD IPS 300Nits Display - $609.67          |
-|  2 | LG OLED C1 series OLED TV some size $100 OFF + get free LG Tone Free FP5 ANC True Wireless Earbuds, a value of $114.99   |
-|  3 | YMMV - 40% points back on purchase with redemption of at least 10,000 points                                             |
-|  4 | Dell 34" WQHD VA Panel Ultrawide Curved Gaming Monitor – S3422DWG - 537.74 + 10%OFFMONITOR + 8%Rakuten + 20% Amex = $403 |
-|  5 | Motorola One 5G Ace 128 GB Unlocked Smartphone, Volcanic Grey - $359 ($50 OFF)                                           |
-|  6 | eshop: Street Fighter 30th Anniversary Collection (Switch, digital) - $15.99                                             |
-|  7 | Lexar 32GB 633X CL10 Micro SDXC $6.99                                                                                    |
-|  8 | Tribit StormBox Bluetooth Speaker - $69.99 (reg. $129.99)                                                                |
-|  9 | Little Kite, Last Dream, Trainpunk Run, Prologue -full PC games for free                                                 |
-| 10 | HP 15-ef2014ca FHD laptop with MS 365 1yr - Ryzen 3 5300U, 8GB DDR4, 512GB SSD, 15.6" FHD IPS Screen - $524.99 + 10% CB  |
-| 11 | eufy Wired Outdoor 2K Floodlight Camera with 2-Way Audio - White $199.99 ($100, 33% OFF) ALL TIME LOW                    |
-| 12 | ThinkBook 13s Gen 2 AMD, 4800U/16GB/512GB, 13.3" 16:10 300 nits, $770 after code                                         |
-| 13 | Samsung S20 FE 5G Cloud Navy $640                                                                                        |
-| 14 | Gooseneck Bed Phone Holder Phone Mount Stand with Flexible Lazy Long Arm $12.99 FS & 10x rewards points                  |
-| 15 | LG 43UP7560- 43" 4K LED TV webOS (43UP7560) - $389                                                                       |
-| 16 | Kingston 32GB Canvas Select Plus microSD $7.99 FS                                                                        |
-| 17 | Brand day sales -Sit stand desk frame $149.99/TV wall mount $59.99/Desk mount $29.99 - March 14 only                     |
-| 18 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                             |
-| 19 | PC Elden Ring -20% $63.99                                                                                                |
-| 20 | TP-Link Deco M9 Plus AC2200 Smart Home Mesh Wi-Fi System Tri-band (3-Pack, Refurbished) $129.95 USD +FS                  |
-| 21 | Hisense 75U68G ULED 4K Android TV- $1398                                                                                 |
-| 22 | Global Prepaid Mobile Data 7GB 360 Days + FREE eSIM                                                                      |
-| 23 | 65" Sony A80j $2498 / LG C1 $2198                                                                                        |
-| 24 | NZXT H510 Compact ATX Mid-Tower PC Case, Front I/O USB C Port, Tempered Glass Side Panel - $69.99                        |
-| 25 | ThinkPad T14 Gen 2 AMD, 5650U/8GB/256GB, 14.0" FHD 300 nits, $825 after code                                             |
-| 26 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                          |
-| 27 | Lenovo 82KT00GVUS IdeaPad 3 14" FHD Laptop, Ryzen 5 5500U, 8GB RAM, 256GB SSD, $600                                      |
-| 28 | YMMV - LD Extras - $50 Google Nest Audio Sage                                                                            |
-| 29 | 30$ off 60$ on anything on Instacart for Pi Day - Including Nintendo switch games (Targeted email / YMMV) QC             |
-| 30 | [Sponsored] Exclusive Sale at Tbooth Wireless! Five Days Only, March 10-14                                               |
-| 31 | IdeaPad 3 AMD (17”) - Arctic Grey - Ryzen 5 5500U, 8GB DDR4, 256GB SSD, 17.3" FHD IPS 300Nits Display - $609.67          |
-| 32 | LG OLED C1 series OLED TV some size $100 OFF + get free LG Tone Free FP5 ANC True Wireless Earbuds, a value of $114.99   |
-| 33 | YMMV - 40% points back on purchase with redemption of at least 10,000 points                                             |
-| 34 | Dell 34" WQHD VA Panel Ultrawide Curved Gaming Monitor – S3422DWG - 537.74 + 10%OFFMONITOR + 8%Rakuten + 20% Amex = $403 |
-| 35 | Motorola One 5G Ace 128 GB Unlocked Smartphone, Volcanic Grey - $359 ($50 OFF)                                           |
-| 36 | eshop: Street Fighter 30th Anniversary Collection (Switch, digital) - $15.99                                             |
-| 37 | Lexar 32GB 633X CL10 Micro SDXC $6.99                                                                                    |
-| 38 | Tribit StormBox Bluetooth Speaker - $69.99 (reg. $129.99)                                                                |
-| 39 | Little Kite, Last Dream, Trainpunk Run, Prologue -full PC games for free                                                 |
-| 40 | HP 15-ef2014ca FHD laptop with MS 365 1yr - Ryzen 3 5300U, 8GB DDR4, 512GB SSD, 15.6" FHD IPS Screen - $524.99 + 10% CB  |
-| 41 | eufy Wired Outdoor 2K Floodlight Camera with 2-Way Audio - White $199.99 ($100, 33% OFF) ALL TIME LOW                    |
-| 42 | ThinkBook 13s Gen 2 AMD, 4800U/16GB/512GB, 13.3" 16:10 300 nits, $770 after code                                         |
-| 43 | Samsung S20 FE 5G Cloud Navy $640                                                                                        |
-| 44 | Gooseneck Bed Phone Holder Phone Mount Stand with Flexible Lazy Long Arm $12.99 FS & 10x rewards points                  |
-| 45 | LG 43UP7560- 43" 4K LED TV webOS (43UP7560) - $389                                                                       |
-| 46 | Kingston 32GB Canvas Select Plus microSD $7.99 FS                                                                        |
-| 47 | Brand day sales -Sit stand desk frame $149.99/TV wall mount $59.99/Desk mount $29.99 - March 14 only                     |
-| 48 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                             |
-| 49 | PC Elden Ring -20% $63.99                                                                                                |
-| 50 | TP-Link Deco M9 Plus AC2200 Smart Home Mesh Wi-Fi System Tri-band (3-Pack, Refurbished) $129.95 USD +FS                  |
-| 51 | Hisense 75U68G ULED 4K Android TV- $1398                                                                                 |
-| 52 | Global Prepaid Mobile Data 7GB 360 Days + FREE eSIM                                                                      |
-| 53 | 65" Sony A80j $2498 / LG C1 $2198                                                                                        |
-| 54 | NZXT H510 Compact ATX Mid-Tower PC Case, Front I/O USB C Port, Tempered Glass Side Panel - $69.99                        |
-| 55 | ThinkPad T14 Gen 2 AMD, 5650U/8GB/256GB, 14.0" FHD 300 nits, $825 after code                                             |
-| 56 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                          |
-| 57 | Lenovo 82KT00GVUS IdeaPad 3 14" FHD Laptop, Ryzen 5 5500U, 8GB RAM, 256GB SSD, $600                                      |
-| 58 | YMMV - LD Extras - $50 Google Nest Audio Sage                                                                            |
-| 59 | 30$ off 60$ on anything on Instacart for Pi Day - Including Nintendo switch games (Targeted email / YMMV) QC             |
-| 60 | [Sponsored] Exclusive Sale at Tbooth Wireless! Five Days Only, March 10-14                                               |
-| 61 | IdeaPad 3 AMD (17”) - Arctic Grey - Ryzen 5 5500U, 8GB DDR4, 256GB SSD, 17.3" FHD IPS 300Nits Display - $609.67          |
-| 62 | LG OLED C1 series OLED TV some size $100 OFF + get free LG Tone Free FP5 ANC True Wireless Earbuds, a value of $114.99   |
-| 63 | YMMV - 40% points back on purchase with redemption of at least 10,000 points                                             |
-| 64 | Dell 34" WQHD VA Panel Ultrawide Curved Gaming Monitor – S3422DWG - 537.74 + 10%OFFMONITOR + 8%Rakuten + 20% Amex = $403 |
-| 65 | Motorola One 5G Ace 128 GB Unlocked Smartphone, Volcanic Grey - $359 ($50 OFF)                                           |
-| 66 | eshop: Street Fighter 30th Anniversary Collection (Switch, digital) - $15.99                                             |
-| 67 | Lexar 32GB 633X CL10 Micro SDXC $6.99                                                                                    |
-| 68 | Tribit StormBox Bluetooth Speaker - $69.99 (reg. $129.99)                                                                |
-| 69 | Little Kite, Last Dream, Trainpunk Run, Prologue -full PC games for free                                                 |
-| 70 | HP 15-ef2014ca FHD laptop with MS 365 1yr - Ryzen 3 5300U, 8GB DDR4, 512GB SSD, 15.6" FHD IPS Screen - $524.99 + 10% CB  |
-| 71 | eufy Wired Outdoor 2K Floodlight Camera with 2-Way Audio - White $199.99 ($100, 33% OFF) ALL TIME LOW                    |
-| 72 | ThinkBook 13s Gen 2 AMD, 4800U/16GB/512GB, 13.3" 16:10 300 nits, $770 after code                                         |
-| 73 | Samsung S20 FE 5G Cloud Navy $640                                                                                        |
-| 74 | Gooseneck Bed Phone Holder Phone Mount Stand with Flexible Lazy Long Arm $12.99 FS & 10x rewards points                  |
-| 75 | LG 43UP7560- 43" 4K LED TV webOS (43UP7560) - $389                                                                       |
-| 76 | Kingston 32GB Canvas Select Plus microSD $7.99 FS                                                                        |
-| 77 | Brand day sales -Sit stand desk frame $149.99/TV wall mount $59.99/Desk mount $29.99 - March 14 only                     |
-| 78 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                             |
-| 79 | PC Elden Ring -20% $63.99                                                                                                |
-| 80 | TP-Link Deco M9 Plus AC2200 Smart Home Mesh Wi-Fi System Tri-band (3-Pack, Refurbished) $129.95 USD +FS                  |
-| 81 | Hisense 75U68G ULED 4K Android TV- $1398                                                                                 |
-| 82 | Global Prepaid Mobile Data 7GB 360 Days + FREE eSIM                                                                      |
-| 83 | 65" Sony A80j $2498 / LG C1 $2198                                                                                        |
-| 84 | NZXT H510 Compact ATX Mid-Tower PC Case, Front I/O USB C Port, Tempered Glass Side Panel - $69.99                        |
-| 85 | ThinkPad T14 Gen 2 AMD, 5650U/8GB/256GB, 14.0" FHD 300 nits, $825 after code                                             |
-| 86 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                          |
-| 87 | Lenovo 82KT00GVUS IdeaPad 3 14" FHD Laptop, Ryzen 5 5500U, 8GB RAM, 256GB SSD, $600                                      |
-| 88 | YMMV - LD Extras - $50 Google Nest Audio Sage                                                                            |
-| 89 | 30$ off 60$ on anything on Instacart for Pi Day - Including Nintendo switch games (Targeted email / YMMV) QC             |
+|    | deals                                                                                                                   |
+|---:|:------------------------------------------------------------------------------------------------------------------------|
+|  0 | Global Prepaid Mobile Data 7GB 360 Days + FREE eSIM                                                                     |
+|  1 | It Takes Two (PC) - video game of the year $21.99 down from $54.99                                                      |
+|  2 | Rogers EPP $45 for 25gb (NO WINBACK)                                                                                    |
+|  3 | GeForce RTX 3080 Ti GAMING OC ($1899) - $250 OFF                                                                        |
+|  4 | $45/month for 6GB "loyalty plan". YMMV                                                                                  |
+|  5 | AMD Sapphire Pulse 6700xt ($779), Gigabyte 6700xt ($849)                                                                |
+|  6 | GeForce RTX 3080 10GB $1499.99 CAD + $10 shipping                                                                       |
+|  7 | Sofirn flash light extra 15% off USD free shipping from Canada                                                          |
+|  8 | Hisense 55 in. 4K Roku smart 55U6GR - 399.97$ - in store - YMMV                                                         |
+|  9 | Sonos Perkopolis Discount is back (15%)                                                                                 |
+| 10 | Microsoft Flight Simulator (PC) - Digital Download $63.99                                                               |
+| 11 | Gooseneck Bed Phone Holder Phone Mount Stand with Flexible Lazy Long Arm $12.99 FS & 10x rewards points                 |
+| 12 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $60                     |
+| 13 | AMD Ryzen 5 3600 w/ Cooler $239                                                                                         |
+| 14 | Razer Kaira Pro Wireless Gaming Headset for Xbox $139.99                                                                |
+| 15 | Audio Technica AT2020 Condenser Mic - *Refurbished* $79                                                                 |
+| 16 | IdeaPad 3 AMD (17”) - Ryzen 5 5500U, 8GB DDR4, 256GB SSD, 17.3" FHD IPS 300Nits Display - $609.67/$551.30 on eBay Store |
+| 17 | Add a Line $20/Month - 3GB + Unlimited Talk / Text Canada Wide                                                          |
+| 18 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
+| 19 | Rosewill 120mm RGB LED Case Fans (3-Pack) and 8-Port Fan Hub, $34.99 (also at Newegg)                                   |
+| 20 | official Google Domains (non-beta) - 25% off new user                                                                   |
+| 21 | Lenovo IdeaPad 5 Pro, 5800H/16GB/512GB, 16" 16:10 QHD+, $960                                                            |
+| 22 | Fasgear USB-C to USB-C cables with 100W PD, 10Gbps & 4K@60Hz: $13.59 (1.6ft) - $22.94 (10ft)                            |
+| 23 | [AT&T] $45 Unlimited Max 22 GB Prepaid Priority Unlimited Prepaid Deprioritized US / CAN / MEX Not Multi-line Eligible  |
+| 24 | Ubiquiti Wifi 6 AP - instock and POE Plus Injector s(OOS)                                                               |
+| 25 | XPG SX8100 4TB NVMe Gen3x4 PCIe M.2 2280 SSD $479.99+Tax (after $50 coupon)                                             |
+| 26 | SteelSeries Aerox 3 18000 DPI Bluetooth Optical Gaming Mouse $77.99 (also at Best Buy)                                  |
+| 27 | USB A to USB C 3A Cables(6.6ft+6.6ft+1ft) - $5.94                                                                       |
+| 28 | [YMMV - Richmond Centre] Shaw "Fibre+" (Cable) Internet Deals - Internet 500 for $70, 750 for $75                       |
+| 29 | Razer Anzu Smart Glasses: Blue Light Filtering & Polarized Sunglass Lenses $79.99                                       |
+| 30 | Global Prepaid Mobile Data 7GB 360 Days + FREE eSIM                                                                     |
+| 31 | It Takes Two (PC) - video game of the year $21.99 down from $54.99                                                      |
+| 32 | Rogers EPP $45 for 25gb (NO WINBACK)                                                                                    |
+| 33 | GeForce RTX 3080 Ti GAMING OC ($1899) - $250 OFF                                                                        |
+| 34 | $45/month for 6GB "loyalty plan". YMMV                                                                                  |
+| 35 | AMD Sapphire Pulse 6700xt ($779), Gigabyte 6700xt ($849)                                                                |
+| 36 | GeForce RTX 3080 10GB $1499.99 CAD + $10 shipping                                                                       |
+| 37 | Sofirn flash light extra 15% off USD free shipping from Canada                                                          |
+| 38 | Hisense 55 in. 4K Roku smart 55U6GR - 399.97$ - in store - YMMV                                                         |
+| 39 | Sonos Perkopolis Discount is back (15%)                                                                                 |
+| 40 | Microsoft Flight Simulator (PC) - Digital Download $63.99                                                               |
+| 41 | Gooseneck Bed Phone Holder Phone Mount Stand with Flexible Lazy Long Arm $12.99 FS & 10x rewards points                 |
+| 42 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $60                     |
+| 43 | AMD Ryzen 5 3600 w/ Cooler $239                                                                                         |
+| 44 | Razer Kaira Pro Wireless Gaming Headset for Xbox $139.99                                                                |
+| 45 | Audio Technica AT2020 Condenser Mic - *Refurbished* $79                                                                 |
+| 46 | IdeaPad 3 AMD (17”) - Ryzen 5 5500U, 8GB DDR4, 256GB SSD, 17.3" FHD IPS 300Nits Display - $609.67/$551.30 on eBay Store |
+| 47 | Add a Line $20/Month - 3GB + Unlimited Talk / Text Canada Wide                                                          |
+| 48 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
+| 49 | Rosewill 120mm RGB LED Case Fans (3-Pack) and 8-Port Fan Hub, $34.99 (also at Newegg)                                   |
+| 50 | official Google Domains (non-beta) - 25% off new user                                                                   |
+| 51 | Lenovo IdeaPad 5 Pro, 5800H/16GB/512GB, 16" 16:10 QHD+, $960                                                            |
+| 52 | Fasgear USB-C to USB-C cables with 100W PD, 10Gbps & 4K@60Hz: $13.59 (1.6ft) - $22.94 (10ft)                            |
+| 53 | [AT&T] $45 Unlimited Max 22 GB Prepaid Priority Unlimited Prepaid Deprioritized US / CAN / MEX Not Multi-line Eligible  |
+| 54 | Ubiquiti Wifi 6 AP - instock and POE Plus Injector s(OOS)                                                               |
+| 55 | XPG SX8100 4TB NVMe Gen3x4 PCIe M.2 2280 SSD $479.99+Tax (after $50 coupon)                                             |
+| 56 | SteelSeries Aerox 3 18000 DPI Bluetooth Optical Gaming Mouse $77.99 (also at Best Buy)                                  |
+| 57 | USB A to USB C 3A Cables(6.6ft+6.6ft+1ft) - $5.94                                                                       |
+| 58 | [YMMV - Richmond Centre] Shaw "Fibre+" (Cable) Internet Deals - Internet 500 for $70, 750 for $75                       |
+| 59 | Razer Anzu Smart Glasses: Blue Light Filtering & Polarized Sunglass Lenses $79.99                                       |
+| 60 | Global Prepaid Mobile Data 7GB 360 Days + FREE eSIM                                                                     |
+| 61 | It Takes Two (PC) - video game of the year $21.99 down from $54.99                                                      |
+| 62 | Rogers EPP $45 for 25gb (NO WINBACK)                                                                                    |
+| 63 | GeForce RTX 3080 Ti GAMING OC ($1899) - $250 OFF                                                                        |
+| 64 | $45/month for 6GB "loyalty plan". YMMV                                                                                  |
+| 65 | AMD Sapphire Pulse 6700xt ($779), Gigabyte 6700xt ($849)                                                                |
+| 66 | GeForce RTX 3080 10GB $1499.99 CAD + $10 shipping                                                                       |
+| 67 | Sofirn flash light extra 15% off USD free shipping from Canada                                                          |
+| 68 | Hisense 55 in. 4K Roku smart 55U6GR - 399.97$ - in store - YMMV                                                         |
+| 69 | Sonos Perkopolis Discount is back (15%)                                                                                 |
+| 70 | Microsoft Flight Simulator (PC) - Digital Download $63.99                                                               |
+| 71 | Gooseneck Bed Phone Holder Phone Mount Stand with Flexible Lazy Long Arm $12.99 FS & 10x rewards points                 |
+| 72 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $60                     |
+| 73 | AMD Ryzen 5 3600 w/ Cooler $239                                                                                         |
+| 74 | Razer Kaira Pro Wireless Gaming Headset for Xbox $139.99                                                                |
+| 75 | Audio Technica AT2020 Condenser Mic - *Refurbished* $79                                                                 |
+| 76 | IdeaPad 3 AMD (17”) - Ryzen 5 5500U, 8GB DDR4, 256GB SSD, 17.3" FHD IPS 300Nits Display - $609.67/$551.30 on eBay Store |
+| 77 | Add a Line $20/Month - 3GB + Unlimited Talk / Text Canada Wide                                                          |
+| 78 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
+| 79 | Rosewill 120mm RGB LED Case Fans (3-Pack) and 8-Port Fan Hub, $34.99 (also at Newegg)                                   |
+| 80 | official Google Domains (non-beta) - 25% off new user                                                                   |
+| 81 | Lenovo IdeaPad 5 Pro, 5800H/16GB/512GB, 16" 16:10 QHD+, $960                                                            |
+| 82 | Fasgear USB-C to USB-C cables with 100W PD, 10Gbps & 4K@60Hz: $13.59 (1.6ft) - $22.94 (10ft)                            |
+| 83 | [AT&T] $45 Unlimited Max 22 GB Prepaid Priority Unlimited Prepaid Deprioritized US / CAN / MEX Not Multi-line Eligible  |
+| 84 | Ubiquiti Wifi 6 AP - instock and POE Plus Injector s(OOS)                                                               |
+| 85 | XPG SX8100 4TB NVMe Gen3x4 PCIe M.2 2280 SSD $479.99+Tax (after $50 coupon)                                             |
+| 86 | SteelSeries Aerox 3 18000 DPI Bluetooth Optical Gaming Mouse $77.99 (also at Best Buy)                                  |
+| 87 | USB A to USB C 3A Cables(6.6ft+6.6ft+1ft) - $5.94                                                                       |
+| 88 | [YMMV - Richmond Centre] Shaw "Fibre+" (Cable) Internet Deals - Internet 500 for $70, 750 for $75                       |
+| 89 | Razer Anzu Smart Glasses: Blue Light Filtering & Polarized Sunglass Lenses $79.99                                       |
