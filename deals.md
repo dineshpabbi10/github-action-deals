@@ -1,15 +1,15 @@
 |    | deals                                                                                                                   |
 |---:|:------------------------------------------------------------------------------------------------------------------------|
-|  0 | Global Prepaid Mobile Data 7GB 360 Days + FREE eSIM                                                                     |
-|  1 | It Takes Two (PC) - video game of the year $21.99 down from $54.99                                                      |
-|  2 | Rogers EPP $45 for 25gb (NO WINBACK)                                                                                    |
-|  3 | GeForce RTX 3080 Ti GAMING OC ($1899) - $250 OFF                                                                        |
-|  4 | $45/month for 6GB "loyalty plan". YMMV                                                                                  |
-|  5 | AMD Sapphire Pulse 6700xt ($779), Gigabyte 6700xt ($849)                                                                |
-|  6 | GeForce RTX 3080 10GB $1499.99 CAD + $10 shipping                                                                       |
-|  7 | Sofirn flash light extra 15% off USD free shipping from Canada                                                          |
-|  8 | Hisense 55 in. 4K Roku smart 55U6GR - 399.97$ - in store - YMMV                                                         |
-|  9 | Sonos Perkopolis Discount is back (15%)                                                                                 |
+|  0 | Sonos Perkopolis Discount is back (15%)                                                                                 |
+|  1 | Sofirn flash light extra 15% off USD free shipping from Canada                                                          |
+|  2 | Global Prepaid Mobile Data 7GB 360 Days + FREE eSIM                                                                     |
+|  3 | It Takes Two (PC) - video game of the year $21.99 down from $54.99                                                      |
+|  4 | Rogers EPP $45 for 25gb (NO WINBACK)                                                                                    |
+|  5 | GeForce RTX 3080 Ti GAMING OC ($1899) - $250 OFF                                                                        |
+|  6 | $45/month for 6GB "loyalty plan". YMMV                                                                                  |
+|  7 | AMD Sapphire Pulse 6700xt ($779), Gigabyte 6700xt ($849)                                                                |
+|  8 | GeForce RTX 3080 10GB $1499.99 CAD + $10 shipping                                                                       |
+|  9 | Hisense 55 in. 4K Roku smart 55U6GR - 399.97$ - in store - YMMV                                                         |
 | 10 | Microsoft Flight Simulator (PC) - Digital Download $63.99                                                               |
 | 11 | Gooseneck Bed Phone Holder Phone Mount Stand with Flexible Lazy Long Arm $12.99 FS & 10x rewards points                 |
 | 12 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $60                     |
@@ -30,16 +30,16 @@
 | 27 | USB A to USB C 3A Cables(6.6ft+6.6ft+1ft) - $5.94                                                                       |
 | 28 | [YMMV - Richmond Centre] Shaw "Fibre+" (Cable) Internet Deals - Internet 500 for $70, 750 for $75                       |
 | 29 | Razer Anzu Smart Glasses: Blue Light Filtering & Polarized Sunglass Lenses $79.99                                       |
-| 30 | Global Prepaid Mobile Data 7GB 360 Days + FREE eSIM                                                                     |
-| 31 | It Takes Two (PC) - video game of the year $21.99 down from $54.99                                                      |
-| 32 | Rogers EPP $45 for 25gb (NO WINBACK)                                                                                    |
-| 33 | GeForce RTX 3080 Ti GAMING OC ($1899) - $250 OFF                                                                        |
-| 34 | $45/month for 6GB "loyalty plan". YMMV                                                                                  |
-| 35 | AMD Sapphire Pulse 6700xt ($779), Gigabyte 6700xt ($849)                                                                |
-| 36 | GeForce RTX 3080 10GB $1499.99 CAD + $10 shipping                                                                       |
-| 37 | Sofirn flash light extra 15% off USD free shipping from Canada                                                          |
-| 38 | Hisense 55 in. 4K Roku smart 55U6GR - 399.97$ - in store - YMMV                                                         |
-| 39 | Sonos Perkopolis Discount is back (15%)                                                                                 |
+| 30 | Sonos Perkopolis Discount is back (15%)                                                                                 |
+| 31 | Sofirn flash light extra 15% off USD free shipping from Canada                                                          |
+| 32 | Global Prepaid Mobile Data 7GB 360 Days + FREE eSIM                                                                     |
+| 33 | It Takes Two (PC) - video game of the year $21.99 down from $54.99                                                      |
+| 34 | Rogers EPP $45 for 25gb (NO WINBACK)                                                                                    |
+| 35 | GeForce RTX 3080 Ti GAMING OC ($1899) - $250 OFF                                                                        |
+| 36 | $45/month for 6GB "loyalty plan". YMMV                                                                                  |
+| 37 | AMD Sapphire Pulse 6700xt ($779), Gigabyte 6700xt ($849)                                                                |
+| 38 | GeForce RTX 3080 10GB $1499.99 CAD + $10 shipping                                                                       |
+| 39 | Hisense 55 in. 4K Roku smart 55U6GR - 399.97$ - in store - YMMV                                                         |
 | 40 | Microsoft Flight Simulator (PC) - Digital Download $63.99                                                               |
 | 41 | Gooseneck Bed Phone Holder Phone Mount Stand with Flexible Lazy Long Arm $12.99 FS & 10x rewards points                 |
 | 42 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $60                     |
@@ -60,16 +60,16 @@
 | 57 | USB A to USB C 3A Cables(6.6ft+6.6ft+1ft) - $5.94                                                                       |
 | 58 | [YMMV - Richmond Centre] Shaw "Fibre+" (Cable) Internet Deals - Internet 500 for $70, 750 for $75                       |
 | 59 | Razer Anzu Smart Glasses: Blue Light Filtering & Polarized Sunglass Lenses $79.99                                       |
-| 60 | Global Prepaid Mobile Data 7GB 360 Days + FREE eSIM                                                                     |
-| 61 | It Takes Two (PC) - video game of the year $21.99 down from $54.99                                                      |
-| 62 | Rogers EPP $45 for 25gb (NO WINBACK)                                                                                    |
-| 63 | GeForce RTX 3080 Ti GAMING OC ($1899) - $250 OFF                                                                        |
-| 64 | $45/month for 6GB "loyalty plan". YMMV                                                                                  |
-| 65 | AMD Sapphire Pulse 6700xt ($779), Gigabyte 6700xt ($849)                                                                |
-| 66 | GeForce RTX 3080 10GB $1499.99 CAD + $10 shipping                                                                       |
-| 67 | Sofirn flash light extra 15% off USD free shipping from Canada                                                          |
-| 68 | Hisense 55 in. 4K Roku smart 55U6GR - 399.97$ - in store - YMMV                                                         |
-| 69 | Sonos Perkopolis Discount is back (15%)                                                                                 |
+| 60 | Sonos Perkopolis Discount is back (15%)                                                                                 |
+| 61 | Sofirn flash light extra 15% off USD free shipping from Canada                                                          |
+| 62 | Global Prepaid Mobile Data 7GB 360 Days + FREE eSIM                                                                     |
+| 63 | It Takes Two (PC) - video game of the year $21.99 down from $54.99                                                      |
+| 64 | Rogers EPP $45 for 25gb (NO WINBACK)                                                                                    |
+| 65 | GeForce RTX 3080 Ti GAMING OC ($1899) - $250 OFF                                                                        |
+| 66 | $45/month for 6GB "loyalty plan". YMMV                                                                                  |
+| 67 | AMD Sapphire Pulse 6700xt ($779), Gigabyte 6700xt ($849)                                                                |
+| 68 | GeForce RTX 3080 10GB $1499.99 CAD + $10 shipping                                                                       |
+| 69 | Hisense 55 in. 4K Roku smart 55U6GR - 399.97$ - in store - YMMV                                                         |
 | 70 | Microsoft Flight Simulator (PC) - Digital Download $63.99                                                               |
 | 71 | Gooseneck Bed Phone Holder Phone Mount Stand with Flexible Lazy Long Arm $12.99 FS & 10x rewards points                 |
 | 72 | [Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $60                     |
