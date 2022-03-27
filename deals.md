@@ -1,92 +1,92 @@
-|    | deals                                                                                                                   |
-|---:|:------------------------------------------------------------------------------------------------------------------------|
-|  0 | [Red Wireless] [Sponsored] Exclusive Rogers Preferred Pricing with Red Wireless! March 25-31                            |
-|  1 | 6-ft MFI Lightning-USB Cable - Good Quality, Braided - $5 Clearance, Free Next-Day Shipping                             |
-|  2 | IdeaPad 3 AMD (17”) - Ryzen 5 5500U, 8GB DDR4, 256GB SSD, 17.3" FHD IPS 300Nits Display - $609.67/$551.30 on eBay Store |
-|  3 | Xbox Series X $599 with RBC/Ampli $70 Cashback                                                                          |
-|  4 | Sony WH-1000XM3 Wireless Noise Cancelling Headphones for $199.97 (YMMV)                                                 |
-|  5 | Budget 1080p Projector with WiFi & Bluetooth $135.99 (63% off)                                                          |
-|  6 | Bose Earbuds Save up to 43% off - Refurbished                                                                           |
-|  7 | Microsoft Wireless Mobile Mouse 1850 $10.95                                                                             |
-|  8 | Razer Nari Essential Wireless 7.1 Surround Sound Gaming Headset $65                                                     |
-|  9 | Yoga Tab 13" Tablet & Portable Monitor, 870 Octa-core, 8GB, 128GB - $533.99 (41% off)                                   |
-| 10 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
-| 11 | WD 16TB Gold drive for $383.99 ($24/TB)                                                                                 |
-| 12 | Galaxy Watch4 Classic 50% off ($209.99)                                                                                 |
-| 13 | Biogenik Universal Headset  ***$4.98*** YMMV                                                                            |
-| 14 | 4 Outlet Type 3 Surge Protector Power Strip with 3 USB Ports, 2100 Joule, 1.5M Cord $17.99 FS March 23 only             |
-| 15 | LG OLED C1 series OLED TV some size up to $200 OFF + get free LG Tone Free FP5 ANC True Wireless Earbuds, value $114.99 |
-| 16 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                         |
-| 17 | $198 - Samsung LS27T350FHNXZA 27-inch Screen LED-Lit Monitor 5ms 75Hz Eye-Saver Mode with Freesync, Black               |
-| 18 | [FREE] Sacred 2: Fallen Angel (100% off, XBL Gold NOT required)                                                         |
-| 19 | Pixel 6 open box $609.99                                                                                                |
-| 20 | [Costco]eufy Wired Outdoor 2K Floodlight Camera with 2-Way Audio - White $199.99 ($100, 33% OFF) ATL                    |
-| 21 | Xbox Game: Elden Ring 50% off ($40.66) - VPN required                                                                   |
-| 22 | ASUS TUF Gaming RTX 3070 Ti - $880                                                                                      |
-| 23 | ThinkVision P27u-20 27'' 4K full DCI-P3 & Adobe RGB HDR400 Thunderbolt 4 Monitor $746 - 13% Rakuten                     |
-| 24 | Thermal compound TIM Arctic mx-4 20g 2019 - $11.99 near ATL                                                             |
-| 25 | Seasonic FOCUS PX-750, 750W 80+ Platinum Full-Modular ATX PSU $103 F/S                                                  |
-| 26 | 3D Printing filament (Multiple colours/sytles) up to 60% off and Free Shipping with orders of 6 or more.                |
-| 27 | SANSUI ES43S1A 43" Television UHD HDR Smart TV with Google Assistant (Voice Control), Screen Share, HDMI, USB - $282.99 |
-| 28 | Far Cry 6 free weekend access. March 24-27. Gaming consoles and PC                                                      |
-| 29 | Europa Universalis IV Complete Collection $25.66, Europa Universalis IV $1.28                                           |
-| 30 | [Red Wireless] [Sponsored] Exclusive Rogers Preferred Pricing with Red Wireless! March 25-31                            |
-| 31 | 6-ft MFI Lightning-USB Cable - Good Quality, Braided - $5 Clearance, Free Next-Day Shipping                             |
-| 32 | IdeaPad 3 AMD (17”) - Ryzen 5 5500U, 8GB DDR4, 256GB SSD, 17.3" FHD IPS 300Nits Display - $609.67/$551.30 on eBay Store |
-| 33 | Xbox Series X $599 with RBC/Ampli $70 Cashback                                                                          |
-| 34 | Sony WH-1000XM3 Wireless Noise Cancelling Headphones for $199.97 (YMMV)                                                 |
-| 35 | Budget 1080p Projector with WiFi & Bluetooth $135.99 (63% off)                                                          |
-| 36 | Bose Earbuds Save up to 43% off - Refurbished                                                                           |
-| 37 | Microsoft Wireless Mobile Mouse 1850 $10.95                                                                             |
-| 38 | Razer Nari Essential Wireless 7.1 Surround Sound Gaming Headset $65                                                     |
-| 39 | Yoga Tab 13" Tablet & Portable Monitor, 870 Octa-core, 8GB, 128GB - $533.99 (41% off)                                   |
-| 40 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
-| 41 | WD 16TB Gold drive for $383.99 ($24/TB)                                                                                 |
-| 42 | Galaxy Watch4 Classic 50% off ($209.99)                                                                                 |
-| 43 | Biogenik Universal Headset  ***$4.98*** YMMV                                                                            |
-| 44 | 4 Outlet Type 3 Surge Protector Power Strip with 3 USB Ports, 2100 Joule, 1.5M Cord $17.99 FS March 23 only             |
-| 45 | LG OLED C1 series OLED TV some size up to $200 OFF + get free LG Tone Free FP5 ANC True Wireless Earbuds, value $114.99 |
-| 46 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                         |
-| 47 | $198 - Samsung LS27T350FHNXZA 27-inch Screen LED-Lit Monitor 5ms 75Hz Eye-Saver Mode with Freesync, Black               |
-| 48 | [FREE] Sacred 2: Fallen Angel (100% off, XBL Gold NOT required)                                                         |
-| 49 | Pixel 6 open box $609.99                                                                                                |
-| 50 | [Costco]eufy Wired Outdoor 2K Floodlight Camera with 2-Way Audio - White $199.99 ($100, 33% OFF) ATL                    |
-| 51 | Xbox Game: Elden Ring 50% off ($40.66) - VPN required                                                                   |
-| 52 | ASUS TUF Gaming RTX 3070 Ti - $880                                                                                      |
-| 53 | ThinkVision P27u-20 27'' 4K full DCI-P3 & Adobe RGB HDR400 Thunderbolt 4 Monitor $746 - 13% Rakuten                     |
-| 54 | Thermal compound TIM Arctic mx-4 20g 2019 - $11.99 near ATL                                                             |
-| 55 | Seasonic FOCUS PX-750, 750W 80+ Platinum Full-Modular ATX PSU $103 F/S                                                  |
-| 56 | 3D Printing filament (Multiple colours/sytles) up to 60% off and Free Shipping with orders of 6 or more.                |
-| 57 | SANSUI ES43S1A 43" Television UHD HDR Smart TV with Google Assistant (Voice Control), Screen Share, HDMI, USB - $282.99 |
-| 58 | Far Cry 6 free weekend access. March 24-27. Gaming consoles and PC                                                      |
-| 59 | Europa Universalis IV Complete Collection $25.66, Europa Universalis IV $1.28                                           |
-| 60 | [Red Wireless] [Sponsored] Exclusive Rogers Preferred Pricing with Red Wireless! March 25-31                            |
-| 61 | 6-ft MFI Lightning-USB Cable - Good Quality, Braided - $5 Clearance, Free Next-Day Shipping                             |
-| 62 | IdeaPad 3 AMD (17”) - Ryzen 5 5500U, 8GB DDR4, 256GB SSD, 17.3" FHD IPS 300Nits Display - $609.67/$551.30 on eBay Store |
-| 63 | Xbox Series X $599 with RBC/Ampli $70 Cashback                                                                          |
-| 64 | Sony WH-1000XM3 Wireless Noise Cancelling Headphones for $199.97 (YMMV)                                                 |
-| 65 | Budget 1080p Projector with WiFi & Bluetooth $135.99 (63% off)                                                          |
-| 66 | Bose Earbuds Save up to 43% off - Refurbished                                                                           |
-| 67 | Microsoft Wireless Mobile Mouse 1850 $10.95                                                                             |
-| 68 | Razer Nari Essential Wireless 7.1 Surround Sound Gaming Headset $65                                                     |
-| 69 | Yoga Tab 13" Tablet & Portable Monitor, 870 Octa-core, 8GB, 128GB - $533.99 (41% off)                                   |
-| 70 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
-| 71 | WD 16TB Gold drive for $383.99 ($24/TB)                                                                                 |
-| 72 | Galaxy Watch4 Classic 50% off ($209.99)                                                                                 |
-| 73 | Biogenik Universal Headset  ***$4.98*** YMMV                                                                            |
-| 74 | 4 Outlet Type 3 Surge Protector Power Strip with 3 USB Ports, 2100 Joule, 1.5M Cord $17.99 FS March 23 only             |
-| 75 | LG OLED C1 series OLED TV some size up to $200 OFF + get free LG Tone Free FP5 ANC True Wireless Earbuds, value $114.99 |
-| 76 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                         |
-| 77 | $198 - Samsung LS27T350FHNXZA 27-inch Screen LED-Lit Monitor 5ms 75Hz Eye-Saver Mode with Freesync, Black               |
-| 78 | [FREE] Sacred 2: Fallen Angel (100% off, XBL Gold NOT required)                                                         |
-| 79 | Pixel 6 open box $609.99                                                                                                |
-| 80 | [Costco]eufy Wired Outdoor 2K Floodlight Camera with 2-Way Audio - White $199.99 ($100, 33% OFF) ATL                    |
-| 81 | Xbox Game: Elden Ring 50% off ($40.66) - VPN required                                                                   |
-| 82 | ASUS TUF Gaming RTX 3070 Ti - $880                                                                                      |
-| 83 | ThinkVision P27u-20 27'' 4K full DCI-P3 & Adobe RGB HDR400 Thunderbolt 4 Monitor $746 - 13% Rakuten                     |
-| 84 | Thermal compound TIM Arctic mx-4 20g 2019 - $11.99 near ATL                                                             |
-| 85 | Seasonic FOCUS PX-750, 750W 80+ Platinum Full-Modular ATX PSU $103 F/S                                                  |
-| 86 | 3D Printing filament (Multiple colours/sytles) up to 60% off and Free Shipping with orders of 6 or more.                |
-| 87 | SANSUI ES43S1A 43" Television UHD HDR Smart TV with Google Assistant (Voice Control), Screen Share, HDMI, USB - $282.99 |
-| 88 | Far Cry 6 free weekend access. March 24-27. Gaming consoles and PC                                                      |
-| 89 | Europa Universalis IV Complete Collection $25.66, Europa Universalis IV $1.28                                           |
+|    | deals                                                                                                                |
+|---:|:---------------------------------------------------------------------------------------------------------------------|
+|  0 | [Red Wireless] [Sponsored] Exclusive Rogers Preferred Pricing with Red Wireless! March 25-31                         |
+|  1 | Samsung S22 Ultra 128gb + Trade-In Promo $300 + Free Galaxy Buds Pro + 5% Rakuten ($1449.75)                         |
+|  2 | Free T-Mobile 30 day, 30 GB data trial                                                                               |
+|  3 | [Jabra.ca] Jabra Elite 75t/Elite Active 75t/Elite 85T $56/$71/$88, Free Shipping, Certified Refurbished              |
+|  4 | NEW Samsung Galaxy A53 5G + FREE Galaxy Buds Live Preorder ($589)                                                    |
+|  5 | Amazon eero 6+ system (3-pack) with FREE FireTV Stick 4K Max - $429                                                  |
+|  6 | [Costco]eufy Wired Outdoor 2K Floodlight Camera with 2-Way Audio - White $199.99 ($100, 33% OFF) ATL                 |
+|  7 | Gigabyte 11400h 3050TI 512GB SSD 16GB ram laptop 850.00 with mail in rebate                                          |
+|  8 | Cannon Rebel SL2 349.99+20x points YMMV                                                                              |
+|  9 | Galaxy Watch4 Classic 50% off ($209.99)                                                                              |
+| 10 | Cannon Rebel SL2 349.99+20x points YMMV                                                                              |
+| 11 | WD 16TB Gold drive for $383.99 ($24/TB)                                                                              |
+| 12 | Pixel 6 open box $609.99                                                                                             |
+| 13 | New Bonus: $40 (regularly $25) Home Internet 120/20 Mbps $55/month or Mobile service Québec province + Ottawa region |
+| 14 | Dell G15 Ryzen Edition Clearance 5600H / 8GB / 3050 / 256GB $899 + Workperks 5% off + Rakuten 2% off                 |
+| 15 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                      |
+| 16 | $599 Lenovo Ideapad 3 Ryzen 5 5500U 8GB RAM 256GB SSD                                                                |
+| 17 | Costco: Lorex 4k 8 camera NVR security system $799 (instore clearance)                                               |
+| 18 | Xbox Series X $599 with RBC/Ampli $70 Cashback                                                                       |
+| 19 | FREE - Ms. Splosion Man - for XBOX (via Microsoft Korea)                                                             |
+| 20 | 4 Outlet Type 3 Surge Protector Power Strip with 3 USB Ports, 2100 Joule, 1.5M Cord $17.99 FS March 23 only          |
+| 21 | FREE - Metal Slug 3 - for XBOX (via Microsoft Israel)                                                                |
+| 22 | Yoga Tab 13" Tablet & Portable Monitor, 870 Octa-core, 8GB, 128GB - $533.99 (41% off)                                |
+| 23 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                         |
+| 24 | Lenovo 82KT00GVUS IdeaPad 3 14" FHD Laptop, Ryzen 5 5500U, 8GB RAM, 256GB SSD, $600                                  |
+| 25 | (YMMV) Apple Magic Keyboard with Numeric Keypad for $50                                                              |
+| 26 | Kobo Libra 2 - for $199.99 plus 10% cash back plus 10% off                                                           |
+| 27 | AMD Ryzen 5 5600X [$279 after $20 coupon] [Free Shipping]                                                            |
+| 28 | Seagate Backup Plus Hub 6 TB ($100... $16.67/TB) [YMMV-in store pickup]                                              |
+| 29 | DJI Osmo Mobile 3 Combo $69 clearance YMMV                                                                           |
+| 30 | [Red Wireless] [Sponsored] Exclusive Rogers Preferred Pricing with Red Wireless! March 25-31                         |
+| 31 | Samsung S22 Ultra 128gb + Trade-In Promo $300 + Free Galaxy Buds Pro + 5% Rakuten ($1449.75)                         |
+| 32 | Free T-Mobile 30 day, 30 GB data trial                                                                               |
+| 33 | [Jabra.ca] Jabra Elite 75t/Elite Active 75t/Elite 85T $56/$71/$88, Free Shipping, Certified Refurbished              |
+| 34 | NEW Samsung Galaxy A53 5G + FREE Galaxy Buds Live Preorder ($589)                                                    |
+| 35 | Amazon eero 6+ system (3-pack) with FREE FireTV Stick 4K Max - $429                                                  |
+| 36 | [Costco]eufy Wired Outdoor 2K Floodlight Camera with 2-Way Audio - White $199.99 ($100, 33% OFF) ATL                 |
+| 37 | Gigabyte 11400h 3050TI 512GB SSD 16GB ram laptop 850.00 with mail in rebate                                          |
+| 38 | Cannon Rebel SL2 349.99+20x points YMMV                                                                              |
+| 39 | Galaxy Watch4 Classic 50% off ($209.99)                                                                              |
+| 40 | Cannon Rebel SL2 349.99+20x points YMMV                                                                              |
+| 41 | WD 16TB Gold drive for $383.99 ($24/TB)                                                                              |
+| 42 | Pixel 6 open box $609.99                                                                                             |
+| 43 | New Bonus: $40 (regularly $25) Home Internet 120/20 Mbps $55/month or Mobile service Québec province + Ottawa region |
+| 44 | Dell G15 Ryzen Edition Clearance 5600H / 8GB / 3050 / 256GB $899 + Workperks 5% off + Rakuten 2% off                 |
+| 45 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                      |
+| 46 | $599 Lenovo Ideapad 3 Ryzen 5 5500U 8GB RAM 256GB SSD                                                                |
+| 47 | Costco: Lorex 4k 8 camera NVR security system $799 (instore clearance)                                               |
+| 48 | Xbox Series X $599 with RBC/Ampli $70 Cashback                                                                       |
+| 49 | FREE - Ms. Splosion Man - for XBOX (via Microsoft Korea)                                                             |
+| 50 | 4 Outlet Type 3 Surge Protector Power Strip with 3 USB Ports, 2100 Joule, 1.5M Cord $17.99 FS March 23 only          |
+| 51 | FREE - Metal Slug 3 - for XBOX (via Microsoft Israel)                                                                |
+| 52 | Yoga Tab 13" Tablet & Portable Monitor, 870 Octa-core, 8GB, 128GB - $533.99 (41% off)                                |
+| 53 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                         |
+| 54 | Lenovo 82KT00GVUS IdeaPad 3 14" FHD Laptop, Ryzen 5 5500U, 8GB RAM, 256GB SSD, $600                                  |
+| 55 | (YMMV) Apple Magic Keyboard with Numeric Keypad for $50                                                              |
+| 56 | Kobo Libra 2 - for $199.99 plus 10% cash back plus 10% off                                                           |
+| 57 | AMD Ryzen 5 5600X [$279 after $20 coupon] [Free Shipping]                                                            |
+| 58 | Seagate Backup Plus Hub 6 TB ($100... $16.67/TB) [YMMV-in store pickup]                                              |
+| 59 | DJI Osmo Mobile 3 Combo $69 clearance YMMV                                                                           |
+| 60 | [Red Wireless] [Sponsored] Exclusive Rogers Preferred Pricing with Red Wireless! March 25-31                         |
+| 61 | Samsung S22 Ultra 128gb + Trade-In Promo $300 + Free Galaxy Buds Pro + 5% Rakuten ($1449.75)                         |
+| 62 | Free T-Mobile 30 day, 30 GB data trial                                                                               |
+| 63 | [Jabra.ca] Jabra Elite 75t/Elite Active 75t/Elite 85T $56/$71/$88, Free Shipping, Certified Refurbished              |
+| 64 | NEW Samsung Galaxy A53 5G + FREE Galaxy Buds Live Preorder ($589)                                                    |
+| 65 | Amazon eero 6+ system (3-pack) with FREE FireTV Stick 4K Max - $429                                                  |
+| 66 | [Costco]eufy Wired Outdoor 2K Floodlight Camera with 2-Way Audio - White $199.99 ($100, 33% OFF) ATL                 |
+| 67 | Gigabyte 11400h 3050TI 512GB SSD 16GB ram laptop 850.00 with mail in rebate                                          |
+| 68 | Cannon Rebel SL2 349.99+20x points YMMV                                                                              |
+| 69 | Galaxy Watch4 Classic 50% off ($209.99)                                                                              |
+| 70 | Cannon Rebel SL2 349.99+20x points YMMV                                                                              |
+| 71 | WD 16TB Gold drive for $383.99 ($24/TB)                                                                              |
+| 72 | Pixel 6 open box $609.99                                                                                             |
+| 73 | New Bonus: $40 (regularly $25) Home Internet 120/20 Mbps $55/month or Mobile service Québec province + Ottawa region |
+| 74 | Dell G15 Ryzen Edition Clearance 5600H / 8GB / 3050 / 256GB $899 + Workperks 5% off + Rakuten 2% off                 |
+| 75 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                      |
+| 76 | $599 Lenovo Ideapad 3 Ryzen 5 5500U 8GB RAM 256GB SSD                                                                |
+| 77 | Costco: Lorex 4k 8 camera NVR security system $799 (instore clearance)                                               |
+| 78 | Xbox Series X $599 with RBC/Ampli $70 Cashback                                                                       |
+| 79 | FREE - Ms. Splosion Man - for XBOX (via Microsoft Korea)                                                             |
+| 80 | 4 Outlet Type 3 Surge Protector Power Strip with 3 USB Ports, 2100 Joule, 1.5M Cord $17.99 FS March 23 only          |
+| 81 | FREE - Metal Slug 3 - for XBOX (via Microsoft Israel)                                                                |
+| 82 | Yoga Tab 13" Tablet & Portable Monitor, 870 Octa-core, 8GB, 128GB - $533.99 (41% off)                                |
+| 83 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                         |
+| 84 | Lenovo 82KT00GVUS IdeaPad 3 14" FHD Laptop, Ryzen 5 5500U, 8GB RAM, 256GB SSD, $600                                  |
+| 85 | (YMMV) Apple Magic Keyboard with Numeric Keypad for $50                                                              |
+| 86 | Kobo Libra 2 - for $199.99 plus 10% cash back plus 10% off                                                           |
+| 87 | AMD Ryzen 5 5600X [$279 after $20 coupon] [Free Shipping]                                                            |
+| 88 | Seagate Backup Plus Hub 6 TB ($100... $16.67/TB) [YMMV-in store pickup]                                              |
+| 89 | DJI Osmo Mobile 3 Combo $69 clearance YMMV                                                                           |
