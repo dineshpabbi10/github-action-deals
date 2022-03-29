@@ -1,92 +1,92 @@
-|    | deals                                                                                                                |
-|---:|:---------------------------------------------------------------------------------------------------------------------|
-|  0 | [Red Wireless] [Sponsored] Exclusive Rogers Preferred Pricing with Red Wireless! March 25-31                         |
-|  1 | Samsung S22 Ultra 128gb + Trade-In Promo $300 + Free Galaxy Buds Pro + 5% Rakuten ($1449.75)                         |
-|  2 | Free T-Mobile 30 day, 30 GB data trial                                                                               |
-|  3 | [Jabra.ca] Jabra Elite 75t/Elite Active 75t/Elite 85T $56/$71/$88, Free Shipping, Certified Refurbished              |
-|  4 | NEW Samsung Galaxy A53 5G + FREE Galaxy Buds Live Preorder ($589)                                                    |
-|  5 | Amazon eero 6+ system (3-pack) with FREE FireTV Stick 4K Max - $429                                                  |
-|  6 | [Costco]eufy Wired Outdoor 2K Floodlight Camera with 2-Way Audio - White $199.99 ($100, 33% OFF) ATL                 |
-|  7 | Gigabyte 11400h 3050TI 512GB SSD 16GB ram laptop 850.00 with mail in rebate                                          |
-|  8 | Cannon Rebel SL2 349.99+20x points YMMV                                                                              |
-|  9 | Galaxy Watch4 Classic 50% off ($209.99)                                                                              |
-| 10 | Cannon Rebel SL2 349.99+20x points YMMV                                                                              |
-| 11 | WD 16TB Gold drive for $383.99 ($24/TB)                                                                              |
-| 12 | Pixel 6 open box $609.99                                                                                             |
-| 13 | New Bonus: $40 (regularly $25) Home Internet 120/20 Mbps $55/month or Mobile service Québec province + Ottawa region |
-| 14 | Dell G15 Ryzen Edition Clearance 5600H / 8GB / 3050 / 256GB $899 + Workperks 5% off + Rakuten 2% off                 |
-| 15 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                      |
-| 16 | $599 Lenovo Ideapad 3 Ryzen 5 5500U 8GB RAM 256GB SSD                                                                |
-| 17 | Costco: Lorex 4k 8 camera NVR security system $799 (instore clearance)                                               |
-| 18 | Xbox Series X $599 with RBC/Ampli $70 Cashback                                                                       |
-| 19 | FREE - Ms. Splosion Man - for XBOX (via Microsoft Korea)                                                             |
-| 20 | 4 Outlet Type 3 Surge Protector Power Strip with 3 USB Ports, 2100 Joule, 1.5M Cord $17.99 FS March 23 only          |
-| 21 | FREE - Metal Slug 3 - for XBOX (via Microsoft Israel)                                                                |
-| 22 | Yoga Tab 13" Tablet & Portable Monitor, 870 Octa-core, 8GB, 128GB - $533.99 (41% off)                                |
-| 23 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                         |
-| 24 | Lenovo 82KT00GVUS IdeaPad 3 14" FHD Laptop, Ryzen 5 5500U, 8GB RAM, 256GB SSD, $600                                  |
-| 25 | (YMMV) Apple Magic Keyboard with Numeric Keypad for $50                                                              |
-| 26 | Kobo Libra 2 - for $199.99 plus 10% cash back plus 10% off                                                           |
-| 27 | AMD Ryzen 5 5600X [$279 after $20 coupon] [Free Shipping]                                                            |
-| 28 | Seagate Backup Plus Hub 6 TB ($100... $16.67/TB) [YMMV-in store pickup]                                              |
-| 29 | DJI Osmo Mobile 3 Combo $69 clearance YMMV                                                                           |
-| 30 | [Red Wireless] [Sponsored] Exclusive Rogers Preferred Pricing with Red Wireless! March 25-31                         |
-| 31 | Samsung S22 Ultra 128gb + Trade-In Promo $300 + Free Galaxy Buds Pro + 5% Rakuten ($1449.75)                         |
-| 32 | Free T-Mobile 30 day, 30 GB data trial                                                                               |
-| 33 | [Jabra.ca] Jabra Elite 75t/Elite Active 75t/Elite 85T $56/$71/$88, Free Shipping, Certified Refurbished              |
-| 34 | NEW Samsung Galaxy A53 5G + FREE Galaxy Buds Live Preorder ($589)                                                    |
-| 35 | Amazon eero 6+ system (3-pack) with FREE FireTV Stick 4K Max - $429                                                  |
-| 36 | [Costco]eufy Wired Outdoor 2K Floodlight Camera with 2-Way Audio - White $199.99 ($100, 33% OFF) ATL                 |
-| 37 | Gigabyte 11400h 3050TI 512GB SSD 16GB ram laptop 850.00 with mail in rebate                                          |
-| 38 | Cannon Rebel SL2 349.99+20x points YMMV                                                                              |
-| 39 | Galaxy Watch4 Classic 50% off ($209.99)                                                                              |
-| 40 | Cannon Rebel SL2 349.99+20x points YMMV                                                                              |
-| 41 | WD 16TB Gold drive for $383.99 ($24/TB)                                                                              |
-| 42 | Pixel 6 open box $609.99                                                                                             |
-| 43 | New Bonus: $40 (regularly $25) Home Internet 120/20 Mbps $55/month or Mobile service Québec province + Ottawa region |
-| 44 | Dell G15 Ryzen Edition Clearance 5600H / 8GB / 3050 / 256GB $899 + Workperks 5% off + Rakuten 2% off                 |
-| 45 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                      |
-| 46 | $599 Lenovo Ideapad 3 Ryzen 5 5500U 8GB RAM 256GB SSD                                                                |
-| 47 | Costco: Lorex 4k 8 camera NVR security system $799 (instore clearance)                                               |
-| 48 | Xbox Series X $599 with RBC/Ampli $70 Cashback                                                                       |
-| 49 | FREE - Ms. Splosion Man - for XBOX (via Microsoft Korea)                                                             |
-| 50 | 4 Outlet Type 3 Surge Protector Power Strip with 3 USB Ports, 2100 Joule, 1.5M Cord $17.99 FS March 23 only          |
-| 51 | FREE - Metal Slug 3 - for XBOX (via Microsoft Israel)                                                                |
-| 52 | Yoga Tab 13" Tablet & Portable Monitor, 870 Octa-core, 8GB, 128GB - $533.99 (41% off)                                |
-| 53 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                         |
-| 54 | Lenovo 82KT00GVUS IdeaPad 3 14" FHD Laptop, Ryzen 5 5500U, 8GB RAM, 256GB SSD, $600                                  |
-| 55 | (YMMV) Apple Magic Keyboard with Numeric Keypad for $50                                                              |
-| 56 | Kobo Libra 2 - for $199.99 plus 10% cash back plus 10% off                                                           |
-| 57 | AMD Ryzen 5 5600X [$279 after $20 coupon] [Free Shipping]                                                            |
-| 58 | Seagate Backup Plus Hub 6 TB ($100... $16.67/TB) [YMMV-in store pickup]                                              |
-| 59 | DJI Osmo Mobile 3 Combo $69 clearance YMMV                                                                           |
-| 60 | [Red Wireless] [Sponsored] Exclusive Rogers Preferred Pricing with Red Wireless! March 25-31                         |
-| 61 | Samsung S22 Ultra 128gb + Trade-In Promo $300 + Free Galaxy Buds Pro + 5% Rakuten ($1449.75)                         |
-| 62 | Free T-Mobile 30 day, 30 GB data trial                                                                               |
-| 63 | [Jabra.ca] Jabra Elite 75t/Elite Active 75t/Elite 85T $56/$71/$88, Free Shipping, Certified Refurbished              |
-| 64 | NEW Samsung Galaxy A53 5G + FREE Galaxy Buds Live Preorder ($589)                                                    |
-| 65 | Amazon eero 6+ system (3-pack) with FREE FireTV Stick 4K Max - $429                                                  |
-| 66 | [Costco]eufy Wired Outdoor 2K Floodlight Camera with 2-Way Audio - White $199.99 ($100, 33% OFF) ATL                 |
-| 67 | Gigabyte 11400h 3050TI 512GB SSD 16GB ram laptop 850.00 with mail in rebate                                          |
-| 68 | Cannon Rebel SL2 349.99+20x points YMMV                                                                              |
-| 69 | Galaxy Watch4 Classic 50% off ($209.99)                                                                              |
-| 70 | Cannon Rebel SL2 349.99+20x points YMMV                                                                              |
-| 71 | WD 16TB Gold drive for $383.99 ($24/TB)                                                                              |
-| 72 | Pixel 6 open box $609.99                                                                                             |
-| 73 | New Bonus: $40 (regularly $25) Home Internet 120/20 Mbps $55/month or Mobile service Québec province + Ottawa region |
-| 74 | Dell G15 Ryzen Edition Clearance 5600H / 8GB / 3050 / 256GB $899 + Workperks 5% off + Rakuten 2% off                 |
-| 75 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                      |
-| 76 | $599 Lenovo Ideapad 3 Ryzen 5 5500U 8GB RAM 256GB SSD                                                                |
-| 77 | Costco: Lorex 4k 8 camera NVR security system $799 (instore clearance)                                               |
-| 78 | Xbox Series X $599 with RBC/Ampli $70 Cashback                                                                       |
-| 79 | FREE - Ms. Splosion Man - for XBOX (via Microsoft Korea)                                                             |
-| 80 | 4 Outlet Type 3 Surge Protector Power Strip with 3 USB Ports, 2100 Joule, 1.5M Cord $17.99 FS March 23 only          |
-| 81 | FREE - Metal Slug 3 - for XBOX (via Microsoft Israel)                                                                |
-| 82 | Yoga Tab 13" Tablet & Portable Monitor, 870 Octa-core, 8GB, 128GB - $533.99 (41% off)                                |
-| 83 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                         |
-| 84 | Lenovo 82KT00GVUS IdeaPad 3 14" FHD Laptop, Ryzen 5 5500U, 8GB RAM, 256GB SSD, $600                                  |
-| 85 | (YMMV) Apple Magic Keyboard with Numeric Keypad for $50                                                              |
-| 86 | Kobo Libra 2 - for $199.99 plus 10% cash back plus 10% off                                                           |
-| 87 | AMD Ryzen 5 5600X [$279 after $20 coupon] [Free Shipping]                                                            |
-| 88 | Seagate Backup Plus Hub 6 TB ($100... $16.67/TB) [YMMV-in store pickup]                                              |
-| 89 | DJI Osmo Mobile 3 Combo $69 clearance YMMV                                                                           |
+|    | deals                                                                                                                   |
+|---:|:------------------------------------------------------------------------------------------------------------------------|
+|  0 | Jabra Elite 75t/Elite Active 75t/Elite 85T $56/$71/$88, Free Shipping, Certified Refurbished (75T Regular OOS)          |
+|  1 | Surface Laptop 3 (Certified Refurbished) 13.5", i5, 16GB, 256GB - CAD $703.00                                           |
+|  2 | PDP Dual Ultra Slim Charge System for Xbox Series X-29.99 (reg price but in stock)                                      |
+|  3 | LG OLED C1 series OLED TV some size up to $200 OFF + get free LG Tone Free FP5 ANC True Wireless Earbuds, value $114.99 |
+|  4 | Samsung S22 Ultra 128gb + Trade-In Promo $300 + Free Galaxy Buds Pro + 5% Rakuten ($1449.75)                            |
+|  5 | Samsung Tab A (2019 tablet, 8", 32g) for $44.94 at RCSS (ymmv)                                                          |
+|  6 | Xbox Series X Certified Refurbished $564.99                                                                             |
+|  7 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
+|  8 | DJI Osmo Mobile 3 Combo $69 clearance YMMV                                                                              |
+|  9 | Razer Homerun Bundle, Ornata V2, DeathAdder V2, Gigantus V2 L, Kraken V3 X - Clearance deal $129.97                     |
+| 10 | ASUS 14” Chromebook (Open Box) - $169.96                                                                                |
+| 11 | 100W Fast Charge USB-C To USB-C Nylon Braided Cable With LED Power Display, 6.5 FT - PrimeCables® $10.42                |
+| 12 | Samsung Portable SSD T5 1TB USB 3.1 External SSD $129.99                                                                |
+| 13 | IdeaPad Slim 7i Pro (14”, Intel) Laptop - $1,000.46                                                                     |
+| 14 | Command & Conquer Remastered Collection $9.44 (65% off)                                                                 |
+| 15 | Aspire C24 All-in-One Desktop - C24-1651-UR15 8GB DDR 512G SSD $499.99 (Ontario)                                        |
+| 16 | Samsung T7 Portable External SSD Gen2- 1TB-------$149                                                                   |
+| 17 | [Also Amazon] Samsung Galaxy Watch4 Classic -- $229.99 (Save $170)                                                      |
+| 18 | Xbox Series X $599 with RBC/Ampli $70 Cashback                                                                          |
+| 19 | Google Chromecast with Google TV $49.99 after coupon                                                                    |
+| 20 | NEW Samsung Galaxy A53 5G + FREE Galaxy Buds Live Preorder ($589)                                                       |
+| 21 | Earn 40x Bonus CT Money® on Apple Watches 3, 7, SE                                                                      |
+| 22 | Costco: Lorex 4k 8 camera NVR security system $499 (in store clearance)                                                 |
+| 23 | Angle free Tilt mount w/Safety Lock for TV 26'' to 55'' inch $9.99 free ship                                            |
+| 24 | Golabs Portable Power Station i200, 256Wh LiFePO4 Backup Battery - $169.99 with coupon                                  |
+| 25 | JetDrive 480GB various models $49.99 for upgrading 10-year-old MacBook Air/Pro OpenBox YMMV                             |
+| 26 | [HOT] Samsung 15W wireless charger stand                                                                                |
+| 27 | 25% off everything (Cell phone cases (custom or not) + AirPods Cases + MacBook skins, etc) - Biggest sale of the year!  |
+| 28 | YMMV $20 off $75 Online Order for VENNGO members is back!                                                               |
+| 29 | SONY XM4 ANC Bluettooth headphone $349.99                                                                               |
+| 30 | Jabra Elite 75t/Elite Active 75t/Elite 85T $56/$71/$88, Free Shipping, Certified Refurbished (75T Regular OOS)          |
+| 31 | Surface Laptop 3 (Certified Refurbished) 13.5", i5, 16GB, 256GB - CAD $703.00                                           |
+| 32 | PDP Dual Ultra Slim Charge System for Xbox Series X-29.99 (reg price but in stock)                                      |
+| 33 | LG OLED C1 series OLED TV some size up to $200 OFF + get free LG Tone Free FP5 ANC True Wireless Earbuds, value $114.99 |
+| 34 | Samsung S22 Ultra 128gb + Trade-In Promo $300 + Free Galaxy Buds Pro + 5% Rakuten ($1449.75)                            |
+| 35 | Samsung Tab A (2019 tablet, 8", 32g) for $44.94 at RCSS (ymmv)                                                          |
+| 36 | Xbox Series X Certified Refurbished $564.99                                                                             |
+| 37 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
+| 38 | DJI Osmo Mobile 3 Combo $69 clearance YMMV                                                                              |
+| 39 | Razer Homerun Bundle, Ornata V2, DeathAdder V2, Gigantus V2 L, Kraken V3 X - Clearance deal $129.97                     |
+| 40 | ASUS 14” Chromebook (Open Box) - $169.96                                                                                |
+| 41 | 100W Fast Charge USB-C To USB-C Nylon Braided Cable With LED Power Display, 6.5 FT - PrimeCables® $10.42                |
+| 42 | Samsung Portable SSD T5 1TB USB 3.1 External SSD $129.99                                                                |
+| 43 | IdeaPad Slim 7i Pro (14”, Intel) Laptop - $1,000.46                                                                     |
+| 44 | Command & Conquer Remastered Collection $9.44 (65% off)                                                                 |
+| 45 | Aspire C24 All-in-One Desktop - C24-1651-UR15 8GB DDR 512G SSD $499.99 (Ontario)                                        |
+| 46 | Samsung T7 Portable External SSD Gen2- 1TB-------$149                                                                   |
+| 47 | [Also Amazon] Samsung Galaxy Watch4 Classic -- $229.99 (Save $170)                                                      |
+| 48 | Xbox Series X $599 with RBC/Ampli $70 Cashback                                                                          |
+| 49 | Google Chromecast with Google TV $49.99 after coupon                                                                    |
+| 50 | NEW Samsung Galaxy A53 5G + FREE Galaxy Buds Live Preorder ($589)                                                       |
+| 51 | Earn 40x Bonus CT Money® on Apple Watches 3, 7, SE                                                                      |
+| 52 | Costco: Lorex 4k 8 camera NVR security system $499 (in store clearance)                                                 |
+| 53 | Angle free Tilt mount w/Safety Lock for TV 26'' to 55'' inch $9.99 free ship                                            |
+| 54 | Golabs Portable Power Station i200, 256Wh LiFePO4 Backup Battery - $169.99 with coupon                                  |
+| 55 | JetDrive 480GB various models $49.99 for upgrading 10-year-old MacBook Air/Pro OpenBox YMMV                             |
+| 56 | [HOT] Samsung 15W wireless charger stand                                                                                |
+| 57 | 25% off everything (Cell phone cases (custom or not) + AirPods Cases + MacBook skins, etc) - Biggest sale of the year!  |
+| 58 | YMMV $20 off $75 Online Order for VENNGO members is back!                                                               |
+| 59 | SONY XM4 ANC Bluettooth headphone $349.99                                                                               |
+| 60 | Jabra Elite 75t/Elite Active 75t/Elite 85T $56/$71/$88, Free Shipping, Certified Refurbished (75T Regular OOS)          |
+| 61 | Surface Laptop 3 (Certified Refurbished) 13.5", i5, 16GB, 256GB - CAD $703.00                                           |
+| 62 | PDP Dual Ultra Slim Charge System for Xbox Series X-29.99 (reg price but in stock)                                      |
+| 63 | LG OLED C1 series OLED TV some size up to $200 OFF + get free LG Tone Free FP5 ANC True Wireless Earbuds, value $114.99 |
+| 64 | Samsung S22 Ultra 128gb + Trade-In Promo $300 + Free Galaxy Buds Pro + 5% Rakuten ($1449.75)                            |
+| 65 | Samsung Tab A (2019 tablet, 8", 32g) for $44.94 at RCSS (ymmv)                                                          |
+| 66 | Xbox Series X Certified Refurbished $564.99                                                                             |
+| 67 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
+| 68 | DJI Osmo Mobile 3 Combo $69 clearance YMMV                                                                              |
+| 69 | Razer Homerun Bundle, Ornata V2, DeathAdder V2, Gigantus V2 L, Kraken V3 X - Clearance deal $129.97                     |
+| 70 | ASUS 14” Chromebook (Open Box) - $169.96                                                                                |
+| 71 | 100W Fast Charge USB-C To USB-C Nylon Braided Cable With LED Power Display, 6.5 FT - PrimeCables® $10.42                |
+| 72 | Samsung Portable SSD T5 1TB USB 3.1 External SSD $129.99                                                                |
+| 73 | IdeaPad Slim 7i Pro (14”, Intel) Laptop - $1,000.46                                                                     |
+| 74 | Command & Conquer Remastered Collection $9.44 (65% off)                                                                 |
+| 75 | Aspire C24 All-in-One Desktop - C24-1651-UR15 8GB DDR 512G SSD $499.99 (Ontario)                                        |
+| 76 | Samsung T7 Portable External SSD Gen2- 1TB-------$149                                                                   |
+| 77 | [Also Amazon] Samsung Galaxy Watch4 Classic -- $229.99 (Save $170)                                                      |
+| 78 | Xbox Series X $599 with RBC/Ampli $70 Cashback                                                                          |
+| 79 | Google Chromecast with Google TV $49.99 after coupon                                                                    |
+| 80 | NEW Samsung Galaxy A53 5G + FREE Galaxy Buds Live Preorder ($589)                                                       |
+| 81 | Earn 40x Bonus CT Money® on Apple Watches 3, 7, SE                                                                      |
+| 82 | Costco: Lorex 4k 8 camera NVR security system $499 (in store clearance)                                                 |
+| 83 | Angle free Tilt mount w/Safety Lock for TV 26'' to 55'' inch $9.99 free ship                                            |
+| 84 | Golabs Portable Power Station i200, 256Wh LiFePO4 Backup Battery - $169.99 with coupon                                  |
+| 85 | JetDrive 480GB various models $49.99 for upgrading 10-year-old MacBook Air/Pro OpenBox YMMV                             |
+| 86 | [HOT] Samsung 15W wireless charger stand                                                                                |
+| 87 | 25% off everything (Cell phone cases (custom or not) + AirPods Cases + MacBook skins, etc) - Biggest sale of the year!  |
+| 88 | YMMV $20 off $75 Online Order for VENNGO members is back!                                                               |
+| 89 | SONY XM4 ANC Bluettooth headphone $349.99                                                                               |
