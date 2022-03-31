@@ -1,7 +1,7 @@
 |    | deals                                                                                                                  |
 |---:|:-----------------------------------------------------------------------------------------------------------------------|
-|  0 | Sony PlayStation Spring Sale (Ends 4/27) Upto 75% Off                                                                  |
-|  1 | Samsung Galaxy Buds 2                                                                                                  |
+|  0 | Samsung Galaxy Buds 2                                                                                                  |
+|  1 | Sony PlayStation Spring Sale (Ends 4/27) Upto 75% Off                                                                  |
 |  2 | Jabra Elite 75t with Wireless Charging Case (BLACK) $99 (-57% from $229.99 - Sold & Shipped by Jabra / not Prime)      |
 |  3 | Bell Gigabit Fibe 1.5 - 75$ monthly credits - 60 + tax per month after credits - new accounts only - huge YMMV         |
 |  4 | Galaxy Watch4 Classic 50% off ($209.99)                                                                                |
