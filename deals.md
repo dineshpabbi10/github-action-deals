@@ -1,92 +1,92 @@
-|    | deals                                                                                                                   |
-|---:|:------------------------------------------------------------------------------------------------------------------------|
-|  0 | Take the RedFlagDeals.com 2022 User Feedback Survey and You Could Win One of Two $100 Gift Cards                        |
-|  1 | Samsung S22 Ultra 128gb + Trade-In Promo $300 + Free Galaxy Buds Pro + 5% Rakuten ($1449.75)                            |
-|  2 | ALONE…, HoPiKo & PUK (mobile games) Free for a limited time                                                             |
-|  3 | Jabra Elite 75t/Elite Active 75t/Elite 85T $56/$71/$88, Free Shipping, Certified Refurbished (OOS)                      |
-|  4 | Win one of five $50 gift cards by sharing your favourite deals from March                                               |
-|  5 | YMMV-Kobo Libra 2-32 GB ($129.99) clearout in-store price                                                               |
-|  6 | LG OLED C1 series OLED TV some size up to $200 OFF + get free LG Tone Free FP5 ANC True Wireless Earbuds, value $114.99 |
-|  7 | GIGABYTE GeForce RTX 3070 Ti VISION OC 8G Graphics Card, 1830 MHz 3X WINDFORCE Fans, 8GB 256-bit GDDR6X $899.00         |
-|  8 | NEW Samsung Galaxy A53 5G + FREE Galaxy Buds Live Preorder ($589)                                                       |
-|  9 | G34WQC A-SA 34in 21:9 Curved VA Gaming Monitor, 144Hz, 1ms, 1440 WQHD - Reg $599 - On Sale for $349.99 (Memx)           |
-| 10 | Jabra Elite 75t with Wireless Charging Case (BLACK) $99 (-57% from $229.99 - Sold & Shipped by Jabra / not Prime)       |
-| 11 | Trade in a select PS4 console towards a PS5 bundle (presell) and become next in line to get your PS5                    |
-| 12 | Alienware Aurora R10 Ryzen 5900X, RTX 3080, 32 GB 3466MHZ, 2TB M.2, 1000W, Water Cooled PC $2840                        |
-| 13 | Macbook Pro 14/16 Refurbs now available - from [$2249]                                                                  |
-| 14 | DockCase Visual USB-C Dock (6 in 1 w Screen), HDMI 4K@60Hz $59.99 25% OFF                                               |
-| 15 | Corsair 140mm Premium Magnetic Levitation Fan (2-Pack),White - $24.99                                                   |
-| 16 | BestBuy GPU Drop (online) Happening Right Now! Cards are shipping, not in store...                                      |
-| 17 | MSI GF63 Gaming Laptop 15"|i5-10|GTX 1650|8GB|256GB|Wifi6|Win10 $699                                                    |
-| 18 | Corsair ML120 Pro 14.99$ (55% off)                                                                                      |
-| 19 | 40% off Viewsonic mini projector, 1 day only sale at Newegg                                                             |
-| 20 | Trails of Cold Steel III PS4 $24.99, YMMV (Enough Green on the Map). Pick Up Only                                       |
-| 21 | Costco: Lorex 4k 8 camera NVR security system $499 (in store clearance)                                                 |
-| 22 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
-| 23 | Last chance to download Persona 5 from the PS Plus Collection(only on PS5) until May 11                                 |
-| 24 | Razer Anzu Smart Glasses: Low Latency Audio - Built-in Mic & Speakers - 5 Hour Battery $79.99 (67% off)                 |
-| 25 | TCL R646-CA 55" Google TV price drop $899/55"                                                                           |
-| 26 | Dell 34 Curved Gaming Monitor – S3422DWG [$579.99 + 12% Cashback + 10% coupon code: 10%OFFMONITOR]                      |
-| 27 | Telus Internet Flash Sale (PureFibre Internet 300 from $75/mo)                                                          |
-| 28 | Sony HT-S200F 2.1ch Compact Soundbar with Built-in Subwoofer $79.99 in-store YMMV                                       |
-| 29 | Western Digital Red Plus NAS Internal Hard Drive CMR 6TB - $130 | 4TB - $90                                             |
-| 30 | Take the RedFlagDeals.com 2022 User Feedback Survey and You Could Win One of Two $100 Gift Cards                        |
-| 31 | Samsung S22 Ultra 128gb + Trade-In Promo $300 + Free Galaxy Buds Pro + 5% Rakuten ($1449.75)                            |
-| 32 | ALONE…, HoPiKo & PUK (mobile games) Free for a limited time                                                             |
-| 33 | Jabra Elite 75t/Elite Active 75t/Elite 85T $56/$71/$88, Free Shipping, Certified Refurbished (OOS)                      |
-| 34 | Win one of five $50 gift cards by sharing your favourite deals from March                                               |
-| 35 | YMMV-Kobo Libra 2-32 GB ($129.99) clearout in-store price                                                               |
-| 36 | LG OLED C1 series OLED TV some size up to $200 OFF + get free LG Tone Free FP5 ANC True Wireless Earbuds, value $114.99 |
-| 37 | GIGABYTE GeForce RTX 3070 Ti VISION OC 8G Graphics Card, 1830 MHz 3X WINDFORCE Fans, 8GB 256-bit GDDR6X $899.00         |
-| 38 | NEW Samsung Galaxy A53 5G + FREE Galaxy Buds Live Preorder ($589)                                                       |
-| 39 | G34WQC A-SA 34in 21:9 Curved VA Gaming Monitor, 144Hz, 1ms, 1440 WQHD - Reg $599 - On Sale for $349.99 (Memx)           |
-| 40 | Jabra Elite 75t with Wireless Charging Case (BLACK) $99 (-57% from $229.99 - Sold & Shipped by Jabra / not Prime)       |
-| 41 | Trade in a select PS4 console towards a PS5 bundle (presell) and become next in line to get your PS5                    |
-| 42 | Alienware Aurora R10 Ryzen 5900X, RTX 3080, 32 GB 3466MHZ, 2TB M.2, 1000W, Water Cooled PC $2840                        |
-| 43 | Macbook Pro 14/16 Refurbs now available - from [$2249]                                                                  |
-| 44 | DockCase Visual USB-C Dock (6 in 1 w Screen), HDMI 4K@60Hz $59.99 25% OFF                                               |
-| 45 | Corsair 140mm Premium Magnetic Levitation Fan (2-Pack),White - $24.99                                                   |
-| 46 | BestBuy GPU Drop (online) Happening Right Now! Cards are shipping, not in store...                                      |
-| 47 | MSI GF63 Gaming Laptop 15"|i5-10|GTX 1650|8GB|256GB|Wifi6|Win10 $699                                                    |
-| 48 | Corsair ML120 Pro 14.99$ (55% off)                                                                                      |
-| 49 | 40% off Viewsonic mini projector, 1 day only sale at Newegg                                                             |
-| 50 | Trails of Cold Steel III PS4 $24.99, YMMV (Enough Green on the Map). Pick Up Only                                       |
-| 51 | Costco: Lorex 4k 8 camera NVR security system $499 (in store clearance)                                                 |
-| 52 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
-| 53 | Last chance to download Persona 5 from the PS Plus Collection(only on PS5) until May 11                                 |
-| 54 | Razer Anzu Smart Glasses: Low Latency Audio - Built-in Mic & Speakers - 5 Hour Battery $79.99 (67% off)                 |
-| 55 | TCL R646-CA 55" Google TV price drop $899/55"                                                                           |
-| 56 | Dell 34 Curved Gaming Monitor – S3422DWG [$579.99 + 12% Cashback + 10% coupon code: 10%OFFMONITOR]                      |
-| 57 | Telus Internet Flash Sale (PureFibre Internet 300 from $75/mo)                                                          |
-| 58 | Sony HT-S200F 2.1ch Compact Soundbar with Built-in Subwoofer $79.99 in-store YMMV                                       |
-| 59 | Western Digital Red Plus NAS Internal Hard Drive CMR 6TB - $130 | 4TB - $90                                             |
-| 60 | Take the RedFlagDeals.com 2022 User Feedback Survey and You Could Win One of Two $100 Gift Cards                        |
-| 61 | Samsung S22 Ultra 128gb + Trade-In Promo $300 + Free Galaxy Buds Pro + 5% Rakuten ($1449.75)                            |
-| 62 | ALONE…, HoPiKo & PUK (mobile games) Free for a limited time                                                             |
-| 63 | Jabra Elite 75t/Elite Active 75t/Elite 85T $56/$71/$88, Free Shipping, Certified Refurbished (OOS)                      |
-| 64 | Win one of five $50 gift cards by sharing your favourite deals from March                                               |
-| 65 | YMMV-Kobo Libra 2-32 GB ($129.99) clearout in-store price                                                               |
-| 66 | LG OLED C1 series OLED TV some size up to $200 OFF + get free LG Tone Free FP5 ANC True Wireless Earbuds, value $114.99 |
-| 67 | GIGABYTE GeForce RTX 3070 Ti VISION OC 8G Graphics Card, 1830 MHz 3X WINDFORCE Fans, 8GB 256-bit GDDR6X $899.00         |
-| 68 | NEW Samsung Galaxy A53 5G + FREE Galaxy Buds Live Preorder ($589)                                                       |
-| 69 | G34WQC A-SA 34in 21:9 Curved VA Gaming Monitor, 144Hz, 1ms, 1440 WQHD - Reg $599 - On Sale for $349.99 (Memx)           |
-| 70 | Jabra Elite 75t with Wireless Charging Case (BLACK) $99 (-57% from $229.99 - Sold & Shipped by Jabra / not Prime)       |
-| 71 | Trade in a select PS4 console towards a PS5 bundle (presell) and become next in line to get your PS5                    |
-| 72 | Alienware Aurora R10 Ryzen 5900X, RTX 3080, 32 GB 3466MHZ, 2TB M.2, 1000W, Water Cooled PC $2840                        |
-| 73 | Macbook Pro 14/16 Refurbs now available - from [$2249]                                                                  |
-| 74 | DockCase Visual USB-C Dock (6 in 1 w Screen), HDMI 4K@60Hz $59.99 25% OFF                                               |
-| 75 | Corsair 140mm Premium Magnetic Levitation Fan (2-Pack),White - $24.99                                                   |
-| 76 | BestBuy GPU Drop (online) Happening Right Now! Cards are shipping, not in store...                                      |
-| 77 | MSI GF63 Gaming Laptop 15"|i5-10|GTX 1650|8GB|256GB|Wifi6|Win10 $699                                                    |
-| 78 | Corsair ML120 Pro 14.99$ (55% off)                                                                                      |
-| 79 | 40% off Viewsonic mini projector, 1 day only sale at Newegg                                                             |
-| 80 | Trails of Cold Steel III PS4 $24.99, YMMV (Enough Green on the Map). Pick Up Only                                       |
-| 81 | Costco: Lorex 4k 8 camera NVR security system $499 (in store clearance)                                                 |
-| 82 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
-| 83 | Last chance to download Persona 5 from the PS Plus Collection(only on PS5) until May 11                                 |
-| 84 | Razer Anzu Smart Glasses: Low Latency Audio - Built-in Mic & Speakers - 5 Hour Battery $79.99 (67% off)                 |
-| 85 | TCL R646-CA 55" Google TV price drop $899/55"                                                                           |
-| 86 | Dell 34 Curved Gaming Monitor – S3422DWG [$579.99 + 12% Cashback + 10% coupon code: 10%OFFMONITOR]                      |
-| 87 | Telus Internet Flash Sale (PureFibre Internet 300 from $75/mo)                                                          |
-| 88 | Sony HT-S200F 2.1ch Compact Soundbar with Built-in Subwoofer $79.99 in-store YMMV                                       |
-| 89 | Western Digital Red Plus NAS Internal Hard Drive CMR 6TB - $130 | 4TB - $90                                             |
+|    | deals                                                                                                                  |
+|---:|:-----------------------------------------------------------------------------------------------------------------------|
+|  0 | Take the RedFlagDeals.com 2022 User Feedback Survey and You Could Win One of Two $100 Gift Cards                       |
+|  1 | Ipad Air 10.9" A14 64gb $678.97                                                                                        |
+|  2 | Thermaltake Floe 240mm AIO CPU Liquid Cooler                                                                           |
+|  3 | Lenovo 10e Chromebook Tablet $129 less 9% Rakuten (Extra $30 rebate new Rakuten members)                               |
+|  4 | Arizer Air ii $100 off plus BOGO                                                                                       |
+|  5 | Win one of five $50 gift cards by sharing your favourite deals from March                                              |
+|  6 | Corsair A500 Air Cooler - $59.99                                                                                       |
+|  7 | Seagate 510 Firecuda 2TB PCie Internal Solid State Drive $114.99                                                       |
+|  8 | ASUS 14” Chromebook (Open Box) - $169.96                                                                               |
+|  9 | G5 Gigabyte i5-11400H/16GB/512GB SSD/15.6in Full HD 144Hz/RTX 3060/Wi-Fi 6/BT/ Windows 11 Home $1,049.99               |
+| 10 | ASUS TUF Gaming NVIDIA GeForce RTX 3060 Ti V2 - $769.99 (Sold and Shipped Amazon)                                      |
+| 11 | 32 inch QHD IPS 60 Hz Acer Non-Gaming Monitor EB321HQU $249.97 before coupon                                           |
+| 12 | Computer Stand with Laminate Top $19.97                                                                                |
+| 13 | $199.99 plus shipping GIGABYTE GeForce GTX 1650 D6 OC 4G GDDR6                                                         |
+| 14 | MSI GF63 Gaming Laptop 15"|i5-10|GTX 1650|8GB|256GB|Wifi6|Win10 $699                                                   |
+| 15 | Last chance to download Persona 5 from the PS Plus Collection(only on PS5) until May 11                                |
+| 16 | Arctic P12 PWM PST 120mm Fan - 5 Pack (No tax & FS) - $39.68                                                           |
+| 17 | Samsung Galaxy Watch 4 (44mm) at $225                                                                                  |
+| 18 | ThinkPad T14 Gen 2 AMD, 5650U/8GB/256GB, 14.0" FHD 300 nits, $825 after code                                           |
+| 19 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                        |
+| 20 | Switch Sale on eShop                                                                                                   |
+| 21 | YMMV-Kobo Libra 2-32 GB ($129.99) clearout in-store price                                                              |
+| 22 | SAMSUNG EVO Select 512GB Memory Card $83.45 (EVO Select is exclusive for Amazon and a rebranded versions of EVO Plus ) |
+| 23 | Razer Anzu Smart Glasses: Low Latency Audio - Built-in Mic & Speakers - 5 Hour Battery $79.99 (67% off)                |
+| 24 | Samsung S22 Ultra 128gb + Trade-In Promo $300 + Free Galaxy Buds Pro + 5% Rakuten ($1449.75)                           |
+| 25 | 7x Aeroplan Points until Apr 02                                                                                        |
+| 26 | S21 OtterBox Symmetry clear case $21.14 no tax                                                                         |
+| 27 | ASRock Radeon RX 6700 XT $779.99 (SELECT IN-STORES ONLY)                                                               |
+| 28 | LG Ultra PC 13 13U70Q-G.AA74A8 Laptop, AMD Ryzen 7 5700U $699.97                                                       |
+| 29 | G34WQC A-SA 34in 21:9 Curved VA Gaming Monitor, 144Hz, 1ms, 1440 WQHD - Reg $599 - On Sale for $349.99 (Memx)          |
+| 30 | Take the RedFlagDeals.com 2022 User Feedback Survey and You Could Win One of Two $100 Gift Cards                       |
+| 31 | Ipad Air 10.9" A14 64gb $678.97                                                                                        |
+| 32 | Thermaltake Floe 240mm AIO CPU Liquid Cooler                                                                           |
+| 33 | Lenovo 10e Chromebook Tablet $129 less 9% Rakuten (Extra $30 rebate new Rakuten members)                               |
+| 34 | Arizer Air ii $100 off plus BOGO                                                                                       |
+| 35 | Win one of five $50 gift cards by sharing your favourite deals from March                                              |
+| 36 | Corsair A500 Air Cooler - $59.99                                                                                       |
+| 37 | Seagate 510 Firecuda 2TB PCie Internal Solid State Drive $114.99                                                       |
+| 38 | ASUS 14” Chromebook (Open Box) - $169.96                                                                               |
+| 39 | G5 Gigabyte i5-11400H/16GB/512GB SSD/15.6in Full HD 144Hz/RTX 3060/Wi-Fi 6/BT/ Windows 11 Home $1,049.99               |
+| 40 | ASUS TUF Gaming NVIDIA GeForce RTX 3060 Ti V2 - $769.99 (Sold and Shipped Amazon)                                      |
+| 41 | 32 inch QHD IPS 60 Hz Acer Non-Gaming Monitor EB321HQU $249.97 before coupon                                           |
+| 42 | Computer Stand with Laminate Top $19.97                                                                                |
+| 43 | $199.99 plus shipping GIGABYTE GeForce GTX 1650 D6 OC 4G GDDR6                                                         |
+| 44 | MSI GF63 Gaming Laptop 15"|i5-10|GTX 1650|8GB|256GB|Wifi6|Win10 $699                                                   |
+| 45 | Last chance to download Persona 5 from the PS Plus Collection(only on PS5) until May 11                                |
+| 46 | Arctic P12 PWM PST 120mm Fan - 5 Pack (No tax & FS) - $39.68                                                           |
+| 47 | Samsung Galaxy Watch 4 (44mm) at $225                                                                                  |
+| 48 | ThinkPad T14 Gen 2 AMD, 5650U/8GB/256GB, 14.0" FHD 300 nits, $825 after code                                           |
+| 49 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                        |
+| 50 | Switch Sale on eShop                                                                                                   |
+| 51 | YMMV-Kobo Libra 2-32 GB ($129.99) clearout in-store price                                                              |
+| 52 | SAMSUNG EVO Select 512GB Memory Card $83.45 (EVO Select is exclusive for Amazon and a rebranded versions of EVO Plus ) |
+| 53 | Razer Anzu Smart Glasses: Low Latency Audio - Built-in Mic & Speakers - 5 Hour Battery $79.99 (67% off)                |
+| 54 | Samsung S22 Ultra 128gb + Trade-In Promo $300 + Free Galaxy Buds Pro + 5% Rakuten ($1449.75)                           |
+| 55 | 7x Aeroplan Points until Apr 02                                                                                        |
+| 56 | S21 OtterBox Symmetry clear case $21.14 no tax                                                                         |
+| 57 | ASRock Radeon RX 6700 XT $779.99 (SELECT IN-STORES ONLY)                                                               |
+| 58 | LG Ultra PC 13 13U70Q-G.AA74A8 Laptop, AMD Ryzen 7 5700U $699.97                                                       |
+| 59 | G34WQC A-SA 34in 21:9 Curved VA Gaming Monitor, 144Hz, 1ms, 1440 WQHD - Reg $599 - On Sale for $349.99 (Memx)          |
+| 60 | Take the RedFlagDeals.com 2022 User Feedback Survey and You Could Win One of Two $100 Gift Cards                       |
+| 61 | Ipad Air 10.9" A14 64gb $678.97                                                                                        |
+| 62 | Thermaltake Floe 240mm AIO CPU Liquid Cooler                                                                           |
+| 63 | Lenovo 10e Chromebook Tablet $129 less 9% Rakuten (Extra $30 rebate new Rakuten members)                               |
+| 64 | Arizer Air ii $100 off plus BOGO                                                                                       |
+| 65 | Win one of five $50 gift cards by sharing your favourite deals from March                                              |
+| 66 | Corsair A500 Air Cooler - $59.99                                                                                       |
+| 67 | Seagate 510 Firecuda 2TB PCie Internal Solid State Drive $114.99                                                       |
+| 68 | ASUS 14” Chromebook (Open Box) - $169.96                                                                               |
+| 69 | G5 Gigabyte i5-11400H/16GB/512GB SSD/15.6in Full HD 144Hz/RTX 3060/Wi-Fi 6/BT/ Windows 11 Home $1,049.99               |
+| 70 | ASUS TUF Gaming NVIDIA GeForce RTX 3060 Ti V2 - $769.99 (Sold and Shipped Amazon)                                      |
+| 71 | 32 inch QHD IPS 60 Hz Acer Non-Gaming Monitor EB321HQU $249.97 before coupon                                           |
+| 72 | Computer Stand with Laminate Top $19.97                                                                                |
+| 73 | $199.99 plus shipping GIGABYTE GeForce GTX 1650 D6 OC 4G GDDR6                                                         |
+| 74 | MSI GF63 Gaming Laptop 15"|i5-10|GTX 1650|8GB|256GB|Wifi6|Win10 $699                                                   |
+| 75 | Last chance to download Persona 5 from the PS Plus Collection(only on PS5) until May 11                                |
+| 76 | Arctic P12 PWM PST 120mm Fan - 5 Pack (No tax & FS) - $39.68                                                           |
+| 77 | Samsung Galaxy Watch 4 (44mm) at $225                                                                                  |
+| 78 | ThinkPad T14 Gen 2 AMD, 5650U/8GB/256GB, 14.0" FHD 300 nits, $825 after code                                           |
+| 79 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                        |
+| 80 | Switch Sale on eShop                                                                                                   |
+| 81 | YMMV-Kobo Libra 2-32 GB ($129.99) clearout in-store price                                                              |
+| 82 | SAMSUNG EVO Select 512GB Memory Card $83.45 (EVO Select is exclusive for Amazon and a rebranded versions of EVO Plus ) |
+| 83 | Razer Anzu Smart Glasses: Low Latency Audio - Built-in Mic & Speakers - 5 Hour Battery $79.99 (67% off)                |
+| 84 | Samsung S22 Ultra 128gb + Trade-In Promo $300 + Free Galaxy Buds Pro + 5% Rakuten ($1449.75)                           |
+| 85 | 7x Aeroplan Points until Apr 02                                                                                        |
+| 86 | S21 OtterBox Symmetry clear case $21.14 no tax                                                                         |
+| 87 | ASRock Radeon RX 6700 XT $779.99 (SELECT IN-STORES ONLY)                                                               |
+| 88 | LG Ultra PC 13 13U70Q-G.AA74A8 Laptop, AMD Ryzen 7 5700U $699.97                                                       |
+| 89 | G34WQC A-SA 34in 21:9 Curved VA Gaming Monitor, 144Hz, 1ms, 1440 WQHD - Reg $599 - On Sale for $349.99 (Memx)          |
