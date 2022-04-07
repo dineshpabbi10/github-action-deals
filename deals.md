@@ -1,92 +1,92 @@
-|    | deals                                                                                                                 |
-|---:|:----------------------------------------------------------------------------------------------------------------------|
-|  0 | Take the RedFlagDeals.com 2022 User Feedback Survey and You Could Win One of Two $100 Gift Cards                      |
-|  1 | ASUS Vivobook 15 Laptop: i7-1165G7, 16 GB RAM, 1 TB SSD, 1080p 15.6" OLED 400 Nit Display for $879.99 after $370 off  |
-|  2 | Xbox Series X Available Through Airmiles Rewards Portal - 9,040 Dream Miles or less                                   |
-|  3 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                          |
-|  4 | Win one of five $50 gift cards by sharing your favourite deals from March                                             |
-|  5 | TCL S446 43" 4K TV - $329                                                                                             |
-|  6 | Amazon Fire TV Omni 43" 4K UHD HDR LED Smart TV (2021 model) $380 + eco fee (40% rebate) Free shipping                |
-|  7 | MSI GeForce RTX 3060 Ventus 3X 12G OC - $579.99 (Sold and Shipped Amazon.ca)                                          |
-|  8 | XFX Speedster MERC319 AMD Radeon RX 6900 XT Black Gaming Graphics Card with 16GB GDDR6 $1574.99 PRICE DROPPED AGAIN   |
-|  9 | Macbook Pro 14/16 Refurbs now available - from [$2249]                                                                |
-| 10 | $199.99 plus shipping GIGABYTE GeForce GTX 1650 D6 OC 4G GDDR6                                                        |
-| 11 | Lenovo Flex 3 - 11 ChromeBook Intel 4020/4GB/64G $199.99                                                              |
-| 12 | Sega Genesis controller pad for Nintendo Switch now in stock - 64.99$ *Nintendo Online subscription required to buy   |
-| 13 | GoodNotes 5 Free download now, with in-app purchase if you need more than 3 notebooks.                                |
-| 14 | Razer Goliathus Extended Chroma Soft Gaming Mouse Mat ($50)                                                           |
-| 15 | Golabs Portable Power Station i200, 256Wh LiFePO4 Backup Battery - $169.99 with coupon                                |
-| 16 | ASUS TUF Gaming RTX 3070 TI OC Edition - 8GB - $880                                                                   |
-| 17 | Dell 34 Curved Gaming Monitor – S3422DWG [$579.99 + 12% Cashback + 10% coupon code: 10%OFFMONITOR]                    |
-| 18 | 32 inch QHD IPS 60 Hz Acer Non-Gaming Monitor EB321HQU $249.97 before coupon                                          |
-| 19 | Bose Frames Rondo Bluetooth Audio Sunglasses $125                                                                     |
-| 20 | TCL R646-CA 55" Google TV price drop $899/55"                                                                         |
-| 21 | Bell Gigabit Fibe 1.5 - 75$ monthly credits - 60 + tax per month after credits - new accounts only - huge YMMV        |
-| 22 | JBL Free II In-Ear Bluetooth $79.99                                                                                   |
-| 23 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                       |
-| 24 | ASUS 14” Chromebook (Open Box) - $169.96                                                                              |
-| 25 | [3 Pack] Type A to Type C, INIU (1.6+6.6+6.6ft) 3.1A QC LED Fast Charging, Zinc Alloy Braided $8.58 (With $5 Coupon)  |
-| 26 | Coming Soon to Xbox Game Pass: MLB The Show 22, Life Is Strange: True Colors, Chinatown Detective Agency, and More    |
-| 27 | Amazon Echo Dot 3rd/4th Generation $30/$40 regularly $55/$70 (various retailers) 45% Off + Free shipping              |
-| 28 | Switch Sale on eShop                                                                                                  |
-| 29 | Tello US Cell service - 2 lines of prepaid 2gb 5G/LTE data ea mon. with unl. talk & text for 6 month - $69USD + taxes |
-| 30 | Take the RedFlagDeals.com 2022 User Feedback Survey and You Could Win One of Two $100 Gift Cards                      |
-| 31 | ASUS Vivobook 15 Laptop: i7-1165G7, 16 GB RAM, 1 TB SSD, 1080p 15.6" OLED 400 Nit Display for $879.99 after $370 off  |
-| 32 | Xbox Series X Available Through Airmiles Rewards Portal - 9,040 Dream Miles or less                                   |
-| 33 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                          |
-| 34 | Win one of five $50 gift cards by sharing your favourite deals from March                                             |
-| 35 | TCL S446 43" 4K TV - $329                                                                                             |
-| 36 | Amazon Fire TV Omni 43" 4K UHD HDR LED Smart TV (2021 model) $380 + eco fee (40% rebate) Free shipping                |
-| 37 | MSI GeForce RTX 3060 Ventus 3X 12G OC - $579.99 (Sold and Shipped Amazon.ca)                                          |
-| 38 | XFX Speedster MERC319 AMD Radeon RX 6900 XT Black Gaming Graphics Card with 16GB GDDR6 $1574.99 PRICE DROPPED AGAIN   |
-| 39 | Macbook Pro 14/16 Refurbs now available - from [$2249]                                                                |
-| 40 | $199.99 plus shipping GIGABYTE GeForce GTX 1650 D6 OC 4G GDDR6                                                        |
-| 41 | Lenovo Flex 3 - 11 ChromeBook Intel 4020/4GB/64G $199.99                                                              |
-| 42 | Sega Genesis controller pad for Nintendo Switch now in stock - 64.99$ *Nintendo Online subscription required to buy   |
-| 43 | GoodNotes 5 Free download now, with in-app purchase if you need more than 3 notebooks.                                |
-| 44 | Razer Goliathus Extended Chroma Soft Gaming Mouse Mat ($50)                                                           |
-| 45 | Golabs Portable Power Station i200, 256Wh LiFePO4 Backup Battery - $169.99 with coupon                                |
-| 46 | ASUS TUF Gaming RTX 3070 TI OC Edition - 8GB - $880                                                                   |
-| 47 | Dell 34 Curved Gaming Monitor – S3422DWG [$579.99 + 12% Cashback + 10% coupon code: 10%OFFMONITOR]                    |
-| 48 | 32 inch QHD IPS 60 Hz Acer Non-Gaming Monitor EB321HQU $249.97 before coupon                                          |
-| 49 | Bose Frames Rondo Bluetooth Audio Sunglasses $125                                                                     |
-| 50 | TCL R646-CA 55" Google TV price drop $899/55"                                                                         |
-| 51 | Bell Gigabit Fibe 1.5 - 75$ monthly credits - 60 + tax per month after credits - new accounts only - huge YMMV        |
-| 52 | JBL Free II In-Ear Bluetooth $79.99                                                                                   |
-| 53 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                       |
-| 54 | ASUS 14” Chromebook (Open Box) - $169.96                                                                              |
-| 55 | [3 Pack] Type A to Type C, INIU (1.6+6.6+6.6ft) 3.1A QC LED Fast Charging, Zinc Alloy Braided $8.58 (With $5 Coupon)  |
-| 56 | Coming Soon to Xbox Game Pass: MLB The Show 22, Life Is Strange: True Colors, Chinatown Detective Agency, and More    |
-| 57 | Amazon Echo Dot 3rd/4th Generation $30/$40 regularly $55/$70 (various retailers) 45% Off + Free shipping              |
-| 58 | Switch Sale on eShop                                                                                                  |
-| 59 | Tello US Cell service - 2 lines of prepaid 2gb 5G/LTE data ea mon. with unl. talk & text for 6 month - $69USD + taxes |
-| 60 | Take the RedFlagDeals.com 2022 User Feedback Survey and You Could Win One of Two $100 Gift Cards                      |
-| 61 | ASUS Vivobook 15 Laptop: i7-1165G7, 16 GB RAM, 1 TB SSD, 1080p 15.6" OLED 400 Nit Display for $879.99 after $370 off  |
-| 62 | Xbox Series X Available Through Airmiles Rewards Portal - 9,040 Dream Miles or less                                   |
-| 63 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                          |
-| 64 | Win one of five $50 gift cards by sharing your favourite deals from March                                             |
-| 65 | TCL S446 43" 4K TV - $329                                                                                             |
-| 66 | Amazon Fire TV Omni 43" 4K UHD HDR LED Smart TV (2021 model) $380 + eco fee (40% rebate) Free shipping                |
-| 67 | MSI GeForce RTX 3060 Ventus 3X 12G OC - $579.99 (Sold and Shipped Amazon.ca)                                          |
-| 68 | XFX Speedster MERC319 AMD Radeon RX 6900 XT Black Gaming Graphics Card with 16GB GDDR6 $1574.99 PRICE DROPPED AGAIN   |
-| 69 | Macbook Pro 14/16 Refurbs now available - from [$2249]                                                                |
-| 70 | $199.99 plus shipping GIGABYTE GeForce GTX 1650 D6 OC 4G GDDR6                                                        |
-| 71 | Lenovo Flex 3 - 11 ChromeBook Intel 4020/4GB/64G $199.99                                                              |
-| 72 | Sega Genesis controller pad for Nintendo Switch now in stock - 64.99$ *Nintendo Online subscription required to buy   |
-| 73 | GoodNotes 5 Free download now, with in-app purchase if you need more than 3 notebooks.                                |
-| 74 | Razer Goliathus Extended Chroma Soft Gaming Mouse Mat ($50)                                                           |
-| 75 | Golabs Portable Power Station i200, 256Wh LiFePO4 Backup Battery - $169.99 with coupon                                |
-| 76 | ASUS TUF Gaming RTX 3070 TI OC Edition - 8GB - $880                                                                   |
-| 77 | Dell 34 Curved Gaming Monitor – S3422DWG [$579.99 + 12% Cashback + 10% coupon code: 10%OFFMONITOR]                    |
-| 78 | 32 inch QHD IPS 60 Hz Acer Non-Gaming Monitor EB321HQU $249.97 before coupon                                          |
-| 79 | Bose Frames Rondo Bluetooth Audio Sunglasses $125                                                                     |
-| 80 | TCL R646-CA 55" Google TV price drop $899/55"                                                                         |
-| 81 | Bell Gigabit Fibe 1.5 - 75$ monthly credits - 60 + tax per month after credits - new accounts only - huge YMMV        |
-| 82 | JBL Free II In-Ear Bluetooth $79.99                                                                                   |
-| 83 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                       |
-| 84 | ASUS 14” Chromebook (Open Box) - $169.96                                                                              |
-| 85 | [3 Pack] Type A to Type C, INIU (1.6+6.6+6.6ft) 3.1A QC LED Fast Charging, Zinc Alloy Braided $8.58 (With $5 Coupon)  |
-| 86 | Coming Soon to Xbox Game Pass: MLB The Show 22, Life Is Strange: True Colors, Chinatown Detective Agency, and More    |
-| 87 | Amazon Echo Dot 3rd/4th Generation $30/$40 regularly $55/$70 (various retailers) 45% Off + Free shipping              |
-| 88 | Switch Sale on eShop                                                                                                  |
-| 89 | Tello US Cell service - 2 lines of prepaid 2gb 5G/LTE data ea mon. with unl. talk & text for 6 month - $69USD + taxes |
+|    | deals                                                                                                                   |
+|---:|:------------------------------------------------------------------------------------------------------------------------|
+|  0 | Take the RedFlagDeals.com 2022 User Feedback Survey and You Could Win One of Two $100 Gift Cards                        |
+|  1 | TCL S446 43" 4K TV - $329                                                                                               |
+|  2 | Kano PC Pro Education Edition, $100                                                                                     |
+|  3 | Quarter Arcades Official Galaxian 1/4 Sized Mini Arcade Cabinet by Numskull                                             |
+|  4 | 13 to 27 in. Single-Monitor Desk Mount $17.61 ($22.38 off)                                                              |
+|  5 | MSI Gaming GeForce RTX 3060 12GB (2 fan) - $559.99 (Sold and Shipped Amazon.ca)                                         |
+|  6 | Nikon Z 800mm f/6.3 VR S Lens - $8499                                                                                   |
+|  7 | Gigabyte Aorus 15P i7-11800H, 16GB, 1TB SSD, 15.6in FHD 240Hz, RTX 3070 $1399 Free Shipping **TAKING BACKORDERS**       |
+|  8 | Amazon Echo Show 2nd Generation - Charcoal - 10.1 in - $99.96                                                           |
+|  9 | $199.99 plus shipping GIGABYTE GeForce GTX 1650 D6 OC 4G GDDR6                                                          |
+| 10 | $45 25gb + $300 bill credit per line [win back]                                                                         |
+| 11 | $48 Xiaomi Mi TV Streaming Stick (XIPFJ4100US)                                                                          |
+| 12 | HP Tablet 11-be0020ca + Type Cover & Pen, 11" N6000, 8/256, 1440p, 2 Year Extended Warranty - $650 ($700 + 8% Rakuten)  |
+| 13 | AMD Ryzen 5 5600X & 5500 6-Core/12 Thread $279 & $199 Free Shipping                                                     |
+| 14 | XBOX Series X - Available for in-store pickup                                                                           |
+| 15 | Etymotic ER2SE/ER2XR IEM Earphones w/ iPhone Adapter $91.50/$99.49                                                      |
+| 16 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
+| 17 | Macbook Pro 14/16 Refurbs now available - from [$2249]                                                                  |
+| 18 | Sega Genesis controller pad for Nintendo Switch now in stock - 64.99$ *Nintendo Online subscription required to buy     |
+| 19 | WARM Viofo A129 Pro DUO 4K Dash Cam Dashcam $249.99                                                                     |
+| 20 | YMMV Fido BYOD $30 6GB / $35 10 GB (Billings Bridge Mall)                                                               |
+| 21 | WD 16TB Gold drive for $383.99 ($24/TB)                                                                                 |
+| 22 | Win one of five $50 gift cards by sharing your favourite deals from March                                               |
+| 23 | Hisense 65 in. 4K Roku Smart Television 65R63G $697.99 Online                                                           |
+| 24 | SANSUI ES43S1A 43" Television UHD HDR Smart TV with Google Assistant (Voice Control), Screen Share, HDMI, USB - $279.99 |
+| 25 | NEW Samsung Galaxy A53 5G + FREE Galaxy Buds Live Preorder ($589)                                                       |
+| 26 | Xbox Game Pass Ultimate: 12 Month Membership for New/Expired Members $41.89 | Conversion Deal / VPN Required            |
+| 27 | ASUS X515JA-SS51-CB 15.6" FHD Laptop, Intel Core i5-1035G1, 8GB RAM, 1TB SSD $799.99                                    |
+| 28 | MSI GF63 15.6" Gaming Laptop - Black (Intel Core i5-10500H/256GB SSD/8GB RAM/NVIDIA GeForce GTX1650) $699               |
+| 29 | MSI GeForce RTX 3060 Ventus 3X 12G OC - $579.99 (Sold and Shipped Amazon.ca)                                            |
+| 30 | Take the RedFlagDeals.com 2022 User Feedback Survey and You Could Win One of Two $100 Gift Cards                        |
+| 31 | TCL S446 43" 4K TV - $329                                                                                               |
+| 32 | Kano PC Pro Education Edition, $100                                                                                     |
+| 33 | Quarter Arcades Official Galaxian 1/4 Sized Mini Arcade Cabinet by Numskull                                             |
+| 34 | 13 to 27 in. Single-Monitor Desk Mount $17.61 ($22.38 off)                                                              |
+| 35 | MSI Gaming GeForce RTX 3060 12GB (2 fan) - $559.99 (Sold and Shipped Amazon.ca)                                         |
+| 36 | Nikon Z 800mm f/6.3 VR S Lens - $8499                                                                                   |
+| 37 | Gigabyte Aorus 15P i7-11800H, 16GB, 1TB SSD, 15.6in FHD 240Hz, RTX 3070 $1399 Free Shipping **TAKING BACKORDERS**       |
+| 38 | Amazon Echo Show 2nd Generation - Charcoal - 10.1 in - $99.96                                                           |
+| 39 | $199.99 plus shipping GIGABYTE GeForce GTX 1650 D6 OC 4G GDDR6                                                          |
+| 40 | $45 25gb + $300 bill credit per line [win back]                                                                         |
+| 41 | $48 Xiaomi Mi TV Streaming Stick (XIPFJ4100US)                                                                          |
+| 42 | HP Tablet 11-be0020ca + Type Cover & Pen, 11" N6000, 8/256, 1440p, 2 Year Extended Warranty - $650 ($700 + 8% Rakuten)  |
+| 43 | AMD Ryzen 5 5600X & 5500 6-Core/12 Thread $279 & $199 Free Shipping                                                     |
+| 44 | XBOX Series X - Available for in-store pickup                                                                           |
+| 45 | Etymotic ER2SE/ER2XR IEM Earphones w/ iPhone Adapter $91.50/$99.49                                                      |
+| 46 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
+| 47 | Macbook Pro 14/16 Refurbs now available - from [$2249]                                                                  |
+| 48 | Sega Genesis controller pad for Nintendo Switch now in stock - 64.99$ *Nintendo Online subscription required to buy     |
+| 49 | WARM Viofo A129 Pro DUO 4K Dash Cam Dashcam $249.99                                                                     |
+| 50 | YMMV Fido BYOD $30 6GB / $35 10 GB (Billings Bridge Mall)                                                               |
+| 51 | WD 16TB Gold drive for $383.99 ($24/TB)                                                                                 |
+| 52 | Win one of five $50 gift cards by sharing your favourite deals from March                                               |
+| 53 | Hisense 65 in. 4K Roku Smart Television 65R63G $697.99 Online                                                           |
+| 54 | SANSUI ES43S1A 43" Television UHD HDR Smart TV with Google Assistant (Voice Control), Screen Share, HDMI, USB - $279.99 |
+| 55 | NEW Samsung Galaxy A53 5G + FREE Galaxy Buds Live Preorder ($589)                                                       |
+| 56 | Xbox Game Pass Ultimate: 12 Month Membership for New/Expired Members $41.89 | Conversion Deal / VPN Required            |
+| 57 | ASUS X515JA-SS51-CB 15.6" FHD Laptop, Intel Core i5-1035G1, 8GB RAM, 1TB SSD $799.99                                    |
+| 58 | MSI GF63 15.6" Gaming Laptop - Black (Intel Core i5-10500H/256GB SSD/8GB RAM/NVIDIA GeForce GTX1650) $699               |
+| 59 | MSI GeForce RTX 3060 Ventus 3X 12G OC - $579.99 (Sold and Shipped Amazon.ca)                                            |
+| 60 | Take the RedFlagDeals.com 2022 User Feedback Survey and You Could Win One of Two $100 Gift Cards                        |
+| 61 | TCL S446 43" 4K TV - $329                                                                                               |
+| 62 | Kano PC Pro Education Edition, $100                                                                                     |
+| 63 | Quarter Arcades Official Galaxian 1/4 Sized Mini Arcade Cabinet by Numskull                                             |
+| 64 | 13 to 27 in. Single-Monitor Desk Mount $17.61 ($22.38 off)                                                              |
+| 65 | MSI Gaming GeForce RTX 3060 12GB (2 fan) - $559.99 (Sold and Shipped Amazon.ca)                                         |
+| 66 | Nikon Z 800mm f/6.3 VR S Lens - $8499                                                                                   |
+| 67 | Gigabyte Aorus 15P i7-11800H, 16GB, 1TB SSD, 15.6in FHD 240Hz, RTX 3070 $1399 Free Shipping **TAKING BACKORDERS**       |
+| 68 | Amazon Echo Show 2nd Generation - Charcoal - 10.1 in - $99.96                                                           |
+| 69 | $199.99 plus shipping GIGABYTE GeForce GTX 1650 D6 OC 4G GDDR6                                                          |
+| 70 | $45 25gb + $300 bill credit per line [win back]                                                                         |
+| 71 | $48 Xiaomi Mi TV Streaming Stick (XIPFJ4100US)                                                                          |
+| 72 | HP Tablet 11-be0020ca + Type Cover & Pen, 11" N6000, 8/256, 1440p, 2 Year Extended Warranty - $650 ($700 + 8% Rakuten)  |
+| 73 | AMD Ryzen 5 5600X & 5500 6-Core/12 Thread $279 & $199 Free Shipping                                                     |
+| 74 | XBOX Series X - Available for in-store pickup                                                                           |
+| 75 | Etymotic ER2SE/ER2XR IEM Earphones w/ iPhone Adapter $91.50/$99.49                                                      |
+| 76 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
+| 77 | Macbook Pro 14/16 Refurbs now available - from [$2249]                                                                  |
+| 78 | Sega Genesis controller pad for Nintendo Switch now in stock - 64.99$ *Nintendo Online subscription required to buy     |
+| 79 | WARM Viofo A129 Pro DUO 4K Dash Cam Dashcam $249.99                                                                     |
+| 80 | YMMV Fido BYOD $30 6GB / $35 10 GB (Billings Bridge Mall)                                                               |
+| 81 | WD 16TB Gold drive for $383.99 ($24/TB)                                                                                 |
+| 82 | Win one of five $50 gift cards by sharing your favourite deals from March                                               |
+| 83 | Hisense 65 in. 4K Roku Smart Television 65R63G $697.99 Online                                                           |
+| 84 | SANSUI ES43S1A 43" Television UHD HDR Smart TV with Google Assistant (Voice Control), Screen Share, HDMI, USB - $279.99 |
+| 85 | NEW Samsung Galaxy A53 5G + FREE Galaxy Buds Live Preorder ($589)                                                       |
+| 86 | Xbox Game Pass Ultimate: 12 Month Membership for New/Expired Members $41.89 | Conversion Deal / VPN Required            |
+| 87 | ASUS X515JA-SS51-CB 15.6" FHD Laptop, Intel Core i5-1035G1, 8GB RAM, 1TB SSD $799.99                                    |
+| 88 | MSI GF63 15.6" Gaming Laptop - Black (Intel Core i5-10500H/256GB SSD/8GB RAM/NVIDIA GeForce GTX1650) $699               |
+| 89 | MSI GeForce RTX 3060 Ventus 3X 12G OC - $579.99 (Sold and Shipped Amazon.ca)                                            |
