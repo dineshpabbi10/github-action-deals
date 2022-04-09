@@ -1,92 +1,92 @@
-|    | deals                                                                                                             |
-|---:|:------------------------------------------------------------------------------------------------------------------|
-|  0 | Take the RedFlagDeals.com 2022 User Feedback Survey and You Could Win One of Two $100 Gift Cards                  |
-|  1 | Logitech webcam C920x ATL $79.99                                                                                  |
-|  2 | 60% Off Sale --Halo: The Master Chief Collection is $19.99 -- Historical low                                      |
-|  3 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                      |
-|  4 | WD 16TB Gold drive for $383.99 ($24/TB)                                                                           |
-|  5 | Samsung Galaxy Buds+, Buds Live for 99.98                                                                         |
-|  6 | Jabra Elite 85t Grey Certified Refurbished | $92.99 | FREE SHIP | NO TAX | Sold & Shipped by Jabra                |
-|  7 | Freedom Mobile - 15Gb Unlimited Plan $40 (BYOD)                                                                   |
-|  8 | 48W Soldering Power Station, $24.99                                                                               |
-|  9 | Win one of five $50 gift cards by sharing your favourite deals from March                                         |
-| 10 | Seagate Backup Plus Hub 4 TB USB 3.0 Desktop Drive $69.99 YMMV                                                    |
-| 11 | YMMV Spring into Savings - Motorola Edge                                                                          |
-| 12 | (YMMV) Apple Magic Keyboard with Numeric Keypad for $50                                                           |
-| 13 | Rogue Legacy + The Vanishing of Ethan Carter - FREE until April 14th @ 11am EST                                   |
-| 14 | Dell 34 Curved Gaming Monitor – S3422DWG [$579.99 + 10% Cashback + 10% coupon code: 10%OFFMONITOR]                |
-| 15 | Black Desert-free (again)                                                                                         |
-| 16 | RAKUTEN 10% for Dell Home                                                                                         |
-| 17 | $45 25gb + $300 bill credit per line [win back]                                                                   |
-| 18 | Golabs Portable Power Station i200, 256Wh LiFePO4 Backup Battery - $169.99 with coupon                            |
-| 19 | 3DS Atlus and Sega eShop Sale (LAST CHANCE?)                                                                      |
-| 20 | Apple Magsafe charger, 29,97$ (45%off) YMMV                                                                       |
-| 21 | Ray-Ban x Facebook Stories Smart Sunglasses 25% OFF ($276.75)                                                     |
-| 22 | LG OLED C1 series OLED TV some size $100 OFF + get free LG Tone Free FP5 ANC True Wireless Earbuds, value $114.99 |
-| 23 | Arctic Fan P12 PWM ARGB 3-Pack ($60-5=$55)                                                                        |
-| 24 | BIG YMMV Electronic Deals                                                                                         |
-| 25 | Xbox Game Pass Ultimate: 12 Month Membership for New/Expired Members $41.89 | Conversion Deal / VPN Required      |
-| 26 | Hisense 55" 4K Roku Smart TV 55R62G $439.99                                                                       |
-| 27 | EVGA NVIDIA GeForce RTX 3080 Graphic Card - 10 GB GDDR6 - 1.76 GHz Boost Clock - $1,175.26                        |
-| 28 | Lenovo Flex 3 - 11 ChromeBook Intel 4020/4GB/64G $199.99                                                          |
-| 29 | Kano PC Pro Education Edition, $100                                                                               |
-| 30 | Take the RedFlagDeals.com 2022 User Feedback Survey and You Could Win One of Two $100 Gift Cards                  |
-| 31 | Logitech webcam C920x ATL $79.99                                                                                  |
-| 32 | 60% Off Sale --Halo: The Master Chief Collection is $19.99 -- Historical low                                      |
-| 33 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                      |
-| 34 | WD 16TB Gold drive for $383.99 ($24/TB)                                                                           |
-| 35 | Samsung Galaxy Buds+, Buds Live for 99.98                                                                         |
-| 36 | Jabra Elite 85t Grey Certified Refurbished | $92.99 | FREE SHIP | NO TAX | Sold & Shipped by Jabra                |
-| 37 | Freedom Mobile - 15Gb Unlimited Plan $40 (BYOD)                                                                   |
-| 38 | 48W Soldering Power Station, $24.99                                                                               |
-| 39 | Win one of five $50 gift cards by sharing your favourite deals from March                                         |
-| 40 | Seagate Backup Plus Hub 4 TB USB 3.0 Desktop Drive $69.99 YMMV                                                    |
-| 41 | YMMV Spring into Savings - Motorola Edge                                                                          |
-| 42 | (YMMV) Apple Magic Keyboard with Numeric Keypad for $50                                                           |
-| 43 | Rogue Legacy + The Vanishing of Ethan Carter - FREE until April 14th @ 11am EST                                   |
-| 44 | Dell 34 Curved Gaming Monitor – S3422DWG [$579.99 + 10% Cashback + 10% coupon code: 10%OFFMONITOR]                |
-| 45 | Black Desert-free (again)                                                                                         |
-| 46 | RAKUTEN 10% for Dell Home                                                                                         |
-| 47 | $45 25gb + $300 bill credit per line [win back]                                                                   |
-| 48 | Golabs Portable Power Station i200, 256Wh LiFePO4 Backup Battery - $169.99 with coupon                            |
-| 49 | 3DS Atlus and Sega eShop Sale (LAST CHANCE?)                                                                      |
-| 50 | Apple Magsafe charger, 29,97$ (45%off) YMMV                                                                       |
-| 51 | Ray-Ban x Facebook Stories Smart Sunglasses 25% OFF ($276.75)                                                     |
-| 52 | LG OLED C1 series OLED TV some size $100 OFF + get free LG Tone Free FP5 ANC True Wireless Earbuds, value $114.99 |
-| 53 | Arctic Fan P12 PWM ARGB 3-Pack ($60-5=$55)                                                                        |
-| 54 | BIG YMMV Electronic Deals                                                                                         |
-| 55 | Xbox Game Pass Ultimate: 12 Month Membership for New/Expired Members $41.89 | Conversion Deal / VPN Required      |
-| 56 | Hisense 55" 4K Roku Smart TV 55R62G $439.99                                                                       |
-| 57 | EVGA NVIDIA GeForce RTX 3080 Graphic Card - 10 GB GDDR6 - 1.76 GHz Boost Clock - $1,175.26                        |
-| 58 | Lenovo Flex 3 - 11 ChromeBook Intel 4020/4GB/64G $199.99                                                          |
-| 59 | Kano PC Pro Education Edition, $100                                                                               |
-| 60 | Take the RedFlagDeals.com 2022 User Feedback Survey and You Could Win One of Two $100 Gift Cards                  |
-| 61 | Logitech webcam C920x ATL $79.99                                                                                  |
-| 62 | 60% Off Sale --Halo: The Master Chief Collection is $19.99 -- Historical low                                      |
-| 63 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                      |
-| 64 | WD 16TB Gold drive for $383.99 ($24/TB)                                                                           |
-| 65 | Samsung Galaxy Buds+, Buds Live for 99.98                                                                         |
-| 66 | Jabra Elite 85t Grey Certified Refurbished | $92.99 | FREE SHIP | NO TAX | Sold & Shipped by Jabra                |
-| 67 | Freedom Mobile - 15Gb Unlimited Plan $40 (BYOD)                                                                   |
-| 68 | 48W Soldering Power Station, $24.99                                                                               |
-| 69 | Win one of five $50 gift cards by sharing your favourite deals from March                                         |
-| 70 | Seagate Backup Plus Hub 4 TB USB 3.0 Desktop Drive $69.99 YMMV                                                    |
-| 71 | YMMV Spring into Savings - Motorola Edge                                                                          |
-| 72 | (YMMV) Apple Magic Keyboard with Numeric Keypad for $50                                                           |
-| 73 | Rogue Legacy + The Vanishing of Ethan Carter - FREE until April 14th @ 11am EST                                   |
-| 74 | Dell 34 Curved Gaming Monitor – S3422DWG [$579.99 + 10% Cashback + 10% coupon code: 10%OFFMONITOR]                |
-| 75 | Black Desert-free (again)                                                                                         |
-| 76 | RAKUTEN 10% for Dell Home                                                                                         |
-| 77 | $45 25gb + $300 bill credit per line [win back]                                                                   |
-| 78 | Golabs Portable Power Station i200, 256Wh LiFePO4 Backup Battery - $169.99 with coupon                            |
-| 79 | 3DS Atlus and Sega eShop Sale (LAST CHANCE?)                                                                      |
-| 80 | Apple Magsafe charger, 29,97$ (45%off) YMMV                                                                       |
-| 81 | Ray-Ban x Facebook Stories Smart Sunglasses 25% OFF ($276.75)                                                     |
-| 82 | LG OLED C1 series OLED TV some size $100 OFF + get free LG Tone Free FP5 ANC True Wireless Earbuds, value $114.99 |
-| 83 | Arctic Fan P12 PWM ARGB 3-Pack ($60-5=$55)                                                                        |
-| 84 | BIG YMMV Electronic Deals                                                                                         |
-| 85 | Xbox Game Pass Ultimate: 12 Month Membership for New/Expired Members $41.89 | Conversion Deal / VPN Required      |
-| 86 | Hisense 55" 4K Roku Smart TV 55R62G $439.99                                                                       |
-| 87 | EVGA NVIDIA GeForce RTX 3080 Graphic Card - 10 GB GDDR6 - 1.76 GHz Boost Clock - $1,175.26                        |
-| 88 | Lenovo Flex 3 - 11 ChromeBook Intel 4020/4GB/64G $199.99                                                          |
-| 89 | Kano PC Pro Education Edition, $100                                                                               |
+|    | deals                                                                                                                  |
+|---:|:-----------------------------------------------------------------------------------------------------------------------|
+|  0 | Take the RedFlagDeals.com 2022 User Feedback Survey and You Could Win One of Two $100 Gift Cards                       |
+|  1 | Fire TV Stick 4K Max - $59.99                                                                                          |
+|  2 | Lenovo Ideapad 5 82LN00FKCC , 15"/5700U/8GB RAM/512GB NVMe SSD/Win 11 Home, $809.99 + Free USB-C Power adapter + 1 tax |
+|  3 | Logitech webcam C920x ATL $79.99                                                                                       |
+|  4 | Trails of Cold Steel III PS4 $24.99, Amazon Matched the Price. Pick Up for GameStop.                                   |
+|  5 | XBOX Series X - Available for in-store pickup                                                                          |
+|  6 | Bell Gigabit Fibe 1.5 - 75$ monthly credits - 60 + tax per month after credits - new accounts only - huge YMMV         |
+|  7 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
+|  8 | Jabra Elite 85t Grey Certified Refurbished | $92.99 | FREE SHIP | NO TAX | Sold & Shipped by Jabra                     |
+|  9 | Bell EPP Plan through Perkopolis $50 unlimited Share Plan                                                              |
+| 10 | ThinkVision P27u-20 27'' 4K full DCI-P3 & Adobe RGB HDR400 Thunderbolt 4 Monitor $746 - 13% Rakuten                    |
+| 11 | Hisense 55" 4K Roku Smart TV 55R62G $439.99                                                                            |
+| 12 | Hisense 65 in. 4K Roku Smart Television 65R63G $627.99 Online                                                          |
+| 13 | Lenovo IdeaPad 5 Pro, 5800H/16GB/512GB, 16" 16:10 QHD+, $960                                                           |
+| 14 | TCL S446 43" 4K TV - $329                                                                                              |
+| 15 | 12” ring light with 52” floor tripod plus Bluetooth remote - $25                                                       |
+| 16 | DEAD - TP-Link AV1000 Powerline Free +$31.76 shipping                                                                  |
+| 17 | 3DS Atlus and Sega eShop Sale (LAST CHANCE?)                                                                           |
+| 18 | Jabra Elite 75T Refurbished $66 / Elite 85T $104 or $93 at Walmart                                                     |
+| 19 | Golabs Portable Power Station i200, 256Wh LiFePO4 Backup Battery - $169.99 with coupon                                 |
+| 20 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                        |
+| 21 | Roku Streambar 9102CA $99.98                                                                                           |
+| 22 | Spring sale up to 80% off                                                                                              |
+| 23 | Freedom Mobile - 15Gb Unlimited Plan $40 (BYOD)                                                                        |
+| 24 | Xbox Game Pass Ultimate: 12 Month Membership for New/Expired Members $41.89 | Conversion Deal / VPN Required           |
+| 25 | Samsung Travel Adapter Unit USB A $7.50 White Free Ship EP-TA20JWEUGCA                                                 |
+| 26 | G5 Gigabyte i5-11400H/16GB/512GB SSD/15.6in Full HD 144Hz/RTX 3060/Wi-Fi 6/BT/ Windows 11 Home $1,049.99               |
+| 27 | 60% Off Sale --Halo: The Master Chief Collection is $19.99 -- Historical low                                           |
+| 28 | Sony 65 inch XR65X95J for 1999.97                                                                                      |
+| 29 | ($999) (multiple retailers) Sony 50" X90J 4K TV                                                                        |
+| 30 | Take the RedFlagDeals.com 2022 User Feedback Survey and You Could Win One of Two $100 Gift Cards                       |
+| 31 | Fire TV Stick 4K Max - $59.99                                                                                          |
+| 32 | Lenovo Ideapad 5 82LN00FKCC , 15"/5700U/8GB RAM/512GB NVMe SSD/Win 11 Home, $809.99 + Free USB-C Power adapter + 1 tax |
+| 33 | Logitech webcam C920x ATL $79.99                                                                                       |
+| 34 | Trails of Cold Steel III PS4 $24.99, Amazon Matched the Price. Pick Up for GameStop.                                   |
+| 35 | XBOX Series X - Available for in-store pickup                                                                          |
+| 36 | Bell Gigabit Fibe 1.5 - 75$ monthly credits - 60 + tax per month after credits - new accounts only - huge YMMV         |
+| 37 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
+| 38 | Jabra Elite 85t Grey Certified Refurbished | $92.99 | FREE SHIP | NO TAX | Sold & Shipped by Jabra                     |
+| 39 | Bell EPP Plan through Perkopolis $50 unlimited Share Plan                                                              |
+| 40 | ThinkVision P27u-20 27'' 4K full DCI-P3 & Adobe RGB HDR400 Thunderbolt 4 Monitor $746 - 13% Rakuten                    |
+| 41 | Hisense 55" 4K Roku Smart TV 55R62G $439.99                                                                            |
+| 42 | Hisense 65 in. 4K Roku Smart Television 65R63G $627.99 Online                                                          |
+| 43 | Lenovo IdeaPad 5 Pro, 5800H/16GB/512GB, 16" 16:10 QHD+, $960                                                           |
+| 44 | TCL S446 43" 4K TV - $329                                                                                              |
+| 45 | 12” ring light with 52” floor tripod plus Bluetooth remote - $25                                                       |
+| 46 | DEAD - TP-Link AV1000 Powerline Free +$31.76 shipping                                                                  |
+| 47 | 3DS Atlus and Sega eShop Sale (LAST CHANCE?)                                                                           |
+| 48 | Jabra Elite 75T Refurbished $66 / Elite 85T $104 or $93 at Walmart                                                     |
+| 49 | Golabs Portable Power Station i200, 256Wh LiFePO4 Backup Battery - $169.99 with coupon                                 |
+| 50 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                        |
+| 51 | Roku Streambar 9102CA $99.98                                                                                           |
+| 52 | Spring sale up to 80% off                                                                                              |
+| 53 | Freedom Mobile - 15Gb Unlimited Plan $40 (BYOD)                                                                        |
+| 54 | Xbox Game Pass Ultimate: 12 Month Membership for New/Expired Members $41.89 | Conversion Deal / VPN Required           |
+| 55 | Samsung Travel Adapter Unit USB A $7.50 White Free Ship EP-TA20JWEUGCA                                                 |
+| 56 | G5 Gigabyte i5-11400H/16GB/512GB SSD/15.6in Full HD 144Hz/RTX 3060/Wi-Fi 6/BT/ Windows 11 Home $1,049.99               |
+| 57 | 60% Off Sale --Halo: The Master Chief Collection is $19.99 -- Historical low                                           |
+| 58 | Sony 65 inch XR65X95J for 1999.97                                                                                      |
+| 59 | ($999) (multiple retailers) Sony 50" X90J 4K TV                                                                        |
+| 60 | Take the RedFlagDeals.com 2022 User Feedback Survey and You Could Win One of Two $100 Gift Cards                       |
+| 61 | Fire TV Stick 4K Max - $59.99                                                                                          |
+| 62 | Lenovo Ideapad 5 82LN00FKCC , 15"/5700U/8GB RAM/512GB NVMe SSD/Win 11 Home, $809.99 + Free USB-C Power adapter + 1 tax |
+| 63 | Logitech webcam C920x ATL $79.99                                                                                       |
+| 64 | Trails of Cold Steel III PS4 $24.99, Amazon Matched the Price. Pick Up for GameStop.                                   |
+| 65 | XBOX Series X - Available for in-store pickup                                                                          |
+| 66 | Bell Gigabit Fibe 1.5 - 75$ monthly credits - 60 + tax per month after credits - new accounts only - huge YMMV         |
+| 67 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                           |
+| 68 | Jabra Elite 85t Grey Certified Refurbished | $92.99 | FREE SHIP | NO TAX | Sold & Shipped by Jabra                     |
+| 69 | Bell EPP Plan through Perkopolis $50 unlimited Share Plan                                                              |
+| 70 | ThinkVision P27u-20 27'' 4K full DCI-P3 & Adobe RGB HDR400 Thunderbolt 4 Monitor $746 - 13% Rakuten                    |
+| 71 | Hisense 55" 4K Roku Smart TV 55R62G $439.99                                                                            |
+| 72 | Hisense 65 in. 4K Roku Smart Television 65R63G $627.99 Online                                                          |
+| 73 | Lenovo IdeaPad 5 Pro, 5800H/16GB/512GB, 16" 16:10 QHD+, $960                                                           |
+| 74 | TCL S446 43" 4K TV - $329                                                                                              |
+| 75 | 12” ring light with 52” floor tripod plus Bluetooth remote - $25                                                       |
+| 76 | DEAD - TP-Link AV1000 Powerline Free +$31.76 shipping                                                                  |
+| 77 | 3DS Atlus and Sega eShop Sale (LAST CHANCE?)                                                                           |
+| 78 | Jabra Elite 75T Refurbished $66 / Elite 85T $104 or $93 at Walmart                                                     |
+| 79 | Golabs Portable Power Station i200, 256Wh LiFePO4 Backup Battery - $169.99 with coupon                                 |
+| 80 | Get 20% of your total purchase at Dell Technologies as a credit. Up to $1,500 in total credits.                        |
+| 81 | Roku Streambar 9102CA $99.98                                                                                           |
+| 82 | Spring sale up to 80% off                                                                                              |
+| 83 | Freedom Mobile - 15Gb Unlimited Plan $40 (BYOD)                                                                        |
+| 84 | Xbox Game Pass Ultimate: 12 Month Membership for New/Expired Members $41.89 | Conversion Deal / VPN Required           |
+| 85 | Samsung Travel Adapter Unit USB A $7.50 White Free Ship EP-TA20JWEUGCA                                                 |
+| 86 | G5 Gigabyte i5-11400H/16GB/512GB SSD/15.6in Full HD 144Hz/RTX 3060/Wi-Fi 6/BT/ Windows 11 Home $1,049.99               |
+| 87 | 60% Off Sale --Halo: The Master Chief Collection is $19.99 -- Historical low                                           |
+| 88 | Sony 65 inch XR65X95J for 1999.97                                                                                      |
+| 89 | ($999) (multiple retailers) Sony 50" X90J 4K TV                                                                        |
