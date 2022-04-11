@@ -1,17 +1,17 @@
 |    | deals                                                                                                          |
 |---:|:---------------------------------------------------------------------------------------------------------------|
 |  0 | Take the RedFlagDeals.com 2022 User Feedback Survey and You Could Win One of Two $100 Gift Cards               |
-|  1 | ThinkVision P27u-20 27'' 4K full DCI-P3 & Adobe RGB HDR400 Thunderbolt 4 Monitor $746 - 13% Rakuten            |
-|  2 | $7 off $20 on your 1st Amazon pickup order, with code TRYPICKUP7                                               |
-|  3 | Switch Sale on eShop (Updated April 9 7:30 AM)                                                                 |
-|  4 | Call of Duty® Sale -- Black Ops II $21.44 , COD4 $10.99 ATL                                                    |
-|  5 | TCL R646-CA 55" Google TV price drop $899/55"                                                                  |
-|  6 | Bell Gigabit Fibe 1.5 - 75$ monthly credits - 60 + tax per month after credits - new accounts only - huge YMMV |
-|  7 | ($999) (multiple retailers) Sony 50" X90J 4K TV                                                                |
-|  8 | Bell EPP Plan through Perkopolis $50 unlimited Share Plan                                                      |
-|  9 | TCL S446 43" 4K TV - $329                                                                                      |
-| 10 | AMD Ryzen 9 5900X 12-Core/24-Thread 105W AM4 - $479                                                            |
-| 11 | Razer Huntsman Opto-Mechanical Keyboard $97.97                                                                 |
+|  1 | Razer Huntsman Opto-Mechanical Keyboard $97.97                                                                 |
+|  2 | ThinkVision P27u-20 27'' 4K full DCI-P3 & Adobe RGB HDR400 Thunderbolt 4 Monitor $746 - 13% Rakuten            |
+|  3 | $7 off $20 on your 1st Amazon pickup order, with code TRYPICKUP7                                               |
+|  4 | Switch Sale on eShop (Updated April 9 7:30 AM)                                                                 |
+|  5 | Call of Duty® Sale -- Black Ops II $21.44 , COD4 $10.99 ATL                                                    |
+|  6 | TCL R646-CA 55" Google TV price drop $899/55"                                                                  |
+|  7 | Bell Gigabit Fibe 1.5 - 75$ monthly credits - 60 + tax per month after credits - new accounts only - huge YMMV |
+|  8 | ($999) (multiple retailers) Sony 50" X90J 4K TV                                                                |
+|  9 | Bell EPP Plan through Perkopolis $50 unlimited Share Plan                                                      |
+| 10 | TCL S446 43" 4K TV - $329                                                                                      |
+| 11 | AMD Ryzen 9 5900X 12-Core/24-Thread 105W AM4 - $479                                                            |
 | 12 | Freedom Mobile - 15Gb Unlimited Plan $40 (BYOD)                                                                |
 | 13 | 3DS Atlus and Sega eShop Sale (LAST CHANCE?)                                                                   |
 | 14 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                   |
