@@ -1,8 +1,8 @@
 |    | deals                                                                                                                   |
 |---:|:------------------------------------------------------------------------------------------------------------------------|
 |  0 | [Sponsored] Sale on FreeBuds, Smart Watches, Award-winning Gaming Monitors and more from HUAWEI Canada!                 |
-|  1 | 5,000 PCO Points for every $50 spent on Apple Gift Cards (max $500 total)                                               |
-|  2 | LG 75 inch 4k TV $997.99                                                                                                |
+|  1 | LG 75 inch 4k TV $997.99                                                                                                |
+|  2 | 5,000 PCO Points for every $50 spent on Apple Gift Cards (max $500 total)                                               |
 |  3 | WD 16TB Red Pro Hard Drive for $373.99 ($23/TB)                                                                         |
 |  4 | Lenovo IdeaPad 5 Pro, 5800H/16GB/512GB, 16" 16:10 QHD+, $960                                                            |
 |  5 | 10 GB for $40, $45 after 12 months, $55 after 24 months, new activations only                                           |
@@ -31,8 +31,8 @@
 | 28 | Xbox Game Pass Ultimate: 12 Month Membership for New/Expired Members $43.49 | Conversion Deal / VPN Required            |
 | 29 | Sid Meier’s Civilization VI Platinum Edition (Digital) (Nintendo Switch) - $14.99                                       |
 | 30 | [Sponsored] Sale on FreeBuds, Smart Watches, Award-winning Gaming Monitors and more from HUAWEI Canada!                 |
-| 31 | 5,000 PCO Points for every $50 spent on Apple Gift Cards (max $500 total)                                               |
-| 32 | LG 75 inch 4k TV $997.99                                                                                                |
+| 31 | LG 75 inch 4k TV $997.99                                                                                                |
+| 32 | 5,000 PCO Points for every $50 spent on Apple Gift Cards (max $500 total)                                               |
 | 33 | WD 16TB Red Pro Hard Drive for $373.99 ($23/TB)                                                                         |
 | 34 | Lenovo IdeaPad 5 Pro, 5800H/16GB/512GB, 16" 16:10 QHD+, $960                                                            |
 | 35 | 10 GB for $40, $45 after 12 months, $55 after 24 months, new activations only                                           |
@@ -61,8 +61,8 @@
 | 58 | Xbox Game Pass Ultimate: 12 Month Membership for New/Expired Members $43.49 | Conversion Deal / VPN Required            |
 | 59 | Sid Meier’s Civilization VI Platinum Edition (Digital) (Nintendo Switch) - $14.99                                       |
 | 60 | [Sponsored] Sale on FreeBuds, Smart Watches, Award-winning Gaming Monitors and more from HUAWEI Canada!                 |
-| 61 | 5,000 PCO Points for every $50 spent on Apple Gift Cards (max $500 total)                                               |
-| 62 | LG 75 inch 4k TV $997.99                                                                                                |
+| 61 | LG 75 inch 4k TV $997.99                                                                                                |
+| 62 | 5,000 PCO Points for every $50 spent on Apple Gift Cards (max $500 total)                                               |
 | 63 | WD 16TB Red Pro Hard Drive for $373.99 ($23/TB)                                                                         |
 | 64 | Lenovo IdeaPad 5 Pro, 5800H/16GB/512GB, 16" 16:10 QHD+, $960                                                            |
 | 65 | 10 GB for $40, $45 after 12 months, $55 after 24 months, new activations only                                           |
