@@ -1,92 +1,92 @@
 |    | deals                                                                                                                   |
 |---:|:------------------------------------------------------------------------------------------------------------------------|
 |  0 | [Sponsored] Sale on FreeBuds, Smart Watches, Award-winning Gaming Monitors and more from HUAWEI Canada!                 |
-|  1 | Costco Easter Online Sale                                                                                               |
-|  2 | Hisense 65U88G just dropped in price today to 1497.99                                                                   |
-|  3 | SANSUI ES43S1A 43" Television UHD HDR Smart TV with Google Assistant (Voice Control), Screen Share, HDMI, USB - $299.99 |
-|  4 | Free 8x8 Print Book                                                                                                     |
-|  5 | [ATL] Hisense 50" U68G 2021 - $547.99 (reg 647.99) / 55" & 65" $102 off                                                 |
-|  6 | UPDATED VERSION NZXT H1 w/ 140 Watercooler & 650W PSU - $189.99 (NOT V2)                                                |
-|  7 | New Zoomer Wireless March Deal - $45/7GB + $0 TCL 20 Pro                                                                |
-|  8 | Walmart - PSN Credit (20% off) / Pre-orders ($15 off) "Spring60"                                                        |
-|  9 | Logitech G Easter Savings Offer - $50 off $250, $20 off $120                                                            |
-| 10 | 60% Off Sale --Halo: The Master Chief Collection is $19.99 -- Historical low                                            |
-| 11 | Facebook Portal TV ($99) and Portal ($79)                                                                               |
-| 12 | MSI Ventus RTX 3080 Ti - $1449+tax additional $30 mail-in rebate                                                        |
-| 13 | Acer CB342CK CSMIIPHUZX 34 UW-QHD Monitor $399.99                                                                       |
-| 14 | Tripp Lite ISOBAR4ULTRA Surge Protector / Suppessor - $74.99                                                            |
-| 15 | Macbook Pro 14/16 Refurbs now available - from [$2249]                                                                  |
-| 16 | ThinkVision P27u-20 27'' 4K full DCI-P3 & Adobe RGB HDR400 Thunderbolt 4 Monitor $746 - 13% Rakuten                     |
-| 17 | [Various Retailers] PlayStation games on sale                                                                           |
-| 18 | WD 16TB Gold hard drive for $383.99 ($24/TB)                                                                            |
-| 19 | Corsair MP600 CORE 2TB NVMe SSD - $248.98 - PS5 compatible                                                              |
-| 20 | LG 29 inch 29WP60G-B IPS 2560x1080 ultrawide monitor $249.99                                                            |
-| 21 | This War of Mine Complete Edition on Nintendo Switch - $2.49                                                            |
-| 22 | CORSAIR RMx Series RM650x 80+ Gold Modular PSU $79.99                                                                   |
-| 23 | Ryobi 18V Bluetooth Speaker $61                                                                                         |
-| 24 | 5,000 PCO Points for every $50 spent on Apple Gift Cards (max $500 total)                                               |
-| 25 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
-| 26 | Apple Magsafe charger, 29,97$ (45%off) YMMV                                                                             |
-| 27 | Game & Watch: Super Mario Bros Edition - $39.99                                                                         |
-| 28 | Trade in a select PS4 console towards a PS5 bundle (presell) and become next in line to get your PS5                    |
-| 29 | VEVOR 40W Co2 Laser 12" x 8" USB Port Laser Engraving Machine $291.19                                                   |
+|  1 | 5,000 PCO Points for every $50 spent on Apple Gift Cards (max $500 total)                                               |
+|  2 | LG 75 inch 4k TV $997.99                                                                                                |
+|  3 | WD 16TB Red Pro Hard Drive for $373.99 ($23/TB)                                                                         |
+|  4 | Lenovo IdeaPad 5 Pro, 5800H/16GB/512GB, 16" 16:10 QHD+, $960                                                            |
+|  5 | 10 GB for $40, $45 after 12 months, $55 after 24 months, new activations only                                           |
+|  6 | Zoomer Wireless Samsung A53 $45/month with 7GB available online $0 upfront                                              |
+|  7 | Macbook Pro 14/16 Refurbs now available - from [$2249]                                                                  |
+|  8 | CC.ca: MSI GeForce RTX 3090 VENTUS 3X 24G OC 24GB GDDR6X - 2049.00$...                                                  |
+|  9 | MSI GeForce RTX 3060 on sale $470-480                                                                                   |
+| 10 | Alcidae Garager 2, Smart Camera, Remotely Monitor and Control Garage Door Opener Through Phone $49. Reg $149.96         |
+| 11 | WD 16TB Gold hard drive for $383.99 ($24/TB)                                                                            |
+| 12 | LG 29 inch 29WP60G-B IPS 2560x1080 ultrawide monitor $249.99                                                            |
+| 13 | Toshiba Canvio Advance 1TB Portable External Hard Drive (not SSD) USB 3.0 $49.98                                        |
+| 14 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                                |
+| 15 | Arctic P12 PWM PST 120mm Fan - 5 Pack (No tax & FS) - $39.68                                                            |
+| 16 | LG OLED C1 series OLED TV up to$300 OFF some sizes + get free LG Tone Free FP5 ANC True Wireless Earbuds, value $114.99 |
+| 17 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
+| 18 | Acer CB342CK CSMIIPHUZX 34 UW-QHD Monitor $399.99                                                                       |
+| 19 | LG SN7Y Soundbar $349.99                                                                                                |
+| 20 | $45 25gb + $300 bill credit per line [win back]                                                                         |
+| 21 | Two more RTX 3070 for $799 / $819                                                                                       |
+| 22 | Easter Sale/ 5MP PTZ Dual WiFi Indoor Wireless Camera-E1 Zoom $83.59                                                    |
+| 23 | MSI Ventus RTX 3080 Ti - $1449+tax additional $30 mail-in rebate                                                        |
+| 24 | Bell Gigabit Fibe 1.5 - 75$ monthly credits - 60 + tax per month after credits - new accounts only - huge YMMV          |
+| 25 | UPDATED VERSION NZXT H1 w/ 140 Watercooler & 650W PSU - $189.99 (NOT V2)                                                |
+| 26 | Sony X90J 65" $1498 / 75" $2198                                                                                         |
+| 27 | New Zoomer Wireless March Deal - $45/7GB + $0 TCL 20 Pro                                                                |
+| 28 | Xbox Game Pass Ultimate: 12 Month Membership for New/Expired Members $43.49 | Conversion Deal / VPN Required            |
+| 29 | Sid Meier’s Civilization VI Platinum Edition (Digital) (Nintendo Switch) - $14.99                                       |
 | 30 | [Sponsored] Sale on FreeBuds, Smart Watches, Award-winning Gaming Monitors and more from HUAWEI Canada!                 |
-| 31 | Costco Easter Online Sale                                                                                               |
-| 32 | Hisense 65U88G just dropped in price today to 1497.99                                                                   |
-| 33 | SANSUI ES43S1A 43" Television UHD HDR Smart TV with Google Assistant (Voice Control), Screen Share, HDMI, USB - $299.99 |
-| 34 | Free 8x8 Print Book                                                                                                     |
-| 35 | [ATL] Hisense 50" U68G 2021 - $547.99 (reg 647.99) / 55" & 65" $102 off                                                 |
-| 36 | UPDATED VERSION NZXT H1 w/ 140 Watercooler & 650W PSU - $189.99 (NOT V2)                                                |
-| 37 | New Zoomer Wireless March Deal - $45/7GB + $0 TCL 20 Pro                                                                |
-| 38 | Walmart - PSN Credit (20% off) / Pre-orders ($15 off) "Spring60"                                                        |
-| 39 | Logitech G Easter Savings Offer - $50 off $250, $20 off $120                                                            |
-| 40 | 60% Off Sale --Halo: The Master Chief Collection is $19.99 -- Historical low                                            |
-| 41 | Facebook Portal TV ($99) and Portal ($79)                                                                               |
-| 42 | MSI Ventus RTX 3080 Ti - $1449+tax additional $30 mail-in rebate                                                        |
-| 43 | Acer CB342CK CSMIIPHUZX 34 UW-QHD Monitor $399.99                                                                       |
-| 44 | Tripp Lite ISOBAR4ULTRA Surge Protector / Suppessor - $74.99                                                            |
-| 45 | Macbook Pro 14/16 Refurbs now available - from [$2249]                                                                  |
-| 46 | ThinkVision P27u-20 27'' 4K full DCI-P3 & Adobe RGB HDR400 Thunderbolt 4 Monitor $746 - 13% Rakuten                     |
-| 47 | [Various Retailers] PlayStation games on sale                                                                           |
-| 48 | WD 16TB Gold hard drive for $383.99 ($24/TB)                                                                            |
-| 49 | Corsair MP600 CORE 2TB NVMe SSD - $248.98 - PS5 compatible                                                              |
-| 50 | LG 29 inch 29WP60G-B IPS 2560x1080 ultrawide monitor $249.99                                                            |
-| 51 | This War of Mine Complete Edition on Nintendo Switch - $2.49                                                            |
-| 52 | CORSAIR RMx Series RM650x 80+ Gold Modular PSU $79.99                                                                   |
-| 53 | Ryobi 18V Bluetooth Speaker $61                                                                                         |
-| 54 | 5,000 PCO Points for every $50 spent on Apple Gift Cards (max $500 total)                                               |
-| 55 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
-| 56 | Apple Magsafe charger, 29,97$ (45%off) YMMV                                                                             |
-| 57 | Game & Watch: Super Mario Bros Edition - $39.99                                                                         |
-| 58 | Trade in a select PS4 console towards a PS5 bundle (presell) and become next in line to get your PS5                    |
-| 59 | VEVOR 40W Co2 Laser 12" x 8" USB Port Laser Engraving Machine $291.19                                                   |
+| 31 | 5,000 PCO Points for every $50 spent on Apple Gift Cards (max $500 total)                                               |
+| 32 | LG 75 inch 4k TV $997.99                                                                                                |
+| 33 | WD 16TB Red Pro Hard Drive for $373.99 ($23/TB)                                                                         |
+| 34 | Lenovo IdeaPad 5 Pro, 5800H/16GB/512GB, 16" 16:10 QHD+, $960                                                            |
+| 35 | 10 GB for $40, $45 after 12 months, $55 after 24 months, new activations only                                           |
+| 36 | Zoomer Wireless Samsung A53 $45/month with 7GB available online $0 upfront                                              |
+| 37 | Macbook Pro 14/16 Refurbs now available - from [$2249]                                                                  |
+| 38 | CC.ca: MSI GeForce RTX 3090 VENTUS 3X 24G OC 24GB GDDR6X - 2049.00$...                                                  |
+| 39 | MSI GeForce RTX 3060 on sale $470-480                                                                                   |
+| 40 | Alcidae Garager 2, Smart Camera, Remotely Monitor and Control Garage Door Opener Through Phone $49. Reg $149.96         |
+| 41 | WD 16TB Gold hard drive for $383.99 ($24/TB)                                                                            |
+| 42 | LG 29 inch 29WP60G-B IPS 2560x1080 ultrawide monitor $249.99                                                            |
+| 43 | Toshiba Canvio Advance 1TB Portable External Hard Drive (not SSD) USB 3.0 $49.98                                        |
+| 44 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                                |
+| 45 | Arctic P12 PWM PST 120mm Fan - 5 Pack (No tax & FS) - $39.68                                                            |
+| 46 | LG OLED C1 series OLED TV up to$300 OFF some sizes + get free LG Tone Free FP5 ANC True Wireless Earbuds, value $114.99 |
+| 47 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
+| 48 | Acer CB342CK CSMIIPHUZX 34 UW-QHD Monitor $399.99                                                                       |
+| 49 | LG SN7Y Soundbar $349.99                                                                                                |
+| 50 | $45 25gb + $300 bill credit per line [win back]                                                                         |
+| 51 | Two more RTX 3070 for $799 / $819                                                                                       |
+| 52 | Easter Sale/ 5MP PTZ Dual WiFi Indoor Wireless Camera-E1 Zoom $83.59                                                    |
+| 53 | MSI Ventus RTX 3080 Ti - $1449+tax additional $30 mail-in rebate                                                        |
+| 54 | Bell Gigabit Fibe 1.5 - 75$ monthly credits - 60 + tax per month after credits - new accounts only - huge YMMV          |
+| 55 | UPDATED VERSION NZXT H1 w/ 140 Watercooler & 650W PSU - $189.99 (NOT V2)                                                |
+| 56 | Sony X90J 65" $1498 / 75" $2198                                                                                         |
+| 57 | New Zoomer Wireless March Deal - $45/7GB + $0 TCL 20 Pro                                                                |
+| 58 | Xbox Game Pass Ultimate: 12 Month Membership for New/Expired Members $43.49 | Conversion Deal / VPN Required            |
+| 59 | Sid Meier’s Civilization VI Platinum Edition (Digital) (Nintendo Switch) - $14.99                                       |
 | 60 | [Sponsored] Sale on FreeBuds, Smart Watches, Award-winning Gaming Monitors and more from HUAWEI Canada!                 |
-| 61 | Costco Easter Online Sale                                                                                               |
-| 62 | Hisense 65U88G just dropped in price today to 1497.99                                                                   |
-| 63 | SANSUI ES43S1A 43" Television UHD HDR Smart TV with Google Assistant (Voice Control), Screen Share, HDMI, USB - $299.99 |
-| 64 | Free 8x8 Print Book                                                                                                     |
-| 65 | [ATL] Hisense 50" U68G 2021 - $547.99 (reg 647.99) / 55" & 65" $102 off                                                 |
-| 66 | UPDATED VERSION NZXT H1 w/ 140 Watercooler & 650W PSU - $189.99 (NOT V2)                                                |
-| 67 | New Zoomer Wireless March Deal - $45/7GB + $0 TCL 20 Pro                                                                |
-| 68 | Walmart - PSN Credit (20% off) / Pre-orders ($15 off) "Spring60"                                                        |
-| 69 | Logitech G Easter Savings Offer - $50 off $250, $20 off $120                                                            |
-| 70 | 60% Off Sale --Halo: The Master Chief Collection is $19.99 -- Historical low                                            |
-| 71 | Facebook Portal TV ($99) and Portal ($79)                                                                               |
-| 72 | MSI Ventus RTX 3080 Ti - $1449+tax additional $30 mail-in rebate                                                        |
-| 73 | Acer CB342CK CSMIIPHUZX 34 UW-QHD Monitor $399.99                                                                       |
-| 74 | Tripp Lite ISOBAR4ULTRA Surge Protector / Suppessor - $74.99                                                            |
-| 75 | Macbook Pro 14/16 Refurbs now available - from [$2249]                                                                  |
-| 76 | ThinkVision P27u-20 27'' 4K full DCI-P3 & Adobe RGB HDR400 Thunderbolt 4 Monitor $746 - 13% Rakuten                     |
-| 77 | [Various Retailers] PlayStation games on sale                                                                           |
-| 78 | WD 16TB Gold hard drive for $383.99 ($24/TB)                                                                            |
-| 79 | Corsair MP600 CORE 2TB NVMe SSD - $248.98 - PS5 compatible                                                              |
-| 80 | LG 29 inch 29WP60G-B IPS 2560x1080 ultrawide monitor $249.99                                                            |
-| 81 | This War of Mine Complete Edition on Nintendo Switch - $2.49                                                            |
-| 82 | CORSAIR RMx Series RM650x 80+ Gold Modular PSU $79.99                                                                   |
-| 83 | Ryobi 18V Bluetooth Speaker $61                                                                                         |
-| 84 | 5,000 PCO Points for every $50 spent on Apple Gift Cards (max $500 total)                                               |
-| 85 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
-| 86 | Apple Magsafe charger, 29,97$ (45%off) YMMV                                                                             |
-| 87 | Game & Watch: Super Mario Bros Edition - $39.99                                                                         |
-| 88 | Trade in a select PS4 console towards a PS5 bundle (presell) and become next in line to get your PS5                    |
-| 89 | VEVOR 40W Co2 Laser 12" x 8" USB Port Laser Engraving Machine $291.19                                                   |
+| 61 | 5,000 PCO Points for every $50 spent on Apple Gift Cards (max $500 total)                                               |
+| 62 | LG 75 inch 4k TV $997.99                                                                                                |
+| 63 | WD 16TB Red Pro Hard Drive for $373.99 ($23/TB)                                                                         |
+| 64 | Lenovo IdeaPad 5 Pro, 5800H/16GB/512GB, 16" 16:10 QHD+, $960                                                            |
+| 65 | 10 GB for $40, $45 after 12 months, $55 after 24 months, new activations only                                           |
+| 66 | Zoomer Wireless Samsung A53 $45/month with 7GB available online $0 upfront                                              |
+| 67 | Macbook Pro 14/16 Refurbs now available - from [$2249]                                                                  |
+| 68 | CC.ca: MSI GeForce RTX 3090 VENTUS 3X 24G OC 24GB GDDR6X - 2049.00$...                                                  |
+| 69 | MSI GeForce RTX 3060 on sale $470-480                                                                                   |
+| 70 | Alcidae Garager 2, Smart Camera, Remotely Monitor and Control Garage Door Opener Through Phone $49. Reg $149.96         |
+| 71 | WD 16TB Gold hard drive for $383.99 ($24/TB)                                                                            |
+| 72 | LG 29 inch 29WP60G-B IPS 2560x1080 ultrawide monitor $249.99                                                            |
+| 73 | Toshiba Canvio Advance 1TB Portable External Hard Drive (not SSD) USB 3.0 $49.98                                        |
+| 74 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                                |
+| 75 | Arctic P12 PWM PST 120mm Fan - 5 Pack (No tax & FS) - $39.68                                                            |
+| 76 | LG OLED C1 series OLED TV up to$300 OFF some sizes + get free LG Tone Free FP5 ANC True Wireless Earbuds, value $114.99 |
+| 77 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
+| 78 | Acer CB342CK CSMIIPHUZX 34 UW-QHD Monitor $399.99                                                                       |
+| 79 | LG SN7Y Soundbar $349.99                                                                                                |
+| 80 | $45 25gb + $300 bill credit per line [win back]                                                                         |
+| 81 | Two more RTX 3070 for $799 / $819                                                                                       |
+| 82 | Easter Sale/ 5MP PTZ Dual WiFi Indoor Wireless Camera-E1 Zoom $83.59                                                    |
+| 83 | MSI Ventus RTX 3080 Ti - $1449+tax additional $30 mail-in rebate                                                        |
+| 84 | Bell Gigabit Fibe 1.5 - 75$ monthly credits - 60 + tax per month after credits - new accounts only - huge YMMV          |
+| 85 | UPDATED VERSION NZXT H1 w/ 140 Watercooler & 650W PSU - $189.99 (NOT V2)                                                |
+| 86 | Sony X90J 65" $1498 / 75" $2198                                                                                         |
+| 87 | New Zoomer Wireless March Deal - $45/7GB + $0 TCL 20 Pro                                                                |
+| 88 | Xbox Game Pass Ultimate: 12 Month Membership for New/Expired Members $43.49 | Conversion Deal / VPN Required            |
+| 89 | Sid Meier’s Civilization VI Platinum Edition (Digital) (Nintendo Switch) - $14.99                                       |
