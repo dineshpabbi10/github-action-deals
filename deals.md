@@ -1,92 +1,92 @@
 |    | deals                                                                                                                   |
 |---:|:------------------------------------------------------------------------------------------------------------------------|
 |  0 | [Sponsored] Sale on FreeBuds, Smart Watches, Award-winning Gaming Monitors and more from HUAWEI Canada!                 |
-|  1 | LG 75 inch 4k TV $997.99                                                                                                |
-|  2 | 5,000 PCO Points for every $50 spent on Apple Gift Cards (max $500 total)                                               |
-|  3 | WD 16TB Red Pro Hard Drive for $373.99 ($23/TB)                                                                         |
-|  4 | Lenovo IdeaPad 5 Pro, 5800H/16GB/512GB, 16" 16:10 QHD+, $960                                                            |
-|  5 | 10 GB for $40, $45 after 12 months, $55 after 24 months, new activations only                                           |
-|  6 | Zoomer Wireless Samsung A53 $45/month with 7GB available online $0 upfront                                              |
-|  7 | Macbook Pro 14/16 Refurbs now available - from [$2249]                                                                  |
-|  8 | CC.ca: MSI GeForce RTX 3090 VENTUS 3X 24G OC 24GB GDDR6X - 2049.00$...                                                  |
-|  9 | MSI GeForce RTX 3060 on sale $470-480                                                                                   |
-| 10 | Alcidae Garager 2, Smart Camera, Remotely Monitor and Control Garage Door Opener Through Phone $49. Reg $149.96         |
-| 11 | WD 16TB Gold hard drive for $383.99 ($24/TB)                                                                            |
-| 12 | LG 29 inch 29WP60G-B IPS 2560x1080 ultrawide monitor $249.99                                                            |
-| 13 | Toshiba Canvio Advance 1TB Portable External Hard Drive (not SSD) USB 3.0 $49.98                                        |
-| 14 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                                |
-| 15 | Arctic P12 PWM PST 120mm Fan - 5 Pack (No tax & FS) - $39.68                                                            |
-| 16 | LG OLED C1 series OLED TV up to$300 OFF some sizes + get free LG Tone Free FP5 ANC True Wireless Earbuds, value $114.99 |
+|  1 | Coming soon to game pass - 04/19-04/28 - Turnip Boy, 7 Days to Die, Research and Destroy, Bugsnax, Unsouled + 2 cloud   |
+|  2 | WD 16TB Gold hard drive for $383.99 ($24/TB)                                                                            |
+|  3 | $99 yearly Freedom mobile Talk and text plan ending April 20th                                                          |
+|  4 | 50% off (or more) on Battlefield 2042 (All Platforms)                                                                   |
+|  5 | CC.ca: MSI GeForce RTX 3090 VENTUS 3X 24G OC 24GB GDDR6X - 2049.00$...                                                  |
+|  6 | Logitech G603 Lightspeed - $59.99 - In-store at Langford location                                                       |
+|  7 | Crucial BX500 1TB 3D NAND SATA 2.5-Inch Internal SSD $99.99 ($30 OFF)                                                   |
+|  8 | Sony 65 inch XR65X95J for 1999.97                                                                                       |
+|  9 | Xbox Elite Controller 2 - 193.87$                                                                                       |
+| 10 | Zoomer Wireless Samsung A53 $45/month with 7GB available online $0 upfront                                              |
+| 11 | Samsung Galaxy Watch 4 44mm - $289.99 Silver Only                                                                       |
+| 12 | Streets of Rage 4(with keyring and art booklet) - PlayStation 4 - $21.80 USD or ~$39 CAD with shipping and duty         |
+| 13 | Walmart - PSN Credit (20% off) / Pre-orders ($15 off) "Spring60"                                                        |
+| 14 | LG OLED C1 series OLED TV up to$300 OFF some sizes + get free LG Tone Free FP5 ANC True Wireless Earbuds, value $114.99 |
+| 15 | Razer Power Up V2 Combo pack (In-store only) 69.99 YMMV                                                                 |
+| 16 | Sony X85J 65" 4K HDR Google Smart TV Clearance $1098.97                                                                 |
 | 17 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
-| 18 | Acer CB342CK CSMIIPHUZX 34 UW-QHD Monitor $399.99                                                                       |
-| 19 | LG SN7Y Soundbar $349.99                                                                                                |
-| 20 | $45 25gb + $300 bill credit per line [win back]                                                                         |
-| 21 | Two more RTX 3070 for $799 / $819                                                                                       |
-| 22 | Easter Sale/ 5MP PTZ Dual WiFi Indoor Wireless Camera-E1 Zoom $83.59                                                    |
-| 23 | MSI Ventus RTX 3080 Ti - $1449+tax additional $30 mail-in rebate                                                        |
-| 24 | Bell Gigabit Fibe 1.5 - 75$ monthly credits - 60 + tax per month after credits - new accounts only - huge YMMV          |
-| 25 | UPDATED VERSION NZXT H1 w/ 140 Watercooler & 650W PSU - $189.99 (NOT V2)                                                |
-| 26 | Sony X90J 65" $1498 / 75" $2198                                                                                         |
-| 27 | New Zoomer Wireless March Deal - $45/7GB + $0 TCL 20 Pro                                                                |
-| 28 | Xbox Game Pass Ultimate: 12 Month Membership for New/Expired Members $43.49 | Conversion Deal / VPN Required            |
-| 29 | Sid Meier’s Civilization VI Platinum Edition (Digital) (Nintendo Switch) - $14.99                                       |
+| 18 | Apple TV+ 1 month free with Doordash order                                                                              |
+| 19 | Logitech MX Ergonomic Wireless Trackball Mouse Rechargeable $99.99 (save $30)                                           |
+| 20 | Bell Gigabit Fibe 1.5 - 75$ monthly credits - 60 + tax per month after credits - new accounts only - huge YMMV          |
+| 21 | Sony X90J 65" $1498 / 75" $2198                                                                                         |
+| 22 | Toshiba Canvio Advance 1TB Portable External Hard Drive (not SSD) USB 3.0 $49.98                                        |
+| 23 | CC.ca: EVGA GeForce RTX 3080 12GB FTW3 ULTRA GAMING, 12GB - 1249.00$                                                    |
+| 24 | Costco Easter Online Sale                                                                                               |
+| 25 | $7 off $20 on your 1st Amazon pickup order, with code TRYPICKUP7                                                        |
+| 26 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                                |
+| 27 | Free T-Mobile 30 day, 30 GB data trial                                                                                  |
+| 28 | Amazon Fire TV Omni 43" 4K UHD HDR LED Smart TV (2021 model) $380 + eco fee (40% discount) Free shipping                |
+| 29 | Nintendo Switch Pro Wireless Controller - $59.97 YMMV                                                                   |
 | 30 | [Sponsored] Sale on FreeBuds, Smart Watches, Award-winning Gaming Monitors and more from HUAWEI Canada!                 |
-| 31 | LG 75 inch 4k TV $997.99                                                                                                |
-| 32 | 5,000 PCO Points for every $50 spent on Apple Gift Cards (max $500 total)                                               |
-| 33 | WD 16TB Red Pro Hard Drive for $373.99 ($23/TB)                                                                         |
-| 34 | Lenovo IdeaPad 5 Pro, 5800H/16GB/512GB, 16" 16:10 QHD+, $960                                                            |
-| 35 | 10 GB for $40, $45 after 12 months, $55 after 24 months, new activations only                                           |
-| 36 | Zoomer Wireless Samsung A53 $45/month with 7GB available online $0 upfront                                              |
-| 37 | Macbook Pro 14/16 Refurbs now available - from [$2249]                                                                  |
-| 38 | CC.ca: MSI GeForce RTX 3090 VENTUS 3X 24G OC 24GB GDDR6X - 2049.00$...                                                  |
-| 39 | MSI GeForce RTX 3060 on sale $470-480                                                                                   |
-| 40 | Alcidae Garager 2, Smart Camera, Remotely Monitor and Control Garage Door Opener Through Phone $49. Reg $149.96         |
-| 41 | WD 16TB Gold hard drive for $383.99 ($24/TB)                                                                            |
-| 42 | LG 29 inch 29WP60G-B IPS 2560x1080 ultrawide monitor $249.99                                                            |
-| 43 | Toshiba Canvio Advance 1TB Portable External Hard Drive (not SSD) USB 3.0 $49.98                                        |
-| 44 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                                |
-| 45 | Arctic P12 PWM PST 120mm Fan - 5 Pack (No tax & FS) - $39.68                                                            |
-| 46 | LG OLED C1 series OLED TV up to$300 OFF some sizes + get free LG Tone Free FP5 ANC True Wireless Earbuds, value $114.99 |
+| 31 | Coming soon to game pass - 04/19-04/28 - Turnip Boy, 7 Days to Die, Research and Destroy, Bugsnax, Unsouled + 2 cloud   |
+| 32 | WD 16TB Gold hard drive for $383.99 ($24/TB)                                                                            |
+| 33 | $99 yearly Freedom mobile Talk and text plan ending April 20th                                                          |
+| 34 | 50% off (or more) on Battlefield 2042 (All Platforms)                                                                   |
+| 35 | CC.ca: MSI GeForce RTX 3090 VENTUS 3X 24G OC 24GB GDDR6X - 2049.00$...                                                  |
+| 36 | Logitech G603 Lightspeed - $59.99 - In-store at Langford location                                                       |
+| 37 | Crucial BX500 1TB 3D NAND SATA 2.5-Inch Internal SSD $99.99 ($30 OFF)                                                   |
+| 38 | Sony 65 inch XR65X95J for 1999.97                                                                                       |
+| 39 | Xbox Elite Controller 2 - 193.87$                                                                                       |
+| 40 | Zoomer Wireless Samsung A53 $45/month with 7GB available online $0 upfront                                              |
+| 41 | Samsung Galaxy Watch 4 44mm - $289.99 Silver Only                                                                       |
+| 42 | Streets of Rage 4(with keyring and art booklet) - PlayStation 4 - $21.80 USD or ~$39 CAD with shipping and duty         |
+| 43 | Walmart - PSN Credit (20% off) / Pre-orders ($15 off) "Spring60"                                                        |
+| 44 | LG OLED C1 series OLED TV up to$300 OFF some sizes + get free LG Tone Free FP5 ANC True Wireless Earbuds, value $114.99 |
+| 45 | Razer Power Up V2 Combo pack (In-store only) 69.99 YMMV                                                                 |
+| 46 | Sony X85J 65" 4K HDR Google Smart TV Clearance $1098.97                                                                 |
 | 47 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
-| 48 | Acer CB342CK CSMIIPHUZX 34 UW-QHD Monitor $399.99                                                                       |
-| 49 | LG SN7Y Soundbar $349.99                                                                                                |
-| 50 | $45 25gb + $300 bill credit per line [win back]                                                                         |
-| 51 | Two more RTX 3070 for $799 / $819                                                                                       |
-| 52 | Easter Sale/ 5MP PTZ Dual WiFi Indoor Wireless Camera-E1 Zoom $83.59                                                    |
-| 53 | MSI Ventus RTX 3080 Ti - $1449+tax additional $30 mail-in rebate                                                        |
-| 54 | Bell Gigabit Fibe 1.5 - 75$ monthly credits - 60 + tax per month after credits - new accounts only - huge YMMV          |
-| 55 | UPDATED VERSION NZXT H1 w/ 140 Watercooler & 650W PSU - $189.99 (NOT V2)                                                |
-| 56 | Sony X90J 65" $1498 / 75" $2198                                                                                         |
-| 57 | New Zoomer Wireless March Deal - $45/7GB + $0 TCL 20 Pro                                                                |
-| 58 | Xbox Game Pass Ultimate: 12 Month Membership for New/Expired Members $43.49 | Conversion Deal / VPN Required            |
-| 59 | Sid Meier’s Civilization VI Platinum Edition (Digital) (Nintendo Switch) - $14.99                                       |
+| 48 | Apple TV+ 1 month free with Doordash order                                                                              |
+| 49 | Logitech MX Ergonomic Wireless Trackball Mouse Rechargeable $99.99 (save $30)                                           |
+| 50 | Bell Gigabit Fibe 1.5 - 75$ monthly credits - 60 + tax per month after credits - new accounts only - huge YMMV          |
+| 51 | Sony X90J 65" $1498 / 75" $2198                                                                                         |
+| 52 | Toshiba Canvio Advance 1TB Portable External Hard Drive (not SSD) USB 3.0 $49.98                                        |
+| 53 | CC.ca: EVGA GeForce RTX 3080 12GB FTW3 ULTRA GAMING, 12GB - 1249.00$                                                    |
+| 54 | Costco Easter Online Sale                                                                                               |
+| 55 | $7 off $20 on your 1st Amazon pickup order, with code TRYPICKUP7                                                        |
+| 56 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                                |
+| 57 | Free T-Mobile 30 day, 30 GB data trial                                                                                  |
+| 58 | Amazon Fire TV Omni 43" 4K UHD HDR LED Smart TV (2021 model) $380 + eco fee (40% discount) Free shipping                |
+| 59 | Nintendo Switch Pro Wireless Controller - $59.97 YMMV                                                                   |
 | 60 | [Sponsored] Sale on FreeBuds, Smart Watches, Award-winning Gaming Monitors and more from HUAWEI Canada!                 |
-| 61 | LG 75 inch 4k TV $997.99                                                                                                |
-| 62 | 5,000 PCO Points for every $50 spent on Apple Gift Cards (max $500 total)                                               |
-| 63 | WD 16TB Red Pro Hard Drive for $373.99 ($23/TB)                                                                         |
-| 64 | Lenovo IdeaPad 5 Pro, 5800H/16GB/512GB, 16" 16:10 QHD+, $960                                                            |
-| 65 | 10 GB for $40, $45 after 12 months, $55 after 24 months, new activations only                                           |
-| 66 | Zoomer Wireless Samsung A53 $45/month with 7GB available online $0 upfront                                              |
-| 67 | Macbook Pro 14/16 Refurbs now available - from [$2249]                                                                  |
-| 68 | CC.ca: MSI GeForce RTX 3090 VENTUS 3X 24G OC 24GB GDDR6X - 2049.00$...                                                  |
-| 69 | MSI GeForce RTX 3060 on sale $470-480                                                                                   |
-| 70 | Alcidae Garager 2, Smart Camera, Remotely Monitor and Control Garage Door Opener Through Phone $49. Reg $149.96         |
-| 71 | WD 16TB Gold hard drive for $383.99 ($24/TB)                                                                            |
-| 72 | LG 29 inch 29WP60G-B IPS 2560x1080 ultrawide monitor $249.99                                                            |
-| 73 | Toshiba Canvio Advance 1TB Portable External Hard Drive (not SSD) USB 3.0 $49.98                                        |
-| 74 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                                |
-| 75 | Arctic P12 PWM PST 120mm Fan - 5 Pack (No tax & FS) - $39.68                                                            |
-| 76 | LG OLED C1 series OLED TV up to$300 OFF some sizes + get free LG Tone Free FP5 ANC True Wireless Earbuds, value $114.99 |
+| 61 | Coming soon to game pass - 04/19-04/28 - Turnip Boy, 7 Days to Die, Research and Destroy, Bugsnax, Unsouled + 2 cloud   |
+| 62 | WD 16TB Gold hard drive for $383.99 ($24/TB)                                                                            |
+| 63 | $99 yearly Freedom mobile Talk and text plan ending April 20th                                                          |
+| 64 | 50% off (or more) on Battlefield 2042 (All Platforms)                                                                   |
+| 65 | CC.ca: MSI GeForce RTX 3090 VENTUS 3X 24G OC 24GB GDDR6X - 2049.00$...                                                  |
+| 66 | Logitech G603 Lightspeed - $59.99 - In-store at Langford location                                                       |
+| 67 | Crucial BX500 1TB 3D NAND SATA 2.5-Inch Internal SSD $99.99 ($30 OFF)                                                   |
+| 68 | Sony 65 inch XR65X95J for 1999.97                                                                                       |
+| 69 | Xbox Elite Controller 2 - 193.87$                                                                                       |
+| 70 | Zoomer Wireless Samsung A53 $45/month with 7GB available online $0 upfront                                              |
+| 71 | Samsung Galaxy Watch 4 44mm - $289.99 Silver Only                                                                       |
+| 72 | Streets of Rage 4(with keyring and art booklet) - PlayStation 4 - $21.80 USD or ~$39 CAD with shipping and duty         |
+| 73 | Walmart - PSN Credit (20% off) / Pre-orders ($15 off) "Spring60"                                                        |
+| 74 | LG OLED C1 series OLED TV up to$300 OFF some sizes + get free LG Tone Free FP5 ANC True Wireless Earbuds, value $114.99 |
+| 75 | Razer Power Up V2 Combo pack (In-store only) 69.99 YMMV                                                                 |
+| 76 | Sony X85J 65" 4K HDR Google Smart TV Clearance $1098.97                                                                 |
 | 77 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
-| 78 | Acer CB342CK CSMIIPHUZX 34 UW-QHD Monitor $399.99                                                                       |
-| 79 | LG SN7Y Soundbar $349.99                                                                                                |
-| 80 | $45 25gb + $300 bill credit per line [win back]                                                                         |
-| 81 | Two more RTX 3070 for $799 / $819                                                                                       |
-| 82 | Easter Sale/ 5MP PTZ Dual WiFi Indoor Wireless Camera-E1 Zoom $83.59                                                    |
-| 83 | MSI Ventus RTX 3080 Ti - $1449+tax additional $30 mail-in rebate                                                        |
-| 84 | Bell Gigabit Fibe 1.5 - 75$ monthly credits - 60 + tax per month after credits - new accounts only - huge YMMV          |
-| 85 | UPDATED VERSION NZXT H1 w/ 140 Watercooler & 650W PSU - $189.99 (NOT V2)                                                |
-| 86 | Sony X90J 65" $1498 / 75" $2198                                                                                         |
-| 87 | New Zoomer Wireless March Deal - $45/7GB + $0 TCL 20 Pro                                                                |
-| 88 | Xbox Game Pass Ultimate: 12 Month Membership for New/Expired Members $43.49 | Conversion Deal / VPN Required            |
-| 89 | Sid Meier’s Civilization VI Platinum Edition (Digital) (Nintendo Switch) - $14.99                                       |
+| 78 | Apple TV+ 1 month free with Doordash order                                                                              |
+| 79 | Logitech MX Ergonomic Wireless Trackball Mouse Rechargeable $99.99 (save $30)                                           |
+| 80 | Bell Gigabit Fibe 1.5 - 75$ monthly credits - 60 + tax per month after credits - new accounts only - huge YMMV          |
+| 81 | Sony X90J 65" $1498 / 75" $2198                                                                                         |
+| 82 | Toshiba Canvio Advance 1TB Portable External Hard Drive (not SSD) USB 3.0 $49.98                                        |
+| 83 | CC.ca: EVGA GeForce RTX 3080 12GB FTW3 ULTRA GAMING, 12GB - 1249.00$                                                    |
+| 84 | Costco Easter Online Sale                                                                                               |
+| 85 | $7 off $20 on your 1st Amazon pickup order, with code TRYPICKUP7                                                        |
+| 86 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                                |
+| 87 | Free T-Mobile 30 day, 30 GB data trial                                                                                  |
+| 88 | Amazon Fire TV Omni 43" 4K UHD HDR LED Smart TV (2021 model) $380 + eco fee (40% discount) Free shipping                |
+| 89 | Nintendo Switch Pro Wireless Controller - $59.97 YMMV                                                                   |
