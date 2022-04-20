@@ -1,10 +1,10 @@
 |    | deals                                                                                                                   |
 |---:|:------------------------------------------------------------------------------------------------------------------------|
 |  0 | [Sponsored] Sale on FreeBuds, Smart Watches, Award-winning Gaming Monitors and more from HUAWEI Canada!                 |
-|  1 | Coming soon to game pass - 04/19-04/28 - Turnip Boy, 7 Days to Die, Research and Destroy, Bugsnax, Unsouled + 2 cloud   |
-|  2 | WD 16TB Gold hard drive for $383.99 ($24/TB)                                                                            |
-|  3 | $99 yearly Freedom mobile Talk and text plan ending April 20th                                                          |
-|  4 | 50% off (or more) on Battlefield 2042 (All Platforms)                                                                   |
+|  1 | 50% off (or more) on Battlefield 2042 (All Platforms)                                                                   |
+|  2 | Coming soon to game pass - 04/19-04/28 - Turnip Boy, 7 Days to Die, Research and Destroy, Bugsnax, Unsouled + 2 cloud   |
+|  3 | WD 16TB Gold hard drive for $383.99 ($24/TB)                                                                            |
+|  4 | $99 yearly Freedom mobile Talk and text plan ending April 20th                                                          |
 |  5 | CC.ca: MSI GeForce RTX 3090 VENTUS 3X 24G OC 24GB GDDR6X - 2049.00$...                                                  |
 |  6 | Logitech G603 Lightspeed - $59.99 - In-store at Langford location                                                       |
 |  7 | Crucial BX500 1TB 3D NAND SATA 2.5-Inch Internal SSD $99.99 ($30 OFF)                                                   |
@@ -31,10 +31,10 @@
 | 28 | Amazon Fire TV Omni 43" 4K UHD HDR LED Smart TV (2021 model) $380 + eco fee (40% discount) Free shipping                |
 | 29 | Nintendo Switch Pro Wireless Controller - $59.97 YMMV                                                                   |
 | 30 | [Sponsored] Sale on FreeBuds, Smart Watches, Award-winning Gaming Monitors and more from HUAWEI Canada!                 |
-| 31 | Coming soon to game pass - 04/19-04/28 - Turnip Boy, 7 Days to Die, Research and Destroy, Bugsnax, Unsouled + 2 cloud   |
-| 32 | WD 16TB Gold hard drive for $383.99 ($24/TB)                                                                            |
-| 33 | $99 yearly Freedom mobile Talk and text plan ending April 20th                                                          |
-| 34 | 50% off (or more) on Battlefield 2042 (All Platforms)                                                                   |
+| 31 | 50% off (or more) on Battlefield 2042 (All Platforms)                                                                   |
+| 32 | Coming soon to game pass - 04/19-04/28 - Turnip Boy, 7 Days to Die, Research and Destroy, Bugsnax, Unsouled + 2 cloud   |
+| 33 | WD 16TB Gold hard drive for $383.99 ($24/TB)                                                                            |
+| 34 | $99 yearly Freedom mobile Talk and text plan ending April 20th                                                          |
 | 35 | CC.ca: MSI GeForce RTX 3090 VENTUS 3X 24G OC 24GB GDDR6X - 2049.00$...                                                  |
 | 36 | Logitech G603 Lightspeed - $59.99 - In-store at Langford location                                                       |
 | 37 | Crucial BX500 1TB 3D NAND SATA 2.5-Inch Internal SSD $99.99 ($30 OFF)                                                   |
@@ -61,10 +61,10 @@
 | 58 | Amazon Fire TV Omni 43" 4K UHD HDR LED Smart TV (2021 model) $380 + eco fee (40% discount) Free shipping                |
 | 59 | Nintendo Switch Pro Wireless Controller - $59.97 YMMV                                                                   |
 | 60 | [Sponsored] Sale on FreeBuds, Smart Watches, Award-winning Gaming Monitors and more from HUAWEI Canada!                 |
-| 61 | Coming soon to game pass - 04/19-04/28 - Turnip Boy, 7 Days to Die, Research and Destroy, Bugsnax, Unsouled + 2 cloud   |
-| 62 | WD 16TB Gold hard drive for $383.99 ($24/TB)                                                                            |
-| 63 | $99 yearly Freedom mobile Talk and text plan ending April 20th                                                          |
-| 64 | 50% off (or more) on Battlefield 2042 (All Platforms)                                                                   |
+| 61 | 50% off (or more) on Battlefield 2042 (All Platforms)                                                                   |
+| 62 | Coming soon to game pass - 04/19-04/28 - Turnip Boy, 7 Days to Die, Research and Destroy, Bugsnax, Unsouled + 2 cloud   |
+| 63 | WD 16TB Gold hard drive for $383.99 ($24/TB)                                                                            |
+| 64 | $99 yearly Freedom mobile Talk and text plan ending April 20th                                                          |
 | 65 | CC.ca: MSI GeForce RTX 3090 VENTUS 3X 24G OC 24GB GDDR6X - 2049.00$...                                                  |
 | 66 | Logitech G603 Lightspeed - $59.99 - In-store at Langford location                                                       |
 | 67 | Crucial BX500 1TB 3D NAND SATA 2.5-Inch Internal SSD $99.99 ($30 OFF)                                                   |
