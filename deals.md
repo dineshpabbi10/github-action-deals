@@ -1,92 +1,92 @@
 |    | deals                                                                                                                   |
 |---:|:------------------------------------------------------------------------------------------------------------------------|
 |  0 | [Sponsored] Sale on FreeBuds, Smart Watches, Award-winning Gaming Monitors and more from HUAWEI Canada!                 |
-|  1 | 50% off (or more) on Battlefield 2042 (All Platforms)                                                                   |
-|  2 | Coming soon to game pass - 04/19-04/28 - Turnip Boy, 7 Days to Die, Research and Destroy, Bugsnax, Unsouled + 2 cloud   |
-|  3 | WD 16TB Gold hard drive for $383.99 ($24/TB)                                                                            |
-|  4 | $99 yearly Freedom mobile Talk and text plan ending April 20th                                                          |
-|  5 | CC.ca: MSI GeForce RTX 3090 VENTUS 3X 24G OC 24GB GDDR6X - 2049.00$...                                                  |
-|  6 | Logitech G603 Lightspeed - $59.99 - In-store at Langford location                                                       |
-|  7 | Crucial BX500 1TB 3D NAND SATA 2.5-Inch Internal SSD $99.99 ($30 OFF)                                                   |
-|  8 | Sony 65 inch XR65X95J for 1999.97                                                                                       |
-|  9 | Xbox Elite Controller 2 - 193.87$                                                                                       |
-| 10 | Zoomer Wireless Samsung A53 $45/month with 7GB available online $0 upfront                                              |
-| 11 | Samsung Galaxy Watch 4 44mm - $289.99 Silver Only                                                                       |
-| 12 | Streets of Rage 4(with keyring and art booklet) - PlayStation 4 - $21.80 USD or ~$39 CAD with shipping and duty         |
-| 13 | Walmart - PSN Credit (20% off) / Pre-orders ($15 off) "Spring60"                                                        |
-| 14 | LG OLED C1 series OLED TV up to$300 OFF some sizes + get free LG Tone Free FP5 ANC True Wireless Earbuds, value $114.99 |
-| 15 | Razer Power Up V2 Combo pack (In-store only) 69.99 YMMV                                                                 |
-| 16 | Sony X85J 65" 4K HDR Google Smart TV Clearance $1098.97                                                                 |
-| 17 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
-| 18 | Apple TV+ 1 month free with Doordash order                                                                              |
-| 19 | Logitech MX Ergonomic Wireless Trackball Mouse Rechargeable $99.99 (save $30)                                           |
-| 20 | Bell Gigabit Fibe 1.5 - 75$ monthly credits - 60 + tax per month after credits - new accounts only - huge YMMV          |
-| 21 | Sony X90J 65" $1498 / 75" $2198                                                                                         |
-| 22 | Toshiba Canvio Advance 1TB Portable External Hard Drive (not SSD) USB 3.0 $49.98                                        |
-| 23 | CC.ca: EVGA GeForce RTX 3080 12GB FTW3 ULTRA GAMING, 12GB - 1249.00$                                                    |
-| 24 | Costco Easter Online Sale                                                                                               |
-| 25 | $7 off $20 on your 1st Amazon pickup order, with code TRYPICKUP7                                                        |
-| 26 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                                |
-| 27 | Free T-Mobile 30 day, 30 GB data trial                                                                                  |
-| 28 | Amazon Fire TV Omni 43" 4K UHD HDR LED Smart TV (2021 model) $380 + eco fee (40% discount) Free shipping                |
-| 29 | Nintendo Switch Pro Wireless Controller - $59.97 YMMV                                                                   |
+|  1 | MSI GeForce RTX 3060 on sale $470-480                                                                                   |
+|  2 | Costco Easter Online Sale                                                                                               |
+|  3 | [Xbox]Witcher 3 GOTY $2.7, Metro Saga Bundle $5.16, Resident Evil 2 Remake $13.58, Elden Ring $40.37 * VPN required*    |
+|  4 | Logitech MX Ergonomic Wireless Trackball Mouse Rechargeable $99.99 (save $30)                                           |
+|  5 | Amazon Prime Members Only: Free FIFA 22 Gaming pack 7 (1 Pack)                                                          |
+|  6 | Google Pixel 6 128GB - Stormy Black - Unlocked - Open Box - $699                                                        |
+|  7 | Postal 2 free on Gog                                                                                                    |
+|  8 | LG OLED C1 series OLED TV up to$300 OFF some sizes + get free LG Tone Free FP5 ANC True Wireless Earbuds, value $114.99 |
+|  9 | Costco.ca: Hisense 65U88G just dropped in price today to $1497.99                                                       |
+| 10 | Surface Duo 2, 128gb - $1299, 256gb - $1429, $600 off from regular price (Best Buy, MS store)                           |
+| 11 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                                      |
+| 12 | Samsung chargers and cables on sale with free shipping                                                                  |
+| 13 | Thrustmaster T248 racing wheels $399.99                                                                                 |
+| 14 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
+| 15 | AMD Ryzen 5 5600X & 5500 6-Core/12 Thread $279 & $199 Free Shipping                                                     |
+| 16 | WD 16TB Gold hard drive for $383.99 ($24/TB)                                                                            |
+| 17 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                                |
+| 18 | $7 off $20 on your 1st Amazon pickup order, with code TRYPICKUP7                                                        |
+| 19 | ADATA HD680 Military-Grade 1TB External HDD $49.99                                                                      |
+| 20 | $199.99 plus shipping GIGABYTE GeForce GTX 1650 D6 OC 4G GDDR6                                                          |
+| 21 | 50% off (or more) on Battlefield 2042 (All Platforms)                                                                   |
+| 22 | Xbox Elite Controller 2 - 193.87$                                                                                       |
+| 23 | YMMV - Coleman 7W 12V Solar Battery Trickle Charger - $19.93                                                            |
+| 24 | Extra 15% off Refurbished for Mom - Use Code BEST4MOM                                                                   |
+| 25 | Zoomer Wireless Samsung A53 $45/month with 7GB available online $0 upfront                                              |
+| 26 | Walmart - PSN Credit (20% off) / Pre-orders ($15 off) "Spring60"                                                        |
+| 27 | Etymotic Research ER2XR Extended Respone in-Ear Earphones ($83.55 ATL?)                                                 |
+| 28 | Ubiquiti Wifi 6 AP - instock and POE Plus Injector s(OOS)                                                               |
+| 29 | TCL S446 43" 4K TV - $329                                                                                               |
 | 30 | [Sponsored] Sale on FreeBuds, Smart Watches, Award-winning Gaming Monitors and more from HUAWEI Canada!                 |
-| 31 | 50% off (or more) on Battlefield 2042 (All Platforms)                                                                   |
-| 32 | Coming soon to game pass - 04/19-04/28 - Turnip Boy, 7 Days to Die, Research and Destroy, Bugsnax, Unsouled + 2 cloud   |
-| 33 | WD 16TB Gold hard drive for $383.99 ($24/TB)                                                                            |
-| 34 | $99 yearly Freedom mobile Talk and text plan ending April 20th                                                          |
-| 35 | CC.ca: MSI GeForce RTX 3090 VENTUS 3X 24G OC 24GB GDDR6X - 2049.00$...                                                  |
-| 36 | Logitech G603 Lightspeed - $59.99 - In-store at Langford location                                                       |
-| 37 | Crucial BX500 1TB 3D NAND SATA 2.5-Inch Internal SSD $99.99 ($30 OFF)                                                   |
-| 38 | Sony 65 inch XR65X95J for 1999.97                                                                                       |
-| 39 | Xbox Elite Controller 2 - 193.87$                                                                                       |
-| 40 | Zoomer Wireless Samsung A53 $45/month with 7GB available online $0 upfront                                              |
-| 41 | Samsung Galaxy Watch 4 44mm - $289.99 Silver Only                                                                       |
-| 42 | Streets of Rage 4(with keyring and art booklet) - PlayStation 4 - $21.80 USD or ~$39 CAD with shipping and duty         |
-| 43 | Walmart - PSN Credit (20% off) / Pre-orders ($15 off) "Spring60"                                                        |
-| 44 | LG OLED C1 series OLED TV up to$300 OFF some sizes + get free LG Tone Free FP5 ANC True Wireless Earbuds, value $114.99 |
-| 45 | Razer Power Up V2 Combo pack (In-store only) 69.99 YMMV                                                                 |
-| 46 | Sony X85J 65" 4K HDR Google Smart TV Clearance $1098.97                                                                 |
-| 47 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
-| 48 | Apple TV+ 1 month free with Doordash order                                                                              |
-| 49 | Logitech MX Ergonomic Wireless Trackball Mouse Rechargeable $99.99 (save $30)                                           |
-| 50 | Bell Gigabit Fibe 1.5 - 75$ monthly credits - 60 + tax per month after credits - new accounts only - huge YMMV          |
-| 51 | Sony X90J 65" $1498 / 75" $2198                                                                                         |
-| 52 | Toshiba Canvio Advance 1TB Portable External Hard Drive (not SSD) USB 3.0 $49.98                                        |
-| 53 | CC.ca: EVGA GeForce RTX 3080 12GB FTW3 ULTRA GAMING, 12GB - 1249.00$                                                    |
-| 54 | Costco Easter Online Sale                                                                                               |
-| 55 | $7 off $20 on your 1st Amazon pickup order, with code TRYPICKUP7                                                        |
-| 56 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                                |
-| 57 | Free T-Mobile 30 day, 30 GB data trial                                                                                  |
-| 58 | Amazon Fire TV Omni 43" 4K UHD HDR LED Smart TV (2021 model) $380 + eco fee (40% discount) Free shipping                |
-| 59 | Nintendo Switch Pro Wireless Controller - $59.97 YMMV                                                                   |
+| 31 | MSI GeForce RTX 3060 on sale $470-480                                                                                   |
+| 32 | Costco Easter Online Sale                                                                                               |
+| 33 | [Xbox]Witcher 3 GOTY $2.7, Metro Saga Bundle $5.16, Resident Evil 2 Remake $13.58, Elden Ring $40.37 * VPN required*    |
+| 34 | Logitech MX Ergonomic Wireless Trackball Mouse Rechargeable $99.99 (save $30)                                           |
+| 35 | Amazon Prime Members Only: Free FIFA 22 Gaming pack 7 (1 Pack)                                                          |
+| 36 | Google Pixel 6 128GB - Stormy Black - Unlocked - Open Box - $699                                                        |
+| 37 | Postal 2 free on Gog                                                                                                    |
+| 38 | LG OLED C1 series OLED TV up to$300 OFF some sizes + get free LG Tone Free FP5 ANC True Wireless Earbuds, value $114.99 |
+| 39 | Costco.ca: Hisense 65U88G just dropped in price today to $1497.99                                                       |
+| 40 | Surface Duo 2, 128gb - $1299, 256gb - $1429, $600 off from regular price (Best Buy, MS store)                           |
+| 41 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                                      |
+| 42 | Samsung chargers and cables on sale with free shipping                                                                  |
+| 43 | Thrustmaster T248 racing wheels $399.99                                                                                 |
+| 44 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
+| 45 | AMD Ryzen 5 5600X & 5500 6-Core/12 Thread $279 & $199 Free Shipping                                                     |
+| 46 | WD 16TB Gold hard drive for $383.99 ($24/TB)                                                                            |
+| 47 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                                |
+| 48 | $7 off $20 on your 1st Amazon pickup order, with code TRYPICKUP7                                                        |
+| 49 | ADATA HD680 Military-Grade 1TB External HDD $49.99                                                                      |
+| 50 | $199.99 plus shipping GIGABYTE GeForce GTX 1650 D6 OC 4G GDDR6                                                          |
+| 51 | 50% off (or more) on Battlefield 2042 (All Platforms)                                                                   |
+| 52 | Xbox Elite Controller 2 - 193.87$                                                                                       |
+| 53 | YMMV - Coleman 7W 12V Solar Battery Trickle Charger - $19.93                                                            |
+| 54 | Extra 15% off Refurbished for Mom - Use Code BEST4MOM                                                                   |
+| 55 | Zoomer Wireless Samsung A53 $45/month with 7GB available online $0 upfront                                              |
+| 56 | Walmart - PSN Credit (20% off) / Pre-orders ($15 off) "Spring60"                                                        |
+| 57 | Etymotic Research ER2XR Extended Respone in-Ear Earphones ($83.55 ATL?)                                                 |
+| 58 | Ubiquiti Wifi 6 AP - instock and POE Plus Injector s(OOS)                                                               |
+| 59 | TCL S446 43" 4K TV - $329                                                                                               |
 | 60 | [Sponsored] Sale on FreeBuds, Smart Watches, Award-winning Gaming Monitors and more from HUAWEI Canada!                 |
-| 61 | 50% off (or more) on Battlefield 2042 (All Platforms)                                                                   |
-| 62 | Coming soon to game pass - 04/19-04/28 - Turnip Boy, 7 Days to Die, Research and Destroy, Bugsnax, Unsouled + 2 cloud   |
-| 63 | WD 16TB Gold hard drive for $383.99 ($24/TB)                                                                            |
-| 64 | $99 yearly Freedom mobile Talk and text plan ending April 20th                                                          |
-| 65 | CC.ca: MSI GeForce RTX 3090 VENTUS 3X 24G OC 24GB GDDR6X - 2049.00$...                                                  |
-| 66 | Logitech G603 Lightspeed - $59.99 - In-store at Langford location                                                       |
-| 67 | Crucial BX500 1TB 3D NAND SATA 2.5-Inch Internal SSD $99.99 ($30 OFF)                                                   |
-| 68 | Sony 65 inch XR65X95J for 1999.97                                                                                       |
-| 69 | Xbox Elite Controller 2 - 193.87$                                                                                       |
-| 70 | Zoomer Wireless Samsung A53 $45/month with 7GB available online $0 upfront                                              |
-| 71 | Samsung Galaxy Watch 4 44mm - $289.99 Silver Only                                                                       |
-| 72 | Streets of Rage 4(with keyring and art booklet) - PlayStation 4 - $21.80 USD or ~$39 CAD with shipping and duty         |
-| 73 | Walmart - PSN Credit (20% off) / Pre-orders ($15 off) "Spring60"                                                        |
-| 74 | LG OLED C1 series OLED TV up to$300 OFF some sizes + get free LG Tone Free FP5 ANC True Wireless Earbuds, value $114.99 |
-| 75 | Razer Power Up V2 Combo pack (In-store only) 69.99 YMMV                                                                 |
-| 76 | Sony X85J 65" 4K HDR Google Smart TV Clearance $1098.97                                                                 |
-| 77 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
-| 78 | Apple TV+ 1 month free with Doordash order                                                                              |
-| 79 | Logitech MX Ergonomic Wireless Trackball Mouse Rechargeable $99.99 (save $30)                                           |
-| 80 | Bell Gigabit Fibe 1.5 - 75$ monthly credits - 60 + tax per month after credits - new accounts only - huge YMMV          |
-| 81 | Sony X90J 65" $1498 / 75" $2198                                                                                         |
-| 82 | Toshiba Canvio Advance 1TB Portable External Hard Drive (not SSD) USB 3.0 $49.98                                        |
-| 83 | CC.ca: EVGA GeForce RTX 3080 12GB FTW3 ULTRA GAMING, 12GB - 1249.00$                                                    |
-| 84 | Costco Easter Online Sale                                                                                               |
-| 85 | $7 off $20 on your 1st Amazon pickup order, with code TRYPICKUP7                                                        |
-| 86 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                                |
-| 87 | Free T-Mobile 30 day, 30 GB data trial                                                                                  |
-| 88 | Amazon Fire TV Omni 43" 4K UHD HDR LED Smart TV (2021 model) $380 + eco fee (40% discount) Free shipping                |
-| 89 | Nintendo Switch Pro Wireless Controller - $59.97 YMMV                                                                   |
+| 61 | MSI GeForce RTX 3060 on sale $470-480                                                                                   |
+| 62 | Costco Easter Online Sale                                                                                               |
+| 63 | [Xbox]Witcher 3 GOTY $2.7, Metro Saga Bundle $5.16, Resident Evil 2 Remake $13.58, Elden Ring $40.37 * VPN required*    |
+| 64 | Logitech MX Ergonomic Wireless Trackball Mouse Rechargeable $99.99 (save $30)                                           |
+| 65 | Amazon Prime Members Only: Free FIFA 22 Gaming pack 7 (1 Pack)                                                          |
+| 66 | Google Pixel 6 128GB - Stormy Black - Unlocked - Open Box - $699                                                        |
+| 67 | Postal 2 free on Gog                                                                                                    |
+| 68 | LG OLED C1 series OLED TV up to$300 OFF some sizes + get free LG Tone Free FP5 ANC True Wireless Earbuds, value $114.99 |
+| 69 | Costco.ca: Hisense 65U88G just dropped in price today to $1497.99                                                       |
+| 70 | Surface Duo 2, 128gb - $1299, 256gb - $1429, $600 off from regular price (Best Buy, MS store)                           |
+| 71 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                                      |
+| 72 | Samsung chargers and cables on sale with free shipping                                                                  |
+| 73 | Thrustmaster T248 racing wheels $399.99                                                                                 |
+| 74 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
+| 75 | AMD Ryzen 5 5600X & 5500 6-Core/12 Thread $279 & $199 Free Shipping                                                     |
+| 76 | WD 16TB Gold hard drive for $383.99 ($24/TB)                                                                            |
+| 77 | 30% off Garmin website when you link petro-points to optimity app (YMMV)                                                |
+| 78 | $7 off $20 on your 1st Amazon pickup order, with code TRYPICKUP7                                                        |
+| 79 | ADATA HD680 Military-Grade 1TB External HDD $49.99                                                                      |
+| 80 | $199.99 plus shipping GIGABYTE GeForce GTX 1650 D6 OC 4G GDDR6                                                          |
+| 81 | 50% off (or more) on Battlefield 2042 (All Platforms)                                                                   |
+| 82 | Xbox Elite Controller 2 - 193.87$                                                                                       |
+| 83 | YMMV - Coleman 7W 12V Solar Battery Trickle Charger - $19.93                                                            |
+| 84 | Extra 15% off Refurbished for Mom - Use Code BEST4MOM                                                                   |
+| 85 | Zoomer Wireless Samsung A53 $45/month with 7GB available online $0 upfront                                              |
+| 86 | Walmart - PSN Credit (20% off) / Pre-orders ($15 off) "Spring60"                                                        |
+| 87 | Etymotic Research ER2XR Extended Respone in-Ear Earphones ($83.55 ATL?)                                                 |
+| 88 | Ubiquiti Wifi 6 AP - instock and POE Plus Injector s(OOS)                                                               |
+| 89 | TCL S446 43" 4K TV - $329                                                                                               |
