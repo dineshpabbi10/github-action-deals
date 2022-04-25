@@ -1,92 +1,92 @@
 |    | deals                                                                                                                   |
 |---:|:------------------------------------------------------------------------------------------------------------------------|
-|  0 | Eufy 2k Doorbell (Wired) / Local storage / No subscription / $149                                                       |
-|  1 | 87 Keys LED Backlit Mechanical Gaming Keyboard and Professional Wired Gaming Mouse $39.99 FS                            |
-|  2 | Alcidae Garager 2, Smart Camera, Remotely Monitor and Control Garage Door Opener Through Phone $49. Reg $149.96         |
-|  3 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
-|  4 | Intel® Core™ i7-12700K & 12700KF Processors for $479.99 & $439.99                                                       |
-|  5 | Asus VG27AQ | 27 inch | 155HZ QHD (2560x1440) | IPS LED | G-Sync | Geek Squad Openbox | $302.99                         |
-|  6 | Acer Swift 3 NX.A4KAA.003 Laptop ($759.99)                                                                              |
-|  7 | AMD Ryzen 5 5600X & 5500 6-Core/12 Thread $279 & $199 Free Shipping                                                     |
-|  8 | Google Pixel 6 128GB - Stormy Black - Unlocked - Open Box - $699                                                        |
-|  9 | Golabs Portable Power Station i200, 256Wh LiFePO4 Backup Battery - $169.99 with coupon                                  |
-| 10 | New Zoomer Wireless March Deal - $45/7GB + $0 TCL 20 Pro                                                                |
-| 11 | Gigabyte Radeon RX6600 XT | $699.99 - $150 - $30 = $519.99                                                              |
-| 12 | Sony X85J 65" 4K HDR Google Smart TV Clearance $1098.97                                                                 |
-| 13 | LG 75 inch 4k TV $997.99                                                                                                |
-| 14 | $7 off $20 on your 1st Amazon pickup order, with code TRYPICKUP7                                                        |
-| 15 | LG UltraGear 27" 1440p 165Hz Monitor - Open Box - $306.99                                                               |
-| 16 | Samsung Keyboard Book Cover Case for Galaxy Tab S8/S7 - Black 50% Off. $109.99                                          |
-| 17 | Free T-Mobile 30 day, 30 GB data trial                                                                                  |
-| 18 | Walmart - PSN Credit (20% off) / Pre-orders ($15 off) "Spring60"                                                        |
-| 19 | ADATA HD680 Military-Grade 1TB External HDD $49.99                                                                      |
-| 20 | Dell Inspiron 3525 - Ryzen 5 5625U, 8GB DDR4, 512GB SSD, 15.6" 120Hz IPS screen - $629.99 - 10% Unidays code = $566.99  |
-| 21 | ($129.99) HyperX Cloud II Wireless - Gaming Headset (Black-Red)                                                         |
-| 22 | LG OLED C1 series OLED TV up to$300 OFF some sizes + get free LG Tone Free FP5 ANC True Wireless Earbuds, value $114.99 |
-| 23 | Samsung chargers and cables on sale with free shipping                                                                  |
-| 24 | Sony 65 inch XR65X95J for 1999.97                                                                                       |
-| 25 | Zoomer Wireless Samsung A53 $45/month with 7GB available online $0 upfront                                              |
-| 26 | AMD Ryzen 9 5900X 12-Core/24-Thread 105W AM4 - $479                                                                     |
-| 27 | [Xbox]Witcher 3 GOTY $2.7, Metro Saga Bundle $5.16, Resident Evil 2 Remake $13.58, Elden Ring $40.37 * VPN required*    |
-| 28 | HyperX Wrist Rests $15 (ATL) with free shipping                                                                         |
-| 29 | HP ENVY 13 i5 11gen Evo Laptop 8gb memory, 512 ssd $789                                                                 |
-| 30 | Eufy 2k Doorbell (Wired) / Local storage / No subscription / $149                                                       |
-| 31 | 87 Keys LED Backlit Mechanical Gaming Keyboard and Professional Wired Gaming Mouse $39.99 FS                            |
-| 32 | Alcidae Garager 2, Smart Camera, Remotely Monitor and Control Garage Door Opener Through Phone $49. Reg $149.96         |
-| 33 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
-| 34 | Intel® Core™ i7-12700K & 12700KF Processors for $479.99 & $439.99                                                       |
-| 35 | Asus VG27AQ | 27 inch | 155HZ QHD (2560x1440) | IPS LED | G-Sync | Geek Squad Openbox | $302.99                         |
-| 36 | Acer Swift 3 NX.A4KAA.003 Laptop ($759.99)                                                                              |
-| 37 | AMD Ryzen 5 5600X & 5500 6-Core/12 Thread $279 & $199 Free Shipping                                                     |
-| 38 | Google Pixel 6 128GB - Stormy Black - Unlocked - Open Box - $699                                                        |
-| 39 | Golabs Portable Power Station i200, 256Wh LiFePO4 Backup Battery - $169.99 with coupon                                  |
-| 40 | New Zoomer Wireless March Deal - $45/7GB + $0 TCL 20 Pro                                                                |
-| 41 | Gigabyte Radeon RX6600 XT | $699.99 - $150 - $30 = $519.99                                                              |
-| 42 | Sony X85J 65" 4K HDR Google Smart TV Clearance $1098.97                                                                 |
-| 43 | LG 75 inch 4k TV $997.99                                                                                                |
-| 44 | $7 off $20 on your 1st Amazon pickup order, with code TRYPICKUP7                                                        |
-| 45 | LG UltraGear 27" 1440p 165Hz Monitor - Open Box - $306.99                                                               |
-| 46 | Samsung Keyboard Book Cover Case for Galaxy Tab S8/S7 - Black 50% Off. $109.99                                          |
-| 47 | Free T-Mobile 30 day, 30 GB data trial                                                                                  |
-| 48 | Walmart - PSN Credit (20% off) / Pre-orders ($15 off) "Spring60"                                                        |
-| 49 | ADATA HD680 Military-Grade 1TB External HDD $49.99                                                                      |
-| 50 | Dell Inspiron 3525 - Ryzen 5 5625U, 8GB DDR4, 512GB SSD, 15.6" 120Hz IPS screen - $629.99 - 10% Unidays code = $566.99  |
-| 51 | ($129.99) HyperX Cloud II Wireless - Gaming Headset (Black-Red)                                                         |
-| 52 | LG OLED C1 series OLED TV up to$300 OFF some sizes + get free LG Tone Free FP5 ANC True Wireless Earbuds, value $114.99 |
-| 53 | Samsung chargers and cables on sale with free shipping                                                                  |
-| 54 | Sony 65 inch XR65X95J for 1999.97                                                                                       |
-| 55 | Zoomer Wireless Samsung A53 $45/month with 7GB available online $0 upfront                                              |
-| 56 | AMD Ryzen 9 5900X 12-Core/24-Thread 105W AM4 - $479                                                                     |
-| 57 | [Xbox]Witcher 3 GOTY $2.7, Metro Saga Bundle $5.16, Resident Evil 2 Remake $13.58, Elden Ring $40.37 * VPN required*    |
-| 58 | HyperX Wrist Rests $15 (ATL) with free shipping                                                                         |
-| 59 | HP ENVY 13 i5 11gen Evo Laptop 8gb memory, 512 ssd $789                                                                 |
-| 60 | Eufy 2k Doorbell (Wired) / Local storage / No subscription / $149                                                       |
-| 61 | 87 Keys LED Backlit Mechanical Gaming Keyboard and Professional Wired Gaming Mouse $39.99 FS                            |
-| 62 | Alcidae Garager 2, Smart Camera, Remotely Monitor and Control Garage Door Opener Through Phone $49. Reg $149.96         |
-| 63 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
-| 64 | Intel® Core™ i7-12700K & 12700KF Processors for $479.99 & $439.99                                                       |
-| 65 | Asus VG27AQ | 27 inch | 155HZ QHD (2560x1440) | IPS LED | G-Sync | Geek Squad Openbox | $302.99                         |
-| 66 | Acer Swift 3 NX.A4KAA.003 Laptop ($759.99)                                                                              |
-| 67 | AMD Ryzen 5 5600X & 5500 6-Core/12 Thread $279 & $199 Free Shipping                                                     |
-| 68 | Google Pixel 6 128GB - Stormy Black - Unlocked - Open Box - $699                                                        |
-| 69 | Golabs Portable Power Station i200, 256Wh LiFePO4 Backup Battery - $169.99 with coupon                                  |
-| 70 | New Zoomer Wireless March Deal - $45/7GB + $0 TCL 20 Pro                                                                |
-| 71 | Gigabyte Radeon RX6600 XT | $699.99 - $150 - $30 = $519.99                                                              |
-| 72 | Sony X85J 65" 4K HDR Google Smart TV Clearance $1098.97                                                                 |
-| 73 | LG 75 inch 4k TV $997.99                                                                                                |
-| 74 | $7 off $20 on your 1st Amazon pickup order, with code TRYPICKUP7                                                        |
-| 75 | LG UltraGear 27" 1440p 165Hz Monitor - Open Box - $306.99                                                               |
-| 76 | Samsung Keyboard Book Cover Case for Galaxy Tab S8/S7 - Black 50% Off. $109.99                                          |
-| 77 | Free T-Mobile 30 day, 30 GB data trial                                                                                  |
-| 78 | Walmart - PSN Credit (20% off) / Pre-orders ($15 off) "Spring60"                                                        |
-| 79 | ADATA HD680 Military-Grade 1TB External HDD $49.99                                                                      |
-| 80 | Dell Inspiron 3525 - Ryzen 5 5625U, 8GB DDR4, 512GB SSD, 15.6" 120Hz IPS screen - $629.99 - 10% Unidays code = $566.99  |
-| 81 | ($129.99) HyperX Cloud II Wireless - Gaming Headset (Black-Red)                                                         |
-| 82 | LG OLED C1 series OLED TV up to$300 OFF some sizes + get free LG Tone Free FP5 ANC True Wireless Earbuds, value $114.99 |
-| 83 | Samsung chargers and cables on sale with free shipping                                                                  |
-| 84 | Sony 65 inch XR65X95J for 1999.97                                                                                       |
-| 85 | Zoomer Wireless Samsung A53 $45/month with 7GB available online $0 upfront                                              |
-| 86 | AMD Ryzen 9 5900X 12-Core/24-Thread 105W AM4 - $479                                                                     |
-| 87 | [Xbox]Witcher 3 GOTY $2.7, Metro Saga Bundle $5.16, Resident Evil 2 Remake $13.58, Elden Ring $40.37 * VPN required*    |
-| 88 | HyperX Wrist Rests $15 (ATL) with free shipping                                                                         |
-| 89 | HP ENVY 13 i5 11gen Evo Laptop 8gb memory, 512 ssd $789                                                                 |
+|  0 | LG OLED C1 series OLED TV up to$300 OFF some sizes + get free LG Tone Free FP5 ANC True Wireless Earbuds, value $114.99 |
+|  1 | Dell 27" S2721DGF 1440p WQHD 165Hz 1ms GTG IPS LED FreeSync Gaming Monitor - Open Box - $335.99                         |
+|  2 | Tidal $1 or $2 Three month trial                                                                                        |
+|  3 | $45 25gb + $300 bill credit per line [win back]                                                                         |
+|  4 | AmazonBasics Line-Interactive UPS 1500VA 900 Watt, 10 Outlets $143.23                                                   |
+|  5 | 15% off SAF Aranet4 wireless air quality monitor (top CO2 monitor) - $296.65                                            |
+|  6 | $7 off $20 on your 1st Amazon pickup order, with code TRYPICKUP7                                                        |
+|  7 | Golabs Portable Power Station i200, 256Wh LiFePO4 Backup Battery - $169.99 with coupon                                  |
+|  8 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
+|  9 | LG UltraGear 27" 1440p 165Hz Monitor - Open Box - $306.99                                                               |
+| 10 | Acer Swift 3 SF313-52-78W6 13.5" Laptop ($889)                                                                          |
+| 11 | Asus VG27AQ | 27 inch | 155HZ QHD (2560x1440) | IPS LED | G-Sync | Geek Squad Openbox | $302.99                         |
+| 12 | ScreenBeam Bonded MoCA 2.5 Ethernet over Coaxial Starter Kit (Model: ECB7250K) $159.35                                  |
+| 13 | Fire tv Stick 4k $27.98                                                                                                 |
+| 14 | SANSUI ES55S1A 55" UHD HDR Smart TV with Google Assistant (Voice Control), Screen Share, HDMI, USB - $419.99 w/coupon   |
+| 15 | Walmart - PSN Credit (20% off) / Pre-orders ($15 off) "Spring60"                                                        |
+| 16 | Legion5 Gen6 back on deal on eBay!!! $1,298.99+ taxes                                                                   |
+| 17 | Hisense 65 in. 4K Roku Smart Television 65R63G $697.99 Online                                                           |
+| 18 | (Humble Bundle) Visual Delight Bundle (PC: Steam) 7 Games for $16.32 ( $152.14 value)                                   |
+| 19 | Free T-Mobile 30 day, 30 GB data trial                                                                                  |
+| 20 | Blueshield Eyewear | Unisex Blue Light Filtering Glasses ***$2.99*** YMMV                                               |
+| 21 | Switch Sale on eShop                                                                                                    |
+| 22 | Earth Day - Recycle Your Phone, $25 Voucher                                                                             |
+| 23 | Xbox Game Pass Ultimate: 12 Month Membership for New/Expired Members $42.89 | Conversion Deal / VPN Required            |
+| 24 | AMD Ryzen 5 5600X & 5500 6-Core/12 Thread $279 & $199 Free Shipping                                                     |
+| 25 | Intel® Core™ i7-12700K & 12700KF Processors for $479.99 & $439.99                                                       |
+| 26 | Legion 7 AMD - Rakuten 13% (build your own Legion 7 3070 for $1,752.17)                                                 |
+| 27 | ADATA HD680 Military-Grade 1TB External HDD $49.99                                                                      |
+| 28 | Acer Swift 3 NX.A4KAA.003 Laptop ($759.99)                                                                              |
+| 29 | Eufy 2k Doorbell (Wired) / Local storage / No subscription / $149                                                       |
+| 30 | LG OLED C1 series OLED TV up to$300 OFF some sizes + get free LG Tone Free FP5 ANC True Wireless Earbuds, value $114.99 |
+| 31 | Dell 27" S2721DGF 1440p WQHD 165Hz 1ms GTG IPS LED FreeSync Gaming Monitor - Open Box - $335.99                         |
+| 32 | Tidal $1 or $2 Three month trial                                                                                        |
+| 33 | $45 25gb + $300 bill credit per line [win back]                                                                         |
+| 34 | AmazonBasics Line-Interactive UPS 1500VA 900 Watt, 10 Outlets $143.23                                                   |
+| 35 | 15% off SAF Aranet4 wireless air quality monitor (top CO2 monitor) - $296.65                                            |
+| 36 | $7 off $20 on your 1st Amazon pickup order, with code TRYPICKUP7                                                        |
+| 37 | Golabs Portable Power Station i200, 256Wh LiFePO4 Backup Battery - $169.99 with coupon                                  |
+| 38 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
+| 39 | LG UltraGear 27" 1440p 165Hz Monitor - Open Box - $306.99                                                               |
+| 40 | Acer Swift 3 SF313-52-78W6 13.5" Laptop ($889)                                                                          |
+| 41 | Asus VG27AQ | 27 inch | 155HZ QHD (2560x1440) | IPS LED | G-Sync | Geek Squad Openbox | $302.99                         |
+| 42 | ScreenBeam Bonded MoCA 2.5 Ethernet over Coaxial Starter Kit (Model: ECB7250K) $159.35                                  |
+| 43 | Fire tv Stick 4k $27.98                                                                                                 |
+| 44 | SANSUI ES55S1A 55" UHD HDR Smart TV with Google Assistant (Voice Control), Screen Share, HDMI, USB - $419.99 w/coupon   |
+| 45 | Walmart - PSN Credit (20% off) / Pre-orders ($15 off) "Spring60"                                                        |
+| 46 | Legion5 Gen6 back on deal on eBay!!! $1,298.99+ taxes                                                                   |
+| 47 | Hisense 65 in. 4K Roku Smart Television 65R63G $697.99 Online                                                           |
+| 48 | (Humble Bundle) Visual Delight Bundle (PC: Steam) 7 Games for $16.32 ( $152.14 value)                                   |
+| 49 | Free T-Mobile 30 day, 30 GB data trial                                                                                  |
+| 50 | Blueshield Eyewear | Unisex Blue Light Filtering Glasses ***$2.99*** YMMV                                               |
+| 51 | Switch Sale on eShop                                                                                                    |
+| 52 | Earth Day - Recycle Your Phone, $25 Voucher                                                                             |
+| 53 | Xbox Game Pass Ultimate: 12 Month Membership for New/Expired Members $42.89 | Conversion Deal / VPN Required            |
+| 54 | AMD Ryzen 5 5600X & 5500 6-Core/12 Thread $279 & $199 Free Shipping                                                     |
+| 55 | Intel® Core™ i7-12700K & 12700KF Processors for $479.99 & $439.99                                                       |
+| 56 | Legion 7 AMD - Rakuten 13% (build your own Legion 7 3070 for $1,752.17)                                                 |
+| 57 | ADATA HD680 Military-Grade 1TB External HDD $49.99                                                                      |
+| 58 | Acer Swift 3 NX.A4KAA.003 Laptop ($759.99)                                                                              |
+| 59 | Eufy 2k Doorbell (Wired) / Local storage / No subscription / $149                                                       |
+| 60 | LG OLED C1 series OLED TV up to$300 OFF some sizes + get free LG Tone Free FP5 ANC True Wireless Earbuds, value $114.99 |
+| 61 | Dell 27" S2721DGF 1440p WQHD 165Hz 1ms GTG IPS LED FreeSync Gaming Monitor - Open Box - $335.99                         |
+| 62 | Tidal $1 or $2 Three month trial                                                                                        |
+| 63 | $45 25gb + $300 bill credit per line [win back]                                                                         |
+| 64 | AmazonBasics Line-Interactive UPS 1500VA 900 Watt, 10 Outlets $143.23                                                   |
+| 65 | 15% off SAF Aranet4 wireless air quality monitor (top CO2 monitor) - $296.65                                            |
+| 66 | $7 off $20 on your 1st Amazon pickup order, with code TRYPICKUP7                                                        |
+| 67 | Golabs Portable Power Station i200, 256Wh LiFePO4 Backup Battery - $169.99 with coupon                                  |
+| 68 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
+| 69 | LG UltraGear 27" 1440p 165Hz Monitor - Open Box - $306.99                                                               |
+| 70 | Acer Swift 3 SF313-52-78W6 13.5" Laptop ($889)                                                                          |
+| 71 | Asus VG27AQ | 27 inch | 155HZ QHD (2560x1440) | IPS LED | G-Sync | Geek Squad Openbox | $302.99                         |
+| 72 | ScreenBeam Bonded MoCA 2.5 Ethernet over Coaxial Starter Kit (Model: ECB7250K) $159.35                                  |
+| 73 | Fire tv Stick 4k $27.98                                                                                                 |
+| 74 | SANSUI ES55S1A 55" UHD HDR Smart TV with Google Assistant (Voice Control), Screen Share, HDMI, USB - $419.99 w/coupon   |
+| 75 | Walmart - PSN Credit (20% off) / Pre-orders ($15 off) "Spring60"                                                        |
+| 76 | Legion5 Gen6 back on deal on eBay!!! $1,298.99+ taxes                                                                   |
+| 77 | Hisense 65 in. 4K Roku Smart Television 65R63G $697.99 Online                                                           |
+| 78 | (Humble Bundle) Visual Delight Bundle (PC: Steam) 7 Games for $16.32 ( $152.14 value)                                   |
+| 79 | Free T-Mobile 30 day, 30 GB data trial                                                                                  |
+| 80 | Blueshield Eyewear | Unisex Blue Light Filtering Glasses ***$2.99*** YMMV                                               |
+| 81 | Switch Sale on eShop                                                                                                    |
+| 82 | Earth Day - Recycle Your Phone, $25 Voucher                                                                             |
+| 83 | Xbox Game Pass Ultimate: 12 Month Membership for New/Expired Members $42.89 | Conversion Deal / VPN Required            |
+| 84 | AMD Ryzen 5 5600X & 5500 6-Core/12 Thread $279 & $199 Free Shipping                                                     |
+| 85 | Intel® Core™ i7-12700K & 12700KF Processors for $479.99 & $439.99                                                       |
+| 86 | Legion 7 AMD - Rakuten 13% (build your own Legion 7 3070 for $1,752.17)                                                 |
+| 87 | ADATA HD680 Military-Grade 1TB External HDD $49.99                                                                      |
+| 88 | Acer Swift 3 NX.A4KAA.003 Laptop ($759.99)                                                                              |
+| 89 | Eufy 2k Doorbell (Wired) / Local storage / No subscription / $149                                                       |
