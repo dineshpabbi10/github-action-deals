@@ -1,7 +1,7 @@
 |    | deals                                                                                                                   |
 |---:|:------------------------------------------------------------------------------------------------------------------------|
-|  0 | LG OLED C1 series OLED TV up to$300 OFF some sizes + get free LG Tone Free FP5 ANC True Wireless Earbuds, value $114.99 |
-|  1 | Dell 27" S2721DGF 1440p WQHD 165Hz 1ms GTG IPS LED FreeSync Gaming Monitor - Open Box - $335.99                         |
+|  0 | Dell 27" S2721DGF 1440p WQHD 165Hz 1ms GTG IPS LED FreeSync Gaming Monitor - Open Box - $335.99                         |
+|  1 | LG OLED C1 series OLED TV up to$300 OFF some sizes + get free LG Tone Free FP5 ANC True Wireless Earbuds, value $114.99 |
 |  2 | Tidal $1 or $2 Three month trial                                                                                        |
 |  3 | $45 25gb + $300 bill credit per line [win back]                                                                         |
 |  4 | AmazonBasics Line-Interactive UPS 1500VA 900 Watt, 10 Outlets $143.23                                                   |
@@ -30,8 +30,8 @@
 | 27 | ADATA HD680 Military-Grade 1TB External HDD $49.99                                                                      |
 | 28 | Acer Swift 3 NX.A4KAA.003 Laptop ($759.99)                                                                              |
 | 29 | Eufy 2k Doorbell (Wired) / Local storage / No subscription / $149                                                       |
-| 30 | LG OLED C1 series OLED TV up to$300 OFF some sizes + get free LG Tone Free FP5 ANC True Wireless Earbuds, value $114.99 |
-| 31 | Dell 27" S2721DGF 1440p WQHD 165Hz 1ms GTG IPS LED FreeSync Gaming Monitor - Open Box - $335.99                         |
+| 30 | Dell 27" S2721DGF 1440p WQHD 165Hz 1ms GTG IPS LED FreeSync Gaming Monitor - Open Box - $335.99                         |
+| 31 | LG OLED C1 series OLED TV up to$300 OFF some sizes + get free LG Tone Free FP5 ANC True Wireless Earbuds, value $114.99 |
 | 32 | Tidal $1 or $2 Three month trial                                                                                        |
 | 33 | $45 25gb + $300 bill credit per line [win back]                                                                         |
 | 34 | AmazonBasics Line-Interactive UPS 1500VA 900 Watt, 10 Outlets $143.23                                                   |
@@ -60,8 +60,8 @@
 | 57 | ADATA HD680 Military-Grade 1TB External HDD $49.99                                                                      |
 | 58 | Acer Swift 3 NX.A4KAA.003 Laptop ($759.99)                                                                              |
 | 59 | Eufy 2k Doorbell (Wired) / Local storage / No subscription / $149                                                       |
-| 60 | LG OLED C1 series OLED TV up to$300 OFF some sizes + get free LG Tone Free FP5 ANC True Wireless Earbuds, value $114.99 |
-| 61 | Dell 27" S2721DGF 1440p WQHD 165Hz 1ms GTG IPS LED FreeSync Gaming Monitor - Open Box - $335.99                         |
+| 60 | Dell 27" S2721DGF 1440p WQHD 165Hz 1ms GTG IPS LED FreeSync Gaming Monitor - Open Box - $335.99                         |
+| 61 | LG OLED C1 series OLED TV up to$300 OFF some sizes + get free LG Tone Free FP5 ANC True Wireless Earbuds, value $114.99 |
 | 62 | Tidal $1 or $2 Three month trial                                                                                        |
 | 63 | $45 25gb + $300 bill credit per line [win back]                                                                         |
 | 64 | AmazonBasics Line-Interactive UPS 1500VA 900 Watt, 10 Outlets $143.23                                                   |
