@@ -1,92 +1,92 @@
-|    | deals                                                                                                                    |
-|---:|:-------------------------------------------------------------------------------------------------------------------------|
-|  0 | LG OLED C1 series OLED TV up to$300 OFF some sizes + get free LG Tone Free FP5 ANC True Wireless Earbuds, value $114.99  |
-|  1 | USB C to 3.5MM DAC $26.99 -> $14.99                                                                                      |
-|  2 | Free T-Mobile 30 day, 30 GB data trial                                                                                   |
-|  3 | POWXS 24-Pack AA Rechargeable Batteries, 1200 Cycles & Pre-Charged 1.2V 2000mAh Ni-MH AA | ATL $22.94 (w/ Prime Savings) |
-|  4 | AmazonBasics Line-Interactive UPS 1500VA 900 Watt, 10 Outlets $143.23                                                    |
-|  5 | Gaming Mouse Pad, Extended Large Size, Non-Slip Anti-Fray Cloth Surface - Moustache $8 free shipping                     |
-|  6 | AMD Ryzen 5 5600X & 5500 6-Core/12 Thread $279 & $199 Free Shipping                                                      |
-|  7 | ScreenBeam Bonded MoCA 2.5 Ethernet over Coaxial Starter Kit (Model: ECB7250K) $159.35                                   |
-|  8 | Roborock S7 $699.99                                                                                                      |
-|  9 | 50% off (or more) on Battlefield 2042 (All Platforms)                                                                    |
-| 10 | HP ENVY 13 i5 11gen Evo Laptop 8gb memory, 512 ssd $789                                                                  |
-| 11 | Acer Spin 3 SP313-51N-50R3 13.3" 1600p touchscreen, i5-1135G7, 8/512 - $699                                              |
-| 12 | Acer Swift 3 NX.A4KAA.003 Laptop ($759.99)                                                                               |
-| 13 | Samsung Galaxy Buds Live (Black) - $99.99 [$100 off]                                                                     |
-| 14 | TELUS $95 unlimited Canada/USA text/call/data, 50 GB 5G+, NO ROAMING IN US!!! Hot for the right person.                  |
-| 15 | YMMV - Free $7 for Microsoft Store                                                                                       |
-| 16 | Fanatical - Build you own Quest VR bundle - 3 fo 25.39, 5 for 37.99 or 9 for 63.39                                       |
-| 17 | TCL S446 43" 4K TV - $329                                                                                                |
-| 18 | Elden Ring - XBox Series $73.96                                                                                          |
-| 19 | Xbox Elite Controller 2 - 193.87$                                                                                        |
-| 20 | WD 16TB Gold hard drive for $383.99 ($24/TB)                                                                             |
-| 21 | Samsung Travel Adapter Unit USB A $7.50 White Free Ship EP-TA20JWEUGCA                                                   |
-| 22 | Dell 27" S2721DGF 1440p WQHD 165Hz 1ms GTG IPS LED FreeSync Gaming Monitor - Open Box - $335.99                          |
-| 23 | Gigabyte RX 6900 XT | 1399.88 - 200 = 1199.88                                                                            |
-| 24 | [Migration] Chatr/Fido Prepaid to Postpaid Rogers $30/1GB $35/3GB $40/6GB                                                |
-| 25 | Jabra Elite 85t Grey Certified Refurbished | $92.99 | FREE SHIP | NO TAX | Sold & Shipped by Jabra                       |
-| 26 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                             |
-| 27 | $45 25gb + $300 bill credit per line [win back]                                                                          |
-| 28 | Walmart - PSN Credit (20% off) / Pre-orders ($15 off) "Spring60"                                                         |
-| 29 | eshop: Capcom Golden Week Sale (Switch, digital)                                                                         |
-| 30 | LG OLED C1 series OLED TV up to$300 OFF some sizes + get free LG Tone Free FP5 ANC True Wireless Earbuds, value $114.99  |
-| 31 | USB C to 3.5MM DAC $26.99 -> $14.99                                                                                      |
-| 32 | Free T-Mobile 30 day, 30 GB data trial                                                                                   |
-| 33 | POWXS 24-Pack AA Rechargeable Batteries, 1200 Cycles & Pre-Charged 1.2V 2000mAh Ni-MH AA | ATL $22.94 (w/ Prime Savings) |
-| 34 | AmazonBasics Line-Interactive UPS 1500VA 900 Watt, 10 Outlets $143.23                                                    |
-| 35 | Gaming Mouse Pad, Extended Large Size, Non-Slip Anti-Fray Cloth Surface - Moustache $8 free shipping                     |
-| 36 | AMD Ryzen 5 5600X & 5500 6-Core/12 Thread $279 & $199 Free Shipping                                                      |
-| 37 | ScreenBeam Bonded MoCA 2.5 Ethernet over Coaxial Starter Kit (Model: ECB7250K) $159.35                                   |
-| 38 | Roborock S7 $699.99                                                                                                      |
-| 39 | 50% off (or more) on Battlefield 2042 (All Platforms)                                                                    |
-| 40 | HP ENVY 13 i5 11gen Evo Laptop 8gb memory, 512 ssd $789                                                                  |
-| 41 | Acer Spin 3 SP313-51N-50R3 13.3" 1600p touchscreen, i5-1135G7, 8/512 - $699                                              |
-| 42 | Acer Swift 3 NX.A4KAA.003 Laptop ($759.99)                                                                               |
-| 43 | Samsung Galaxy Buds Live (Black) - $99.99 [$100 off]                                                                     |
-| 44 | TELUS $95 unlimited Canada/USA text/call/data, 50 GB 5G+, NO ROAMING IN US!!! Hot for the right person.                  |
-| 45 | YMMV - Free $7 for Microsoft Store                                                                                       |
-| 46 | Fanatical - Build you own Quest VR bundle - 3 fo 25.39, 5 for 37.99 or 9 for 63.39                                       |
-| 47 | TCL S446 43" 4K TV - $329                                                                                                |
-| 48 | Elden Ring - XBox Series $73.96                                                                                          |
-| 49 | Xbox Elite Controller 2 - 193.87$                                                                                        |
-| 50 | WD 16TB Gold hard drive for $383.99 ($24/TB)                                                                             |
-| 51 | Samsung Travel Adapter Unit USB A $7.50 White Free Ship EP-TA20JWEUGCA                                                   |
-| 52 | Dell 27" S2721DGF 1440p WQHD 165Hz 1ms GTG IPS LED FreeSync Gaming Monitor - Open Box - $335.99                          |
-| 53 | Gigabyte RX 6900 XT | 1399.88 - 200 = 1199.88                                                                            |
-| 54 | [Migration] Chatr/Fido Prepaid to Postpaid Rogers $30/1GB $35/3GB $40/6GB                                                |
-| 55 | Jabra Elite 85t Grey Certified Refurbished | $92.99 | FREE SHIP | NO TAX | Sold & Shipped by Jabra                       |
-| 56 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                             |
-| 57 | $45 25gb + $300 bill credit per line [win back]                                                                          |
-| 58 | Walmart - PSN Credit (20% off) / Pre-orders ($15 off) "Spring60"                                                         |
-| 59 | eshop: Capcom Golden Week Sale (Switch, digital)                                                                         |
-| 60 | LG OLED C1 series OLED TV up to$300 OFF some sizes + get free LG Tone Free FP5 ANC True Wireless Earbuds, value $114.99  |
-| 61 | USB C to 3.5MM DAC $26.99 -> $14.99                                                                                      |
-| 62 | Free T-Mobile 30 day, 30 GB data trial                                                                                   |
-| 63 | POWXS 24-Pack AA Rechargeable Batteries, 1200 Cycles & Pre-Charged 1.2V 2000mAh Ni-MH AA | ATL $22.94 (w/ Prime Savings) |
-| 64 | AmazonBasics Line-Interactive UPS 1500VA 900 Watt, 10 Outlets $143.23                                                    |
-| 65 | Gaming Mouse Pad, Extended Large Size, Non-Slip Anti-Fray Cloth Surface - Moustache $8 free shipping                     |
-| 66 | AMD Ryzen 5 5600X & 5500 6-Core/12 Thread $279 & $199 Free Shipping                                                      |
-| 67 | ScreenBeam Bonded MoCA 2.5 Ethernet over Coaxial Starter Kit (Model: ECB7250K) $159.35                                   |
-| 68 | Roborock S7 $699.99                                                                                                      |
-| 69 | 50% off (or more) on Battlefield 2042 (All Platforms)                                                                    |
-| 70 | HP ENVY 13 i5 11gen Evo Laptop 8gb memory, 512 ssd $789                                                                  |
-| 71 | Acer Spin 3 SP313-51N-50R3 13.3" 1600p touchscreen, i5-1135G7, 8/512 - $699                                              |
-| 72 | Acer Swift 3 NX.A4KAA.003 Laptop ($759.99)                                                                               |
-| 73 | Samsung Galaxy Buds Live (Black) - $99.99 [$100 off]                                                                     |
-| 74 | TELUS $95 unlimited Canada/USA text/call/data, 50 GB 5G+, NO ROAMING IN US!!! Hot for the right person.                  |
-| 75 | YMMV - Free $7 for Microsoft Store                                                                                       |
-| 76 | Fanatical - Build you own Quest VR bundle - 3 fo 25.39, 5 for 37.99 or 9 for 63.39                                       |
-| 77 | TCL S446 43" 4K TV - $329                                                                                                |
-| 78 | Elden Ring - XBox Series $73.96                                                                                          |
-| 79 | Xbox Elite Controller 2 - 193.87$                                                                                        |
-| 80 | WD 16TB Gold hard drive for $383.99 ($24/TB)                                                                             |
-| 81 | Samsung Travel Adapter Unit USB A $7.50 White Free Ship EP-TA20JWEUGCA                                                   |
-| 82 | Dell 27" S2721DGF 1440p WQHD 165Hz 1ms GTG IPS LED FreeSync Gaming Monitor - Open Box - $335.99                          |
-| 83 | Gigabyte RX 6900 XT | 1399.88 - 200 = 1199.88                                                                            |
-| 84 | [Migration] Chatr/Fido Prepaid to Postpaid Rogers $30/1GB $35/3GB $40/6GB                                                |
-| 85 | Jabra Elite 85t Grey Certified Refurbished | $92.99 | FREE SHIP | NO TAX | Sold & Shipped by Jabra                       |
-| 86 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                             |
-| 87 | $45 25gb + $300 bill credit per line [win back]                                                                          |
-| 88 | Walmart - PSN Credit (20% off) / Pre-orders ($15 off) "Spring60"                                                         |
-| 89 | eshop: Capcom Golden Week Sale (Switch, digital)                                                                         |
+|    | deals                                                                                                                   |
+|---:|:------------------------------------------------------------------------------------------------------------------------|
+|  0 | Blink Video Door Bell + Sync Module 2 for local storage $74.98                                                          |
+|  1 | Unifi U6LR and U6 Lite Wireless AP back in stock while supplies last.                                                   |
+|  2 | ScreenBeam Bonded MoCA 2.5 Ethernet over Coaxial Starter Kit (Model: ECB7250K) $159.35                                  |
+|  3 | Zoomer Wireless Tablet $10/3GB w/ ZTE Tablet 2yr                                                                        |
+|  4 | Danby 14,000 BTU Ultra Quiet Portable Air Conditioner with Voice Control and Rapid Cooling - $639.99                    |
+|  5 | Roborock S7 $699.99                                                                                                     |
+|  6 | LG OLED C1 series OLED TV up to$300 OFF some sizes + get free LG Tone Free FP5 ANC True Wireless Earbuds, value $114.99 |
+|  7 | WD 16TB Red Pro Hard Drive for $373.99 ($23/TB)                                                                         |
+|  8 | May PS+ titles: Fifa 22, the curse of the dead gods, Tribes of Midgard                                                  |
+|  9 | Thermaltake Power Supply ATX TR-600 Bronze 600W 49.99$                                                                  |
+| 10 | LG UltraGear 27" 1440p 165Hz Monitor - Open Box - $306.99                                                               |
+| 11 | Ubiquiti Wifi 6 AP - instock and POE Plus Injector s(OOS)                                                               |
+| 12 | Gigabyte Geforce GTX 1050 Ti 4GB ($188.98)                                                                              |
+| 13 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
+| 14 | EBL 8 Bay LCD Battery Charger with 4 AA 2800mAh & 4 AAA 1100mAh Batteries $23.98                                        |
+| 15 | Beelink Mini PC GK35, Intel N3350, lightning deal + coupon $156                                                         |
+| 16 | YMMV Ascend ASC-2500 Toy Drone Clearance $49.97 at Costco Hwy 7/ Woodbine (Markham, ON)                                 |
+| 17 | Motorola One 5G Ace 128 GB Unlocked Smartphone $359.99 (Reg $409.99)                                                    |
+| 18 | Prime Gaming - May 2022 - Leaked Games List!                                                                            |
+| 19 | 3-Month Xbox Live Gold Digital Membership $14.79 (Converts to 50 Days for GPU existing members)                         |
+| 20 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                                      |
+| 21 | Bestbuy: Mission LX3 or LX5 floorstanding speakers $100 or $200 each                                                    |
+| 22 | Dell UltraSharp 27 4K USB-C Hub Monitor - U2723QE                                                                       |
+| 23 | Call of Duty®: Black Ops Cold War for PS5,PS4, Xbox Series X, and Xbox one $29.96                                       |
+| 24 | $7.99 FS for 123ink gaming mouse pad 900mm*400mm                                                                        |
+| 25 | $215 - ASUS Phoenix NVIDIA GeForce GTX 1650 OC - Sold and Shipped by Amazon - June 6 Delivery                           |
+| 26 | Extra 15% off Refurbished for Mom - Use Code BEST4MOM                                                                   |
+| 27 | Samsung Keyboard Book Cover Case for Galaxy Tab S8/S7 - Black 50% Off. $109.99                                          |
+| 28 | 7,500 PC Optimum Pts for every $50 spent on Sony Gift (PSN) Cards                                                       |
+| 29 | Dell 27" S2721DGF 1440p WQHD 165Hz 1ms GTG IPS LED FreeSync Gaming Monitor - Open Box - $335.99                         |
+| 30 | Blink Video Door Bell + Sync Module 2 for local storage $74.98                                                          |
+| 31 | Unifi U6LR and U6 Lite Wireless AP back in stock while supplies last.                                                   |
+| 32 | ScreenBeam Bonded MoCA 2.5 Ethernet over Coaxial Starter Kit (Model: ECB7250K) $159.35                                  |
+| 33 | Zoomer Wireless Tablet $10/3GB w/ ZTE Tablet 2yr                                                                        |
+| 34 | Danby 14,000 BTU Ultra Quiet Portable Air Conditioner with Voice Control and Rapid Cooling - $639.99                    |
+| 35 | Roborock S7 $699.99                                                                                                     |
+| 36 | LG OLED C1 series OLED TV up to$300 OFF some sizes + get free LG Tone Free FP5 ANC True Wireless Earbuds, value $114.99 |
+| 37 | WD 16TB Red Pro Hard Drive for $373.99 ($23/TB)                                                                         |
+| 38 | May PS+ titles: Fifa 22, the curse of the dead gods, Tribes of Midgard                                                  |
+| 39 | Thermaltake Power Supply ATX TR-600 Bronze 600W 49.99$                                                                  |
+| 40 | LG UltraGear 27" 1440p 165Hz Monitor - Open Box - $306.99                                                               |
+| 41 | Ubiquiti Wifi 6 AP - instock and POE Plus Injector s(OOS)                                                               |
+| 42 | Gigabyte Geforce GTX 1050 Ti 4GB ($188.98)                                                                              |
+| 43 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
+| 44 | EBL 8 Bay LCD Battery Charger with 4 AA 2800mAh & 4 AAA 1100mAh Batteries $23.98                                        |
+| 45 | Beelink Mini PC GK35, Intel N3350, lightning deal + coupon $156                                                         |
+| 46 | YMMV Ascend ASC-2500 Toy Drone Clearance $49.97 at Costco Hwy 7/ Woodbine (Markham, ON)                                 |
+| 47 | Motorola One 5G Ace 128 GB Unlocked Smartphone $359.99 (Reg $409.99)                                                    |
+| 48 | Prime Gaming - May 2022 - Leaked Games List!                                                                            |
+| 49 | 3-Month Xbox Live Gold Digital Membership $14.79 (Converts to 50 Days for GPU existing members)                         |
+| 50 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                                      |
+| 51 | Bestbuy: Mission LX3 or LX5 floorstanding speakers $100 or $200 each                                                    |
+| 52 | Dell UltraSharp 27 4K USB-C Hub Monitor - U2723QE                                                                       |
+| 53 | Call of Duty®: Black Ops Cold War for PS5,PS4, Xbox Series X, and Xbox one $29.96                                       |
+| 54 | $7.99 FS for 123ink gaming mouse pad 900mm*400mm                                                                        |
+| 55 | $215 - ASUS Phoenix NVIDIA GeForce GTX 1650 OC - Sold and Shipped by Amazon - June 6 Delivery                           |
+| 56 | Extra 15% off Refurbished for Mom - Use Code BEST4MOM                                                                   |
+| 57 | Samsung Keyboard Book Cover Case for Galaxy Tab S8/S7 - Black 50% Off. $109.99                                          |
+| 58 | 7,500 PC Optimum Pts for every $50 spent on Sony Gift (PSN) Cards                                                       |
+| 59 | Dell 27" S2721DGF 1440p WQHD 165Hz 1ms GTG IPS LED FreeSync Gaming Monitor - Open Box - $335.99                         |
+| 60 | Blink Video Door Bell + Sync Module 2 for local storage $74.98                                                          |
+| 61 | Unifi U6LR and U6 Lite Wireless AP back in stock while supplies last.                                                   |
+| 62 | ScreenBeam Bonded MoCA 2.5 Ethernet over Coaxial Starter Kit (Model: ECB7250K) $159.35                                  |
+| 63 | Zoomer Wireless Tablet $10/3GB w/ ZTE Tablet 2yr                                                                        |
+| 64 | Danby 14,000 BTU Ultra Quiet Portable Air Conditioner with Voice Control and Rapid Cooling - $639.99                    |
+| 65 | Roborock S7 $699.99                                                                                                     |
+| 66 | LG OLED C1 series OLED TV up to$300 OFF some sizes + get free LG Tone Free FP5 ANC True Wireless Earbuds, value $114.99 |
+| 67 | WD 16TB Red Pro Hard Drive for $373.99 ($23/TB)                                                                         |
+| 68 | May PS+ titles: Fifa 22, the curse of the dead gods, Tribes of Midgard                                                  |
+| 69 | Thermaltake Power Supply ATX TR-600 Bronze 600W 49.99$                                                                  |
+| 70 | LG UltraGear 27" 1440p 165Hz Monitor - Open Box - $306.99                                                               |
+| 71 | Ubiquiti Wifi 6 AP - instock and POE Plus Injector s(OOS)                                                               |
+| 72 | Gigabyte Geforce GTX 1050 Ti 4GB ($188.98)                                                                              |
+| 73 | Telus 25 GB Peace of mind Winback - 45$ YMMV                                                                            |
+| 74 | EBL 8 Bay LCD Battery Charger with 4 AA 2800mAh & 4 AAA 1100mAh Batteries $23.98                                        |
+| 75 | Beelink Mini PC GK35, Intel N3350, lightning deal + coupon $156                                                         |
+| 76 | YMMV Ascend ASC-2500 Toy Drone Clearance $49.97 at Costco Hwy 7/ Woodbine (Markham, ON)                                 |
+| 77 | Motorola One 5G Ace 128 GB Unlocked Smartphone $359.99 (Reg $409.99)                                                    |
+| 78 | Prime Gaming - May 2022 - Leaked Games List!                                                                            |
+| 79 | 3-Month Xbox Live Gold Digital Membership $14.79 (Converts to 50 Days for GPU existing members)                         |
+| 80 | Virgin Mobile Winback $45/25GB + $400 device credit (Ontario) YMMV                                                      |
+| 81 | Bestbuy: Mission LX3 or LX5 floorstanding speakers $100 or $200 each                                                    |
+| 82 | Dell UltraSharp 27 4K USB-C Hub Monitor - U2723QE                                                                       |
+| 83 | Call of Duty®: Black Ops Cold War for PS5,PS4, Xbox Series X, and Xbox one $29.96                                       |
+| 84 | $7.99 FS for 123ink gaming mouse pad 900mm*400mm                                                                        |
+| 85 | $215 - ASUS Phoenix NVIDIA GeForce GTX 1650 OC - Sold and Shipped by Amazon - June 6 Delivery                           |
+| 86 | Extra 15% off Refurbished for Mom - Use Code BEST4MOM                                                                   |
+| 87 | Samsung Keyboard Book Cover Case for Galaxy Tab S8/S7 - Black 50% Off. $109.99                                          |
+| 88 | 7,500 PC Optimum Pts for every $50 spent on Sony Gift (PSN) Cards                                                       |
+| 89 | Dell 27" S2721DGF 1440p WQHD 165Hz 1ms GTG IPS LED FreeSync Gaming Monitor - Open Box - $335.99                         |
